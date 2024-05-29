@@ -514,6 +514,14 @@ a, a:hover {
 	border-radius:0px 0px 50px 50px;
 
 }
+@media(max-width:800px) and (min-width:600px){
+	.mry-app .mry-top-panel .mry-logo-frame a{
+		margin-top:-40px;
+		background-color: white;
+		border-radius:0px 0px 50px 50px;
+	
+	}
+}
 
 
 /* Menu Button */
@@ -637,14 +645,43 @@ a, a:hover {
 	margin-bottom: 0;
 }
 
+
+/*new*/
+
+
 .mry-menu nav ul .menu-item a {
-	color: #010d0d;
-	font-size: 20px;
-	display: inline-block;
-	height: 100%;
-	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-	font-weight: 700;
+    color: #010d0d;
+    font-size: 20px;
+    display: inline-block;
+    height: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 700;
+    padding-bottom: 6px !important;
+    transition: all 0.3s ease-in-out;
+    position: relative;
 }
+
+.mry-menu nav ul .menu-item a::before {
+    content: '';
+	top:21px;
+    position: absolute;
+    width: 0;
+    height: 5px; 
+    bottom: 0;
+    left: 0;
+    background-color: #96c8f3;
+    transition: width 0.3s ease-in-out;
+}
+
+.mry-menu nav ul .menu-item a:hover::before {
+    width: 100%;
+}
+
+.mry-menu nav ul .menu-item a:hover {
+    padding-bottom: 5px !important; 
+}
+
+
 
 .mry-menu nav ul .menu-item.current-menu-item a {
 	color: #2676bc;
@@ -2284,12 +2321,18 @@ blockquote:after {
 
 /*static icon start*/
   .static-section-logo{
-	margin-top:-8rem;
+	padding:0px 30px 0px 0px;
+	margin-top:-9rem;
 	position:static;
 	z-index:999;
   }
-  .static-section-logo img{
-	width:100%;
+  .static-section-logo .social-links a i{
+	font-size:2rem !important;
+	border-radius:50%;
+	/* border:1px solid white;
+	padding:0.5rem;
+	background-color: #ffffff85;
+	color:black; */
   }
   .static-section-logo .social-links{
 	width:30%;
@@ -2297,6 +2340,41 @@ blockquote:after {
   .static-section-logo .link1{
 	padding-bottom:15px;
   }
+  
+.static-section-logo .social-links a i {
+	outline-width: 1px;
+	outline-offset: 0;
+	padding:0.5rem;
+	outline-color: white;
+	outline-style: solid;
+	background-color: #ffffff85;
+	animation: animateOutline 2s ease infinite;
+  }
+
+  @keyframes animateOutline {
+	0% {
+	  outline-width: 1px;
+	  outline-offset: 0;
+	  outline-color: rgba(0, 130, 206, 0);
+	}
+  
+	10% {
+	  outline-color: white;
+	}
+  
+	50% {
+	  outline-width: 7px;
+	  outline-offset: 4px;
+	  outline-color: rgba(0, 130, 206, 0);
+	}
+  
+	100% {
+	  outline-width: 7px;
+	  outline-offset: 4px;
+	  outline-color: rgba(102, 102, 102, 0);
+	}
+  }
+	
 /*static icon end*/
 
 

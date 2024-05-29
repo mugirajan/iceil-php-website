@@ -30,8 +30,8 @@
 	<!-- mapbox css -->
 	<link href="css/plugins/mapbox-style.css" rel='stylesheet'>
 	<!-- main css -->
-	<link rel="stylesheet" href="css/style-light.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+	<link rel="stylesheet" href="css/style-light.css">
 
 	<title>Iceil</title>
 
@@ -60,7 +60,7 @@
 		<div class="mry-top-panel row d-flex justify-content-between">
 			<div class="mry-logo-frame col-lg-6">
 				<div class="row">
-					<a href="index.php" class="col-lg-6 mry-default-link mry-anima-link">
+					<a href="index.php" class="col-lg-5 mry-default-link mry-anima-link">
 
 						<img class="mry-logo" src="img/light/Iceil-final-logo-png.webp" alt="Mireya">
 					</a>
@@ -289,12 +289,14 @@
 					</div>
 					<div class="static-section-logo">
 							<div class="social-links link1">
-								<a target="_blank" href="https://wa.me/918925517107"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968841.png"></a>
-								<!-- <i class="fab fa-whatsapp"></i> -->
+								<a target="_blank" href="https://wa.me/918925517107">
+									<i class="fab fa-whatsapp"></i>
+								</a>
 							</div>
 							<div class="social-links">
-								<a target="_blank" href="mailto:info@iceilsystems.com"><img src="https://cdn-icons-png.flaticon.com/128/2965/2965306.png"></a>
-								<!-- <i class="fas fa-envelope"></i> -->
+								<a target="_blank" href="mailto:info@iceilsystems.com">
+									<i class="fas fa-envelope"></i>
+								</a>
 							</div>
 					</div>
 					<div class="mry-slider-arrows">
