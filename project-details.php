@@ -22,20 +22,9 @@
 							</div>
 						</div>
 					</div>
-						<div class="d-flex justify-content-end">
-                            <div class="static-section-logo " >
-                                <div class="social-links link1">
-                                    <a target="_blank" href="https://wa.me/918925517107">
-                                        <i class="fab fa-whatsapp"></i>
-                                    </a>
-                                </div>
-                                <div class="social-links">
-                                    <a target="_blank" href="mailto:info@iceilsystems.com">
-                                        <i class="fas fa-envelope"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
+						<?php
+                            include "./shared/popup.php"
+                        ?>
 				</div>
 					<!-- <div class="gdlr-core-pbf-wrapper " style="padding: 75px 0px 30px 0px;" data-skin="Dark Filter" >
                         <div class="gdlr-core-pbf-background-wrap" ></div>
