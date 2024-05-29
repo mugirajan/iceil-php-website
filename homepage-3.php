@@ -104,9 +104,7 @@
                                                             artistry of stretch ceilings. 
                                                             We are now the No. 1 Stretch Ceiling Manufacturer in India with a service network 
                                                             presence across many cities in India. We offer a wide variety of Stretch Ceilings combined with innovative lighting solutions that 
-                                                            can make your spaces lively. Iceil exclusively provides stretch ceilings of international 
-                                                            quality, boasting a B-S1-D0 fire classification 
-                                                            and an A+ VOC rating, ensuring unparalleled safety and excellence. 
+                                                            can make your spaces lively. 
                                                             </p>
                                                     </div>
                                                     <button class="custom-btn btn-15"><a style="color:white" href="about-us-3.php">About Us</a></button>
@@ -138,101 +136,95 @@
                     <div class="gdlr-core-pbf-wrapper " style="margin: 0px 0px 0px 0px;padding: 60px 0px 0px 0px;">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="text-align: center;font-size: 39px ;font-weight: 900 ;letter-spacing: 0px ;text-transform: none ;color: #232323 ;">What We Do?</h3><br>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " data-gdlr-animation="fadeIn"
-                            data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom"
-                                style="max-width: 1260px ;">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-gallery-item gdlr-core-item-pdb clearfix  gdlr-core-gallery-item-style-grid"
-                                        style="padding-bottom: 25px ;margin-left: 45px;">
-                                        <div class="d-flex gdlr-core-gallery-item-holder gdlr-core-js-2 clearfix"
-                                            data-layout="fitrows">
-                                            <div
-                                                class="gdlr-core-item-list gdlr-core-gallery-column   gdlr-core-column-first gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                <div class="gdlr-core-gallery-list gdlr-core-media-image image-for-page-link">
-                                                    <a 
-                                                        href="stretch-ceiling .php"
-                                                        >
-                                                        <img src="https://cdn-icons-png.flaticon.com/128/13857/13857406.png" alt="" width="137" height="103"
-                                                            title="Strech Ceiling" />
-                                                    </a>
-                                                    <h6>Strech Ceiling</h6>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="gdlr-core-item-list gdlr-core-gallery-column   gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                <div class="gdlr-core-gallery-list gdlr-core-media-image image-for-page-link">
-                                                    <a 
-                                                        href="wallpaper.php"
-                                                        >
-                                                        <img src="https://cdn-icons-png.flaticon.com/128/14080/14080136.png" alt="" width="137" height="103"
-                                                            title="Wall Graphics" />
-                                                    </a>
-                                                    <h6>Wall Graphics</h6>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="gdlr-core-item-list gdlr-core-gallery-column   gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                <div class="gdlr-core-gallery-list gdlr-core-media-image image-for-page-link">
-                                                    <a 
-                                                        href="architectural-completed.php"
-                                                        >
-                                                        <img src="https://cdn-icons-png.flaticon.com/128/12945/12945138.png" alt="" width="137" height="103"
-                                                            title="Architectural Lighting" />
-                                                    </a>
-                                                    <h6>Architectural <br>Lighting</h6>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                <div class="gdlr-core-gallery-list gdlr-core-media-image image-for-page-link">
-                                                    <a 
-                                                        href="acoustic.php"
-                                                        >
-                                                        <img src="https://cdn-icons-png.flaticon.com/128/3174/3174428.png" alt="" width="137" height="103"
-                                                            title="Acoustic" />
-                                                    </a>
-                                                    <h6>Acoustic</h6>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="gdlr-core-item-list gdlr-core-gallery-column   gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                <div class="gdlr-core-gallery-list gdlr-core-media-image image-for-page-link">
-                                                    <a 
-                                                        href="led.php"
-                                                        >
-                                                        <img src="https://cdn-icons-png.flaticon.com/128/11486/11486266.png" alt="" width="137" height="103"
-                                                            title="LED" />
-                                                    </a>
-                                                    <h6>LED</h6>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="gdlr-core-item-list gdlr-core-gallery-column   gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                <div class="gdlr-core-gallery-list gdlr-core-media-image image-for-page-link">
-                                                    <a 
-                                                        href="translucent.php"
-                                                        >
-                                                        <img src="https://cdn-icons-png.flaticon.com/128/4074/4074853.png" alt="" width="137" height="103"
-                                                            title="Translucent" />
-                                                    </a>
-                                                    <h6>Translucent</h6>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                <div class="gdlr-core-gallery-list gdlr-core-media-image image-for-page-link">
-                                                    <a 
-                                                        href="threed.php"
-                                                        >
-                                                        <img src="https://cdn-icons-png.flaticon.com/128/11948/11948925.png" alt="" width="137" height="103"
-                                                            title="3D" />
-                                                    </a>
-                                                    <h6>3D Form</h6>
-                                                </div>
-                                            </div>
-                                        </div>
+                        <div class="whatwedosection">
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/printed-latest/Radission Blu/Radission Blu (17).jpeg">
                                     </div>
+                                    <h3>Strech Ceiling</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/printed-latest/Radission Blu/Radission Blu (22).jpeg">
+                                    </div>
+                                    <h3>Wall Graphics</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/printed-latest/world skill centre/world skill centre (1).jpeg">
+                                    </div>
+                                    <h3>Architectural Lighting</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class="whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/printed-latest/world skill centre/world skill centre (1).jpeg">
+                                    </div>
+                                    <h3>Acoustic</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class="whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/printed-latest/university/Hindustan (2).jpeg">
+                                    </div>
+                                    <h3>LED</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/printed-latest/MOPA/Moppa (2).jpeg">
+                                    </div>
+                                    <h3>Translucent</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/printed-latest/Kauvery Hospital/Chennai (Scan Room) (7).jpg">
+                                    </div>
+                                    <h3>3D Form</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/printed-latest/Kauvery Hospital/Chennai (Scan Room) (7).jpg">
+                                    </div>
+                                    <h3>Light Boxes</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/printed-latest/hyderbad L & T/WhatsApp Image 2023-11-24 at 6.26.39 PM.jpeg">
+                                    </div>
+                                    <h3>Lacquer</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/printed-latest/hyderbad L & T/WhatsApp Image 2023-11-24 at 6.26.39 PM.jpeg">
+                                    </div>
+                                    <h3>Acoustic</h3>
+                                    <p></p>
                                 </div>
                             </div>
                         </div>
@@ -508,42 +500,7 @@
                         </div>
                     </div>
                     <!--stats start-->
-                    <!-- <section class="stats-homepage">
-                        <div class="sectiontitle">
-                            <h4>Our statistics</h4>
-                            <span class="headerLine"></span>
-                        </div>
-                        <div id="projectFacts" class="sectionClass">
-                            <div class="fullWidth eight columns">
-                                <div class="projectFactsWrap ">
-                                    <div class="item wow fadeInUpBig animated animated" data-number="12" style="visibility: visible;">
-                                        <i class="fa fa-briefcase"></i>
-                                        <p id="number1" class="number">1000</p>
-                                        <span></span>
-                                        <p>Projects done</p>
-                                    </div>
-                                    <div class="item wow fadeInUpBig animated animated" data-number="55" style="visibility: visible;">
-                                        <i class="fas fa-users"></i>
-                                        <p id="number2" class="number">400</p>
-                                        <span></span>
-                                        <p>Happy clients</p>
-                                    </div>
-                                    <div class="item wow fadeInUpBig animated animated" data-number="359" style="visibility: visible;">
-                                        <i class="fab fa-product-hunt"></i>
-                                        <p id="number3" class="number">20</p>
-                                        <span></span>
-                                        <p>Products</p>
-                                    </div>
-                                    <div class="item wow fadeInUpBig animated animated" data-number="246" style="visibility: visible;">
-                                        <i class="fas fa-handshake"></i>
-                                        <p id="number4" class="number">10</p>
-                                        <span></span>
-                                        <p>Channel Partners</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section> -->
+                    
                     <section class="statistics-section">
                         <div class="statistics-container">
                           <div class="statistics-card row">
@@ -578,7 +535,7 @@
                      <!--audi start-->
                      <div class="gdlr-core-pbf-wrapper height-car-for-home" style="padding: 226px 0px 30px 0px;" id="gdlr-core-wrapper-1">
                         <div class="gdlr-core-pbf-background-wrap">
-                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="height:100vh;background-image: url(img/project-gallery/WhatsApp\ Image\ 2024-04-09\ at\ 5.45.38\ PM.jpeg) ;background-size: cover ;background-position: top center ;" data-parallax-speed="0.1"></div>
+                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="height:100vh;background-image: url(img/home-image/home.jpeg) ;background-size: cover ;background-position: top center ;" data-parallax-speed="0.1"></div>
                         </div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " data-gdlr-animation="fadeInDown" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -730,7 +687,7 @@
                     </div>
                     <!-- partial -->
                      <!---slider section-->
-                        <section class="section-for-slider row"> 
+                        <section class="section-for-slider row d-none"> 
                             <div class="col-lg-2 col-md-4 col-sm-12 content-for-slider">
                                 <h3>Our Partners</h3>
                             </div>              
@@ -779,34 +736,24 @@
                             </div>
                         </section> 
                     <!---slider section end-->
-                    <!--section like accordion start-->
-                    <!-- <section class="accor-sect-start">
-                        <div class="main-sect-start">
-                            <h3>Stretch Ceiling</h3>
-                            <p>These are just a few examples of the types of stretch ceilings available. Each type has its own unique features and benefits, so it's important to consider the specific requirements and aesthetics of your project when choosing the right option.</p>
-                            <button class="read-more-btn"><a style="color:white" href="stretch-ceiling .php">click here</a></button>
-                            <div id="chameleon"></div>
-                        </div>
-                    </section> -->
-                    <!--section like accordion end-->
-                    <section class="cta-banner cd-padding-sm" style="background-image: url(img/light/cta-bg.jpg);object-fit: cover;">
-                        <div class="cta-banner__grid">
-                          <div class="cta-banner__content">
-                            <h1 class="cta-banner__title">Interested In Our Service</h1>
-                      
-                            <p class="cta-banner__description">Ready to turn your vision into reality? Contact us today to schedule a consultation and discover how we can bring your project to life with our expertise and dedication to excellence.</p>
-                      
-                            <button class="custom-btn btn-15"><a href="contact-2.php"
-                                style="color: #ffffff;"> Contact Us </a></button>
-                          </div>
-                        
-                          <figure>
-                            <img class="cta-banner__img cd-radius-md" src="img/light/Stretch-Ceilings-Ltd_Retail_1200x860-1.jpg" alt="Image description">
-                          </figure>
+                   
+                    
+                    <!--CTA--->
+                    <section id="cta" class="cta">
+                        <div class="container" data-aos="zoom-in">
+
+                            <div class="row">
+                            <div class="col-lg-9 text-center text-lg-start">
+                                <h2>Interested In Our Service</h2>
+                                <p>Ready to turn your vision into reality? Contact us today to schedule a consultation and discover how we can bring your project to life with our expertise and dedication to excellence.</p>
+                            </div>
+                            <div class="col-lg-3 cta-btn-container text-center">
+                                <a class="cta-btn align-middle" href="contact-2.php">Call To Action</a>
+                            </div>
+                            </div>
+
                         </div>
                     </section>
-
-                   
                 </div>
             </div>
 
