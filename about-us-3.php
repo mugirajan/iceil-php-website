@@ -78,7 +78,7 @@
                     <!--our story end-->
                     
                     <!--card-bgimage start-->
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 110px 0px 100px 0px;" id="gdlr-core-wrapper-2">
+                    <!-- <div class="gdlr-core-pbf-wrapper " style="padding: 110px 0px 100px 0px;" id="gdlr-core-wrapper-2">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(https://img.freepik.com/free-photo/shot-panoramic-composition-living-room_23-2150315635.jpg?t=st=1711361588~exp=1711365188~hmac=3af751175f87a5351d1e1d2612a251e16cdf8ddfe897f118f8ccfa5255c2ccbc&w=996) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.2"></div>
                         </div>
@@ -201,7 +201,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!--card-bgimage start-->
 
                     <!---our vission mission start-->
@@ -357,7 +357,7 @@
                     <!--why choose us end-->
                     
                     <!--commitment start-->
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 68px 0px 0px 0px;">
+                    <!-- <div class="gdlr-core-pbf-wrapper " style="padding: 68px 0px 0px 0px;">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -382,11 +382,11 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!--commitment end-->
                    
                      <!--category start-->
-                     <div class="box-wrapper">
+                     <!-- <div class="box-wrapper">
                         <figure class="shape-box shape-box_half">
                             <img src="img/project-gallery/Di8-wsMW4AEs98X.jpg" alt="">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
@@ -494,7 +494,7 @@
                             </figcaption>
                             <span class="after"></span>
                         </figure>
-                    </div>
+                    </div> -->
                     <!--category end-->
 
                     <!--counter section start-->
@@ -519,8 +519,8 @@
                     <!--counter section end-->
 
                     <!--testi start-->
-                    <div class="testimonials-sec"></div>
-                    <section id="testim" class="testim">
+                    <div class="testimonials-sec  "></div>
+                    <section id="testim" class="testim testing">
                         <div class="wrap">
                             <span id="right-arrow" class="arrow right fa fa-chevron-right"></span>
                             <span id="left-arrow" class="arrow left fa fa-chevron-left "></span>
@@ -579,7 +579,7 @@
                     
                     <!--testi end-->
 
-                    <div class="gdlr-core-pbf-wrapper mar-gin-top" style="padding: 80px 0px 80px 0px;" data-skin="Brown Divider">
+                    <!-- <div class="gdlr-core-pbf-wrapper mar-gin-top" style="padding: 80px 0px 80px 0px;" data-skin="Brown Divider">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(img/project-gallery/hp1-service-bg.webp) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.2"></div>
                         </div>
@@ -650,8 +650,8 @@
                                
                             </div>
                         </div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 100px 0px 30px 0px;max-width: 1320px ;" id="gdlr-core-wrapper-6">
+                    </div> -->
+                    <div class="gdlr-core-pbf-wrapper " style="padding: 50px 0px 30px 0px;max-width: 1320px ;" id="gdlr-core-wrapper-6">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-wrapper-bg-overlay gdlr-core-pos-left " style="background-image: url(img/project-gallery/Stretch-Ceilings-Ltd_RFU-2104_1000x667.jpg) ;background-position:center;margin-right: -540px;margin-bottom: 110px;margin-left: -600px;"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
