@@ -29,6 +29,9 @@
     <link rel="stylesheet" href="css/plugins/fancybox.min.css">
     <!-- mapbox css -->
     <link href="css/plugins/mapbox-style.css" rel='stylesheet'>
+    <link rel="stylesheet" href="css/warranty.css">
+
+    
     <!-- main css -->
     <link rel="stylesheet" href="css/style-light.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">

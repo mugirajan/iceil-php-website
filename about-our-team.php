@@ -22,11 +22,28 @@
                         </div>
                     </div>
                 </div>
+                <div class="d-flex justify-content-end">
+                            <div class="static-section-logo " >
+                                <div class="social-links link1">
+                                    <a target="_blank" href="https://wa.me/918925517107">
+                                        <i class="fab fa-whatsapp"></i>
+                                    </a>
+                                </div>
+                                <div class="social-links">
+                                    <a target="_blank" href="mailto:info@iceilsystems.com">
+                                        <i class="fas fa-envelope"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
             </div>
+            
             <!--banner end-->
 
             <div class="inteco-page-wrapper" id="inteco-page-wrapper">
+                
                 <div class="gdlr-core-page-builder-body">
+                    
                     <!--partner with us start-->
                     <section class="row hero-team-section">
                         <div class="col-lg-6 div-of-hero">
@@ -853,51 +870,8 @@
         </div>
     </div>
 
-    <script type='text/javascript' src='js/jquery/jquery.js'></script>
-    <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
-    <script type='text/javascript' src='plugins/goodlayers-core/plugins/combine/script.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var gdlr_core_pbf = {
-            "admin": "",
-            "video": {
-                "width": "640",
-                "height": "360"
-            },
-            "ajax_url": "#"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
-    <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
-    <script type='text/javascript' src='js/plugins.js'></script>
-    <!-- jquery js -->
-    <script src="js/plugins/jquery.min.js"></script>
-    <!-- tween max js -->
-    <script src="js/plugins/tween-max.min.js"></script>
-    <!-- scroll magic js -->
-    <script src="js/plugins/scroll-magic.js"></script>
-    <!-- scroll magic gsap plugin js -->
-    <script src="js/plugins/scroll-magic-gsap-plugin.js"></script>
-    <!-- swiper js -->
-    <script src="js/plugins/swiper.min.js"></script>
-    <!-- isotope js -->
-    <script src="js/plugins/isotope.min.js"></script>
-    <!-- fancybox js -->
-    <script src="js/plugins/fancybox.min.js"></script>
-    <!-- mapbox js -->
-    <script src="js/plugins/mapbox.min.js"></script>
-    <!-- smooth scrollbar js -->
-    <script src="js/plugins/smooth-scrollbar.min.js"></script>
-    <!-- overscroll js -->
-    <script src="js/plugins/overscroll.min.js"></script>
-    <!-- canvas js -->
-    <script src="js/plugins/canvas.js"></script>
-    <!-- parsley js -->
-    <script src="js/plugins/parsley.min.js"></script>
-    <!-- main js -->
-    <script src="js/main.js"></script>
-    <script src="js/blog.js"></script>
-</body>
-
-</html>
+   
+    
+    <?php
+        include "./shared/script.php"
+    ?>

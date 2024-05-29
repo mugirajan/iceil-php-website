@@ -131,9 +131,9 @@
 
                 <!-- top panel -->
                 <div class="mry-top-panel row d-flex justify-content-between">
-                    <div class="mry-logo-frame col-lg-6 col-md-6">
+                    <div class="mry-logo-frame col-lg-6 col-md-6 col-sm-6">
                         <div class="row">
-                            <a href="index.php" class="col-lg-5 col-md-4 mry-default-link mry-anima-link">
+                            <a href="index.php" class="col-lg-5 col-md-6 col-sm-4 mry-default-link mry-anima-link">
                                 <img class="mry-logo" src="img/light/Iceil-final-logo-png.webp" alt="Mireya">
                             </a>
                         </div>
