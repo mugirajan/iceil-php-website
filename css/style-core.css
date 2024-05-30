@@ -10878,7 +10878,7 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 	font-size: 16px;
 	letter-spacing: 1px;
 	display: inline-block;
-	padding: 12px 40px;
+	padding: 12px 25px;
 	border-radius: 50px;
 	transition: 0.5s;
 	margin: 10px;
@@ -10920,8 +10920,22 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 	font-size:20px !important;
   }
   .whatwedodiv{
-	width: 20% !important;
 	padding:10px;
+  }
+  @media(min-width:800px){
+	.whatwedodiv{
+		width: 20%;
+	}
+  }
+  @media(max-width:799px) and (min-width:600px){
+	.whatwedodiv{
+		width: 33% 
+	}
+  }
+  @media(max-width:599px) {
+	.whatwedodiv{
+		width: 100% 
+	}
   }
   .whatwedodiv div img{
 	height:35vh;
@@ -10933,4 +10947,20 @@ box-shadow: 8px 8px 16px 2px #1b3e59
   }
   .whatwedo-image p{
 	text-align: center;
+  }
+
+  @media(min-width:800px){
+	.image-about-page{
+		padding:50px;
+	  }
+  }
+  @media(max-width:799px) and (min-width:500px){
+	.image-about-page{
+		padding:30px;
+	  }
+  }
+  @media(min-width:499px){
+	.image-about-page{
+		padding:5px;
+	  }
   }

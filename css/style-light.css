@@ -1253,6 +1253,16 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	justify-content: flex-end;
 	align-items: center;
 }
+@media(max-width:699px){
+	.mry-slider-arrows{
+		display: none;
+	}
+}
+@media(min-width:700px){
+	.mry-slider-arrows{
+		display: block;
+	}
+}
 
 .mry-slider-arrows .mry-label {
 	margin-right: 20px;
