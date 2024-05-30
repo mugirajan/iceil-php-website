@@ -6042,7 +6042,6 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
 
 .input1 {
 	border: 0 !important;
-	padding: 20px 10px !important;
 	color: #333;
 }
 
@@ -9512,7 +9511,7 @@ Component
   }
   @media(min-width:1025px){
 	.statistics-card{
-		padding: 1em 3em;
+		padding: 0em 3em;
 		width:80%;
 	}
 	.content-for-slider h3{
@@ -9587,7 +9586,7 @@ Component
   .statistics-stats{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	gap: 5em;
+	/* gap: 5em; */
 	position: relative;
   }
   
@@ -9610,20 +9609,22 @@ Component
   
   .statistics-stats::before{
 	top: 50%;
-	left: -5%;
-	width: 110%;
+	left: 5%;
+	width: 93%;
 	height: 1px;
 	background: var(--text-clr-light);
   }
   
   .statistics-stats::after{
 	left: 50%;
-	top: -5%;
+	top: 12%;
 	width: 0.8px;
-	height: 110%;
+	height: 80%;
 	background: var(--text-clr-light);
   }
-  
+  .statistics-clientrev, .statistics-adspend, .statistics-maus,.statistics-roi{
+	text-align:center;
+  }
   .statistics-card::before{
 	content: '';
 	position: absolute;

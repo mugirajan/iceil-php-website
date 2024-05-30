@@ -499,38 +499,38 @@
                             </div>
                         </div>
                     </div>
+
                     <!--stats start-->
-                    
                     <section class="statistics-section">
                         <div class="statistics-container">
-                          <div class="statistics-card row">
-                          <div class="statistics-type col-lg-6 col-md-6 col-sm-12">
-                            <h4 style="color:white">Our statistics</h4>
-                            <p>Being the best Stretch ceiling Manufacturer in India, We supply and install Stretch Ceilings projects across India.</p>
-                            <button class="read-more-btn"><a href="about-us-3.php"
-                                style="color: #ffffff;">Read More</a></button>
-                          </div>
-                          <div class="statistics-stats col-lg-6 col-md-6 col-sm-12">
-                            <div class="statistics-clientrev">
-                              <span>400+</span>
-                              <p>Happy Clients</p>
+                            <div class="statistics-card row">
+                                <div class="statistics-type col-lg-6 col-md-6 col-sm-12">
+                                    <h4 style="color:white">Our statistics</h4>
+                                    <p>Being the best Stretch ceiling Manufacturer in India, We supply and install Stretch Ceilings projects across India.</p>
+                                    <button class="read-more-btn"><a href="about-us-3.php"
+                                        style="color: #ffffff;">Read More</a></button>
+                                </div>
+                                <div class="statistics-stats col-lg-6 col-md-6 col-sm-12">
+                                    <div class="statistics-clientrev">
+                                        <span>400+</span>
+                                        <p>Happy Clients</p>
+                                    </div>
+                                    <div class="statistics-adspend">
+                                        <span>20+</span>
+                                        <p>Products</p>
+                                    </div>
+                                    <div class="statistics-maus">
+                                        <span>1000+</span>
+                                        <p>Projects</p>
+                                    </div>
+                                    <div class="statistics-roi">
+                                        <span>10+</span>
+                                        <p>channal partners</p>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="statistics-adspend">
-                              <span>20+</span>
-                              <p>Products</p>
-                            </div>
-                            <div class="statistics-maus">
-                              <span>1000+</span>
-                              <p>Projects</p>
-                            </div>
-                            <div class="statistics-roi">
-                              <span>10+</span>
-                              <p>channal partners</p>
-                            </div>
-                          </div>
                         </div>
-                        </div>
-                        </section>
+                    </section>
                     <!--stats end-->
                      <!--audi start-->
                      <div class="gdlr-core-pbf-wrapper height-car-for-home" style="padding: 226px 0px 30px 0px;" id="gdlr-core-wrapper-1">
