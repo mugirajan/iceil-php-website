@@ -1,6 +1,23 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<style>
+     @media(min-width:1000px){
+	.static-section-logo{
+		margin-top:-9rem;
+	}
+  }
+  @media(max-width:999px){
+	.static-section-logo{
+		margin-top:-10rem;
+	}
+  }
+  @media(max-width:499px){
+	.static-section-logo{
+		margin-top:-8rem;
+	}
+  }
+</style>
 </head>
 
 <?php
@@ -34,13 +51,15 @@
                 <div class="gdlr-core-page-builder-body">
                     
                     <!--partner with us start-->
-                    <section class="row hero-team-section">
-                        <div class="col-lg-6 div-of-hero">
-                            <h1>Expand your possibilities through a defined relationship</h1>
-                            <p>At ICEIL, we believe in the power of collaboration and partnership to unlock new opportunities and drive mutual success. By joining forces with us, you can expand your possibilities and achieve your goals with confidence.</p>
-                        </div>
-                        <div class="col-lg-6">
-                        <img src="https://img.freepik.com/free-photo/two-businesspeople-shaking-hands-indoors_1423-209.jpg?w=740" alt="">
+                    <section class="hero-team-section">
+                        <div class="row">
+                            <div class="col-lg-6 div-of-hero">
+                                <h3>Expand your possibilities through a defined relationship</h3>
+                                <p>At ICEIL, we believe in the power of collaboration and partnership to unlock new opportunities and drive mutual success. By joining forces with us, you can expand your possibilities and achieve your goals with confidence.</p>
+                            </div>
+                            <div class="col-lg-6">
+                            <img src="https://img.freepik.com/free-photo/two-businesspeople-shaking-hands-indoors_1423-209.jpg?w=740" alt="">
+                            </div>
                         </div>
                     </section>
                     <!--partner with us end-->
@@ -50,7 +69,7 @@
                         <div class="div-of-you">
                             <h3 class="text-center">What’s in it <span class="span-for-you">For you</span></h3>
                             <p class="text-center">Partnering with ICEIL offers a range of benefits tailored to meet your specific needs and objectives. Experience unparalleled support and dedication as we work together to achieve mutual growth and success. </p>
-                            <div class="row row-of-you">
+                            <div class="row row-of-you" style="margin:0 auto">
                                 <div class="col-lg-4 col-md-4 col-sm-12 col-of-you">
                                     <div class="image-of-you">
                                         <img src="https://cdn-icons-png.flaticon.com/128/3504/3504016.png" alt="">
@@ -167,687 +186,808 @@
                         </div>
                     </div> -->
                     <!--super team end-->
-                    <div class="franchise" style="padding:0px 0px 0px 45px">
-                        <h4>Few Of Our Franchise</h4>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
-                        <div class="gdlr-core-pbf-background-wrap"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-element">
-                                    <div
-                                        class="row gdlr-core-personnel-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-personnel-item-style-grid gdlr-core-personnel-style-grid gdlr-core-with-divider ">
-                                        <div
-                                            class="gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-column-first gdlr-core-item-pdlr col-lg-3 col-md-4 col-sm-12">
-                                            <div class="gdlr-core-personnel-list clearfix">
+
+                    <!--Partner with us--->
+                    <div class="inteco-page-wrapper" id="inteco-page-wrapper">
+                            <div class="gdlr-core-page-builder-body">
+                                <div class="franchise" style="padding:30px 0px 0px 45px">
+                                    <h4 class="text-center">Our Franchise</h4>
+                                </div>
+                                <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
+                                    <div class="gdlr-core-pbf-background-wrap"></div>
+                                    <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                            <div class="gdlr-core-pbf-element">
                                                 <div
-                                                    class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                    <a><img src="img/light/chennai.jpeg" alt="" width="600" height="718"
-                                                            title="personnel-1-1" /></a>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap">
-                                                    <h3 class="gdlr-core-personnel-list-title"
-                                                        style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                        <a>Branch: Chennai</a></h3>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">No: 10, 2nd Floor,
-                                                        AE Block,7th Street Anna Nagar,Chennai, Tamil Nadu – 600040
-                                                    </div>
+                                                    class="row gdlr-core-personnel-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-personnel-item-style-grid gdlr-core-personnel-style-grid gdlr-core-with-divider ">
                                                     <div
-                                                        class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                    </div>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                        9566777189</div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-personnel-list clearfix">
-                                                <div
-                                                    class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                    <a><img src="img/light/hyderabad.jpeg" alt="" width="600"
-                                                            height="718" title="personnel-2-1" /></a>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap">
-                                                    <h3 class="gdlr-core-personnel-list-title"
-                                                        style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                        <a>Branch: Hyderabad</a></h3>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">1-8-144 Arya
-                                                        Vysya,Abhyudaya Sangam Building,PG Road, Secunderabad, Telangana
-                                                        – 500003</div>
-                                                    <div
-                                                        class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                    </div>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">call: +91
-                                                        9392423939</div>
-
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-personnel-list clearfix ">
-                                                <div
-                                                    class="image-for-partner gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                    <a><img src="img/light/kolkata.jpeg" alt="" width="600" height="718"
-                                                            title="personnel-3-1" /></a>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap">
-                                                    <h3 class="gdlr-core-personnel-list-title"
-                                                        style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                        <a>Branch:Kolkata</a></h3>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">Plot No :157/ B,<br>
-                                                        Lenin Sarani, <br>Kolkata- 700013</div>
-                                                    <div
-                                                        class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                    </div>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                        9635555693</div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-personnel-list clearfix">
-                                                <div
-                                                    class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                    <a><img src="img/light/coimbatore1.png" alt="" width="600"
-                                                            height="718" title="personnel-4-1" /></a>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap">
-                                                    <h3 class="gdlr-core-personnel-list-title"
-                                                        style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                        <a>Branch: Coimbatore</a></h3>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">208, Avinashi
-                                                        Road, Hopes College, Opp. GRG Schools, Upstairs of Pasumai
-                                                        Pharmacy,Coimbatore-641004.</div>
-                                                    <div
-                                                        class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                    </div>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                        9042161718</div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-column-first gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-personnel-list clearfix">
-                                                <div
-                                                    class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                    <a><img src="img/light/bubaneshwar.jpeg" alt="" width="600"
-                                                            height="718" title="personnel-5-1" /></a>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap">
-                                                    <h3 class="gdlr-core-personnel-list-title"
-                                                        style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                        <a>Branch:Bhubaneswar</a></h3>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">Plot No –
-                                                        823/1092, At-Nuapatna, Po-Banguarlps-Balianta, Bhubaneswar,
-                                                        Khordha, Odisha</div>
-                                                    <div
-                                                        class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                    </div>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                        9348186868</div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-personnel-list clearfix">
-                                                <div
-                                                    class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                    <a><img src="img/light/goa.jpeg" alt="" width="600" height="718"
-                                                            title="personnel-6-1" /></a>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap">
-                                                    <h3 class="gdlr-core-personnel-list-title"
-                                                        style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                        <a>Branch:Goa</a></h3>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">Plot No : 780/3,
-                                                        Sushila Villa,Behind Prabhu Accupuncture, Near NEXA, Porvorim,
-                                                        ARDEZ-GOA-403501</div>
-                                                    <div
-                                                        class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                    </div>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                        7083825864</div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-personnel-list clearfix">
-                                                <div
-                                                    class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                    <a><img src="img/light/thirunelveli.jpeg" alt="" width="600"
-                                                            height="718" title="personnel-7-1" /></a>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap">
-                                                    <h3 class="gdlr-core-personnel-list-title"
-                                                        style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                        <a>Branch:Tirunelveli</a></h3>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">No 17,KAS
-                                                        Complex,south Bypass Road, Near to Passport Office, Tirunelveli,
-                                                        Tamil Nadu-627005.</div>
-                                                    <div
-                                                        class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                    </div>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">Call: +91
-                                                        9952063734</div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-personnel-list clearfix">
-                                                <div
-                                                    class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                    <a><img src="img/light/kochi.jpeg" alt="" width="600" height="718"
-                                                            title="personnel-8-1" /></a>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap">
-                                                    <h3 class="gdlr-core-personnel-list-title"
-                                                        style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                        <a>Branch:Kochi</a></h3>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">46/367 1P National
-                                                        Highway Bypass, NH 66, Medical Centre Rd, Ernakulam, Kerala
-                                                        682028, India</div>
-                                                    <div
-                                                        class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                    </div>
-                                                    <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                        9633777099</div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <button class="load-more-btn" ><a href="partner-list.php">Know More</a></button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
-                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #f7f7f7 ;"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-left"
-                                        data-sync-height="height1">
-                                        <div class="gdlr-core-pbf-background-wrap">
-                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                                style="background-image: url(img/light/service-detail2.jpg) ;height:800px;background-size: cover ;background-position: center ;"
-                                                data-parallax-speed="0.2"></div>
-                                        </div>
-                                        <div
-                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30" data-skin="team column svc  icon"
-                                    id="gdlr-core-column-1">
-                                    <div class=" gdlr-core-js " style="padding: 60px 0px 30px 0px;"
-                                        data-sync-height="height1">
-                                        <div
-                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 40px ;">
-                                                    <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title whychooseustitle "
-                                                            style="font-size: 25px ;letter-spacing: 0px ;text-transform: none ;color: #2b2b2b ;">
-                                                            Why Choose Us?</h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 15px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image"
-                                                        style="margin-top: 10px;margin-right: 30px;"><img
-                                                            src="upload/columsvc-icon-1.png" alt="" width="37"
-                                                            height="37" title="columsvc-icon-1" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap"
-                                                            style="margin-bottom: 10px ;">
-                                                            <h3 class="about-title gdlr-core-column-service-title "
-                                                                style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">
-                                                                Accountability</h3>
-                                                        </div>
-                                                        <div class="gdlr-core-column-service-content"
-                                                            style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                            <p>We embrace accountability for our products and services,
-                                                                maintaining the utmost professional standards. We
-                                                                assess our perarmance against well defined metrics and
-                                                                targets to ensure excellence. </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 15px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image"
-                                                        style="margin-top: 10px;margin-right: 25px;"><img
-                                                            src="upload/columsvc-icon-2.png" alt="" width="46"
-                                                            height="46" title="columsvc-icon-2" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap"
-                                                            style="margin-bottom: 10px ;">
-                                                            <h3 class="about-title gdlr-core-column-service-title"
-                                                                style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">
-                                                                Customer Centric:</h3>
-                                                        </div>
-                                                        <div class="gdlr-core-column-service-content"
-                                                            style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                            <p>Every customer holds a distinct value for us, and we
-                                                                believe in tailoring individualized solutions. Our
-                                                                commitment is to achieve the highest levels of customer
-                                                                satisfaction across all our products and services,
-                                                                recognizing and addressing the unique needs of each
-                                                                client.
-
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 25px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image"
-                                                        style="margin-top: 10px;margin-right: 27px;margin-bottom:  0;">
-                                                        <img src="upload/columsvc-icon-3.png" alt="" width="42"
-                                                            height="41" title="columsvc-icon-3" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap"
-                                                            style="margin-bottom: 10px ;">
-                                                            <h3 class="gdlr-core-column-service-title about-title"
-                                                                style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">
-                                                                Renew and Improve</h3>
-                                                        </div>
-                                                        <div class="gdlr-core-column-service-content"
-                                                            style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                            <p>We are continually seeking improvements in our approach. Overcoming seemingly insur mountable challenges is not just a key factor in our success but also a wellspring of inspiration.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="incre-about-out gdlr-core-pbf-wrapper " id="gdlr-core-wrapper-2">
-                        <div class="gdlr-core-pbf-background-wrap"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first"
-                                    data-skin="Skin Number">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-counter-item gdlr-core-item-pdlr gdlr-core-item-pdb ">
-                                                    <div class="gdlr-core-counter-item-number gdlr-core-skin-title gdlr-core-title-font"
-                                                        style="font-size: 35px ;font-weight: 800 ;"><span
-                                                            class="gdlr-core-counter-item-count gdlr-core-js"
-                                                            data-duration="" data-counter-start="0"
-                                                            data-counter-end="400">0</span></div>
-                                                    <div class="gdlr-core-counter-item-bottom-text gdlr-core-skin-content"
-                                                        style="font-weight: 700 ;">Happy Clients</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15" data-skin="Skin Number">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-counter-item gdlr-core-item-pdlr gdlr-core-item-pdb ">
-                                                    <div class="gdlr-core-counter-item-number gdlr-core-skin-title gdlr-core-title-font"
-                                                        style="font-size: 35px ;font-weight: 800 ;"><span
-                                                            class="gdlr-core-counter-item-count gdlr-core-js"
-                                                            data-duration="" data-counter-start="0"
-                                                            data-counter-end="20">0</span></div>
-                                                    <div class="gdlr-core-counter-item-bottom-text gdlr-core-skin-content"
-                                                        style="font-weight: 700 ;">Products</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15" data-skin="Skin Number">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-counter-item gdlr-core-item-pdlr gdlr-core-item-pdb ">
-                                                    <div class="gdlr-core-counter-item-number gdlr-core-skin-title gdlr-core-title-font"
-                                                        style="font-size: 35px ;font-weight: 800 ;"><span
-                                                            class="gdlr-core-counter-item-count gdlr-core-js"
-                                                            data-duration="" data-counter-start="0"
-                                                            data-counter-end="24">0</span><span
-                                                            class="gdlr-core-counter-item-suffix">+</span></div>
-                                                    <div class="gdlr-core-counter-item-bottom-text gdlr-core-skin-content"
-                                                        style="font-weight: 700 ;">Our Partners</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15" data-skin="Skin Number">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-counter-item gdlr-core-item-pdlr gdlr-core-item-pdb ">
-                                                    <div class="gdlr-core-counter-item-number gdlr-core-skin-title gdlr-core-title-font"
-                                                        style="font-size: 35px ;font-weight: 800 ;"><span
-                                                            class="gdlr-core-counter-item-count gdlr-core-js"
-                                                            data-duration="" data-counter-start="0"
-                                                            data-counter-end="20">0</span><span
-                                                            class="gdlr-core-counter-item-suffix">+</span></div>
-                                                    <div class="gdlr-core-counter-item-bottom-text gdlr-core-skin-content"
-                                                        style="font-weight: 700 ;">Services</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper " style="margin: 0px 0px 0px 0px;padding: 0px 0px 150px 0px;"
-                        id="gdlr-core-wrapper-3">
-                        <div class="gdlr-core-pbf-background-wrap">
-                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                style="background-image: url(img/light/service-detail3.jpg) ;background-size: cover ;background-position: center ;"
-                                data-parallax-speed="0.2"></div>
-                        </div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first"
-                                    id="gdlr-core-column-2">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js margin-top-tab"
-                                        style="margin: -55px 26px 0px 0px;padding: 70px 30px 25px 30px;">
-                                        <div class="gdlr-core-pbf-background-wrap"
-                                            style="box-shadow: 0 0 40px rgba(10, 10, 10,0.08); -moz-box-shadow: 0 0 40px rgba(10, 10, 10,0.08); -webkit-box-shadow: 0 0 40px rgba(10, 10, 10,0.08); background-color: #ffffff ;">
-                                        </div>
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 7px ;">
-                                                    <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title "
-                                                            style="font-size: 19px ;letter-spacing: 0px ;text-transform: none ;">
-                                                            Cost Effective: </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align"
-                                                    style="margin-bottom: 24px ;">
-                                                    <div class="gdlr-core-divider-container" style="max-width: 140px ;">
-                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider"
-                                                            style="border-color: #2676bc ;"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"
-                                                    style="padding-bottom: 0px ;">
-                                                    <div class="gdlr-core-text-box-item-content"
-                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                        <p>Ensuring that a wide range of individuals and businesses can afford exquisite interior spaces without compromising quality is our goal.  </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                           
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-20" id="gdlr-core-column-3">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js margin-top-tab"
-                                        style="margin: -55px 13px 0px 13px;padding: 70px 30px 25px 30px;">
-                                        <div class="gdlr-core-pbf-background-wrap"
-                                            style="box-shadow: 0 0 40px rgba(10, 10, 10,0.08); -moz-box-shadow: 0 0 40px rgba(10, 10, 10,0.08); -webkit-box-shadow: 0 0 40px rgba(10, 10, 10,0.08); background-color: #ffffff ;">
-                                        </div>
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 7px ;">
-                                                    <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title "
-                                                            style="font-size: 19px ;letter-spacing: 0px ;text-transform: none ;">
-                                                            Quality</h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align"
-                                                    style="margin-bottom: 24px ;">
-                                                    <div class="gdlr-core-divider-container" style="max-width: 174px ;">
-                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider"
-                                                            style="border-color: #2676bc ;"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"
-                                                    style="padding-bottom: 0px ;">
-                                                    <div class="gdlr-core-text-box-item-content"
-                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                        <p>Committed to ongoing enhancement, we foster innovation and creativity to consistently improve the quality, reliability, and value of our products . </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                           
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-20" id="gdlr-core-column-4">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js "
-                                        style="margin: -55px 0px 0px 26px;padding: 70px 30px 25px 30px;">
-                                        <div class="gdlr-core-pbf-background-wrap"
-                                            style="box-shadow: 0 0 40px rgba(10, 10, 10,0.08); -moz-box-shadow: 0 0 40px rgba(10, 10, 10,0.08); -webkit-box-shadow: 0 0 40px rgba(10, 10, 10,0.08); background-color: #ffffff ;">
-                                        </div>
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 7px ;">
-                                                    <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title "
-                                                            style="font-size: 19px ;letter-spacing: 0px ;text-transform: none ;">
-                                                            Smartly Execute</h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align"
-                                                    style="margin-bottom: 24px ;">
-                                                    <div class="gdlr-core-divider-container" style="max-width: 157px ;">
-                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider"
-                                                            style="border-color: #2676bc ;"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"
-                                                    style="padding-bottom: 0px ;">
-                                                    <div class="gdlr-core-text-box-item-content"
-                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                        <p>We strive to attain the highest customer satisfaction by adhering to well-defined standards.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper " style="margin: -110px 0px 0px 0px;padding: 0px 0px 90px 0px;"
-                        id="gdlr-core-wrapper-4">
-                        <div class="gdlr-core-pbf-background-wrap"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class=" gdlr-core-column-60 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js margin-for-partner"
-                                        style="margin: 0px 0px 0px 0px;padding: 60px 0px 0px 0px;">
-                                        <div class="gdlr-core-pbf-background-wrap"
-                                            style="box-shadow: 0 0 45px rgba(10, 10, 10,0.06); -moz-box-shadow: 0 0 45px rgba(10, 10, 10,0.06); -webkit-box-shadow: 0 0 45px rgba(10, 10, 10,0.06); background-color: #ffffff ;">
-                                        </div>
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-gallery-item gdlr-core-item-pdb clearfix  gdlr-core-gallery-item-style-grid"
-                                                    style="padding-bottom: 25px ;">
-                                                    <div class="gdlr-core-gallery-item-holder gdlr-core-js-2 clearfix"
-                                                        data-layout="fitrows">
-                                                        <div
-                                                            class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-column-first gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
-                                                                <a class="gdlr-core-lightgallery gdlr-core-js "
-                                                                    href="upload/banner-1.png"
-                                                                    data-lightbox-group="gdlr-core-img-group-1"><img
-                                                                        src="upload/banner-1.png" alt="" width="137"
-                                                                        height="103" title="banner-1" /></a>
+                                                        class="gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-column-first gdlr-core-item-pdlr col-lg-3 col-md-4 col-sm-12">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/light/chennai.jpeg" alt="" width="600" height="718"
+                                                                        title="personnel-1-1" /></a>
                                                             </div>
-                                                        </div>
-                                                        <div
-                                                            class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
-                                                                <a class="gdlr-core-lightgallery gdlr-core-js "
-                                                                    href="upload/banner-2.png"
-                                                                    data-lightbox-group="gdlr-core-img-group-1"><img
-                                                                        src="upload/banner-2.png" alt="" width="137"
-                                                                        height="103" title="banner-2" /></a>
-                                                            </div>
-                                                        </div>
-                                                        <div
-                                                            class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
-                                                                <a class="gdlr-core-lightgallery gdlr-core-js "
-                                                                    href="upload/banner-3.png"
-                                                                    data-lightbox-group="gdlr-core-img-group-1"><img
-                                                                        src="upload/banner-3.png" alt="" width="137"
-                                                                        height="103" title="banner-3" /></a>
-                                                            </div>
-                                                        </div>
-                                                        <div
-                                                            class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
-                                                                <a class="gdlr-core-lightgallery gdlr-core-js "
-                                                                    href="upload/banner-4.png"
-                                                                    data-lightbox-group="gdlr-core-img-group-1"><img
-                                                                        src="upload/banner-4.png" alt="" width="137"
-                                                                        height="103" title="banner-4" /></a>
-                                                            </div>
-                                                        </div>
-                                                        <div
-                                                            class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
-                                                                <a class="gdlr-core-lightgallery gdlr-core-js "
-                                                                    href="upload/banner-5.png"
-                                                                    data-lightbox-group="gdlr-core-img-group-1"><img
-                                                                        src="upload/banner-5.png" alt="" width="137"
-                                                                        height="103" title="banner-5" /></a>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch: Chennai</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">No: 10, 2nd Floor,
+                                                                    AE Block,7th Street Anna Nagar,Chennai, Tamil Nadu – 600040
+                                                                </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9566777189</div>
+
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/light/hyderabad.jpeg" alt="" width="600"
+                                                                        height="718" title="personnel-2-1" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch: Hyderabad</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">1-8-144 Arya
+                                                                    Vysya,Abhyudaya Sangam Building,PG Road, Secunderabad, Telangana
+                                                                    – 500003</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">call: +91
+                                                                    9392423939</div>
 
-                    <!--accrodion start-->
-                    <section class="body-faq">
-                        <div class="faq-container-partner">
-                          <article>
-                            <div class="img-container"></div>
-                            <div class="faq">
-                              <div class="" id="gdlr-core-column-4">
-                                <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-accordion-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-accordion-style-icon" style="padding-bottom: 0px ;">
-                                                <div class="gdlr-core-accordion-item-tab clearfix  gdlr-core-active">
-                                                    <div class="gdlr-core-accordion-item-content-wrapper">
-                                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js " style="font-size: 19px ;font-weight: 700 ;text-transform: none ;"><div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon " ></div>Design & Office Furniture</h4>
-                                                        <div class="gdlr-core-accordion-item-content">
-                                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. <span style="color: #2676bc;">I am alone, and feel the charm of existence in this spot</span>, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere.</p>
+
+                                                            </div>
                                                         </div>
                                                     </div>
-                                                </div>
-                                                <div class="gdlr-core-accordion-item-tab clearfix ">
-                                                    <div class="gdlr-core-accordion-item-content-wrapper">
-                                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js " style="font-size: 19px ;font-weight: 700 ;text-transform: none ;"><div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon " ></div>Original Plans & Rendering</h4>
-                                                        <div class="gdlr-core-accordion-item-content">
-                                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. <span style="color: #2676bc;">I am alone, and feel the charm of existence in this spot</span>, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere.</p>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix ">
+                                                            <div
+                                                                class="image-for-partner gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                                <a><img src="img/light/kolkata.jpeg" alt="" width="600" height="718"
+                                                                        title="personnel-3-1" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Kolkata</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Plot No :157/ B,<br>
+                                                                    Lenin Sarani, <br>Kolkata- 700013</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9635555693</div>
+
+                                                            </div>
                                                         </div>
                                                     </div>
-                                                </div>
-                                                <div class="gdlr-core-accordion-item-tab clearfix ">
-                                                    <div class="gdlr-core-accordion-item-content-wrapper">
-                                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js " style="font-size: 19px ;font-weight: 700 ;text-transform: none ;"><div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon " ></div>Restoration Center</h4>
-                                                        <div class="gdlr-core-accordion-item-content">
-                                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. <span style="color: #2676bc;">I am alone, and feel the charm of existence in this spot</span>, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere.</p>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/light/coimbatore1.png" alt="" width="600"
+                                                                        height="718" title="personnel-4-1" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch: Coimbatore</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">208, Avinashi
+                                                                    Road, Hopes College, Opp. GRG Schools, Upstairs of Pasumai
+                                                                    Pharmacy,oimbatore-641004.</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9042161718</div>
+
+                                                            </div>
                                                         </div>
                                                     </div>
-                                                </div>
-                                                <div class="gdlr-core-accordion-item-tab clearfix ">
-                                                    <div class="gdlr-core-accordion-item-content-wrapper">
-                                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js " style="font-size: 19px ;font-weight: 700 ;text-transform: none ;"><div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon " ></div>Reimagine & Refresh</h4>
-                                                        <div class="gdlr-core-accordion-item-content">
-                                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. <span style="color: #2676bc;">I am alone, and feel the charm of existence in this spot</span>, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere.</p>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-column-first gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/light/bubaneshwar.jpeg" alt="" width="600"
+                                                                        height="718" title="personnel-5-1" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Bhubaneswar</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Plot No –
+                                                                    823/1092, At-Nuapatna, Po-Banguarlps-Balianta, Bhubaneswar,
+                                                                    Khordha, Odisha</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9348186868</div>
+
+                                                            </div>
                                                         </div>
                                                     </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/light/goa.jpeg" alt="" width="600" height="718"
+                                                                        title="personnel-6-1" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Goa</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Plot No : 780/3,
+                                                                    Sushila Villa,Behind Prabhu Accupuncture, Near NEXA, Porvorim,
+                                                                    ARDEZ-GOA-403501</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    7083825864</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/light/thirunelveli.jpeg" alt="" width="600"
+                                                                        height="718" title="personnel-7-1" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Tirunelveli</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">No 17,KAS
+                                                                    Complex,south Bypass Road, Near to Passport Office, Tirunelveli,
+                                                                    Tamil Nadu-627005.</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call: +91
+                                                                    9952063734</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/light/kochi.jpeg" alt="" width="600" height="718"
+                                                                        title="personnel-8-1" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Kochi</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">46/367 1P National
+                                                                    Highway Bypass, NH 66, Medical Centre Rd, Ernakulam, Kerala
+                                                                    682028, India</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9633777099</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="images/guwahati-tour.jpg" alt="" width="600" height="718"
+                                                                        title="personnel-6-1" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Guwahati</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">1st floor, Dewan Mansion,
+
+                                                                    Beside Hotel Ambarish,
+                                                                    
+                                                                    Ganeshguri Flyover,
+                                                                    
+                                                                    Gs Road, Guwahati</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9582460171</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="images/trichy.png" alt="" width="600"
+                                                                        height="718" title="personnel-7-1" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Trichy</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Plot No : 314/12,
+
+                                                                    Koothapar Manin Road,
+                                                                    
+                                                                    Thiruverumbur ,<br>Trichy – 620014</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call: +91
+                                                                    9952063734</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="images/banglore.jpg" alt="" width="600" height="718"
+                                                                        title="personnel-8-1" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Bangalore</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Ground Floor No – 342, Krishna Kunj,
+
+                                                                    12th cross Vishwapriya Nagar Road
+                                                                    
+                                                                    Begur,Bangalore,Karnataka – 560068.</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9633777099</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="images/banglore-outside.jpg" alt="" width="600" height="718"
+                                                                        title="personnel-8-1" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Bangalore</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">No.296, 3rd cross,
+
+                                                                    10th main road,
+                                                                    
+                                                                    Gokul 1st stage 2nd phase,
+                                                                    
+                                                                    Bangalore – 560054</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9633777099</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/delhi.jpg" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Delhi</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">No 1447,
+
+                                                                Near Shiv Temple,<br>
+                                                                
+                                                                Alipur,<br> Delhi – 110036</div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/hubli-dharwad-tour-packages-500x500.webp" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Hubli</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">UGF 9, Tirumala Trade Centre,
+
+                                                                Neeligin Road, Hubli<br>
+                                                                
+                                                                Karnataka-580029</div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/madurai-temple-1.jpg" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Madurai</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">8A,<br> WEST MASI STREET,<br>
+
+                                                                MADURAI – 625 001</div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/mohali.jpg" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Mohali</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">SCO-10, Ground Floor,<br>
+
+                                                                JLPL Sector 82,<br>
+                                                                
+                                                                Mohali Punjab 140301</div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/visakhapatnam.avif" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Visakhapatnam</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">
+                                                                47-14-2/6, 2nd & 3rd Floor,
+                                                                Sree Balajee Complex,
+                                                                Dwarakanagar Main Road,
+                                                                Visakhapatnam – 530016
+                                                                </div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/banglore.jpg" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Bangalore</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">
+                                                                VWF Industries (P) Ltd,
+
+                                                                F1, First Floor, 29, St Marks Rd,
+
+                                                                Shanthala Nagar, Ashok Nagar,
+
+                                                                Bengaluru,Karnataka – 560001
+                                                                </div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/calicut.webp" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Calicut</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">
+                                                                26/499, Aura Electric,
+
+                                                                    V zone Complex,
+
+                                                                    3rd floor, kootoli,
+
+                                                                    Calicut, Kerala – 673016
+                                                                </div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/Vijayawada.jpg" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Vijayawada</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">
+                                                                Upstair of City Union Bank,
+
+                                                                SBH Colony,
+
+                                                                Gurunanak Road,<br>
+
+                                                                Vijayawada – 520010
+                                                                </div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/erode.jpg" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Erode</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">
+                                                                No.91,A,First Floor,MGP Palace,
+
+                                                                Near Swastic Roundana, Sathy Road,
+
+                                                                Erode – 638003
+                                                                </div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/vellore.webp" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Vellore</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">
+                                                                No.51, Golden Temple Road,
+
+                                                                Big Allapuram, Thorapadi, <br>
+
+                                                                Vellore -632002
+                                                                </div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/thiruvandram.jpg" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Trivandrum</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">
+                                                                Tc 24/1103, Golden Palace Views,
+
+                                                                Kowdiar,<br>
+                                                                
+                                                                Thiruvananthapuram
+                                                                </div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <div
+                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-personnel-list clearfix">
+                                                        <div
+                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                            <a><img src="images/SALEM.jpg" alt="" width="600" height="718"
+                                                                    title="personnel-8-1" /></a>
+                                                        </div>
+                                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                                            <h3 class="gdlr-core-personnel-list-title"
+                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                <a>Branch:Salem</a></h3>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">
+                                                                331/163 Gokulam Hospital road,
+
+                                                                Near Vasanth N Co, 
+                                                                
+                                                                Meyanur Main Road,
+                                                                
+                                                                Salem – 636004
+                                                                </div>
+                                                            <div
+                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                9633777099</div>
+
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                    <!--end of partner-->
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                      
-                             
+                    </div>
+                    <!--partner with us end-->
+
+                   <!--stats start-->
+                    <section class="statistics-section" style="margin:0 !important;">
+                        <div class="statistics-container">
+                            <div class="statistics-card row">
+                                <div class="statistics-type col-lg-6 col-md-6 col-sm-12">
+                                    <h4 style="color:white">Our statistics</h4>
+                                    <p>Being the best Stretch ceiling Manufacturer in India, We supply and install Stretch Ceilings projects across India.</p>
+                                    <button class="read-more-btn"><a href="about-us-3.php"
+                                        style="color: #ffffff;">Read More</a></button>
+                                </div>
+                                <div class="statistics-stats col-lg-6 col-md-6 col-sm-12">
+                                    <div class="statistics-clientrev">
+                                        <span>400+</span>
+                                        <p>Happy Clients</p>
+                                    </div>
+                                    <div class="statistics-adspend">
+                                        <span>20+</span>
+                                        <p>Products</p>
+                                    </div>
+                                    <div class="statistics-maus">
+                                        <span>1000+</span>
+                                        <p>Projects</p>
+                                    </div>
+                                    <div class="statistics-roi">
+                                        <span>10+</span>
+                                        <p>channal partners</p>
+                                    </div>
+                                </div>
                             </div>
-                          </article>
-                       
                         </div>
-                      </section>
-                    <!--accordion end-->
+                    </section>
+                    <!--stats end-->
+
+                    <!--Enquiry Form-->
+                    <section class="contact-sec sec-pad">
+                        <div class="container">
+                            <div class="row">
+                            <div class="col-md-4">
+                                <div class="contact-detail">
+                                <h5 class="section-title">Franchise Enquiry Form</h5>
+
+                                <ul class="contact-ul">
+                                    <li><i class="fa fa-location-dot"></i> 91, Ram Nagar, Ram Mandir, Delhi</li>
+
+                                    <li>
+                                    <i class="fa fa-phone"></i>
+                                    <a href="tel:08510004495"><b>0255000XXXX</b></a>,
+                                    <a href="tel:08510005495"><b>0251600XXXX</b></a>
+                                    </li>
+
+                                    <li>
+                                    <i class="fa-solid fa-envelope"></i>
+                                    <a href="mailto:pardeepkumar4bjp@gmail.com"><b> demounknown@gmail.com</b></a>
+                                    </li>
+                                </ul>
+
+                                </div>
+                            </div>
+
+                            <div class="col-md-8">
+                                <form id="contactForm"  class="contFrm contact-form" method="POST">
+                                <div class="row form-group">
+                                    <div class="col-sm-12">
+                                    <input class="form-control inptFld" id="name" name="name" placeholder="Name*" type="text" required />
+                                    </div>
+
+                                    <div class="col-sm-6">
+                                    <input class="form-control inptFld" id="email" type="email" name="email" placeholder="Email Address"required />
+                                    </div>
+
+                                    <div class="col-sm-6">
+                                    <input class="form-control inptFld" type="tel" name="phone" id="phone" placeholder="Phone Number"  required />
+                                    </div>
+
+                                    <div class="col-sm-6">
+                                    <input class="form-control inptFld" type="text" name="state"  id="state" placeholder="State"  required />
+                                    </div>
+
+                                    <div class="col-sm-6">
+                                    <input class="form-control inptFld" type="text" name="city" id="city" placeholder="City"  required />
+                                    </div>
+
+                                    <div class="col-12">
+                                    <textarea class="form-control inptFld"  name="message" id="message" rows="" cols="" placeholder="Your Message..." required></textarea>
+                                    </div>
+
+                                    <div class="col-12">
+                                    <button type="submit" name="submit" id="contactFormSubmitBtn" class="inptBtn">Submit</button>
+                                    </div>
+                                </div>
+                                </form>
+                            </div>
+                            </div>
+                        </div>
+                    </section>
+                    <!--Enquiry Form end-->
+
 
                 </div>
             </div>

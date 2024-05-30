@@ -60,6 +60,8 @@
     <script src="js/plugins/parsley.min.js"></script>
     <!-- main js -->
     <script src="js/main.js"></script>
+    <script src="js/mailer.js"></script>
+    <script src="js/mailHelper.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
     var popupform = document.getElementById("popupForm");

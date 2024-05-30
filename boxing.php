@@ -17,7 +17,7 @@
                     <div class="inteco-blog-title-content inteco-item-pdlr">
                         <div class="inteco-page-title-container-about-our">
                             <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                                <h1 class="inteco-page-title">Light Boxing</h1>
+                                <h1 class="inteco-page-title"> Details of Wooden Boxing & Details of Aluminium Boxing</h1>
                             </div>
                         </div>
                     </div>

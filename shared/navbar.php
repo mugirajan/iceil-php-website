@@ -84,7 +84,7 @@
                                                   class="mry-anima-link mry-default-link">Pre-Requisites</a></li>
 
                                                 <li class="menu-item"><a href="boxing.php"
-                                                        class="mry-anima-link mry-default-link">Boxing</a></li>
+                                                        class="mry-anima-link mry-default-link">Wooden Boxing & Aluminium Boxing</a></li>
                                                 <li class="menu-item"><a href="led.php"
                                                         class="mry-anima-link mry-default-link">LED</a></li>
                                                 <li class="menu-item"><a href="stretch-fabric.php"
@@ -225,7 +225,7 @@
                                                 <li class="menu-item"><a
                                                         class="mry-anima-link mry-default-link">Pre-Requisites</a></li>
                                                 <li class="menu-item"><a href="boxing.php"
-                                                        class="mry-anima-link mry-default-link">Boxing</a></li>
+                                                        class="mry-anima-link mry-default-link">Wooden Boxing & Aluminium Boxing</a></li>
                                                 <li class="menu-item"><a href="led.php"
                                                         class="mry-anima-link mry-default-link">LED</a></li>
                                                 <li class="menu-item"><a href="stretch-fabric.php"

@@ -56,42 +56,60 @@
                                                 <div class="gdlr-core-contact-form-7-item gdlr-core-item-pdlr gdlr-core-item-pdb ">
                                                     <div role="form" class="wpcf7" id="wpcf7-f1979-p1977-o1" lang="en-US" dir="ltr">
                                                         <div class="screen-reader-response"></div>
-                                                        <form class="quform" action="plugins/quform/process.php" method="post" enctype="multipart/form-data" onclick="">
-
-                                                            <div class="quform-elements">
-                                                                <div class="quform-element">
-                                                                    <p>Your Name (required)
-                                                                        <br>
-                                                                        <span class="wpcf7-form-control-wrap your-name">
-                                                                            <input id="name" type="text" name="name" size="40" class="input1" aria-required="true" aria-invalid="false">
-                                                                        </span> 
-                                                                    </p>
-                                                                </div>
-                                                                <div class="quform-element">
-                                                                    <p>Your Email (required)
-                                                                        <br>
-                                                                        <span class="wpcf7-form-control-wrap your-email">
-                                                                            <input id="email" type="text" name="email" size="40" class="input1" aria-required="true" aria-invalid="false">
-                                                                        </span> 
-                                                                    </p>
-                                                                </div>
-                                                                <div class="quform-element">
-                                                                    <p>Your Message
-                                                                        <br>
-                                                                        <span class="wpcf7-form-control-wrap your-message">
-                                                                            <textarea  id="message" name="message" cols="40" rows="10" class="input1" aria-invalid="false"></textarea>
-                                                                        </span>
-                                                                    </p>
-                                                                </div>
-                                                                <p>
-                                                                    <!-- Begin Submit button -->
-                                                                    <div class="quform-submit">
-                                                                        <div class="quform-submit-inner">
-                                                                            <button type="submit" class="submit-button"><span>Send</span></button>
-                                                                        </div>
-                                                                        <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
+                                                        <form id="contactForm" class="contact-form">
+                                                            <div class="row">
+                                                                <div class="col-lg-12">
+                                                                    <div class="form-group">
+                                                                        <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+                                                                        <span class="alert-error"></span>
                                                                     </div>
-                                                                </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-lg-6">
+                                                                    <div class="form-group">
+                                                                        <input class="form-control" id="email" name="email" placeholder="Email*" type="email"  required>
+                                                                        <span class="alert-error"></span>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-lg-6">
+                                                                    <div class="form-group">
+                                                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text" required>
+                                                                        <span class="alert-error"></span>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-lg-6">
+                                                                    <div class="form-group">
+                                                                        <input class="form-control" id="state" name="state" placeholder="state*" type="text"  required>
+                                                                        <span class="alert-error"></span>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-lg-6">
+                                                                    <div class="form-group">
+                                                                        <input class="form-control" id="city" name="city" placeholder="city" type="text" required>
+                                                                        <span class="alert-error"></span>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-lg-12">
+                                                                    <div class="form-group comments">
+                                                                        <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About your Project / Ideas / Thoughts *"></textarea>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-lg-12">
+                                                                    <button type="submit" name="submit" id="contactFormSubmitBtn">
+                                                                        <i class="fa fa-paper-plane"></i> Get in Touch
+                                                                    </button>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Alert Message -->
+                                                            <div class="col-lg-12 alert-notification">
+                                                                <div id="message" class="alert-msg"></div>
                                                             </div>
                                                         </form>
                                                     </div>
@@ -179,7 +197,7 @@
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-wp-google-map-plugin-item gdlr-core-item-pdlr gdlr-core-item-pdb " style="padding-bottom: 0px ;">
                                                     <div style="overflow:hidden;width: 100%;position: relative;height:45vh">
-                                                        <iframe style="width:100%; height:480px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d130635.62542950493!2d80.21372673931594!3d12.916098277520902!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525bcca7f090d7%3A0xdfe557111116b049!2sIceil%20Stretch%20Ceilings!5e0!3m2!1sen!2sin!4v1714123778983!5m2!1sen!2sin" width="600" height="450" style="border:0;" frameborder="0" allowfullscreen ></iframe>
+                                                        <!-- <iframe style="width:100%; height:480px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d130635.62542950493!2d80.21372673931594!3d12.916098277520902!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525bcca7f090d7%3A0xdfe557111116b049!2sIceil%20Stretch%20Ceilings!5e0!3m2!1sen!2sin!4v1714123778983!5m2!1sen!2sin" width="600" height="450" style="border:0;" frameborder="0" allowfullscreen ></iframe> -->
 
                                                         <div style="position: absolute;width: 80%;bottom: 20px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;">
 

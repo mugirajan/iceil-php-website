@@ -34,7 +34,50 @@
 	<link rel="stylesheet" href="css/style-light.css">
 
 	<title>Iceil</title>
-
+	<style>
+	@media(max-width:800px){
+		.mry-menu-button-frame .mry-menu-btn{
+		margin-top:-99px;
+	}
+	
+	}
+	@media(min-width:700px){
+		.mry-slider-arrows{
+			display:flex;
+		}
+	}
+	@media(max-width:699px){
+		.mry-slider-arrows{
+			display:none;
+		}
+	}
+	@media (max-width: 500px) {
+    .mry-app .mry-top-panel {
+        display: block !important;
+    }
+	.row-of-none{
+		display:none !important;
+	}
+	@media(min-width:1000px){
+	.static-section-logo{
+		margin-top:-9rem;
+	}
+  }
+  @media(max-width:999px){
+	.static-section-logo{
+		margin-top:-10rem;
+	}
+  }
+  @media(max-width:499px){
+	.static-section-logo{
+		margin-top:-8rem;
+	}
+  }
+	
+	
+	}
+	
+	</style>
 </head>
 
 <body>
@@ -58,9 +101,9 @@
 
 		<!-- top panel -->
 		<div class="mry-top-panel row d-flex justify-content-between">
-			<div class="mry-logo-frame col-lg-6">
-				<div class="row">
-					<a href="index.php" class="col-lg-5 mry-default-link mry-anima-link">
+			<div class="mry-logo-frame col-lg-6 col-md-6 col-sm-4">
+				<div class="row row-of-none">
+					<a href="index.php" class="col-lg-5 col-md-6 col-sm-4 mry-default-link mry-anima-link">
 
 						<img class="mry-logo" src="img/light/Iceil-final-logo-png.webp" alt="Mireya">
 					</a>
@@ -70,7 +113,7 @@
 				<div class="row">
 				<div class="mry-label"></div>
 				
-					<div class="col-lg-12 mry-menu-btn mry-magnetic-link">
+					<div class="col-lg-12 col-md-12 col-sm-6 mry-menu-btn mry-magnetic-link" >
 						<div class="mry-burger mry-magnetic-object">
 							<span></span>
 						</div>
@@ -301,7 +344,7 @@
 								</div>
 						</div>
 					</div>
-					<div class="mry-slider-arrows">
+					<div class="mry-slider-arrows ">
 						
 						<div class="mry-label">View Other Projects</div>
 						<div class="mry-button-prev mry-magnetic-link"><span class="mry-magnetic-object"><i class="fas fa-arrow-left"></i></span></div>
@@ -343,5 +386,4 @@
 	<script src="js/main.js"></script>
 
 </body>
-
 </html>

@@ -6042,7 +6042,6 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
 
 .input1 {
 	border: 0 !important;
-	padding: 20px 10px !important;
 	color: #333;
 }
 
@@ -9512,7 +9511,7 @@ Component
   }
   @media(min-width:1025px){
 	.statistics-card{
-		padding: 1em 3em;
+		padding: 0em 3em;
 		width:80%;
 	}
 	.content-for-slider h3{
@@ -9587,7 +9586,7 @@ Component
   .statistics-stats{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	gap: 5em;
+	/* gap: 5em; */
 	position: relative;
   }
   
@@ -9610,20 +9609,22 @@ Component
   
   .statistics-stats::before{
 	top: 50%;
-	left: -5%;
-	width: 110%;
+	left: 5%;
+	width: 93%;
 	height: 1px;
 	background: var(--text-clr-light);
   }
   
   .statistics-stats::after{
 	left: 50%;
-	top: -5%;
+	top: 12%;
 	width: 0.8px;
-	height: 110%;
+	height: 80%;
 	background: var(--text-clr-light);
   }
-  
+  .statistics-clientrev, .statistics-adspend, .statistics-maus,.statistics-roi{
+	text-align:center;
+  }
   .statistics-card::before{
 	content: '';
 	position: absolute;
@@ -10877,7 +10878,7 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 	font-size: 16px;
 	letter-spacing: 1px;
 	display: inline-block;
-	padding: 12px 40px;
+	padding: 12px 25px;
 	border-radius: 50px;
 	transition: 0.5s;
 	margin: 10px;
@@ -10919,8 +10920,22 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 	font-size:20px !important;
   }
   .whatwedodiv{
-	width: 20% !important;
 	padding:10px;
+  }
+  @media(min-width:800px){
+	.whatwedodiv{
+		width: 20%;
+	}
+  }
+  @media(max-width:799px) and (min-width:600px){
+	.whatwedodiv{
+		width: 33% 
+	}
+  }
+  @media(max-width:599px) {
+	.whatwedodiv{
+		width: 100% 
+	}
   }
   .whatwedodiv div img{
 	height:35vh;
@@ -10934,6 +10949,7 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 	text-align: center;
   }
 
+<<<<<<< HEAD
 
   /* Management showcase - Vivek and Raj */
 
@@ -11090,3 +11106,20 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 
 
     /* Management showcase - Vivek and Raj End */
+=======
+  @media(min-width:800px){
+	.image-about-page{
+		padding:50px;
+	  }
+  }
+  @media(max-width:799px) and (min-width:500px){
+	.image-about-page{
+		padding:30px;
+	  }
+  }
+  @media(min-width:499px){
+	.image-about-page{
+		padding:5px;
+	  }
+  }
+>>>>>>> a117301399be7bab211ff020af2c9a110bb8275c
