@@ -42,6 +42,264 @@
                             include "./shared/popup.php"
                         ?>
             </div>
+            <!---banner end--->
+
+            <!----what is stretch ceiling--->
+                <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
+                        <div class="gdlr-core-pbf-background-wrap"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first"
+                                    id="gdlr-core-column-5">
+                                    <div class="andcool gdlr-core-js " data-sync-height="height-1">
+                                        <div
+                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"
+                                                    style="padding-bottom: 25px ;"><span
+                                                        class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption"
+                                                        style="font-size: 21px ;font-weight: 700 ;font-style: normal ;color: #7f7f7f ;margin-bottom: 0px ;">Tell
+                                                        us what you want</span>
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title "
+                                                            style="font-size: 34px ;letter-spacing: 0px ;text-transform: none ;color: #111111 ;">
+                                                           What is Stretch Ceiling</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"
+                                                    style="padding-bottom: 10px ;">
+                                                    <div class="gdlr-core-text-box-item-content"
+                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
+                                                        <p>A stretch ceiling is a type of suspended ceiling system 
+                                                            that consists of a flexible membrane, typically made 
+                                                            of PVC (polyvinyl chloride) or polyester, stretched and 
+                                                            secured within a perimeter track system attached to 
+                                                            the walls of a room. The membrane is stretched tightly 
+                                                            across the ceiling area, creating a smooth and seamless surface.
+                                                            The installation process of a stretch ceiling involves 
+                                                            heating the membrane to make it pliable, then stretching it tautly over the ceiling framework and securing it in 
+                                                            place along the perimeter track. The excess material is 
+                                                            trimmed away, resulting in a flawless finish without visible seams or joints.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div
+                                                    class="gdlr-core-icon-list-item gdlr-core-item-pdlr gdlr-core-item-pdb clearfix ">
+                                                    <ul>
+                                                        <li class=" gdlr-core-skin-divider"><span
+                                                                class="gdlr-core-icon-list-icon-wrap"><i
+                                                                    class="gdlr-core-icon-list-icon icon_minus-06"></i></span>
+                                                            <div class="gdlr-core-icon-list-content-wrap"><span
+                                                                    class="gdlr-core-icon-list-content"
+                                                                    style="color: #afa09d ;font-size: 17px ;font-weight: 700 ;">Far
+                                                                    far away, behind the word</span></div>
+                                                        </li>
+                                                        <li class=" gdlr-core-skin-divider"><span
+                                                                class="gdlr-core-icon-list-icon-wrap"><i
+                                                                    class="gdlr-core-icon-list-icon icon_minus-06"></i></span>
+                                                            <div class="gdlr-core-icon-list-content-wrap"><span
+                                                                    class="gdlr-core-icon-list-content"
+                                                                    style="color: #afa09d ;font-size: 17px ;font-weight: 700 ;">Semantics,
+                                                                    a large language ocean</span></div>
+                                                        </li>
+                                                        <li class=" gdlr-core-skin-divider"><span
+                                                                class="gdlr-core-icon-list-icon-wrap"><i
+                                                                    class="gdlr-core-icon-list-icon icon_minus-06"></i></span>
+                                                            <div class="gdlr-core-icon-list-content-wrap"><span
+                                                                    class="gdlr-core-icon-list-content"
+                                                                    style="color: #afa09d ;font-size: 17px ;font-weight: 700 ;">Question
+                                                                    Marks and devious </span></div>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-30">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js think-btm"
+                                        style="margin: 0px 0px 0px 40px;padding: 100px 0px 0px 0px;"
+                                        data-sync-height="height-1">
+                                        <div class="gdlr-core-pbf-background-wrap">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
+                                                style="background-image: url(img/light/slide-61.png) ;background-repeat: no-repeat ;background-position: center left ;"
+                                                data-parallax-speed="0.08"></div>
+                                        </div>
+                                        <div
+                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div
+                                                    class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
+                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
+                                                        style="border-width: 0px;max-width: 530px ;"><img
+                                                            src="img/light/slide-6.png" alt="" width="730" height="730"
+                                                            title="ourservices3-img-bg-2" /></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            <!---what is end-->
+
+            <!--advantages-->
+            <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
+                        <div class="gdlr-core-pbf-background-wrap"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+
+                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js "
+                                        style="margin: 0px 30px 0px 0px;padding: 90px 0px 60px 0px;"
+                                        data-sync-height="height-3">
+                                        <div class="gdlr-core-pbf-background-wrap">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
+                                                style="background-image: url(img/light/img-bg-stretch.png) ;background-repeat: no-repeat ;background-position: bottom right ;"
+                                                data-parallax-speed="0.08"></div>
+                                        </div>
+                                        <div
+                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div
+                                                    class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align">
+                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
+                                                        style="border-width: 0px;max-width: 485px ;">
+                                                        <a class="gdlr-core-lightgallery gdlr-core-js "
+                                                            href="img/light/sky-transformed.png"><img
+                                                                src="img/light/sky-transformed.png" alt="" width="668"
+                                                                height="730" title="img-man-11" /><span
+                                                                class="gdlr-core-image-overlay "><i
+                                                                    class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-30 " id="gdlr-core-column-4">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js "
+                                        style="padding: 120px 0px 0px 0px;" data-sync-height="height-3">
+                                        <div
+                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
+                                                    style="padding-bottom: 7px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="..core-skin-title"
+                                                            style="font-size: 19px ;letter-spacing: 0px ;text-transform: none ;">
+                                                            Sound Absorption</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align"
+                                                    style="margin-bottom: 22px ;">
+                                                    <div class="gdlr-core-divider-container" style="max-width: 250px ;">
+                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider"
+                                                            style="border-color: #2676bc ;border-bottom-width: 3px ;">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"
+                                                    style="padding-bottom: 20px ;">
+                                                    <div class="gdlr-core-text-box-item-content"
+                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
+                                                        <p>Acoustic stretch ceilings are engineered to absorb sound and
+                                                            reduce
+                                                            reverberation in a
+                                                            room. This is particularly beneficial in spaces where
+                                                            controlling
+                                                            noise levels is important, such as offices, conference
+                                                            rooms,
+                                                            auditoriums, and theaters.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
+                                                    style="padding-bottom: 7px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="..core-skin-title"
+                                                            style="font-size: 19px ;letter-spacing: 0px ;text-transform: none ;">
+                                                            Materials </h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align"
+                                                    style="margin-bottom: 22px ;">
+                                                    <div class="gdlr-core-divider-container" style="max-width: 270px ;">
+                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider"
+                                                            style="border-color: #2676bc ;border-bottom-width: 3px ;">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"
+                                                    style="padding-bottom: 20px ;">
+                                                    <div class="gdlr-core-text-box-item-content"
+                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
+                                                        <p>The materials used in acoustic stretch ceilings
+                                                            are selected for their acoustic properties. These materials
+
+                                                            often include sound-absorbing fabrics or perforated
+
+                                                            membranes that contribute to sound absorption.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
+                                                    style="padding-bottom: 7px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="..core-skin-title "
+                                                            style="font-size: 19px ;letter-spacing: 0px ;text-transform: none ;">
+                                                            Design Options</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align"
+                                                    style="margin-bottom: 22px ;">
+                                                    <div class="gdlr-core-divider-container" style="max-width: 200px ;">
+                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider"
+                                                            style="border-color: #2676bc ;border-bottom-width: 3px ;">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div
+                                                    class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+                                                    <div class="gdlr-core-text-box-item-content"
+                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
+                                                        <p>Similar to regular stretch ceilings,
+                                                            acoustic stretch ceilings offer a wide range of design
+                                                            options.
+
+                                                            They can be customized in terms of print, colors, patterns,
+
+                                                            and textures, ensuring that the aesthetic requirements
+
+                                                            of a space are met.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!---advantaged end--->
             <div class="inteco-page-wrapper" id="inteco-page-wrapper">
                 <div class="gdlr-core-page-builder-body">
                     <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 55px 0px;">
@@ -434,257 +692,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
-                        <div class="gdlr-core-pbf-background-wrap"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first"
-                                    id="gdlr-core-column-5">
-                                    <div class="andcool gdlr-core-js " data-sync-height="height-1">
-                                        <div
-                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 25px ;"><span
-                                                        class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 21px ;font-weight: 700 ;font-style: normal ;color: #7f7f7f ;margin-bottom: 0px ;">Tell
-                                                        us what you want</span>
-                                                    <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title "
-                                                            style="font-size: 34px ;letter-spacing: 0px ;text-transform: none ;color: #111111 ;">
-                                                           What is Stretch Ceiling</h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"
-                                                    style="padding-bottom: 10px ;">
-                                                    <div class="gdlr-core-text-box-item-content"
-                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                        <p>A stretch ceiling is a type of suspended ceiling system 
-                                                            that consists of a flexible membrane, typically made 
-                                                            of PVC (polyvinyl chloride) or polyester, stretched and 
-                                                            secured within a perimeter track system attached to 
-                                                            the walls of a room. The membrane is stretched tightly 
-                                                            across the ceiling area, creating a smooth and seamless surface.
-                                                            The installation process of a stretch ceiling involves 
-                                                            heating the membrane to make it pliable, then stretching it tautly over the ceiling framework and securing it in 
-                                                            place along the perimeter track. The excess material is 
-                                                            trimmed away, resulting in a flawless finish without visible seams or joints.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-icon-list-item gdlr-core-item-pdlr gdlr-core-item-pdb clearfix ">
-                                                    <ul>
-                                                        <li class=" gdlr-core-skin-divider"><span
-                                                                class="gdlr-core-icon-list-icon-wrap"><i
-                                                                    class="gdlr-core-icon-list-icon icon_minus-06"></i></span>
-                                                            <div class="gdlr-core-icon-list-content-wrap"><span
-                                                                    class="gdlr-core-icon-list-content"
-                                                                    style="color: #afa09d ;font-size: 17px ;font-weight: 700 ;">Far
-                                                                    far away, behind the word</span></div>
-                                                        </li>
-                                                        <li class=" gdlr-core-skin-divider"><span
-                                                                class="gdlr-core-icon-list-icon-wrap"><i
-                                                                    class="gdlr-core-icon-list-icon icon_minus-06"></i></span>
-                                                            <div class="gdlr-core-icon-list-content-wrap"><span
-                                                                    class="gdlr-core-icon-list-content"
-                                                                    style="color: #afa09d ;font-size: 17px ;font-weight: 700 ;">Semantics,
-                                                                    a large language ocean</span></div>
-                                                        </li>
-                                                        <li class=" gdlr-core-skin-divider"><span
-                                                                class="gdlr-core-icon-list-icon-wrap"><i
-                                                                    class="gdlr-core-icon-list-icon icon_minus-06"></i></span>
-                                                            <div class="gdlr-core-icon-list-content-wrap"><span
-                                                                    class="gdlr-core-icon-list-content"
-                                                                    style="color: #afa09d ;font-size: 17px ;font-weight: 700 ;">Question
-                                                                    Marks and devious </span></div>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js think-btm"
-                                        style="margin: 0px 0px 0px 40px;padding: 100px 0px 0px 0px;"
-                                        data-sync-height="height-1">
-                                        <div class="gdlr-core-pbf-background-wrap">
-                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                                style="background-image: url(img/light/slide-61.png) ;background-repeat: no-repeat ;background-position: center left ;"
-                                                data-parallax-speed="0.08"></div>
-                                        </div>
-                                        <div
-                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
-                                                        style="border-width: 0px;max-width: 530px ;"><img
-                                                            src="img/light/slide-6.png" alt="" width="730" height="730"
-                                                            title="ourservices3-img-bg-2" /></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
-                        <div class="gdlr-core-pbf-background-wrap"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js "
-                                        style="margin: 0px 30px 0px 0px;padding: 90px 0px 60px 0px;"
-                                        data-sync-height="height-3">
-                                        <div class="gdlr-core-pbf-background-wrap">
-                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                                style="background-image: url(img/light/img-bg-stretch.png) ;background-repeat: no-repeat ;background-position: bottom right ;"
-                                                data-parallax-speed="0.08"></div>
-                                        </div>
-                                        <div
-                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align">
-                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
-                                                        style="border-width: 0px;max-width: 485px ;">
-                                                        <a class="gdlr-core-lightgallery gdlr-core-js "
-                                                            href="img/light/sky-transformed.png"><img
-                                                                src="img/light/sky-transformed.png" alt="" width="668"
-                                                                height="730" title="img-man-11" /><span
-                                                                class="gdlr-core-image-overlay "><i
-                                                                    class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30 " id="gdlr-core-column-4">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js "
-                                        style="padding: 120px 0px 0px 0px;" data-sync-height="height-3">
-                                        <div
-                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 7px ;">
-                                                    <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="..core-skin-title"
-                                                            style="font-size: 19px ;letter-spacing: 0px ;text-transform: none ;">
-                                                            Sound Absorption</h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align"
-                                                    style="margin-bottom: 22px ;">
-                                                    <div class="gdlr-core-divider-container" style="max-width: 250px ;">
-                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider"
-                                                            style="border-color: #2676bc ;border-bottom-width: 3px ;">
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"
-                                                    style="padding-bottom: 20px ;">
-                                                    <div class="gdlr-core-text-box-item-content"
-                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                        <p>Acoustic stretch ceilings are engineered to absorb sound and
-                                                            reduce
-                                                            reverberation in a
-                                                            room. This is particularly beneficial in spaces where
-                                                            controlling
-                                                            noise levels is important, such as offices, conference
-                                                            rooms,
-                                                            auditoriums, and theaters.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 7px ;">
-                                                    <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="..core-skin-title"
-                                                            style="font-size: 19px ;letter-spacing: 0px ;text-transform: none ;">
-                                                            Materials </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align"
-                                                    style="margin-bottom: 22px ;">
-                                                    <div class="gdlr-core-divider-container" style="max-width: 270px ;">
-                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider"
-                                                            style="border-color: #2676bc ;border-bottom-width: 3px ;">
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"
-                                                    style="padding-bottom: 20px ;">
-                                                    <div class="gdlr-core-text-box-item-content"
-                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                        <p>The materials used in acoustic stretch ceilings
-                                                            are selected for their acoustic properties. These materials
-
-                                                            often include sound-absorbing fabrics or perforated
-
-                                                            membranes that contribute to sound absorption.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 7px ;">
-                                                    <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="..core-skin-title "
-                                                            style="font-size: 19px ;letter-spacing: 0px ;text-transform: none ;">
-                                                            Design Options</h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align"
-                                                    style="margin-bottom: 22px ;">
-                                                    <div class="gdlr-core-divider-container" style="max-width: 200px ;">
-                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider"
-                                                            style="border-color: #2676bc ;border-bottom-width: 3px ;">
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                                    <div class="gdlr-core-text-box-item-content"
-                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                        <p>Similar to regular stretch ceilings,
-                                                            acoustic stretch ceilings offer a wide range of design
-                                                            options.
-
-                                                            They can be customized in terms of print, colors, patterns,
-
-                                                            and textures, ensuring that the aesthetic requirements
-
-                                                            of a space are met.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
+                    
                 </div>
             </div>
                 <?php

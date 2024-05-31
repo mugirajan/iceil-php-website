@@ -38,6 +38,93 @@
                             include "./shared/popup.php"
                         ?>
                     </div>
+                    <!---banner end--->
+
+                    <!---client team--->
+                    <div class="clients-section">
+                        <h4 class="text-center pb-4">Our Client</h4>
+                        <div class="container-fluid">
+                            <div class="">
+                                <div class="">
+                                    <div class="clients-container">
+                                        <ul class="clients clients-border d-flex">
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Apaart.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/archicon engineers.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Arrowoods.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Aura Electric.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/light craft.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/well and wall.png">
+                                            </li>
+                                        </ul>
+                                        <ul class="clients clients-border d-flex">
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/blue jay.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/blue key.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Brand it Hyderabad.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/chandni lites.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Easysigns.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/lighting era.png">
+                                            </li>
+                                        </ul>
+                                        <ul class="clients clients-border d-flex">
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/gazella interiors.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Infinite Ceiling.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Intimate Spacess.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/jm decor.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Lights Gallery.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Viswam Interiors.png">
+                                            </li>
+                                        </ul>
+                                        <ul class="clients clients-border d-flex">
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/LIGHTING PALACE.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/lightzart.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Millenium Spaces.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Orchid Interiors.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Pragathi Interiors.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Pyramid Interiors.png">
+                                            </li>
+                                        </ul>
+                                        <ul class="clients clients-border d-flex">
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Rightwork Decor.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/RK Enterprises Jaipur.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/Rk Enterprises Trichy.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/sairam enterprises.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/The Sign Co.png">
+                                            </li>
+                                            <li><img class="img-responsive" alt="Clients" src="img/client-image/TM GLobal - Bangalore.png">
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!---client team end--->
+
+
                     <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
                         <div class="gdlr-core-pbf-background-wrap" style="background-color: #202020 ;"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js  main-layout-banner">

@@ -10964,3 +10964,20 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 		padding:5px;
 	  }
   }
+  /*CONTACT US franchise section*/
+.clients-section{
+	width:90%;
+	margin:0 auto;
+	padding:5rem 0 8rem 0;
+}
+.clients-border li img{
+	width:80%;
+	margin:0 auto;
+}
+.clients-border li {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	width:15%;
+}
+   /*CONTACT US franchise end*/

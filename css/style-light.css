@@ -505,18 +505,26 @@ a, a:hover {
 }
 
 .mry-app .mry-top-panel .mry-logo-frame .mry-logo {
-	width: 100%;
-	padding:20px 20px 10px 20px;
+	width: 70%;
+	/* padding:20px 20px 10px 20px; */
     height: 100%;
 }
 .mry-app .mry-top-panel .mry-logo-frame a{
-	background-color: white;
-	border-radius:0px 0px 50px 50px;
+	margin-top: -2px;
+	padding: 20px;
+    justify-content: center;
+    display: flex;
+    width: 50%;
+    background-color: white;
+    border-radius: 0px 0px 50px 50px;
 
 }
 
 @media(max-width:799px) and (min-width:600px){
 	.mry-app .mry-top-panel .mry-logo-frame a{
+		padding: 20px;
+    	justify-content: center;
+    	display: flex;
 		margin-top:-40px;
 		background-color: white;
 		border-radius:0px 0px 50px 50px;
