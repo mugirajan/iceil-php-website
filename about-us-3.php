@@ -98,7 +98,7 @@
                     <!--our story end-->
                     
                     <!--card-bgimage start-->
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 110px 0px 100px 0px;" id="gdlr-core-wrapper-2">
+                    <div class="gdlr-core-pbf-wrapper d-none " style="padding: 110px 0px 100px 0px;" id="gdlr-core-wrapper-2">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(https://img.freepik.com/free-photo/shot-panoramic-composition-living-room_23-2150315635.jpg?t=st=1711361588~exp=1711365188~hmac=3af751175f87a5351d1e1d2612a251e16cdf8ddfe897f118f8ccfa5255c2ccbc&w=996) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.2"></div>
                         </div>
@@ -261,6 +261,62 @@
                     </div>
                     <!--ourvission mission end--> 
 
+                    <!-- Management Showcase Vivek and Raj -->
+
+                    <section id="teamiceil" class="teamiceil section-bg">
+  <div class="container-for-team" data-aos="fade-up">
+
+    <div class="section-title">
+      <h2>Team</h2>
+      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+    </div>
+
+    <div class="row">
+
+      <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
+        <div class="member d-flex align-items-start">
+          <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
+          <div class="member-info">
+            <h4>Vivek</h4>
+            <span>Chief Executive Officer</span>
+            <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+            <div class="social">
+              <a href=""><i class="ri-twitter-fill"></i></a>
+              <a href=""><i class="ri-facebook-fill"></i></a>
+              <a href=""><i class="ri-instagram-fill"></i></a>
+              <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
+        <div class="member d-flex align-items-start">
+          <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
+          <div class="member-info">
+            <h4>Raj</h4>
+            <span>Product Manager</span>
+            <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+            <div class="social">
+              <a href=""><i class="ri-twitter-fill"></i></a>
+              <a href=""><i class="ri-facebook-fill"></i></a>
+              <a href=""><i class="ri-instagram-fill"></i></a>
+              <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      
+
+    </div>
+
+  </div>
+</section><!-- End Team Section -->
+
+                    <!-- Management Showcase Vivek and Raj end -->
+
                     <!--why choose us start-->
                     <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
                         <div class="gdlr-core-pbf-background-wrap" style="background-color: #f7f7f7 ;"></div>
@@ -406,7 +462,7 @@
                     <!--commitment end-->
                    
                      <!--category start-->
-                     <div class="box-wrapper">
+                     <div class="box-wrapper d-none">
                         <figure class="shape-box shape-box_half">
                             <img src="img/project-gallery/Di8-wsMW4AEs98X.jpg" alt="">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
@@ -539,8 +595,8 @@
                     <!--counter section end-->
 
                     <!--testi start-->
-                    <div class="testimonials-sec"></div>
-                    <section id="testim" class="testim" >
+                    <div class="testimonials-sec d-none"></div>
+                    <section id="testim" class="testim d-none" >
                         <div class="wrap">
                             <span id="right-arrow" class="arrow right fa fa-chevron-right"></span>
                             <span id="left-arrow" class="arrow left fa fa-chevron-left "></span>
