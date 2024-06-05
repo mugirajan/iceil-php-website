@@ -119,7 +119,7 @@
                                                 style="border-width: 0px;">
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="upload/icon-1122.png"><img src="upload/icon-1122.png" alt=""
-                                                        width="45" height="45" title="icon-1122" /></a>
+                                                        width="45" height="45" title="acoustic" /></a>
                                             </div>
                                         </div>
                                     </div>
@@ -153,7 +153,7 @@
                                                 style="border-width: 0px;">
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="upload/icon-2-1.png"><img src="upload/icon-2-1.png" alt=""
-                                                        width="59" height="46" title="icon-2" /></a>
+                                                        width="59" height="46" title="acoustic" /></a>
                                             </div>
                                         </div>
                                     </div>
@@ -188,7 +188,7 @@
                                                 style="border-width: 0px;">
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="upload/icon-1.png"><img src="upload/icon-1.png" alt=""
-                                                        width="49" height="48" title="icon-1" /></a>
+                                                        width="49" height="48" title="acoustic" /></a>
                                             </div>
                                         </div>
                                     </div>
@@ -220,7 +220,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="upload/hp6-flower-1.png" alt="" width="344" height="500" title="hp6-flower" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="upload/hp6-flower-1.png" alt="" width="344" height="500" title="acoustic" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -231,7 +231,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 25px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/hp6-service-1.png" alt="" width="44" height="44" title="hp6-service-1" /></div>
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/hp6-service-1.png" alt="" width="44" height="44" title="acoustic" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Sound Absorption</h3></div>
@@ -243,7 +243,7 @@
                                     </div>
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 25px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/hp6-service-3.png" alt="" width="47" height="40" title="hp6-service-3" /></div>
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/hp6-service-3.png" alt="" width="47" height="40" title="acoustic" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Materials</h3></div>
@@ -261,7 +261,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 25px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-top: 3px;"><img src="upload/hp6-service-2.png" alt="" width="40" height="40" title="hp6-service-2" /></div>
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-top: 3px;"><img src="upload/hp6-service-2.png" alt="" width="40" height="40" title="acoustic" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Design Options</h3></div>
@@ -273,7 +273,7 @@
                                     </div>
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 22px;"><img src="upload/hp6-service-4.png" alt="" width="32" height="44" title="hp6-service-4" /></div>
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 22px;"><img src="upload/hp6-service-4.png" alt="" width="32" height="44" title="acoustic" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Improved Speech Intelligibility</h3></div>
@@ -288,101 +288,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-       
-            <!--stretch image start-->
-            <!-- <div class="gdlr-core-pbf-wrapper ">
-                <div class="gdlr-core-pbf-background-wrap">
-                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                </div>
-                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                        <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-2">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;padding: 80px 0px 0px 0px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">Library</span>
-                                            <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 34px ;letter-spacing: 0px ;text-transform: none ;">Acoustic stretch ceilings</h3></div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" style="margin-bottom: 45px ;margin-right: -148px;">
-                                            <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d6c5c2 ;"></div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>Lacquer ceilings can reflect light beautifully, giving rooms a luminous and sophisticated appearance. They are also relatively easy to clean and maintain, making them a popular choice for spaces where hygiene and aesthet- ics are both important.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 75px 0px 0px;padding: 20px 0px 0px 0px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="https://img.freepik.com/free-photo/girl-sitting-table-looking-notebook_23-2147657343.jpg?t=st=1711980884~exp=1711984484~hmac=0c5de2f34440ab13b1c182845c3c8ff3cc01b4396cec9be08a6c307666f010fb&w=740" alt="" width="600" height="600" title="jean-philippe-delberghe-660138-unsplash" /></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="gdlr-core-pbf-wrapper ">
-                <div class="gdlr-core-pbf-background-wrap">
-                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                </div>
-                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column">
-                        <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-3">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 60px 0px 0px;padding: 0px 0px 0px 0px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="https://img.freepik.com/free-photo/room-interior-design_23-2148899437.jpg?t=st=1711981185~exp=1711984785~hmac=ae29c1c7509c0204047c16ab6e9be53dee8df889f66f2abd05f0737b34f216ff&w=740" alt="" width="600" height="600" title="armin-djuhic-609206-unsplash" /></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-4">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 120px 0px 0px;padding: 105px 0px 0px 0px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">Commercial Showroom</span>
-                                            <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 34px ;letter-spacing: 0px ;text-transform: none ;">Acoustic stretch ceilings</h3></div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align" style="margin-bottom: 45px ;margin-left: -98px">
-                                            <div class="gdlr-core-divider-container" style="max-width: 355px ;">
-                                                <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d6c5c2 ;"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>Lacquer stretch ceilings add a touch of modern elegance to any space, effort- lessly combining style with functionality.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-            </div> -->
-            <!--stretch image end-->
-            
+            </div>            
            
 
             <!--gallery start-->

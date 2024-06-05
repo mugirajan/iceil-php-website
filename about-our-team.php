@@ -206,7 +206,7 @@
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                                 <a><img src="img/light/chennai.jpeg" alt="" width="600" height="718"
-                                                                        title="personnel-1-1" /></a>
+                                                                        title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -232,7 +232,7 @@
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                                 <a><img src="img/light/hyderabad.jpeg" alt="" width="600"
-                                                                        height="718" title="personnel-2-1" /></a>
+                                                                        height="718" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -259,7 +259,7 @@
                                                             <div
                                                                 class="image-for-partner gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                                 <a><img src="img/light/kolkata.jpeg" alt="" width="600" height="718"
-                                                                        title="personnel-3-1" /></a>
+                                                                        title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -284,7 +284,7 @@
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                                 <a><img src="img/light/coimbatore1.png" alt="" width="600"
-                                                                        height="718" title="personnel-4-1" /></a>
+                                                                        height="718" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -310,7 +310,7 @@
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                                 <a><img src="img/light/bubaneshwar.jpeg" alt="" width="600"
-                                                                        height="718" title="personnel-5-1" /></a>
+                                                                        height="718" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -336,7 +336,7 @@
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                                 <a><img src="img/light/goa.jpeg" alt="" width="600" height="718"
-                                                                        title="personnel-6-1" /></a>
+                                                                        title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -362,7 +362,7 @@
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                                 <a><img src="img/light/thirunelveli.jpeg" alt="" width="600"
-                                                                        height="718" title="personnel-7-1" /></a>
+                                                                        height="718" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -388,7 +388,7 @@
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                                 <a><img src="img/light/kochi.jpeg" alt="" width="600" height="718"
-                                                                        title="personnel-8-1" /></a>
+                                                                        title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -414,7 +414,7 @@
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                                 <a><img src="images/guwahati-tour.jpg" alt="" width="600" height="718"
-                                                                        title="personnel-6-1" /></a>
+                                                                        title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -444,7 +444,7 @@
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                                 <a><img src="images/trichy.png" alt="" width="600"
-                                                                        height="718" title="personnel-7-1" /></a>
+                                                                        height="718" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -472,7 +472,7 @@
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                                 <a><img src="images/banglore.jpg" alt="" width="600" height="718"
-                                                                        title="personnel-8-1" /></a>
+                                                                        title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -500,7 +500,7 @@
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                                 <a><img src="images/banglore-outside.jpg" alt="" width="600" height="718"
-                                                                        title="personnel-8-1" /></a>
+                                                                        title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -530,7 +530,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/delhi.jpg" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"
@@ -558,7 +558,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/hubli-dharwad-tour-packages-500x500.webp" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"
@@ -586,7 +586,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/madurai-temple-1.jpg" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"
@@ -612,7 +612,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/mohali.jpg" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"
@@ -640,7 +640,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/visakhapatnam.avif" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"
@@ -669,7 +669,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/banglore.jpg" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"
@@ -701,7 +701,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/calicut.webp" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"
@@ -733,7 +733,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/Vijayawada.jpg" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"
@@ -765,7 +765,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/erode.jpg" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"
@@ -795,7 +795,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/vellore.webp" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"
@@ -825,7 +825,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/thiruvandram.jpg" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"
@@ -855,7 +855,7 @@
                                                         <div
                                                             class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
                                                             <a><img src="images/SALEM.jpg" alt="" width="600" height="718"
-                                                                    title="personnel-8-1" /></a>
+                                                                    title="address" /></a>
                                                         </div>
                                                         <div class="gdlr-core-personnel-list-content-wrap">
                                                             <h3 class="gdlr-core-personnel-list-title"

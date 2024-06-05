@@ -10587,6 +10587,7 @@ height:35vh;
 	padding:3rem 0 0 0;
 }
 .image-profile-stretch-spcl img{
+	width: 80%;
 	height:35vh;
 }
 
@@ -10617,6 +10618,12 @@ height:35vh;
 	justify-content: center;
 	align-items: center;
 	margin:0 auto;
+}
+.image-snip-boxing-img img{
+	width:100%;
+}
+.image-snip-boxing-img{
+	width:25%;
 }
 
 /*profile-acoustic*/
@@ -10949,7 +10956,7 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 	text-align: center;
   }
 
-<<<<<<< HEAD
+
 
   /* Management showcase - Vivek and Raj */
 
@@ -11106,7 +11113,7 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 
 
     /* Management showcase - Vivek and Raj End */
-=======
+
   @media(min-width:800px){
 	.image-about-page{
 		padding:50px;
@@ -11122,7 +11129,7 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 		padding:5px;
 	  }
   }
-<<<<<<< HEAD
+
   /*CONTACT US franchise section*/
 .clients-section{
 	width:90%;
@@ -11140,6 +11147,4 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 	width:15%;
 }
    /*CONTACT US franchise end*/
-=======
->>>>>>> a117301399be7bab211ff020af2c9a110bb8275c
->>>>>>> 64ff960c7e4f9186754ac5f551985e2979962b7f
+

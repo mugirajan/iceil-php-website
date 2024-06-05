@@ -20,9 +20,9 @@
   }
 </style>
 </head>
-<?php
-  include "./shared/navbar.php"
-?>
+        <?php
+            include "./shared/navbar.php"
+        ?>
                 <!--banner start-->
                 <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
                     style="height:75vh;background-image:url(img/light/DPS_stretch_ceilings_corporate_34.jpg)">
@@ -50,79 +50,80 @@
                         <div class="row">
                             <div class="col-lg-3 col-md-6 col-sm-12">
                                 <div class="image-profile-stretch-spcl">
-                                    <img src="img/snip/snip-1-removebg-preview.png">
+                                    <img src="img/profile-installation/h.jpeg">
                                 </div>
-                                <h6 class="text-center">H Profile</h6>
+                                <!-- <h6 class="text-center">H Profile</h6> -->
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-12">
                                 <div class="image-profile-stretch-spcl">
-                                    <img src="img/snip/snip-2-removebg-preview.png">
+                                    <img src="img/profile-installation/f.jpeg">
                                 </div>
-                                <h6 class="text-center">F Profile</h6>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-12">
                                 <div class="image-profile-stretch-spcl">
-                                    <img src="img/snip/snip-3-removebg-preview.png">
+                                    <img src="img/profile-installation/w.jpeg">
                                 </div>
-                                <h6 class="text-center">W Profile</h6>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-12">
                                 <div class="image-profile-stretch-spcl">
-                                    <img src="img/snip/snip-4-removebg-preview.png">
+                                    <img src="img/profile-installation/m.jpeg">
                                 </div>
-                                <h6 class="text-center">M Profile</h6>
                             </div>
                         </div>
                     </div>
                 </section>
 
-                <section class="boxing-section-profile-page">
-                    <h4 class="text-center">Stretch Light Box</h4>
-                    <div class="image-snip-boxing">
-                        <img src="img/snip/boxing.PNG">
-                        <!-- <div class="d-flex-for-profile">
-                            <div class="div-profile">
-                              <p>Small package</p>  
+                <!--stretch box-->
+                <section class="stretch-fabric-profile">
+                    <h4 class="text-center mt-5">Stretch Light Box</h4>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-6 col-sm-12">
+                                    <div class="image-profile-stretch">
+                                        <img src="img/stretch-light-box/fourty.jpeg">
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 col-sm-12">
+                                    <div class="image-profile-stretch">
+                                        <img src="img/stretch-light-box/seventy.jpeg">
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 col-sm-12">
+                                    <div class="image-profile-stretch">
+                                        <img src="img/stretch-light-box/hundred.jpeg">
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 col-sm-12">
+                                    <div class="image-profile-stretch">
+                                        <img src="img/stretch-light-box/stretch.jpeg">
+                                    </div>
+                                </div>
                             </div>
-                            <div class="div-profile">
-                                <p>Easily assembled</p>  
-                              </div>
-                            <div class="div-profile">
-                                <p>Portable, No Tool, Durable</p>  
-                            </div>
-                            <div class="div-profile">
-                                <p>Energy-efficient LED Rigid bar</p>  
-                            </div>
-                            <div class="div-profile">
-                                <p>Single and double sided versions</p>  
-                            </div>
-                            <div class="div-profile">
-                                <p>Adjustable ceiling hanger with cable</p>  
-                            </div>
-                              <div class="div-profile">
-                                <p>Frameless edge with a tension stretch fabric graphics</p>  
-                            </div>
-                        </div> -->
-                    </div><br>
+                        </div>
+                        
+                    </div>
                 </section>
+                <!--stretch box-->
 
+                <!--Profile install-->
                 <section class="stretch-fabric-profile">
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="row">
                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                     <div class="image-profile-stretch">
-                                        <img src="img/project-gallery/stretch-profile-1.PNG">
+                                        <img src="img/profile-installation/01.png">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                     <div class="image-profile-stretch">
-                                        <img src="img/project-gallery/stretch-profile-2.PNG">
+                                        <img src="img/profile-installation/02.png">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                     <div class="image-profile-stretch">
-                                        <img src="img/project-gallery/stretch-profile-5.PNG">
+                                        <img src="img/profile-installation/03.png">
                                     </div>
                                 </div>
                             </div>
@@ -132,20 +133,14 @@
                                 
                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                     <div class="image-profile-stretch">
-                                        <img src="img/project-gallery/stretch-fabric-6.PNG">
-                                    </div>
-                                </div> 
-                                <div class="col-lg-4 col-md-4 col-sm-12">
-                                    <div class="image-profile-stretch">
-                                        <img src="img/project-gallery/stretch-profile-3.PNG">
+                                        <img src="img/profile-installation/04.png">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                     <div class="image-profile-stretch">
-                                        <img src="img/project-gallery/stretch-profile-4.PNG">
+                                        <img src="img/profile-installation/05.png">
                                     </div>
                                 </div>
-                              
                                
                             </div>
                         </div>
@@ -154,11 +149,10 @@
                     <!-- <button class="my-3 third"><a href="profile-installation.php">Click To Installation Page</a></button> -->
 
                 </section>
+                <!--Profile install-->
 
-                <!--boxing-->
-
-                  <!--steps-->
-                  <section class="steps-for-profiles">
+                <!--steps-->
+                <section class="steps-for-profiles">
                     <div class="div-for-steps">
                         <h4 class="text-center">Installation Steps</h4>
                         <div class="row">
@@ -208,6 +202,7 @@
                         </div>
                     </div>
                 </section>
+                <!--steps-->
             
                 <?php
                    include "./shared/footer.php"

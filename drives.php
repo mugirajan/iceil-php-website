@@ -266,7 +266,7 @@
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="img/Capture-removebg-preview (1).png"><img
                                                         src="img/Capture-removebg-preview (1).png" alt=""
-                                                         title="img-man-11" /><span
+                                                         title="Drive" /><span
                                                         class="gdlr-core-image-overlay "><i
                                                             class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
                                             </div>
@@ -504,7 +504,7 @@
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="img/Capture-removebg-preview (1).png"><img
                                                         src="img/Capture-removebg-preview (1).png" alt=""
-                                                         title="img-man-11" /><span
+                                                         title="Drive" /><span
                                                         class="gdlr-core-image-overlay "><i
                                                             class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
                                             </div>
@@ -540,7 +540,7 @@
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="img/Capture-removebg-preview (1).png"><img
                                                         src="img/Capture-removebg-preview (1).png" alt=""
-                                                         title="img-man-11" /><span
+                                                         title="Drive" /><span
                                                         class="gdlr-core-image-overlay "><i
                                                             class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
                                             </div>
@@ -778,7 +778,7 @@
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="img/Capture-removebg-preview (1).png"><img
                                                         src="img/Capture-removebg-preview (1).png" alt=""
-                                                         title="img-man-11" /><span
+                                                         title="Drive" /><span
                                                         class="gdlr-core-image-overlay "><i
                                                             class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
                                             </div>
@@ -813,7 +813,7 @@
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="img/Capture-removebg-preview (1).png"><img
                                                         src="img/Capture-removebg-preview (1).png" alt=""
-                                                         title="img-man-11" /><span
+                                                         title="Drive" /><span
                                                         class="gdlr-core-image-overlay "><i
                                                             class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
                                             </div>

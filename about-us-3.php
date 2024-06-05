@@ -262,58 +262,58 @@
                     <!--ourvission mission end--> 
 
                     <!-- Management Showcase Vivek and Raj -->
+                    <!-- Team Section -->
+                    <section id="teamiceil" class="d-none teamiceil section-bg">
+                        <div class="container-for-team" data-aos="fade-up">
 
-                    <section id="teamiceil" class="teamiceil section-bg">
-  <div class="container-for-team" data-aos="fade-up">
+                            <div class="section-title">
+                            <h2>Team</h2>
+                            </div>
 
-    <div class="section-title">
-      <h2>Team</h2>
-      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-    </div>
+                            <div class="row">
 
-    <div class="row">
+                            <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
+                                <div class="member d-flex align-items-start">
+                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
+                                <div class="member-info">
+                                    <h4>Vivek</h4>
+                                    <span>Chief Executive Officer</span>
+                                    <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                                    <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
 
-      <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
-        <div class="member d-flex align-items-start">
-          <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
-          <div class="member-info">
-            <h4>Vivek</h4>
-            <span>Chief Executive Officer</span>
-            <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
-            <div class="social">
-              <a href=""><i class="ri-twitter-fill"></i></a>
-              <a href=""><i class="ri-facebook-fill"></i></a>
-              <a href=""><i class="ri-instagram-fill"></i></a>
-              <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
-        <div class="member d-flex align-items-start">
-          <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
-          <div class="member-info">
-            <h4>Raj</h4>
-            <span>Product Manager</span>
-            <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
-            <div class="social">
-              <a href=""><i class="ri-twitter-fill"></i></a>
-              <a href=""><i class="ri-facebook-fill"></i></a>
-              <a href=""><i class="ri-instagram-fill"></i></a>
-              <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-            </div>
-          </div>
-        </div>
-      </div>
+                            <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
+                                <div class="member d-flex align-items-start">
+                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
+                                <div class="member-info">
+                                    <h4>Raj</h4>
+                                    <span>Product Manager</span>
+                                    <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                                    <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
 
 
-      
+                            
 
-    </div>
+                            </div>
 
-  </div>
-</section><!-- End Team Section -->
+                        </div>
+                    </section>
+                    <!-- End Team Section -->
 
                     <!-- Management Showcase Vivek and Raj end -->
 
@@ -357,7 +357,7 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image"
                                                         style="margin-top: 10px;margin-right: 30px;"><img
                                                             src="upload/columsvc-icon-1.png" alt="" width="37"
-                                                            height="37" title="columsvc-icon-1" /></div>
+                                                            height="37" title="Accountability" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap"
                                                             style="margin-bottom: 10px ;">
@@ -381,7 +381,7 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image"
                                                         style="margin-top: 10px;margin-right: 25px;"><img
                                                             src="upload/columsvc-icon-2.png" alt="" width="46"
-                                                            height="46" title="columsvc-icon-2" /></div>
+                                                            height="46" title="Customer Centric" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap"
                                                             style="margin-bottom: 10px ;">
@@ -409,7 +409,7 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image"
                                                         style="margin-top: 10px;margin-right: 27px;margin-bottom:  0;">
                                                         <img src="upload/columsvc-icon-3.png" alt="" width="42"
-                                                            height="41" title="columsvc-icon-3" /></div>
+                                                            height="41" title="Renew and Improve" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap"
                                                             style="margin-bottom: 10px ;">
@@ -433,7 +433,7 @@
                     <!--why choose us end-->
                     
                     <!--commitment start-->
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 68px 0px 0px 0px;">
+                    <div class="gdlr-core-pbf-wrapper d-none" style="padding: 68px 0px 0px 0px;">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -655,7 +655,7 @@
                     
                     <!--testi end-->
 
-                    <div class="gdlr-core-pbf-wrapper mar-gin-top" style="padding: 80px 0px 80px 0px;" data-skin="Brown Divider">
+                    <div class="d-none gdlr-core-pbf-wrapper mar-gin-top" style="padding: 80px 0px 80px 0px;" data-skin="Brown Divider">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(img/project-gallery/hp1-service-bg.webp) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.2"></div>
                         </div>
@@ -681,7 +681,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="gdlr-core-pbf-wrapper " style="margin:-110px 0px 50px 0px;padding: 0px 0px 30px 0px;">
+                    <div class="d-none gdlr-core-pbf-wrapper " style="margin:-110px 0px 50px 0px;padding: 0px 0px 30px 0px;">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container d-flex">
@@ -727,7 +727,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 100px 0px 30px 0px;max-width: 1320px ;" id="gdlr-core-wrapper-6">
+                    <div class="gdlr-core-pbf-wrapper " style="margin-top:50px;padding: 100px 0px 30px 0px;max-width: 1320px ;" id="gdlr-core-wrapper-6">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-wrapper-bg-overlay gdlr-core-pos-left " style="background-image: url(img/project-gallery/Stretch-Ceilings-Ltd_RFU-2104_1000x667.jpg) ;background-position:center;margin-right: -540px;margin-bottom: 110px;margin-left: -600px;"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">

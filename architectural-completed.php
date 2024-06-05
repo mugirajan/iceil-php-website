@@ -95,22 +95,22 @@
                                         <div class="gdlr-core-gallery-item-holder gdlr-core-js-2 clearfix" data-layout="fitrows">
                                             <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-15 gdlr-core-column-first">
                                                 <div class="gdlr-core-gallery-list gdlr-core-media-image width-for-archi-image">
-                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/01 (1).jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/01 (1).jpg" alt="" width="630" height="501" title="shutterstock_543421996" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
+                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/01 (1).jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/01 (1).jpg" alt="" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-15">
                                                 <div class="gdlr-core-gallery-list gdlr-core-media-image width-for-archi-image">
-                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/07 (1).jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/07 (1).jpg" alt="" width="630" height="501" title="shutterstock_561468493" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
+                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/07 (1).jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/07 (1).jpg" alt="" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-15">
                                                 <div class="gdlr-core-gallery-list gdlr-core-media-image width-for-archi-image">
-                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/03.jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/03.jpg" alt="" width="630" height="501" title="shutterstock_631879034" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
+                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/03.jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/03.jpg" alt="" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-15">
                                                 <div class="gdlr-core-gallery-list gdlr-core-media-image width-for-archi-image">
-                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/05.jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/05.jpg" alt="" width="630" height="501" title="kara-michelle-544960-unsplash" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
+                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/05.jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/05.jpg" alt="" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
                                                 </div>
                                             </div>
                                         </div>

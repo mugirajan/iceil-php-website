@@ -25,7 +25,7 @@
 
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height:75vh;background-image:url(https://img.freepik.com/free-photo/circle-sign-cafes-restaurants_53876-123100.jpg?t=st=1711981634~exp=1711985234~hmac=a640fbdc0699fad590f9fc93aedd90cb13bab6b699de93399b9284d6e636348b&w=740)">
+                style="height:75vh;background-image:url(img/drive-profile-lighting/oversized-ring-pendant-lights-lodge.jpg)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
@@ -104,7 +104,7 @@
 
             <div class="gdlr-core-pbf-wrapper " style="padding: 366px 0px 30px 0px;" id="gdlr-core-wrapper-5">
                 <div class="gdlr-core-pbf-background-wrap">
-                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.3"></div>
+                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(img/drive-profile-lighting/Transferwise_ceiling_Estonia.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.3"></div>
                 </div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container"></div>
@@ -202,8 +202,8 @@
                 </div>
             </div>
 
-            <!--gallery start-->
-            <div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
+             <!--gallery start-->
+             <div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
                 <div class="gdlr-core-pbf-background-wrap"></div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -221,69 +221,50 @@
                                     <div class="container-gallery">
                                       <div class="card-gallery">
                                         <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-30.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-30.png" alt="Image Gallery">
+                                          <a href="img/drive-profile-lighting/[37]prolicht-supergjpg.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
+                                            <img src="img/drive-profile-lighting/[37]prolicht-supergjpg.jpg" alt="Image Gallery">
                                           </a>
                                         </div>
                                       </div>
                                       <div class="card-gallery">
                                         <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-29.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-29.png" alt="Image Gallery">
+                                          <a href="img/drive-profile-lighting/Modern-Gym-Lighting-Curved-Profile-LED-Pendant-Light-with-Circle-Shape-Curved-Shape-Custom-Made.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
+                                            <img src="img/drive-profile-lighting/Modern-Gym-Lighting-Curved-Profile-LED-Pendant-Light-with-Circle-Shape-Curved-Shape-Custom-Made.jpg" alt="Image Gallery">
                                           </a>
                                         </div>
                                       </div>
                                       <div class="card-gallery">
                                         <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-28.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-28.png" alt="Image Gallery">
+                                          <a href="img/drive-profile-lighting/Customized-Curve-Bent-Profile-Light-Oval-S-Ring-Rectangle-Square-Wave-Shape-Option-LED-Profile-Linear-Light-for-Gym-Playground.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
+                                            <img src="img/drive-profile-lighting/Customized-Curve-Bent-Profile-Light-Oval-S-Ring-Rectangle-Square-Wave-Shape-Option-LED-Profile-Linear-Light-for-Gym-Playground.jpg" alt="Image Gallery">
                                           </a>
                                         </div>
                                       </div>
                                       <div class="card-gallery">
                                         <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-46.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-46.png" alt="Image Gallery">
+                                          <a href="img/drive-profile-lighting/oversized-ring-pendant-lights-lodge.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
+                                            <img src="img/drive-profile-lighting/oversized-ring-pendant-lights-lodge.jpg" alt="Image Gallery">
                                           </a>
                                         </div>
                                       </div>
                                       <div class="card-gallery">
                                         <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-45.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-45.png" alt="Image Gallery">
+                                          <a href="img/drive-profile-lighting/pro_mandarin_superg_01.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
+                                            <img src="img/drive-profile-lighting/pro_mandarin_superg_01.jpg" alt="Image Gallery">
                                           </a>
                                         </div>
                                       </div>
                                       <div class="card-gallery">
                                         <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-44.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-44.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-43.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-43.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-42.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-42.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-41.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-41.png" alt="Image Gallery">
+                                          <a href="img/drive-profile-lighting/The-Mazery-Helix2.jpgg" data-fancybox="gallery" data-caption="Caption Images 1">
+                                            <img src="img/drive-profile-lighting/The-Mazery-Helix2.jpg" alt="Image Gallery">
                                           </a>
                                         </div>
                                       </div>
                                     </div>
-                                  </main>
+                                </main>
+                                <!--gallery-->
+                                
                             </div>
                         </div>
                     </div>

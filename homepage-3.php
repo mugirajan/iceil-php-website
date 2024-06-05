@@ -245,7 +245,7 @@
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
                                                         style="border-width: 0px;">
                                                         <img src="upload/hp3-serviceicon-2.png" alt="" width="42"
-                                                            height="33" title="hp3-serviceicon-2" />
+                                                            height="33" title="Perfect Design" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -296,7 +296,7 @@
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
                                                         style="border-width: 0px;">
                                                         <img src="upload/hp3-serviceicon-2.png" alt="" width="42"
-                                                            height="33" title="hp3-serviceicon-2" />
+                                                            height="33" title="Carefully Planned" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -347,7 +347,7 @@
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
                                                         style="border-width: 0px;">
                                                         <img src="upload/hp3-serviceicon-3.png" alt="" width="36"
-                                                            height="35" title="hp3-serviceicon-3" />
+                                                            height="35" title="Smartly Execute" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -570,7 +570,7 @@
                                 <div class="gdlr-core-blog-grid gdlr-core-style-2 gdlr-core-js  gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background  gdlr-core-outer-frame-element" style="box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -moz-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -webkit-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); ">
                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                         <a href="img/light/01aa.jpg">
-                                            <img style="height:30vh" src="img/light/01aa.jpg" alt="" width="700" height="250" title="blog-item-1" />
+                                            <img style="height:30vh" src="img/light/01aa.jpg" alt="" width="700" height="250" title="blog" />
                                             <div class="gdlr-core-sticky-banner gdlr-core-title-font">
                                                 <i class="fa fa-bolt"></i>Sticky Post
                                             </div>
@@ -604,7 +604,7 @@
                                 <div class="gdlr-core-blog-grid gdlr-core-style-2 gdlr-core-js  gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background  gdlr-core-outer-frame-element" style="box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -moz-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -webkit-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); ">
                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                         <a href="img/light/stretchciel3.jpg">
-                                            <img style="height:30vh" src="img/light/stretchciel3.jpg" alt="" width="700" height="250" title="blog-item-1" />
+                                            <img style="height:30vh" src="img/light/stretchciel3.jpg" alt="" width="700" height="250" title="blog" />
                                             <div class="gdlr-core-sticky-banner gdlr-core-title-font">
                                                 <i class="fa fa-bolt"></i>Sticky Post
                                             </div>
@@ -642,7 +642,7 @@
                                 <div class="gdlr-core-blog-grid gdlr-core-style-2 gdlr-core-js  gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background  gdlr-core-outer-frame-element" style="box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -moz-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -webkit-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); ">
                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                         <a href="img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg">
-                                            <img style="height:30vh" src="img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg" alt="" width="700" height="250" title="blog-item-1" />
+                                            <img style="height:30vh" src="img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg" alt="" width="700" height="250" title="blog" />
                                             <div class="gdlr-core-sticky-banner gdlr-core-title-font">
                                                 <i class="fa fa-bolt"></i>Sticky Post
                                             </div>

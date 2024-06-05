@@ -136,7 +136,7 @@
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
                                                         style="border-width: 0px;max-width: 530px ;"><img
                                                             src="img/light/slide-6.png" alt="" width="730" height="730"
-                                                            title="ourservices3-img-bg-2" /></div>
+                                                            title="Stretch Ceiling" /></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -172,7 +172,7 @@
                                                         <a class="gdlr-core-lightgallery gdlr-core-js "
                                                             href="img/light/sky-transformed.png"><img
                                                                 src="img/light/sky-transformed.png" alt="" width="668"
-                                                                height="730" title="img-man-11" /><span
+                                                                height="730" title="iStretch Ceiling" /><span
                                                                 class="gdlr-core-image-overlay "><i
                                                                     class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
                                                     </div>
@@ -322,7 +322,7 @@
                                                         style="border-width: 0px;">
                                                         <a class="gdlr-core-lightgallery gdlr-core-js "
                                                             href="upload/icon-1122.png"><img src="upload/icon-1122.png"
-                                                                alt="" width="45" height="45" title="icon-1122" /></a>
+                                                                alt="" width="45" height="45" title="Stretch Ceiling" /></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -375,7 +375,7 @@
                                                         style="border-width: 0px;">
                                                         <a class="gdlr-core-lightgallery gdlr-core-js "
                                                             href="upload/icon-2-1.png"><img src="upload/icon-2-1.png"
-                                                                alt="" width="59" height="46" title="icon-2" /></a>
+                                                                alt="" width="59" height="46" title="Stretch Ceiling" /></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -427,7 +427,7 @@
                                                         style="border-width: 0px;">
                                                         <a class="gdlr-core-lightgallery gdlr-core-js "
                                                             href="upload/icon-1.png"><img src="upload/icon-1.png" alt=""
-                                                                width="49" height="48" title="icon-1" /></a>
+                                                                width="49" height="48" title="Stretch Ceiling" /></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -485,7 +485,7 @@
                                                         href="upload/gally-1.jpg"
                                                         data-lightbox-group="gdlr-core-img-group-1"><img
                                                             src="img/light/stretchciel2.jpeg" alt="" width="399"
-                                                            height="552" title="gally-1" /></a>
+                                                            height="552" title="Stretch Ceiling" /></a>
                                                 </div>
                                             </div>
                                             <div
@@ -495,7 +495,7 @@
                                                         href="upload/gally-2.jpg"
                                                         data-lightbox-group="gdlr-core-img-group-1"><img
                                                             src="img/light/stretch4.jpeg" alt="" width="399"
-                                                            height="552" title="gally-2" /></a>
+                                                            height="552" title="Stretch Ceiling" /></a>
                                                 </div>
                                             </div>
                                             <div
@@ -505,7 +505,7 @@
                                                         href="img/project-gallery/pics/pexels-mudassir-ali-1536434.jpg"
                                                         data-lightbox-group="gdlr-core-img-group-1"><img
                                                             src="img/project-gallery/pics/pexels-mudassir-ali-1536434.jpg" style="height:80vh" alt="" width="399"
-                                                            height="552" title="gally-3" /></a>
+                                                            height="552" title="Stretch Ceiling" /></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -533,7 +533,7 @@
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
                                                         style="border-width: 0px;"><img
                                                             src="img/project-gallery/pics/01.jpg" alt="" width="573"
-                                                            height="837" title="img-bg-2" /></div>
+                                                            height="837" title="Stretch Ceiling" /></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -636,7 +636,7 @@
                                                                     data-lightbox-group="gdlr-core-img-group-2"><img
                                                                         src="img/project-gallery/pics/01.jpg" alt=""
                                                                         width="630" height="501"
-                                                                        title="shutterstock_543421996" /><span
+                                                                        title="Stretch Ceiling" /><span
                                                                         class="gdlr-core-image-overlay "><i
                                                                             class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
                                                             </div>
@@ -650,7 +650,7 @@
                                                                     data-lightbox-group="gdlr-core-img-group-2"><img
                                                                         src="img/light/img-bg-stretch-4.png" alt=""
                                                                         width="630" height="501"
-                                                                        title="shutterstock_561468493" /><span
+                                                                        title="Stretch Ceiling" /><span
                                                                         class="gdlr-core-image-overlay "><i
                                                                             class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
                                                             </div>
@@ -664,7 +664,7 @@
                                                                     data-lightbox-group="gdlr-core-img-group-2"><img
                                                                         src="img/project-gallery/pics/03.jpg" alt=""
                                                                         width="630" height="501"
-                                                                        title="shutterstock_631879034" /><span
+                                                                        title="Stretch Ceiling" /><span
                                                                         class="gdlr-core-image-overlay "><i
                                                                             class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
                                                             </div>
@@ -678,7 +678,7 @@
                                                                     data-lightbox-group="gdlr-core-img-group-2"><img
                                                                         src="img/light/img-bg-stretch2.png" alt=""
                                                                         width="630" height="501"
-                                                                        title="kara-michelle-544960-unsplash" /><span
+                                                                        title="Stretch Ceiling" /><span
                                                                         class="gdlr-core-image-overlay "><i
                                                                             class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
                                                             </div>

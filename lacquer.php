@@ -26,7 +26,7 @@
 
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-            style="height:75vh;background-image:url(https://img.freepik.com/free-photo/view-luxurious-hotel-hallway_23-2150683501.jpg?t=st=1711979353~exp=1711982953~hmac=61584f3b1244f32f02415056fce5948fb6265e7e7bd6871a0f09580c65322669&w=740)">
+            style="height:75vh;background-image:url(img/drive-laquer/ICEIL_6100002.JPG)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
@@ -119,7 +119,7 @@
                                                 style="border-width: 0px;">
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="upload/icon-1122.png"><img src="upload/icon-1122.png" alt=""
-                                                        width="45" height="45" title="icon-1122" /></a>
+                                                        width="45" height="45" title="Lacquer" /></a>
                                             </div>
                                         </div>
                                     </div>
@@ -153,7 +153,7 @@
                                                 style="border-width: 0px;">
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="upload/icon-2-1.png"><img src="upload/icon-2-1.png" alt=""
-                                                        width="59" height="46" title="icon-2" /></a>
+                                                        width="59" height="46" title="Lacquer" /></a>
                                             </div>
                                         </div>
                                     </div>
@@ -188,7 +188,7 @@
                                                 style="border-width: 0px;">
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="upload/icon-1.png"><img src="upload/icon-1.png" alt=""
-                                                        width="49" height="48" title="icon-1" /></a>
+                                                        width="49" height="48" title="Lacquer" /></a>
                                             </div>
                                         </div>
                                     </div>
@@ -248,7 +248,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="https://img.freepik.com/free-photo/modern-bathroom-with-big-mirror_1203-1497.jpg?t=st=1711979488~exp=1711983088~hmac=ff8b0e3058e1dd21a56c06f7387b78242de89e6468ab34019deeffcae2df2af3&w=740" alt="" width="600" height="600" title="jean-philippe-delberghe-660138-unsplash" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-laquer/01 (1).jpeg" alt="" width="600" height="600" title="Lacquer" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -268,7 +268,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="https://img.freepik.com/free-photo/room-interior-design_23-2148899437.jpg?t=st=1711981185~exp=1711984785~hmac=ae29c1c7509c0204047c16ab6e9be53dee8df889f66f2abd05f0737b34f216ff&w=740" alt="" width="600" height="600" title="armin-djuhic-609206-unsplash" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-laquer/RQLC4903.jpg" alt="" width="600" height="600" title="Lacquer" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -324,75 +324,31 @@
                                     <div class="container-gallery">
                                       <div class="card-gallery">
                                         <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-30.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-30.png" alt="Image Gallery">
+                                          <a href="img/drive-laquer/446_natyazhnye_potolki_s_fotopechatyu_foto.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
+                                            <img src="img/drive-laquer/446_natyazhnye_potolki_s_fotopechatyu_foto.jpg" alt="Image Gallery">
                                           </a>
                                         </div>
                                       </div>
                                       <div class="card-gallery">
                                         <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-29.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-29.png" alt="Image Gallery">
+                                          <a href="img/drive-laquer/ICEIL_6200000.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
+                                            <img src="img/drive-laquer/ICEIL_6200000.jpg" alt="Image Gallery">
                                           </a>
                                         </div>
                                       </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-28.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-28.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-46.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-46.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-45.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-45.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-44.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-44.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-43.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-43.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-42.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-42.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-41.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-41.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
+                                      
                                     </div>
-                                  </main>
+                                </main>
+                                <!--gallery-->
+                                
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <!--gallery end-->
+
+           
 
             <?php
                    include "./shared/footer.php"

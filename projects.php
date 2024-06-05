@@ -20,7 +20,7 @@
                                         <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " style="max-width: 720px ;">
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 20px ;">
-                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="img/light/service-1icon-1.png" alt="" width="75" height="85" title="service-1-icon-1" /></div>
+                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="img/light/service-1icon-1.png" alt="" width="75" height="85" title="Project" /></div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">

@@ -118,7 +118,7 @@
                                                 style="border-width: 0px;">
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="upload/icon-1122.png"><img src="upload/icon-1122.png" alt=""
-                                                        width="45" height="45" title="icon-1122" /></a>
+                                                        width="45" height="45" title="3D Forms" /></a>
                                             </div>
                                         </div>
                                     </div>
@@ -152,7 +152,7 @@
                                                 style="border-width: 0px;">
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="upload/icon-2-1.png"><img src="upload/icon-2-1.png" alt=""
-                                                        width="59" height="46" title="icon-2" /></a>
+                                                        width="59" height="46" title="3D Forms" /></a>
                                             </div>
                                         </div>
                                     </div>
@@ -187,7 +187,7 @@
                                                 style="border-width: 0px;">
                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                     href="upload/icon-1.png"><img src="upload/icon-1.png" alt=""
-                                                        width="49" height="48" title="icon-1" /></a>
+                                                        width="49" height="48" title="3D Forms" /></a>
                                             </div>
                                         </div>
                                     </div>
@@ -249,7 +249,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="https://img.freepik.com/free-photo/indoor-hotel-view_1417-1562.jpg?t=st=1711978346~exp=1711981946~hmac=8c6e702934c0a3372e51acf7895662c605a70badc0e14e3288f9f7f7267a7798&w=740" alt="" width="600" height="600" title="jean-philippe-delberghe-660138-unsplash" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/02a.jpg" alt="" width="600" height="600" title="3D Forms" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -269,7 +269,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="https://img.freepik.com/free-photo/landscape-sunset-architectural-matrix-stunning-modern-villa-with-swimming-pool_1409-5155.jpg?t=st=1711978569~exp=1711982169~hmac=adc5baf406c1b828c29bf89a043ead1ec1bf83354f451cc0176a85ea1fcdcceb&w=826" alt="" width="600" height="600" title="armin-djuhic-609206-unsplash" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/01.jpg" alt="" width="600" height="600" title="3D Forms" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -340,7 +340,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="https://img.freepik.com/free-photo/luxury-hotel-reception-hall-lounge-restaurant-with-high-ceiling_105762-1771.jpg?t=st=1711979002~exp=1711982602~hmac=cc75af57eff0234feed89287b18d571cd382536b26d8e99c49ea79e2a796d427&w=740" alt="" width="600" height="600" title="jean-philippe-delberghe-660138-unsplash" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/ST-FF-1024x1024 (1).jpg" alt="" width="600" height="600" title="3D Forms" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -370,39 +370,12 @@
                                     <div class="container-gallery">
                                       <div class="card-gallery">
                                         <div class="card-image">
-                                          <a href="img/threed/theatre/Vijay Multiplex (2).jpg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/threed/theatre/Vijay Multiplex (2).jpg" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                        <h5>Vijay Multiplex</h5>
-                                        <p>A monumental 16-foot printed dome project unveiled at Vijay Park Multiplex Theatre Entrance in Injambakkam, Chennai, captured beautifully.</p>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
                                           <a href="img/threed/theatre/Vijay Multiplex (5).jpg" data-fancybox="gallery" data-caption="Caption Images 1">
                                             <img src="img/threed/theatre/Vijay Multiplex (5).jpg" alt="Image Gallery">
                                           </a>
                                         </div>
                                         <h5>Vijay Multiplex</h5>
                                         <p>A monumental 16-foot printed dome project unveiled at Vijay Park Multiplex Theatre Entrance in Injambakkam, Chennai, captured beautifully.</p>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="img/threed/mysore/Lotus Energy (2).jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/threed/mysore/Lotus Energy (2).jpeg" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                        <h5>Lotus Energy</h5>
-                                        <p>Discover serenity at the Temple Meditation Area in Mysore, Karnataka, where our Printed Inverted Dome Ceiling Project fosters tranquility and spiritual reflection.</p>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="img/threed/photo-studio/Bionic (2).jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/threed/photo-studio/Bionic (2).jpeg" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                        <h5>Bionic Photo Studio Project</h5>
-                                        <p>Step into a realm of creativity at the Photo Studio in Madipakkam, Chennai, where our Translucent 3D Form Project mesmerizes with innovation.</p>
                                       </div>
                                       <div class="card-gallery">
                                         <div class="card-image">
@@ -421,6 +394,15 @@
                                         </div>
                                         <h5>Radission Blu</h5>
                                         <p>Translucent 3D forms project showcased at Radisson Blu Banquet Hall in Guindy, Chennai, encapsulated in a stunning frame.</p>
+                                      </div>
+                                      <div class="card-gallery">
+                                        <div class="card-image">
+                                          <a href="img/threed/mysore/Lotus Energy (2).jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
+                                            <img src="img/threed/mysore/Lotus Energy (2).jpeg" alt="Image Gallery">
+                                          </a>
+                                        </div>
+                                        <h5>Lotus Energy</h5>
+                                        <p>Discover serenity at the Temple Meditation Area in Mysore, Karnataka, where our Printed Inverted Dome Ceiling Project fosters tranquility and spiritual reflection.</p>
                                       </div>
                                     </div>
                                 </main>
