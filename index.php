@@ -130,7 +130,7 @@
                             <div class="col-md-4 menu-list">
                                 <nav id="mry-dynamic-menu">
                                     <ul>
-                                        <li class="menu-item "><a href="index.php" class="mry-default-link">Home</a>
+                                        <li class="menu-item "><a href="homepage-3.php" class="mry-default-link">Home</a>
                                         </li>
 
                                         <li class="menu-item"><a href="about-us-3.php"

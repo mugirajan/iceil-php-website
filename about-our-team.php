@@ -933,17 +933,17 @@
                                 <h5 class="section-title">Franchise Enquiry Form</h5>
 
                                 <ul class="contact-ul">
-                                    <li><i class="fa fa-location-dot"></i> 91, Ram Nagar, Ram Mandir, Delhi</li>
+                                    <li><i class="fa fa-location-dot"></i>290A, 80 Feet TNHB Road, Sholinganallur, Chennai – 600 119</li>
 
                                     <li>
                                     <i class="fa fa-phone"></i>
-                                    <a href="tel:08510004495"><b>0255000XXXX</b></a>,
-                                    <a href="tel:08510005495"><b>0251600XXXX</b></a>
+                                    <a href="tel:918925517107"><b>89255 17107</b></a>,
+                                    <a href="tel:918925517108"><b>89255 17108</b></a>
                                     </li>
 
                                     <li>
                                     <i class="fa-solid fa-envelope"></i>
-                                    <a href="mailto:pardeepkumar4bjp@gmail.com"><b> demounknown@gmail.com</b></a>
+                                    <a href="mailto:info@iceilsystems.com"><b>info@iceilsystems.com</b></a>
                                     </li>
                                 </ul>
 
