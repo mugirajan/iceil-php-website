@@ -30,9 +30,7 @@
                 </header>
             </div>
         </div>
-                        <?php
-                            include "./shared/popup.php"
-                        ?>
+                        
     </div>
 
     <div class="wrapper-blog">

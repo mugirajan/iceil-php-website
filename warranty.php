@@ -1,23 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
-<style>
-     @media(min-width:1000px){
-	.static-section-logo{
-		margin-top:-9rem;
-	}
-  }
-  @media(max-width:999px){
-	.static-section-logo{
-		margin-top:-10rem;
-	}
-  }
-  @media(max-width:499px){
-	.static-section-logo{
-		margin-top:-8rem;
-	}
-  }
-</style>
+
 </head>
 <?php
   include "./shared/navbar.php"
@@ -38,9 +22,7 @@
                     </div>
                 </div>
             </div>
-                        <?php
-                            include "./shared/popup.php"
-                        ?>
+                        
             </div>
             <main class="header-warranty">
                 <section class="hero-warranty">

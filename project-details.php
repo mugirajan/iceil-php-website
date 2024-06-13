@@ -22,9 +22,7 @@
 							</div>
 						</div>
 					</div>
-						<?php
-                            include "./shared/popup.php"
-                        ?>
+						
 				</div>
 					<!-- <div class="gdlr-core-pbf-wrapper " style="padding: 75px 0px 30px 0px;" data-skin="Dark Filter" >
                         <div class="gdlr-core-pbf-background-wrap" ></div>

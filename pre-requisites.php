@@ -20,9 +20,7 @@
                     </div>
                 </div>
             </div>
-                        <?php
-                            include "./shared/popup.php"
-                        ?>
+                        
             </div>
             <!--list-->
             <section class="services-pre section-bg" id="services-pre">

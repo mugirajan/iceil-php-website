@@ -1,26 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
-<style>
-    .active{
-        background-color:transparent;
-    }
-     @media(min-width:1000px){
-	.static-section-logo{
-		margin-top:-9rem;
-	}
-  }
-  @media(max-width:999px){
-	.static-section-logo{
-		margin-top:-10rem;
-	}
-  }
-  @media(max-width:499px){
-	.static-section-logo{
-		margin-top:-8rem;
-	}
-  }
-</style>
+
 
 </head>
 
@@ -42,9 +23,7 @@
                         </div>
                     </div>
                 </div>
-                        <?php
-                            include "./shared/popup.php"
-                        ?>
+                        
             </div>
             <!--banner end-->
 

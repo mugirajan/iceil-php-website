@@ -1,4 +1,4 @@
-
+<!-- 
 <div class="d-flex justify-content-end">
                             <div class="static-section-logo " >
                                 <div class="social-links link1">
@@ -39,4 +39,4 @@
                                     <button class="popup-button" type="submit">Submit</button>
                                 </form>
                             </div>
-                        </div>
+                        </div> -->

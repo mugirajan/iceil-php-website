@@ -53,9 +53,7 @@
                                 </div>
                             </div>
                         </div>
-                        <?php
-                            include "./shared/popup.php"
-                        ?>
+                        
                     </div>
                     <div class="gdlr-core-pbf-wrapper " id="padding-top-btm">
                         <div class="gdlr-core-pbf-background-wrap"></div>

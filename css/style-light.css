@@ -2350,29 +2350,19 @@ blockquote:after {
 	margin-top:-9rem;
 	position:fixed;
 	z-index:999;
+	bottom:3rem;
   }
-  @media(min-width:1000px){
-	.static-section-logo{
-		margin-top:-9rem;
-	}
-  }
-  @media(max-width:999px){
-	.static-section-logo{
-		margin-top:-15rem;
-	}
-  }
-  @media(max-width:499px){
-	.static-section-logo{
-		margin-top:-32rem;
-	}
-  }
+
   .static-section-logo .social-links a i{
-	font-size:2rem !important;
+	font-size:1.6rem !important;
 	border-radius:50%;
-	/* border:1px solid white;
-	padding:0.5rem;
-	background-color: #ffffff85;
-	color:black; */
+	
+  }
+  .static-section-logo .social-links a .fa-whatsapp{
+	color:#13c348;
+  }
+  .static-section-logo .social-links a .fa-comment-alt{
+	color:black;
   }
   .static-section-logo .social-links{
 	width:30%;
@@ -2381,15 +2371,23 @@ blockquote:after {
 	padding-bottom:15px;
   }
   
-.static-section-logo .social-links a i {
-	outline-width: 1px;
-	outline-offset: 0;
-	padding:0.5rem;
-	outline-color: white;
-	outline-style: solid;
-	background-color: #ffffff85;
-	animation: animateOutline 2s ease infinite;
-  }
+
+	.static-section-logo .social-links a i {
+		width: 45px; 
+		height: 45px; 
+		border-radius: 50%;
+		outline-width: 1px;
+		outline-offset: 0;
+		padding: 5px; 
+		outline-color: white;
+		outline-style: solid;
+		background-color: #ffffff;
+		animation: animateOutline 2s ease infinite;
+		display: inline-flex; 
+		align-items: center; 
+		justify-content: center; 
+	  }
+  
 
   @keyframes animateOutline {
 	0% {

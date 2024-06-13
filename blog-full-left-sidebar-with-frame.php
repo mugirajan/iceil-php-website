@@ -1,23 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
-<style>
-     @media(min-width:1000px){
-	.static-section-logo{
-		margin-top:-9rem;
-	}
-  }
-  @media(max-width:999px){
-	.static-section-logo{
-		margin-top:-10rem;
-	}
-  }
-  @media(max-width:499px){
-	.static-section-logo{
-		margin-top:8rem;
-	}
-  }
-</style>
+
 </head>
 
 <body>
@@ -342,9 +326,7 @@
                 </header>
             </div>
         </div>
-                        <?php
-                            include "./shared/popup.php"
-                        ?>
+                        
         </div>
 
     <div class="wrapper-blog">
@@ -452,7 +434,7 @@
             <section class="blog-page">
                 <ul class="page">
                     <li>
-                        <img src="https://img.freepik.com/free-photo/interior-kitchen-area-modern-office-with-long-wooden-table-chairs_181624-17912.jpg?t=st=1714208126~exp=1714211726~hmac=3fe631a09bbaa98e4c5dc7270a8a58eb1832f92047d480c6344ca5aafbfe555c&w=740">
+                        <img src="images/blog-page/blog-1.jpg">
                         <h4>How Stretch Ceilings Can Improve Your IT Workplace</h4>
                         <span>Admin-
                             Post published:08/05/2023
@@ -462,7 +444,7 @@
                         <button ><a href="standard-post-type.php">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/12/TRANSLUCENT-CEILING-1.png?resize=768%2C433&ssl=1">
+                        <img src="images/blog-page/blog-2.jpg">
                         <h4>What is the benefit of a Stretch Ceiling? </h4>
                         <span>Admin
                             Post published:17/12/2022
@@ -472,7 +454,7 @@
                         <button ><a href="standard-post-type.php">Read More</a></button>
                     </li>
                     <li>
-                        <img src="img/project-gallery/pics/01 (1).jpg">
+                        <img src="images/blog-page/blog-3.jpg">
                         <h4>Stretch Ceilings –Much STRONGER than you can imagine</h4>
                         <span>Admin
                             Post published:26/08/2022
@@ -492,7 +474,7 @@
                         <button ><a href="standard-post-type.php">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/05/00.jpg?resize=768%2C432&ssl=1">
+                        <img src="images/blog-page/blog-4.jpeg">
                         <h4>High Gloss Lacquer stretch ceiling with linear lights</h4>
                         <span>Admin
                             Post published:27/05/2022
@@ -744,7 +726,7 @@
         
             </section>
             <div class="pagination">
-                <button class=" arrow" id="prevPage" disabled>← <span class="nav-text"></span></button>
+                <button class="arrow" id="prevPage" disabled>← <span class="nav-text"></span></button>
                 <div class="pages">
                     <div class="page-number active">1</div>
                     <div class="page-number">2</div>
@@ -767,6 +749,7 @@
             });
         });
     </script>
+    <script src="js/blogpage.js"></script> 
     <?php
         include "./shared/script.php"
     ?>

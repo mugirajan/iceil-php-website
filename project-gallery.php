@@ -24,9 +24,7 @@
                         </div>
                     </div>
                 </div>
-                        <?php
-                            include "./shared/popup.php"
-                        ?>
+                        
             </div>
             <!--banner end-->
             
