@@ -6885,27 +6885,26 @@ height:70vh;
 	margin-bottom: 110px;
 	padding: 90px 50px 40px;
 	position: relative;
-	transition: .3s;
+	transition: 1s;
 	border-radius: 2px;
-	&:hover {
-		box-shadow: 0 40px 70px 0 rgba(0, 0, 0, 0.22);
-		cursor: pointer;
-		.features-icon {
-			color: #536dfe;
-			border-color: #536dfe;
-		}
-		.features-info {
-			.title {
-				color: #536dfe;
-				border-color: #536dfe;
-			}
-			p {
-				color:#536dfe;
-				border-color: #536dfe;
-			}
-		}
-	}
+	
 }
+.features-item:hover {
+	box-shadow: 0 40px 70px 0 rgba(0, 0, 0, 0.22);
+	cursor: pointer;
+	
+}
+.features-item:hover .features-icon {
+	color: #536dfe;
+	border-color: #536dfe;
+}
+.features-item:hover .features-info .title {
+	
+		color: #536dfe;
+		border-color: #536dfe;
+	
+}
+
 .features-icon {
 	font-size: 36px;
 	width: 96px;
@@ -6923,6 +6922,7 @@ height:70vh;
 	color: #bdbdbd;
 	transition: .3s;
 }
+
 @media only screen and(max-width: 992px) {
 	.clear-problem > div:nth-child(3n + 1) {
 		clear: none;
@@ -11148,3 +11148,7 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 }
    /*CONTACT US franchise end*/
 
+/*light box start*/
+
+ 
+/*light  box end*/

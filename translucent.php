@@ -29,7 +29,7 @@
             
              <!--intro start-->
             <div class=" gdlr-core-pbf-wrapper-trans"  id="gdlr-core-wrapper-1">
-                <div class="gdlr-core-pbf-background-wrap"></div>
+                <!-- <div class="gdlr-core-pbf-background-wrap"></div> -->
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                         <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first trans-sec-width">
@@ -84,53 +84,51 @@
 
             <!--card section start-->
 		    <section id="services" class="services bgcolor-gray section-common-space">
-			<div class="container">
-				<div class="text-center m-t-120">
-					<div class="row clear-problem">
-						<div class="col-sm-12 col-md-6 col-lg-4">
-							<div class="features-item">
-								<div class="features-icon">
-									<i class="far fa-lightbulb"></i>
-								</div>
-								<div class="features-info">
-									<h5 class="title">Upto 5M spans without joints</h5>
-								</div>
-							</div> 
-						</div> 
+                <div class="container">
+                    <div class="text-center m-t-120">
+                        <div class="row clear-problem">
+                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                <div class="features-item">
+                                    <div class="features-icon">
+                                        <i class="far fa-lightbulb"></i>
+                                    </div>
+                                    <div class="features-info">
+                                        <h5 class="title">Upto 5M spans without joints</h5>
+                                    </div>
+                                </div> 
+                            </div> 
 
-						<div class="col-sm-12 col-md-6 col-lg-4">
-							<div class="features-item">
-								<div class="features-icon">
-									<i class="fas fa-magic"></i>
-								</div>
-								<div class="features-info">
-									<h5 class="title">Installed on ceiling or wall</h5>
-								</div>
-							</div> 
-						</div> 
+                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                <div class="features-item">
+                                    <div class="features-icon">
+                                        <i class="fas fa-magic"></i>
+                                    </div>
+                                    <div class="features-info">
+                                        <h5 class="title">Installed on ceiling or wall</h5>
+                                    </div>
+                                </div> 
+                            </div> 
 
-						<div class="col-sm-12 col-md-6 col-lg-4">
-							<div class="features-item">
-								<div class="features-icon">
-									<i class="fas fa-rocket"></i>
-								</div>
-								<div class="features-info">
-									<h5 class="title">Any shapes and designs</h5>
-								</div>
-							</div> 
-						</div> 
+                            <div class="col-sm-12 col-md-6 col-lg-4">
+                                <div class="features-item">
+                                    <div class="features-icon">
+                                        <i class="fas fa-rocket"></i>
+                                    </div>
+                                    <div class="features-info">
+                                        <h5 class="title">Any shapes and designs</h5>
+                                    </div>
+                                </div> 
+                            </div> 
 
-					</div> 
-				</div>
-			</div> 
+                        </div> 
+                    </div>
+                </div> 
 		    </section>
             <!--card section end-->
 
             <!--stretch start-->
             <div class="">
-                <div class="gdlr-core-pbf-background-wrap">
-                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                </div>
+                
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-2">
@@ -173,9 +171,7 @@
                 </div>
             </div>
             <div class="">
-                <div class="gdlr-core-pbf-background-wrap">
-                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                </div>
+                
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column">
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-3">
@@ -219,9 +215,7 @@
                 </div>
             </div>
             <div class="">
-                <div class="gdlr-core-pbf-background-wrap">
-                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                </div>
+                
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-2">
@@ -264,9 +258,7 @@
                 </div>
             </div>
             <div class="">
-                <div class="gdlr-core-pbf-background-wrap">
-                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                </div>
+                
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column">
                         
@@ -312,9 +304,7 @@
                 </div>
             </div>
             <div class="">
-                <div class="gdlr-core-pbf-background-wrap">
-                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                </div>
+                
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-2">
@@ -356,9 +346,7 @@
                 </div>
             </div>
             <div class="">
-                <div class="gdlr-core-pbf-background-wrap">
-                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                </div>
+                
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column">
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-3">
@@ -442,15 +430,6 @@
                                         <div class="card-image">
                                         <a href="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (1).jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
                                             <img src="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (1).jpeg" alt="Image Gallery">
-                                        </a>
-                                        </div>
-                                        <h5>One plus showroom</h5>
-                                        <p>Sleek Translucent Grid Ceiling elevates the ambiance of One Plus Mobile Showroom in Kozhikode, Kerala, elegantly framed for appreciation.</p>
-                                    </div>
-                                    <div class="card-gallery">
-                                        <div class="card-image">
-                                        <a href="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (2).jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (2).jpeg" alt="Image Gallery">
                                         </a>
                                         </div>
                                         <h5>One plus showroom</h5>

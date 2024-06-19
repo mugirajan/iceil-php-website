@@ -72,17 +72,7 @@
             <!--intro end-->
 
             <!--key frames start-->
-            <!-- <div class="gdlr-core-pbf-element">
-                <h4 class="gdlr-core-title-item-title gdlr-core-skin-title " style="text-align:center;font-size: 25px ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">Exhibition Light Box</h4>
-            </div>
-                    <ol class="ol-for">
-                        <li style="--accent-color: #36b9ea">Small package</li>
-                        <li style="--accent-color: #3ecbb1">Easily assembled</li>
-                        <li style="--accent-color: #fcc003">Portable, No Tool, Durable Energy-efficient LED Rigid bar</li>
-                        <li style="--accent-color: #fb337b">Single and double sided versions Adjustable ceiling hanger with cable</li>
-                        <li style="--accent-color: #9c54e5">Frameless edge with a tension stretch fabric graphics</li>
-                    </ol> -->
-            <!--key frames start-->
+           
 
             <div class="gdlr-core-pbf-wrapper " style="padding: 366px 0px 30px 0px;" id="gdlr-core-wrapper-5">
                 <div class="gdlr-core-pbf-background-wrap">
@@ -92,167 +82,53 @@
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container"></div>
                 </div>
             </div>
-            <div class="gdlr-core-pbf-wrapper " style="margin: -80px 0px 0px 0px;padding: 0px 0px 55px 0px;">
-                <div class="gdlr-core-pbf-background-wrap"></div>
-                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " data-gdlr-animation="fadeInUp" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom" style="max-width: 1280px ;">
-                        <div class="gdlr-core-pbf-column gdlr-core-column-10 t" id="gdlr-core-column-5">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 20px 0px 0px;height: 20vh">
-                                <div class="gdlr-core-pbf-background-wrap" style="box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -moz-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -webkit-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); background-color: #ffffff ;border-radius: 0.5rem;"></div>
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;font-weight: 400 ;text-transform: none ;padding-top: 20px;">
-                                                <p>Small package, Easily assembled.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+
+            <!--list-->
+            <section class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="div-list-light">
+                            <div class="">
+                                <i class="fas fa-cubes"></i>
+                                <p>Small package, Easily assembled.</p>
                             </div>
                         </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-10 " id="gdlr-core-column-5">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 20px 0px 0px;height: 20vh">
-                                <div class="gdlr-core-pbf-background-wrap" style="box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -moz-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -webkit-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); background-color: #ffffff ;border-radius: 0.5rem;"></div>
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;font-weight: 400 ;text-transform: none ;padding-top: 20px;">
-                                                <p>Portable, No Tool, Durable.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                        <div class="div-list-light">
+                            <div class="">
+                                <i class="fas fa-sim-card"></i>
+                                <p>Portable, No Tool, Durable.</p>
                             </div>
                         </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-10 " id="gdlr-core-column-5">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 20px 0px 0px;height: 20vh">
-                                <div class="gdlr-core-pbf-background-wrap" style="box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -moz-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -webkit-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); background-color: #ffffff ;border-radius: 0.5rem;"></div>
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;font-weight: 400 ;text-transform: none ;padding-top: 20px;">
-                                                <p>Energy-efficient LED Rigid bar.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                        <div class="div-list-light">
+                            <div class="">
+                                <i class="fas fa-burn"></i>
+                                <p>Energy-efficient LED Rigid bar.</p>
                             </div>
                         </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-10 " id="gdlr-core-column-5">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 20px 0px 0px;height: 20vh" >
-                                <div class="gdlr-core-pbf-background-wrap" style="box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -moz-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -webkit-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); background-color: #ffffff ;border-radius: 0.5rem;"></div>
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;font-weight: 400 ;text-transform: none ;padding-top: 20px;">
-                                                <p>Single and double sided versions.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="div-list-light">
+                            <div class="">
+                                <i class="fas fa-users"></i>
+                                <p>Single and double sided versions.</p>
                             </div>
                         </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-10 " id="gdlr-core-column-5">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 20px 0px 0px;height: 20vh">
-                                <div class="gdlr-core-pbf-background-wrap" style="box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -moz-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -webkit-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); background-color: #ffffff ;border-radius: 0.5rem;"></div>
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;font-weight: 400 ;text-transform: none ;padding-top: 20px;">
-                                                <p>Adjustable ceiling hanger with cable.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                        <div class="div-list-light">
+                            <div class="">
+                                <i class="fas fa-exchange-alt"></i>
+                                <p>Adjustable ceiling hanger with cable.</p>
                             </div>
                         </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-10 " id="gdlr-core-column-5">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 33px 0px 0px;">
-                                <div class="gdlr-core-pbf-background-wrap" style="box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -moz-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); -webkit-box-shadow: 0 0 45px rgba(10, 10, 10,0.07); background-color: #ffffff ;border-radius: 0.5rem;"></div>
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                <p>Frameless edge with a tension stretch fabric graphics.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                        <div class="div-list-light">
+                            <div class="">
+                                <i class="fab fa-phabricator"></i>
+                                <p>Frameless edge with a tension stretch fabric graphics.</p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-
-             <!--gallery start-->
-             <div class="d-none gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
-                <div class="gdlr-core-pbf-background-wrap"></div>
-                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-portfolio-item gdlr-core-item-pdb clearfix  gdlr-core-portfolio-item-style-metro-no-space gdlr-core-item-pdlr">
-                                <div class="gdlr-core-block-item-title-wrap  gdlr-core-left-align" style="margin-left: 100px ;">
-                                    <div class="gdlr-core-block-item-title-inner">
-                                        <h3 class="gdlr-core-block-item-title" style="font-size: 33px ;text-transform: none ;letter-spacing: 0px ;">Our Works .</h3>
-                                        <span class="gdlr-core-separator" style="border-color: #2676bc ;"></span>
-                                    </div>
-                                </div>
-
-                                
-                                <main class="main-gallery">
-                                    <div class="container-gallery">
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="img/drive-profile-lighting/[37]prolicht-supergjpg.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/drive-profile-lighting/[37]prolicht-supergjpg.jpg" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="img/drive-profile-lighting/Modern-Gym-Lighting-Curved-Profile-LED-Pendant-Light-with-Circle-Shape-Curved-Shape-Custom-Made.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/drive-profile-lighting/Modern-Gym-Lighting-Curved-Profile-LED-Pendant-Light-with-Circle-Shape-Curved-Shape-Custom-Made.jpg" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="img/drive-profile-lighting/Customized-Curve-Bent-Profile-Light-Oval-S-Ring-Rectangle-Square-Wave-Shape-Option-LED-Profile-Linear-Light-for-Gym-Playground.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/drive-profile-lighting/Customized-Curve-Bent-Profile-Light-Oval-S-Ring-Rectangle-Square-Wave-Shape-Option-LED-Profile-Linear-Light-for-Gym-Playground.jpg" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="img/drive-profile-lighting/oversized-ring-pendant-lights-lodge.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/drive-profile-lighting/oversized-ring-pendant-lights-lodge.jpg" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="img/drive-profile-lighting/pro_mandarin_superg_01.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/drive-profile-lighting/pro_mandarin_superg_01.jpg" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="img/drive-profile-lighting/The-Mazery-Helix2.jpgg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/drive-profile-lighting/The-Mazery-Helix2.jpg" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                    </div>
-                                </main>
-                                <!--gallery-->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--gallery end-->
+            </section>
+            <!---list end--->
 
             <?php
                    include "./shared/footer.php"

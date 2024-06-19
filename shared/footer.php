@@ -78,10 +78,8 @@
                                     class="clear"></span>
                                 <div class="menu-services-container">
                                     <ul id="menu-services" class="menu">
-                                        <li class="menu-item"><a href="architectural-project.php">Project Gallery</a>
+                                        <li class="menu-item"><a href="architectural-project.php">Architectural Lighting</a>
                                         </li>
-                                        <li class="menu-item"><a href="architectural-completed.php">Completed
-                                                Projects</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -93,13 +91,11 @@
                                     <ul id="menu-quick-links" class="menu">
                                         <li class="menu-item"><a href="stretch-ceiling .php">Stretch Ceiling</a></li>
                                         <li class="menu-item"><a href="warranty.php">Warranty</a></li>
-                                        <li class="menu-item"><a href="pre-requisites.php">Pre requisites</a></li>
                                         <li class="menu-item"><a href="boxing.php">Boxing</a></li>
                                         <li class="menu-item"><a href="stretch-fabric.php">Stretch Fabric</a></li>
                                         <li class="menu-item"><a href="profiles.php">Profiles</a></li>
                                         <li class="menu-item"><a href="led.php">LED</a></li>
-                                        <li class="menu-item"><a href="drives.php">Drive</a></li>
-                                        <li class="menu-item"><a href="drivecontrollers.php">Remotes and Controllers</a>
+                                        <li class="menu-item"><a href="drivecontrollers.php">Drive, Remotes and Controllers</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -110,9 +106,6 @@
                                 <h3 class="inteco-widget-title-footer">Stretch Ceilings</h3><span class="clear"></span>
                                 <div class="menu-quick-links-container">
                                     <ul id="menu-quick-links" class="menu">
-                                        <li class="menu-item"><a href="project-gallery.php">Project Gallery</a></li>
-                                        <li class="menu-item"><a href="completed-projects.php">Completed Projects</a>
-                                        </li>
                                         <li class="menu-item"><a href="translucent.php">Translucent</a></li>
                                         <li class="menu-item"><a href="printed.php">Printed</a></li>
                                         <li class="menu-item"><a href="threed.php">3D Forms</a></li>

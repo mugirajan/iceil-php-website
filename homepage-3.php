@@ -735,7 +735,7 @@
                                 <p>Ready to turn your vision into reality? Contact us today to schedule a consultation and discover how we can bring your project to life with our expertise and dedication to excellence.</p>
                             </div>
                             <div class="col-lg-3 cta-btn-container text-center">
-                                <a class="cta-btn align-middle" href="contact-2.php">Call To Action</a>
+                                <a class="cta-btn align-middle" href="contact-2.php">Contact Us <i class="fas fa-arrow-right"></i></a>
                             </div>
                             </div>
 
