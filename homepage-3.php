@@ -112,7 +112,7 @@
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-2">
-                                   <div class="image-about-page"><img src="img/project-gallery/pics/01.jpg"></div>
+                                   <div class="image-about-page"><img src="img/drive-homepage/188.jpg"></div>
                                 </div>
                             </div>
                         </div>
@@ -120,16 +120,70 @@
                     <!--who we are end-->
 
                     <!--link to all the pages-->
-                    <div class="gdlr-core-pbf-wrapper " style="margin: 0px 0px 0px 0px;padding: 60px 0px 0px 0px;">
+                    <div class="gdlr-core-pbf-wrapper " style="margin: 0px 0px 0px 0px;padding: 60px 0px 50px 0px;">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="text-align: center;font-size: 39px ;font-weight: 900 ;letter-spacing: 0px ;text-transform: none ;color: #232323 ;">What We Do?</h3><br>
                         <div class="whatwedosection">
                             <div class=" whatwedodiv">
                                 <div class="whatwedo-image">
                                     <div>
-                                        <img src="img/printed-latest/Radission Blu/Radission Blu (17).jpeg">
+                                        <img src="img/drive-homepage/33.jpg">
                                     </div>
-                                    <h3>Strech Ceiling</h3>
+                                    <h3>Translucent</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/drive-homepage/128.jpg">
+                                    </div>
+                                    <h3>Printed</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/drive-homepage/74.jpg">
+                                    </div>
+                                    <h3>3D Form</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/drive-homepage/123.1.jpg">
+                                    </div>
+                                    <h3>Light Boxes</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/drive-laquer/images.jpeg">
+                                    </div>
+                                    <h3>Lacquer</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class="whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/drive-homepage/106.jpg">
+                                    </div>
+                                    <h3>Acoustic</h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class=" whatwedodiv">
+                                <div class="whatwedo-image">
+                                    <div>
+                                        <img src="img/drive-homepage/46.jpg">
+                                    </div>
+                                    <h3>Architectural Lighting</h3>
                                     <p></p>
                                 </div>
                             </div>
@@ -145,18 +199,9 @@
                             <div class=" whatwedodiv">
                                 <div class="whatwedo-image">
                                     <div>
-                                        <img src="img/printed-latest/world skill centre/world skill centre (1).jpeg">
+                                        <img src="img/drive-homepage/ceiling.jpg">
                                     </div>
-                                    <h3>Architectural Lighting</h3>
-                                    <p></p>
-                                </div>
-                            </div>
-                            <div class="whatwedodiv">
-                                <div class="whatwedo-image">
-                                    <div>
-                                        <img src="img/printed-latest/world skill centre/world skill centre (1).jpeg">
-                                    </div>
-                                    <h3>Acoustic</h3>
+                                    <h3>Strech Ceiling</h3>
                                     <p></p>
                                 </div>
                             </div>
@@ -169,51 +214,6 @@
                                     <p></p>
                                 </div>
                             </div>
-                            <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
-                                    <div>
-                                        <img src="img/printed-latest/MOPA/Moppa (2).jpeg">
-                                    </div>
-                                    <h3>Translucent</h3>
-                                    <p></p>
-                                </div>
-                            </div>
-                            <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
-                                    <div>
-                                        <img src="img/printed-latest/Kauvery Hospital/Chennai (Scan Room) (7).jpg">
-                                    </div>
-                                    <h3>3D Form</h3>
-                                    <p></p>
-                                </div>
-                            </div>
-                            <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
-                                    <div>
-                                        <img src="img/printed-latest/Kauvery Hospital/Chennai (Scan Room) (7).jpg">
-                                    </div>
-                                    <h3>Light Boxes</h3>
-                                    <p></p>
-                                </div>
-                            </div>
-                            <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
-                                    <div>
-                                        <img src="img/printed-latest/hyderbad L & T/WhatsApp Image 2023-11-24 at 6.26.39 PM.jpeg">
-                                    </div>
-                                    <h3>Lacquer</h3>
-                                    <p></p>
-                                </div>
-                            </div>
-                            <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
-                                    <div>
-                                        <img src="img/printed-latest/hyderbad L & T/WhatsApp Image 2023-11-24 at 6.26.39 PM.jpeg">
-                                    </div>
-                                    <h3>Acoustic</h3>
-                                    <p></p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <!--link to all the pages end-->
@@ -222,7 +222,7 @@
                     <div class="gdlr-core-pbf-wrapper " style="margin: 0px 0px 0px 0px;padding: 78px 0px 55px 0px;">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                style="background-image: url(img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg) ;background-size: cover ;background-position: center ;"
+                                style="background-image: url(img/drive-homepage/58.jpg) ;background-size: cover ;background-position: center ;"
                                 data-parallax-speed="0.2"></div>
                         </div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " data-gdlr-animation="fadeInUp"
@@ -577,7 +577,7 @@
                                             <span class="gdlr-core-head" >
                                                 <i class="fa fa-comments-o" ></i>
                                             </span>
-                                            <a href="">3 </a>
+                                            <a href="">1 </a>
                                         </span>
                                         <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-category">
                                             <span class="gdlr-core-head" >In</span>
@@ -611,7 +611,7 @@
                                             <span class="gdlr-core-head" >
                                                 <i class="fa fa-comments-o" ></i>
                                             </span>
-                                            <a href="">3 </a>
+                                            <a href="">2 </a>
                                         </span>
                                         <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-category">
                                             <span class="gdlr-core-head" >In</span>

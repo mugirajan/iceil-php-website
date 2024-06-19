@@ -224,7 +224,7 @@
                                 <div class="gdlr-core-pbf-column gdlr-core-column-40">
                                     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
                                         <div class="gdlr-core-pbf-background-wrap  bg-image-project">
-                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js bg-image-project" style="background-image: url(img/light/projects/prjct-1/fs/slide-4.jpg) ;height: 586.2px;background-size: cover ;background-position: center ;" data-parallax-speed="0.2"></div>
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js bg-image-project" style="background-image: url(/slide-4.jpg) ;height: 586.2px;background-size: cover ;background-position: center ;" data-parallax-speed="0.2"></div>
                                         </div>
                                         <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
                                     </div>

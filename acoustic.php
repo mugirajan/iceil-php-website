@@ -10,7 +10,7 @@
 
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-            style="height:75vh;background-image:url(https://img.freepik.com/free-photo/modern-empty-room_23-2150528583.jpg?t=st=1711980493~exp=1711984093~hmac=072232a1b6d2776240e1171e039ddd360dc3ffc36b69746bc7e7fe6eeb817944&w=740)">
+            style="height:75vh;background-image:url(img/drive-homepage/106.jpg)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
@@ -193,7 +193,7 @@
                 </div>
             </div>
             <!--card section end-->
-            <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 30px 0px;">
+            <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 100px 0px;">
                 <div class="gdlr-core-pbf-background-wrap" style="background-color: #f7f7f7 ;"></div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " data-gdlr-animation="fadeInUp" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -274,7 +274,7 @@
            
 
             <!--gallery start-->
-            <div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
+            <div class="d-none gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
                 <div class="gdlr-core-pbf-background-wrap"></div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">

@@ -10,7 +10,7 @@
             
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height:75vh;background-image:url(img/Translucent/vi-name/VI\ Avenue\ HQ\ \(8\).jpg)">
+                style="height:75vh;background-image:url(img/drive-translucent/3d6.jpg);background-position:top center;">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>

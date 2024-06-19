@@ -346,7 +346,7 @@
 								</div>
 								<div class="social-links">
 									<a target="_blank" href="mailto:info@iceilsystems.com">
-										<i class="fas fa-envelope"></i>
+										<i class="far fa-comment-alt"></i>
 									</a>
 								</div>
 						</div>

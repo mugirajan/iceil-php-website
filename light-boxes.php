@@ -9,7 +9,7 @@
 
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height:75vh;background-image:url(img/drive-profile-lighting/oversized-ring-pendant-lights-lodge.jpg)">
+                style="height:75vh;background-image:url(img/drive-lightbox/123.jpg)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
@@ -86,7 +86,7 @@
 
             <div class="gdlr-core-pbf-wrapper " style="padding: 366px 0px 30px 0px;" id="gdlr-core-wrapper-5">
                 <div class="gdlr-core-pbf-background-wrap">
-                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(img/drive-profile-lighting/Transferwise_ceiling_Estonia.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.3"></div>
+                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(https://img.freepik.com/premium-photo/3d-rendering-advertising-billboard-side-road-computer-digital-image_1070994-5223.jpg?w=740) ;background-size: cover ;background-position: top center ;" data-parallax-speed="0.3"></div>
                 </div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container"></div>
@@ -185,7 +185,7 @@
             </div>
 
              <!--gallery start-->
-             <div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
+             <div class="d-none gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
                 <div class="gdlr-core-pbf-background-wrap"></div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
