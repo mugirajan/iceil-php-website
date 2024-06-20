@@ -71,21 +71,32 @@
             </div><br>
             <!--intro end-->
 
-            <!--key frames start-->
-           
-
-            <!--background image-->
-            <section class="bg-image-list"> 
-                <div class="row">
-                </div>
-            </section>
-            <!--background image end-->
-
-
+          
             <!--list-->
-            <section class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6 col-sm-12">
+            <section class="container"> 
+                <div class="row d-flex align-items-center">
+                    <div class="col-lg-6 col-md-4 col-sm-12">
+                        <img src="img/drive-lightbox/123.1.jpg">   
+                    </div>
+                    <div class="col-lg-6 col-md-8 col-sm-12">
+                        <div class="div-list-light">
+                            <div class="div-list">
+                                <i class="fas fa-window-restore"></i>
+                                <p>Single and double sided versions.</p>
+                            </div>
+                        </div>
+                        <div class="div-list-light">
+                            <div class="div-list">
+                                <i class="fas fa-icicles"></i>
+                                <p>Adjustable ceiling hanger with cable.</p>
+                            </div>
+                        </div>
+                        <div class="div-list-light">
+                            <div class="div-list">
+                                <i class="fas fa-sign"></i>
+                                <p>Frameless edge with a tension stretch fabric graphics.</p>
+                            </div>
+                        </div>
                         <div class="div-list-light">
                             <div class="div-list">
                                 <i class="fas fa-cubes"></i>
@@ -102,26 +113,6 @@
                             <div class="div-list">
                                 <i class="fas fa-lightbulb"></i>
                                 <p>Energy-efficient LED Rigid bar.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12">
-                        <div class="div-list-light">
-                            <div class="div-list">
-                                <i class="fas fa-users"></i>
-                                <p>Single and double sided versions.</p>
-                            </div>
-                        </div>
-                        <div class="div-list-light">
-                            <div class="div-list">
-                                <i class="fas fa-icicles"></i>
-                                <p>Adjustable ceiling hanger with cable.</p>
-                            </div>
-                        </div>
-                        <div class="div-list-light">
-                            <div class="div-list">
-                                <i class="fas fa-sign"></i>
-                                <p>Frameless edge with a tension stretch fabric graphics.</p>
                             </div>
                         </div>
                     </div>

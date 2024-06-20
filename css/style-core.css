@@ -11157,15 +11157,59 @@ box-shadow: 8px 8px 16px 2px #1b3e59
  .div-list p{
 	font-size:20px;
  }
- /* .div-list{
-	display: flex;
-	gap:20px;
-	align-items: center;
- } */
- .bg-image-list{
-	height:70vh;
-	background-size:cover;
-	background:url('../img/drive-lightbox/bg-light.jpg') no-repeat center center;
-	background-size: cover;
- }
+
 /*light  box end*/
+
+/*drives and controller*/
+.driveandremote-heading h1{
+	font-size:20px !important;
+}
+.driveandremote-div h3{
+	font-size:20px !important;
+}
+.sub-div-driveandremote p{
+	font-size:14px !important;
+	color:#040404 !important;
+}
+.image-div-driveandremote {
+    text-align: center;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.pdf-icon {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.253);
+	border-radius: 1.5rem;
+    color: black !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 40px !important;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+.image-container:hover .pdf-icon {
+    display: flex;
+    opacity: 1;
+}
+
+
+/*drives and controller end*/
