@@ -1,6 +1,6 @@
 RewriteEngine on
 
-RewriteRule ^Landing-Page?$ index.php
+
 
 RewriteRule ^Home?$ homepage-3.php
 RewriteRule ^AboutUs?$ about-us-3.php
@@ -19,7 +19,7 @@ RewriteRule ^LightBoxes?$ light-boxes.php
 RewriteRule ^Lacquer?$ lacquer.php
 RewriteRule ^Acoustic?$ acoustic.php
 
-RewriteRule ^StretchCeiling?$ stretch-ceiling .php
+RewriteRule ^StretchCeiling?$ stretch-ceiling.php
 RewriteRule ^Warranty?$ warranty.php
 RewriteRule ^Boxing?$ boxing.php
 RewriteRule ^LED?$ led.php
@@ -29,7 +29,6 @@ RewriteRule ^Profiles?$ profiles.php
 
 RewriteRule ^Project-Details?$ project-details.php
 RewriteRule ^Single-Project?$ single-projects-detail.php
-
 
 
 
