@@ -282,7 +282,7 @@
                                 <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" id="gdlr-core-column-1" style="text-align:center">
                                     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 55px 0px 100px;">
                                         <p style="color:white;font-size:30px;font-weight:500;margin-bottom:-23px;"> Visit Our Projects</p>
-                                        <button class="custom-btn btn-15"><a href="about-us-3.php"
+                                        <button class="custom-btn btn-15"><a href="AboutUs"
                                             style="color:white;">Click Here</a></button>
                                     </div>
                                 </div>

@@ -1,0 +1,36 @@
+RewriteEngine on
+
+RewriteRule ^Landing-Page?$ index.php
+
+RewriteRule ^Home?$ homepage-3.php
+RewriteRule ^AboutUs?$ about-us-3.php
+RewriteRule ^Projects?$ projects.php
+RewriteRule ^Partners?$ about-our-team.php
+RewriteRule ^Blogs?$ blog-full-left-sidebar-with-frame.php
+RewriteRule ^ContactUs?$ contact-2.php
+RewriteRule ^Downloads?$ downloads.php
+
+RewriteRule ^WallGraphics?$ wallpaper.php
+
+RewriteRule ^Translucent?$ translucent.php
+RewriteRule ^Printed?$ printed.php
+RewriteRule ^3DForms?$ threed.php
+RewriteRule ^LightBoxes?$ light-boxes.php
+RewriteRule ^Lacquer?$ lacquer.php
+RewriteRule ^Acoustic?$ acoustic.php
+
+RewriteRule ^StretchCeiling?$ stretch-ceiling .php
+RewriteRule ^Warranty?$ warranty.php
+RewriteRule ^Boxing?$ boxing.php
+RewriteRule ^LED?$ led.php
+RewriteRule ^Drive-Controllers?$ drivecontrollers.php
+RewriteRule ^Stretch-Fabric?$ stretch-fabric.php
+RewriteRule ^Profiles?$ profiles.php
+
+RewriteRule ^Project-Details?$ project-details.php
+RewriteRule ^Single-Project?$ single-projects-detail.php
+
+
+
+
+

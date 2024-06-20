@@ -35,13 +35,13 @@
 
 </head>
 
-<body class="home page-template-default page page-id-2039 gdlr-core-body woocommerce-no-js inteco-body inteco-body-front inteco-full  inteco-with-sticky-navigation  inteco-blockquote-style-1 gdlr-core-link-to-lightbox" data-home-url="index.php">
+<body class="home page-template-default page page-id-2039 gdlr-core-body woocommerce-no-js inteco-body inteco-body-front inteco-full  inteco-with-sticky-navigation  inteco-blockquote-style-1 gdlr-core-link-to-lightbox" data-home-url="Landing-Page">
     <div class="inteco-mobile-header-wrap">
         <div class="inteco-mobile-header inteco-header-background inteco-style-slide inteco-sticky-mobile-navigation mobile-navigation   " id="inteco-mobile-header">
             <div class="inteco-mobile-header-container inteco-container clearfix">
                 <div class="inteco-logo  inteco-item-pdlr">
                    <div class="inteco-logo-inner">
-                        <a class="" href="index.php"><img src="img/light/Iceil-logo-white.png" alt="" width="200" height="39" title="logo" /></a>
+                        <a class="" href="Landing-Page"><img src="img/light/Iceil-logo-white.png" alt="" width="200" height="39" title="logo" /></a>
                     </div>
                 </div>
                 <div class="inteco-mobile-menu-right">
@@ -53,50 +53,49 @@
                             <div class="inteco-overlay-menu-row">
                                 <div class="inteco-overlay-menu-cell">
                                     <ul id="menu-main-navigation" class="menu">
-                                        <li class="menu-item menu-item-home current-menu-item "><a href="index.php">Home</a>
+                                        <li class="menu-item menu-item-home current-menu-item "><a href="Home">Home</a>
                                             
                                         </li>
-                                        <li class="menu-item "><a href="wallpaper.php">Wall Graphics</a>
+                                        <li class="menu-item "><a href="WallGraphics">Wall Graphics</a>
                                             
                                         </li>
-                                        <li class="menu-item "><a href="about-our-team.php">Partner With us</a>
+                                        <li class="menu-item "><a href="Partners">Partner With us</a>
                                             
                                         </li>
-                                        <li class="menu-item "><a href="about-us-3.php">Who we are</a>
+                                        <li class="menu-item "><a href="AboutUs">Who we are</a>
                                            
                                         </li>
-                                        <li class="menu-item "><a href="contact-2.php">Contact Us</a>
+                                        <li class="menu-item "><a href="ContactUs">Contact Us</a>
                                             
                                         </li>
-                                        <li class="menu-item "><a href="blog-full-left-sidebar-with-frame.php">Blogs</a>
+                                        <li class="menu-item "><a href="Blogs">Blogs</a>
                                             
                                         </li>
-                                        <li class="menu-item "><a href="downloads.php">Downloads</a>
+                                        <li class="menu-item "><a href="Downloads">Downloads</a>
                                             
                                         </li>
-                                        <li class="menu-item "><a href="projects.php">Projects</a>
+                                        <li class="menu-item "><a href="Projects">Projects</a>
                                             
                                         </li>
                                         
                                         <li class="menu-item menu-item-has-children"><a href="#."
                                             class="mry-default-link">Architects</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a href="stretch-ceiling .php"
+                                            <li class="menu-item"><a href="StretchCeiling"
                                                     class="mry-anima-link mry-default-link">Stretch Ceiling</a></li>
-                                            <li class="menu-item"><a href="warranty.php"
+                                            <li class="menu-item"><a href="Warranty"
                                                     class="mry-anima-link mry-default-link">Warranty</a></li>
-<li class="menu-item"><a                                                        class="mry-anima-link mry-default-link">Pre-Requisites</a></li>
-                                            <li class="menu-item"><a href="boxing.php"
+                                            <li class="menu-item"><a href="Boxing"
                                                     class="mry-anima-link mry-default-link">Boxing</a></li>
-                                            <li class="menu-item"><a href="led.php"
+                                            <li class="menu-item"><a href="LED"
                                                     class="mry-anima-link mry-default-link">LED</a></li>
-                                            <li class="menu-item"><a href="stretch-fabric.php"
+                                            <li class="menu-item"><a href="Stretch-Fabric"
                                                     class="mry-anima-link mry-default-link">Stretch Fabric</a></li>
-                                        <li class="menu-item"><a href="profiles.php"
+                                        <li class="menu-item"><a href="Profiles"
                                                     class="mry-anima-link mry-default-link">Profiles</a></li>
                                                     <li class="menu-item"><a href="drives.php"
                                                         class="mry-anima-link mry-default-link">Drive</a></li>
-                                            <li class="menu-item"><a href="drivecontrollers.php"
+                                            <li class="menu-item"><a href="Drive-Controllers"
                                                     class="mry-anima-link mry-default-link">Remotes & Controllers</a></li>
     
                                         </ul>
@@ -109,17 +108,17 @@
                                                     class="mry-anima-link mry-default-link">Project Gallery</a></li>
                                             <li class="menu-item"><a href="completed-projects.php"
                                                     class="mry-anima-link mry-default-link">Completed Projects</a></li>
-                                            <li class="menu-item"><a href="translucent.php"
+                                            <li class="menu-item"><a href="Translucent"
                                                     class="mry-anima-link mry-default-link">Translucent</a></li>
-                                            <li class="menu-item"><a href="printed.php"
+                                            <li class="menu-item"><a href="Printed"
                                                     class="mry-anima-link mry-default-link">Printed</a></li>
-                                            <li class="menu-item"><a href="threed.php"
+                                            <li class="menu-item"><a href="3DForms"
                                                     class="mry-anima-link mry-default-link">3D Forms</a></li>
-                                            <li class="menu-item"><a href="light-boxes.php"
+                                            <li class="menu-item"><a href="LightBoxes"
                                                     class="mry-anima-link mry-default-link">Light Boxes</a></li>
-                                            <li class="menu-item"><a href="lacquer.php"
+                                            <li class="menu-item"><a href="Lacquer"
                                                     class="mry-anima-link mry-default-link">Lacquer</a></li>
-                                            <li class="menu-item"><a href="acoustic.php"
+                                            <li class="menu-item"><a href="Acoustic"
                                                     class="mry-anima-link mry-default-link">Acoustic</a></li>
                                         </ul>
                                     </li>
@@ -170,7 +169,7 @@
                 <!-- top panel -->
                 <div class="mry-top-panel laptop-navigation">
                     <div class="mry-logo-frame">
-                        <a href="index.php" class="mry-default-link mry-anima-link">
+                        <a href="Home" class="mry-default-link mry-anima-link">
                             <img class="mry-logo" src="img/light/Iceil-final-logo-png.webp" alt="Mireya">
                         </a>
                     </div>
@@ -193,27 +192,27 @@
                             <div class="col-md-4 menu-list">
                                 <nav id="mry-dynamic-menu">
                                     <ul>
-                                        <li class="menu-item "><a href="index.php" class="mry-default-link">Home</a></li>
+                                        <li class="menu-item "><a href="Home" class="mry-default-link">Home</a></li>
         
-                                        <li class="menu-item"><a href="wallpaper.php"
+                                        <li class="menu-item"><a href="WallGraphics"
                                                 class="mry-anima-link mry-default-link">Wall Graphics</a></li>
         
-                                        <li class="menu-item"><a href="about-our-team.php"
+                                        <li class="menu-item"><a href="Partners"
                                                 class="mry-anima-link mry-default-link">Partner with us</a></li>
         
-                                        <li class="menu-item"><a href="about-us-3.php"
+                                        <li class="menu-item"><a href="AboutUs"
                                                 class="mry-anima-link mry-default-link">Who We Are</a></li>
         
-                                        <li class="menu-item"><a href="contact-2.php"
+                                        <li class="menu-item"><a href="ContactUs"
                                                 class="mry-anima-link mry-default-link">Contact Us</a></li>
         
-                                        <li class="menu-item"><a href="blog-full-left-sidebar-with-frame.php"
+                                        <li class="menu-item"><a href="Blogs"
                                                 class="mry-anima-link mry-default-link">Blogs</a></li>
         
-                                        <li class="menu-item"><a href="downloads.php"
+                                        <li class="menu-item"><a href="Downloads"
                                                 class="mry-anima-link mry-default-link">Downloads</a></li>
         
-                                        <li class="menu-item"><a href="projects.php"
+                                        <li class="menu-item"><a href="Projects"
                                                 class="mry-anima-link mry-default-link">Projects</a></li>
         
         
@@ -229,23 +228,21 @@
                                         <li class="menu-item menu-item-has-children"><a href="#."
                                                 class="mry-default-link">Architects</a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item"><a href="stretch-ceiling .php"
+                                                <li class="menu-item"><a href="StretchCeiling"
                                                         class="mry-anima-link mry-default-link">Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="warranty.php"
+                                                <li class="menu-item"><a href="Warranty"
                                                         class="mry-anima-link mry-default-link">Warranty</a></li>
-                                                <li class="menu-item"><a href="pre-requisites.php"
-                                                        class="mry-anima-link mry-default-link">Pre-Requisites</a></li>
-                                                <li class="menu-item"><a href="boxing.php"
+                                                <li class="menu-item"><a href="Boxing"
                                                         class="mry-anima-link mry-default-link">Boxing</a></li>
-                                                <li class="menu-item"><a href="led.php"
+                                                <li class="menu-item"><a href="LED"
                                                         class="mry-anima-link mry-default-link">LED</a></li>
-                                                <li class="menu-item"><a href="stretch-fabric.php"
+                                                <li class="menu-item"><a href="Stretch-Fabric"
                                                         class="mry-anima-link mry-default-link">Stretch Fabric</a></li>
-                                                <li class="menu-item"><a href="profiles.php"
+                                                <li class="menu-item"><a href="Profiles"
                                                         class="mry-anima-link mry-default-link">Profiles</a></li>
                                                         <li class="menu-item"><a href="drives.php"
                                                             class="mry-anima-link mry-default-link">Drive</a></li>
-                                                <li class="menu-item"><a href="drivecontrollers.php"
+                                                <li class="menu-item"><a href="Drive-Controllers"
                                                         class="mry-anima-link mry-default-link">Remotes & Controllers</a></li>
         
                                             </ul>
@@ -258,17 +255,17 @@
                                                         class="mry-anima-link mry-default-link">Project Gallery</a></li>
                                                 <li class="menu-item"><a href="completed-projects.php"
                                                         class="mry-anima-link mry-default-link">Completed Projects</a></li>
-                                                <li class="menu-item"><a href="translucent.php"
+                                                <li class="menu-item"><a href="Translucent"
                                                         class="mry-anima-link mry-default-link">Translucent</a></li>
-                                                <li class="menu-item"><a href="printed.php"
+                                                <li class="menu-item"><a href="Printed"
                                                         class="mry-anima-link mry-default-link">Printed</a></li>
-                                                <li class="menu-item"><a href="threed.php"
+                                                <li class="menu-item"><a href="3DForms"
                                                         class="mry-anima-link mry-default-link">3D Forms</a></li>
-                                                <li class="menu-item"><a href="light-boxes.php"
+                                                <li class="menu-item"><a href="LightBoxes"
                                                         class="mry-anima-link mry-default-link">Light Boxes</a></li>
-                                                <li class="menu-item"><a href="lacquer.php"
+                                                <li class="menu-item"><a href="Lacquer"
                                                         class="mry-anima-link mry-default-link">Lacquer</a></li>
-                                                <li class="menu-item"><a href="acoustic.php"
+                                                <li class="menu-item"><a href="Acoustic"
                                                         class="mry-anima-link mry-default-link">Acoustic</a></li>
                                             </ul>
                                         </li>

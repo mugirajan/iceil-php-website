@@ -56,7 +56,7 @@
                                                         <div
                                                             class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
                                                             <a class="gdlr-core-button  gdlr-core-button-bottom-border-on-text gdlr-core-button-no-border"
-                                                                href="about-us-3.php"
+                                                                href="AboutUs"
                                                                 style="font-size: 20px ;letter-spacing: 0px ;color: #ffffff ;padding: 0px 0px 0px 0px;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;">
                                                                 <span class="gdlr-core-border-on-text"
                                                                     style="border-bottom-width: 12px ;border-color: #2676bc ;margin-top: -16px ;"></span>
@@ -105,7 +105,7 @@
                                                             can make your spaces lively. 
                                                             </p>
                                                     </div>
-                                                    <button class="custom-btn btn-15"><a style="color:white" href="about-us-3.php">About Us</a></button>
+                                                    <button class="custom-btn btn-15"><a style="color:white" href="AboutUs">About Us</a></button>
                                                 </div>
                                             </div>
                                         </div>
@@ -494,7 +494,7 @@
                                 <div class="statistics-type col-lg-6 col-md-6 col-sm-12">
                                     <h4 style="color:white">Our statistics</h4>
                                     <p>Being the best Stretch ceiling Manufacturer in India, We supply and install Stretch Ceilings projects across India.</p>
-                                    <button class="read-more-btn"><a href="about-us-3.php"
+                                    <button class="read-more-btn"><a href="AboutUs"
                                         style="color: #ffffff;">Read More</a></button>
                                 </div>
                                 <div class="statistics-stats col-lg-6 col-md-6 col-sm-12">
@@ -546,7 +546,7 @@
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-button-item gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-with-border" href="stretch-fabric.php" style="font-size: 16px ;font-weight: 600 ;letter-spacing: 0px ;color: #2676bc ;padding: 0px 0px 2px 0px;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;border:none;">
+                                                <div class="gdlr-core-button-item gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-with-border" href="Stretch-Fabric" style="font-size: 16px ;font-weight: 600 ;letter-spacing: 0px ;color: #2676bc ;padding: 0px 0px 2px 0px;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;border:none;">
                                                     <span class="gdlr-core-content" >Learn More</span>
                                                     <i class="gdlr-core-pos-right fa fa-long-arrow-right" style="font-size: 19px ;color: #2676bc ;"  ></i></a></div>
                                             </div>
@@ -588,7 +588,7 @@
                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
                                                 <span class="gdlr-core-blog-info-sep" >•</span>
-                                                <a href="../index.php">June 6, 2016</a>
+                                                <a >June 6, 2016</a>
                                             </span>
                                         </div>
                                         <h4 class="gdlr-core-blog-title  blog-post-title" style="font-size: 14px ;">
@@ -622,14 +622,14 @@
                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
                                                 <span class="gdlr-core-blog-info-sep" >•</span>
-                                                <a href="../index.php">June 6, 2016</a>
+                                                <a>June 6, 2016</a>
                                             </span>
                                         </div>
                                         <h4 class="gdlr-core-blog-title  blog-post-title" style="font-size: 14px ;">
                                             What is the benefit of a Stretch Ceiling?
                                             
                                         </h4>
-                                        <!-- <button class="custom-btn btn-15"><a href="blog-full-left-sidebar-with-frame.php"
+                                        <!-- <button class="custom-btn btn-15"><a href="Blogs"
                                             style="color: #ffffff;"> Read More </a></button> -->
                                     </div>
                                     
@@ -660,7 +660,7 @@
                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
                                                 <span class="gdlr-core-blog-info-sep" >•</span>
-                                                <a href="../index.php">June 6, 2016</a>
+                                                <a>June 6, 2016</a>
                                             </span>
                                         </div>
                                         <h4 class="gdlr-core-blog-title  blog-post-title" style="font-size: 14px ;">
@@ -735,7 +735,7 @@
                                 <p>Ready to turn your vision into reality? Contact us today to schedule a consultation and discover how we can bring your project to life with our expertise and dedication to excellence.</p>
                             </div>
                             <div class="col-lg-3 cta-btn-container text-center">
-                                <a class="cta-btn align-middle" href="contact-2.php">Contact Us <i class="fas fa-arrow-right"></i></a>
+                                <a class="cta-btn align-middle" href="ContactUs">Contact Us <i class="fas fa-arrow-right"></i></a>
                             </div>
                             </div>
 

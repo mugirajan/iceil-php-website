@@ -274,14 +274,14 @@
 														data-fancybox="works" class="mry-zoom mry-magnetic-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-expand"></i></span></a>
-													<a href="single-projects-detail.php"
+													<a href="Single-Project"
 														class="mry-more mry-magnetic-link mry-anima-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-arrow-right"></i></span></a>
 												</div>
 											</div>
 											<div class="mry-item-descr mry-fo">
-												<h4 class="mry-mb-10"><a href="single-projects-detail.php">Stretch Ceiling</a></h4>
+												<h4 class="mry-mb-10"><a href="Single-Project">Stretch Ceiling</a></h4>
 												<div class="mry-text">Lorem ipsum dolor sit amet, consectetur
 													adipisicing elit.</div>
 											</div>
@@ -301,14 +301,14 @@
 														data-fancybox="works" class="mry-zoom mry-magnetic-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-expand"></i></span></a>
-													<a href="single-projects-detail.php"
+													<a href="Single-Project"
 														class="mry-more mry-magnetic-link mry-anima-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-arrow-right"></i></span></a>
 												</div>
 											</div>
 											<div class="mry-item-descr mry-fo">
-												<h4 class="mry-mb-10"><a href="single-projects-detail.php">Light Boxing</a></h4>
+												<h4 class="mry-mb-10"><a href="Single-Project">Light Boxing</a></h4>
 												<div class="mry-text">Lorem ipsum dolor sit amet, consectetur
 													adipisicing elit.</div>
 											</div>
@@ -328,14 +328,14 @@
 														data-fancybox="works" class="mry-zoom mry-magnetic-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-expand"></i></span></a>
-													<a href="single-projects-detail.php"
+													<a href="Single-Project"
 														class="mry-more mry-magnetic-link mry-anima-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-arrow-right"></i></span></a>
 												</div>
 											</div>
 											<div class="mry-item-descr mry-fo">
-												<h4 class="mry-mb-10"><a href="single-projects-detail.php">Stretch Fabric</a></h4>
+												<h4 class="mry-mb-10"><a href="Single-Project">Stretch Fabric</a></h4>
 												<div class="mry-text">Lorem ipsum dolor sit amet, consectetur
 													adipisicing elit.</div>
 											</div>
@@ -355,14 +355,14 @@
 														data-fancybox="works" class="mry-zoom mry-magnetic-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-expand"></i></span></a>
-													<a href="single-projects-detail.php"
+													<a href="Single-Project"
 														class="mry-more mry-magnetic-link mry-anima-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-arrow-right"></i></span></a>
 												</div>
 											</div>
 											<div class="mry-item-descr mry-fo">
-												<h4 class="mry-mb-10"><a href="single-projects-detail.php">Stretch Ceiling</a></h4>
+												<h4 class="mry-mb-10"><a href="Single-Project">Stretch Ceiling</a></h4>
 												<div class="mry-text">Lorem ipsum dolor sit amet, consectetur
 													adipisicing elit.</div>
 											</div>
@@ -382,14 +382,14 @@
 														data-fancybox="works" class="mry-zoom mry-magnetic-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-expand"></i></span></a>
-													<a href="single-projects-detail.php"
+													<a href="Single-Project"
 														class="mry-more mry-magnetic-link mry-anima-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-arrow-right"></i></span></a>
 												</div>
 											</div>
 											<div class="mry-item-descr mry-fo">
-												<h4 class="mry-mb-10"><a href="single-projects-detail.php">Stretch Fabric</a></h4>
+												<h4 class="mry-mb-10"><a href="Single-Project">Stretch Fabric</a></h4>
 												<div class="mry-text">Lorem ipsum dolor sit amet, consectetur
 													adipisicing elit.</div>
 											</div>
@@ -409,14 +409,14 @@
 														data-fancybox="works" class="mry-zoom mry-magnetic-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-expand"></i></span></a>
-													<a href="single-projects-detail.php"
+													<a href="Single-Project"
 														class="mry-more mry-magnetic-link mry-anima-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-arrow-right"></i></span></a>
 												</div>
 											</div>
 											<div class="mry-item-descr mry-fo">
-												<h4 class="mry-mb-10"><a href="single-projects-detail.php">LED Ceiling</a></h4>
+												<h4 class="mry-mb-10"><a href="Single-Project">LED Ceiling</a></h4>
 												<div class="mry-text">Lorem ipsum dolor sit amet, consectetur
 													adipisicing elit.</div>
 											</div>
@@ -436,14 +436,14 @@
 														data-fancybox="works" class="mry-zoom mry-magnetic-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-expand"></i></span></a>
-													<a href="single-projects-detail.php"
+													<a href="Single-Project"
 														class="mry-more mry-magnetic-link mry-anima-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-arrow-right"></i></span></a>
 												</div>
 											</div>
 											<div class="mry-item-descr mry-fo">
-												<h4 class="mry-mb-10"><a href="single-projects-detail.php">LED </a></h4>
+												<h4 class="mry-mb-10"><a href="Single-Project">LED </a></h4>
 												<div class="mry-text">Lorem ipsum dolor sit amet, consectetur
 													adipisicing elit.</div>
 											</div>
@@ -462,14 +462,14 @@
 														class="mry-zoom mry-magnetic-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-expand"></i></span></a>
-													<a href="single-projects-detail.php"
+													<a href="Single-Project"
 														class="mry-more mry-magnetic-link mry-anima-link"><span
 															class="mry-magnetic-object"><i
 																class="fas fa-arrow-right"></i></span></a>
 												</div>
 											</div>
 											<div class="mry-item-descr mry-fo">
-												<h4 class="mry-mb-10"><a href="single-projects-detail.php">Light Boxing</a></h4>
+												<h4 class="mry-mb-10"><a href="Single-Project">Light Boxing</a></h4>
 												<div class="mry-text">Lorem ipsum dolor sit amet, consectetur
 													adipisicing elit.</div>
 											</div>

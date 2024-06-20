@@ -48,7 +48,7 @@
                                             <img src="https://www.iskydance.com/uploads/goods_source/20240522105126a5.gif" alt="Controller Image">
                                             <a href="path/to/your/pdf1.pdf" target="_blank" class="pdf-icon"><i class="fas fa-search"></i></i></a>
                                         </div>
-                                        <p>1CH*8A 5-36VDC CV Controller, Push-Dim V1</p>
+                                        <p class="para_driveandremote">1CH*8A 5-36VDC CV Controller, Push-Dim V1</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-3">
@@ -57,7 +57,7 @@
                                             <img src="https://www.iskydance.com/uploads/goods_source/202307211537381a.gif" alt="Controller Image">
                                             <a href="path/to/your/pdf2.pdf" target="_blank" class="pdf-icon"><i class="fas fa-search"></i></a>
                                         </div>
-                                        <p>1CH*8A 5-36VDC CV Controller, Push-Dim V1</p>
+                                        <p class="para_driveandremote">1CH*8A 5-36VDC CV Controller, Push-Dim V1</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-3">
@@ -66,7 +66,7 @@
                                             <img src="https://www.iskydance.com/uploads/goods_source/2021110416095981.jpg" alt="Controller Image">
                                             <a href="path/to/your/pdf3.pdf" target="_blank" class="pdf-icon"><i class="fas fa-search"></i></a>
                                         </div>
-                                        <p>1CH*8A 5-36VDC CV Controller, Push-Dim V1</p>
+                                        <p class="para_driveandremote">1CH*8A 5-36VDC CV Controller, Push-Dim V1</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-3">
@@ -75,7 +75,7 @@
                                             <img src="https://www.iskydance.com/uploads/goods_source/2023101814341120.gif" alt="Controller Image">
                                             <a href="path/to/your/pdf4.pdf" target="_blank" class="pdf-icon"><i class="fas fa-search"></i></a>
                                         </div>
-                                        <p>1CH*8A 5-36VDC CV Controller, Push-Dim V1</p>
+                                        <p class="para_driveandremote">1CH*8A 5-36VDC CV Controller, Push-Dim V1</p>
                                     </div>
                                 </div>
                             </div>

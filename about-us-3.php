@@ -455,7 +455,7 @@
                                 </div>
                                 <p class="card-content">Lacquer stretch ceiling provide a mirror effect on your ceiling with a high degree of light reflection. This provides an elite ambiance and and visually enlarged room space
                                 </p>
-                                <a href="lacquer.php" class="read-more-btn">Read More</a>
+                                <a href="Lacquer" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -468,7 +468,7 @@
                                     <h4 class="card-main-title">Translucent stretch ceiling </h4>
                                 </div>
                                 <p class="card-content">Translucent stretch ceiling allows light to be evenly distributed with the stretch membrane offering 75% Translucency.</p>
-                                <a href="translucent.php" class="read-more-btn">Read More</a>
+                                <a href="Translucent" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -481,7 +481,7 @@
                                     <h4 class="card-main-title">Acoustic Ceiling </h4>
                                 </div>
                                 <p class="card-content">Translucent stretch ceiling allows light to be evenly distributed with the stretch membrane offering 75% Translucency.</p>
-                                <a href="acoustic.php" class="read-more-btn">Read More</a>
+                                <a href="Acoustic" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -494,7 +494,7 @@
                                     <h4 class="card-main-title">Stretch Ad - Sign box</h4>
                                 </div>
                                 <p class="card-content">Light boxes stretch fabric allows light to be evenly distributed with the stretch membrane offering 75% Translucency.</p>
-                                <a href="stretch-ceiling .php" class="read-more-btn">Read More</a>
+                                <a href="StretchCeiling" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -508,7 +508,7 @@
                                 </div>
                                 <p class="card-content">Printed stretch ceiling provide a mirror effect on your ceiling with a high degree of light reflection. This provides an elite ambiance and visually enlarged room space</p>
                                 </p>
-                                <a href="printed.php" class="read-more-btn">Read More</a>
+                                <a href="Printed" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -535,7 +535,7 @@
                                 </div>
                                 <p class="card-content">ceilings are created by engineering multilevel framing structures and can be made to
                                     the required size, shape, and then can be fitted with the desired stretch film.</p>
-                                <a href="threed.php" class="read-more-btn">Read More</a>
+                                <a href="3DForms" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -548,7 +548,7 @@
                                     <h4 class="card-main-title">Wall Graphics</h4>
                                 </div>
                                 <p class="card-content">Custom wallpaper murals are an extremely unique and personalized product. Print image of your choice in your walls printed film.</p>
-                                <a href="wallpaper.php" class="read-more-btn">Read More</a>
+                                <a href="WallGraphics" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -654,7 +654,7 @@
                                                 <p class="franchise-para">Discover the exciting world of interior design and innovative solutions with our franchise. Join us in delivering premium stretch ceiling and lighting works to homes and businesses.
                                                 To learn more about our franchise opportunities and how you can be part of our success story!</p>
                                                 </div>
-                                                <button class="read-more-btn" style="color:white;border:none"><a href="about-our-team.php"  style="color:white;border:none">Click Here</a></button>
+                                                <button class="read-more-btn" style="color:white;border:none"><a href="Partners"  style="color:white;border:none">Click Here</a></button>
                                             </div>
                                         </div>
                                         
@@ -756,7 +756,7 @@
                                                                     <div class="gdlr-core-pbf-element">
                                                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                                                             <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;text-transform: none ;">
-                                                                                <button class="read-more-btn" style="border-radius:0.5rem"><a style="color:white" href="about-our-team.php">Click here</a></button>
+                                                                                <button class="read-more-btn" style="border-radius:0.5rem"><a style="color:white" href="Partners">Click here</a></button>
                                                                             </div>
                                                                         </div>
                                                                     </div>

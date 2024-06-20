@@ -339,7 +339,7 @@
                                     <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align"
                                         style="padding-bottom: 0px ;"><a
                                             class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-with-border"
-                                            href="contact-2.php"
+                                            href="ContactUs"
                                             style="font-size: 18px ;font-weight: 700 ;letter-spacing: 0px ;color: #ffffff ;padding: 0px 0px 2px 0px;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;border-width: 0px 0px 7px 0px;border-color: #2676bc ;"><span
                                                 class="gdlr-core-content">Get A Quote</span><i
                                                 class="gdlr-core-pos-right fa fa-long-arrow-right"

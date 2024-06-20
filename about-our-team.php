@@ -879,7 +879,7 @@
                                 <div class="statistics-type col-lg-6 col-md-6 col-sm-12">
                                     <h4 style="color:white">Our statistics</h4>
                                     <p>Being the best Stretch ceiling Manufacturer in India, We supply and install Stretch Ceilings projects across India.</p>
-                                    <button class="read-more-btn"><a href="about-us-3.php"
+                                    <button class="read-more-btn"><a href="AboutUs"
                                         style="color: #ffffff;">Read More</a></button>
                                 </div>
                                 <div class="statistics-stats col-lg-6 col-md-6 col-sm-12">

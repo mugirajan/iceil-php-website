@@ -168,7 +168,7 @@
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;font-weight: 400 ;text-transform: none ;color: white !important ;">
-                                                        <a class="btn btn-primary" href="project-details.php" role="button" style="color: white !important ;">View Project</a>                                                    </div>
+                                                        <a class="btn btn-primary" href="Project-Details" role="button" style="color: white !important ;">View Project</a>                                                    </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -214,7 +214,7 @@
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;font-weight: 400 ;text-transform: none ;color: #bcbcbc ;">
-                                                        <button onclick="window.location.href = 'index.php'" style="border-radius: .25rem;padding:.2rem;color: white !important ;background-color: #0069d9 !important;border-color:#0069d9"> View Project</button>
+                                                        <button onclick="window.location.href = 'Home'" style="border-radius: .25rem;padding:.2rem;color: white !important ;background-color: #0069d9 !important;border-color:#0069d9"> View Project</button>
                                                     </div>
                                                 </div>
                                             </div>
@@ -268,7 +268,7 @@
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;font-weight: 400 ;text-transform: none ;color: white !important ;">
-                                                        <a class="btn btn-primary" href="project-details.php" role="button" style="color: white !important ;">View Project</a>                                                    </div>
+                                                        <a class="btn btn-primary" href="Project-Details" role="button" style="color: white !important ;">View Project</a>                                                    </div>
                                                     </div>
                                                 </div>
                                             </div>
