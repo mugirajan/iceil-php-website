@@ -74,54 +74,53 @@
             <!--key frames start-->
            
 
-            <div class="gdlr-core-pbf-wrapper " style="padding: 366px 0px 30px 0px;" id="gdlr-core-wrapper-5">
-                <div class="gdlr-core-pbf-background-wrap">
-                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(https://img.freepik.com/premium-photo/3d-rendering-advertising-billboard-side-road-computer-digital-image_1070994-5223.jpg?w=740) ;background-size: cover ;background-position: top center ;" data-parallax-speed="0.3"></div>
+            <!--background image-->
+            <section class="bg-image-list"> 
+                <div class="row">
                 </div>
-                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container"></div>
-                </div>
-            </div>
+            </section>
+            <!--background image end-->
+
 
             <!--list-->
             <section class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <div class="div-list-light">
-                            <div class="">
+                            <div class="div-list">
                                 <i class="fas fa-cubes"></i>
                                 <p>Small package, Easily assembled.</p>
                             </div>
                         </div>
                         <div class="div-list-light">
-                            <div class="">
-                                <i class="fas fa-sim-card"></i>
+                            <div class="div-list">
+                                <i class="fa-solid fa-toolbox"></i>
                                 <p>Portable, No Tool, Durable.</p>
                             </div>
                         </div>
                         <div class="div-list-light">
-                            <div class="">
-                                <i class="fas fa-burn"></i>
+                            <div class="div-list">
+                                <i class="fas fa-lightbulb"></i>
                                 <p>Energy-efficient LED Rigid bar.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <div class="div-list-light">
-                            <div class="">
+                            <div class="div-list">
                                 <i class="fas fa-users"></i>
                                 <p>Single and double sided versions.</p>
                             </div>
                         </div>
                         <div class="div-list-light">
-                            <div class="">
-                                <i class="fas fa-exchange-alt"></i>
+                            <div class="div-list">
+                                <i class="fas fa-icicles"></i>
                                 <p>Adjustable ceiling hanger with cable.</p>
                             </div>
                         </div>
                         <div class="div-list-light">
-                            <div class="">
-                                <i class="fab fa-phabricator"></i>
+                            <div class="div-list">
+                                <i class="fas fa-sign"></i>
                                 <p>Frameless edge with a tension stretch fabric graphics.</p>
                             </div>
                         </div>

@@ -11150,5 +11150,22 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 
 /*light box start*/
 
- 
+ .div-list i{
+	font-size:30px;
+	color:#2676bc;
+ }
+ .div-list p{
+	font-size:20px;
+ }
+ /* .div-list{
+	display: flex;
+	gap:20px;
+	align-items: center;
+ } */
+ .bg-image-list{
+	height:70vh;
+	background-size:cover;
+	background:url('../img/drive-lightbox/bg-light.jpg') no-repeat center center;
+	background-size: cover;
+ }
 /*light  box end*/
