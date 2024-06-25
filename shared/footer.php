@@ -3,7 +3,7 @@
                 <div class="inteco-footer-wrapper ">
                     <div class="inteco-footer-container inteco-container clearfix">
                     <!--fixed icons start-->   
-                    <div class="d-flex justify-content-end">
+                        <div class="d-flex justify-content-end">
                             <div class="static-section-logo " >
                                 <div class="social-links link1">
                                     <a target="_blank" href="https://wa.me/918925517107">

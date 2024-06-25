@@ -1,6 +1,18 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="Stretch Ceiling Coimbatore, Stretch Ceiling Pollachi, Stretch Ceiling Tiruppur, Stretch Ceiling Nagercoil, Stretch Ceiling Tirunelveli,
+  Stretch Ceiling Mizoram, Stretch Ceiling Tuticorin, Stretch Ceiling Bangalore, Stretch Ceiling Mysore, Stretch Ceiling Hyderabad, Stretch Ceiling Vijayawada,
+  Stretch Ceiling Kolkata, Stretch Ceiling Dharwad, Stretch Ceiling Bhubaneshwar, Stretch Ceiling Odisha, Stretch Ceiling Guwahati,
+  Stretch Ceiling Punjab, Stretch Ceiling Mohali, Stretch Ceiling Panchkula, Stretch Ceiling Trichy, Stretch Ceiling Delhi, Stretch Ceiling Chandigarh,
+  Stretch Ceiling Gurgaon, Stretch Ceiling Hubli, Stretch Ceiling Madurai, Stretch Ceiling Pondicherry, Stretch Ceiling Vellore, Stretch Ceiling Erode,
+  Stretch Ceiling Thiruvananthapuram, Stretch Ceiling Calicut, Stretch Ceiling Kozhikode, Stretch Ceiling Jaipur, Stretch Ceiling Goa, Stretch Ceiling Visakhapatnam,
+  Stretch Ceiling Vizag, Stretch Ceiling Salem, Stretch Ceiling Lucknow, Stretch Ceiling Kanpur, Stretch Ceiling Vijayapura, Stretch Ceiling Chennai, Stretch Ceiling Karnataka,
+  Stretch Ceiling Andhra Pradesh, Stretch Ceiling Assam, Stretch Ceiling Bihar, Stretch Ceiling Gujarat, Stretch Ceiling Haryana, Stretch Ceiling Himachal Pradesh,
+  Stretch Ceiling Jharkhand, Stretch Ceiling Kerala, Stretch Ceiling Maharashtra, Stretch Ceiling Madhya Pradesh, Stretch Ceiling Manipur, Stretch Ceiling Meghalay, Stretch Ceiling Nagaland,
+  Stretch Ceiling Rajasthan, Stretch Ceiling Sikkim, Stretch Ceiling Tamil Nadu, Stretch Ceiling Tripura, Stretch Ceiling Telangana, Stretch Ceiling Uttar Pradesh,
+  Stretch Ceiling Uttarakhand, Stretch Ceiling West Bengal, Stretch Ceiling Andaman, Stretch Ceiling Jammu and Kashmir, Stretch Ceiling Ladakh,
+  Stretch Ceiling Arunachal Pradesh ">
 </head>
 
 <?php
