@@ -136,7 +136,7 @@
                             <div class=" whatwedodiv">
                                 <div class="whatwedo-image">
                                     <div>
-                                        <img src="img/drive-homepage/128.jpg">
+                                        <img src="img/drive-Printed-Stretch-Ceiling/PRINTED-STRETCH-CEILING-water (1).png">
                                     </div>
                                     <h3>Printed</h3>
                                     <p></p>
@@ -190,7 +190,7 @@
                             <div class=" whatwedodiv">
                                 <div class="whatwedo-image">
                                     <div>
-                                        <img src="img/printed-latest/Radission Blu/Radission Blu (22).jpeg">
+                                        <img src="https://img.freepik.com/premium-photo/3d-abstract-colorful-tree-with-leaves-hanging-branches-illustration-background-generative-ai_884023-4218.jpg?w=740">
                                     </div>
                                     <h3>Wall Graphics</h3>
                                     <p></p>

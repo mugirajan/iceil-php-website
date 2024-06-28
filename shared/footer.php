@@ -16,30 +16,29 @@
                                 </div>
                             </div>
                         </div>
-                    <div id="popupForm" class="popup">
+                        <div id="popupForm" class="popup">
                             <div class="popup-content">
-                                <span class="d-none close-btn">&times;</span>
                                 <h4>Contact Us</h4>
-                                <form class="popup-form">
+                                <form class="popup-form form-group">
                                     <label for="name">Name:</label>
-                                    <input type="text" id="name" name="name" required>
+                                    <input class="form-control" type="text" id="name" name="name" required>
                                     
                                     <label for="email">Email:</label>
-                                    <input type="email" id="email" name="email" required>
+                                    <input class="form-control" type="email" id="email" name="email" required>
 
                                     <label for="tel">Phone:</label>
-                                    <input type="tel" id="tel" name="tel" required>
+                                    <input class="form-control" type="tel" id="tel" name="tel" required>
                                     
-                                    <label for="tel">State:</label>
-                                    <input type="tel" id="tel" name="tel" required>
+                                    <label for="state">State:</label>
+                                    <input class="form-control" type="text" id="state" name="state" required>
                                     
-                                    <label for="tel">City:</label>
-                                    <input type="tel" id="tel" name="tel" required>
+                                    <label for="city">City:</label>
+                                    <input class="form-control" type="text" id="city" name="city" required>
                                     
-                                    <label for="tel">Message:</label>
-                                    <textarea type="tel" id="tel" name="tel" required></textarea>
+                                    <label for="message">Message:</label>
+                                    <textarea class="form-control" type="text" id="message" name="message" required></textarea>
                                     
-                                    <button class="popup-button" type="submit">Submit</button>
+                                    <button type="submit" name="submit" id="contactFormSubmitBtn" class="inptBtn">Submit</button>
                                 </form>
                             </div>
                         </div>

@@ -10,15 +10,22 @@ if (isset($_POST["type"])) {
 
     switch ($_POST["type"]) {
         
-        // case "contactForm":
+        case "contactForm":
             $res = $sm->contactEnquiry($_POST);
-            // echo "Damn it...!!!";
             break;
 
-        // default:
+        case "popup-form":
+            $res = $sm->contactEnquiry($_POST);
+            break;
+        
+        case "franchiseForm":
+            $res = $sm->contactEnquiry($_POST);
+            break;
+
+        default:
             $res["success"] = false;
             $res["message"] = "Invalid request";
-            // break;
+            break;
     }
     
     echo json_encode($res);

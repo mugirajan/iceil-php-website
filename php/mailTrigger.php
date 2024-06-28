@@ -24,7 +24,7 @@ class sndMail
         $mail->SMTPAuth = true;
         $mail->Username = "contact@blackitechs.com";
         $mail->Password = "Contact@bits#737";
-        $mail->setFrom("mugirajan95@gmail.com", "Mail From Iceil solutions");
+        $mail->setFrom("contact@blackitechs.com", "Mail From Iceil solutions");
         return $mail;
     }
 

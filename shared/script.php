@@ -73,10 +73,6 @@
         popupform.style.display = "block";
     });
 
-    closeBtn.addEventListener("click", function() {
-        popupform.style.display = "none";
-    });
-
     window.addEventListener("click", function(event) {
         if (event.target == popupform) {
             popupform.style.display = "none";

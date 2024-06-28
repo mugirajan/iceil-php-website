@@ -7295,7 +7295,8 @@ height:70vh;
 	background-color:transparent;
 }
 .image-for-partner img{
-	
+	width:100%;
+	height:100%;
 }
 .partners img {
 	height: 40vh;

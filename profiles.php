@@ -132,59 +132,6 @@
 
                 </section>
                 <!--Profile install-->
-
-                <!--steps-->
-                <section class="steps-for-profiles">
-                    <div class="div-for-steps">
-                        <h4 class="text-center">Installation Steps</h4>
-                        <div class="row">
-                            <div class="col-lg-4 col-md-4 col-sm-12  image-para-profiles">
-                                <div class="image-for-steps">
-                                    <img src="img/project-gallery/installation-1.PNG">
-                                </div>
-                                <h6 class="text-center">Step 1</h6>
-                                <p>Install the profile and wood frame<br>
-                                   fix them by nails at interval 20cm.</p>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-12  image-para-profiles">
-                                <div class="image-for-steps">
-                                    <img src="img/project-gallery/installation-2.PNG">
-                                </div>
-                                <h6 class="text-center">Step 2</h6>
-                                <p>Fix the four corners of film.</p>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-12  image-para-profiles">
-                                <div class="image-for-steps">
-                                    <img src="img/project-gallery/installation-3.PNG">
-                                </div>
-                                <h6 class="text-center">Step 3</h6>
-                                <p>Soften the edges of film by heater.</p>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-12  image-para-profiles">
-                                <div class="image-for-steps">
-                                    <img src="img/project-gallery/installtion-4.PNG">
-                                </div>
-                                <h6 class="text-center">Step 4</h6>
-                                <p>Insert the harpoon with film into the profile.</p>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-12 image-para-profiles">
-                                <div class="image-for-steps">
-                                    <img src="img/project-gallery/installation-5.PNG">
-                                </div>
-                                <h6 class="text-center">Step 5</h6>
-                                <p>Flatten the uneven parts using heater.</p>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-12 image-para-profiles">
-                                <div class="image-for-steps">
-                                    <img src="img/project-gallery/installation-6.PNG">
-                                </div>
-                                <h6 class="text-center">Step 6</h6>
-                                <p>Done.</p>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <!--steps-->
             
                 <?php
                    include "./shared/footer.php"

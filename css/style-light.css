@@ -2500,7 +2500,6 @@ blockquote:after {
 }
 
 .sec-pad {
-	margin-top:3em;
   padding: 60px 0 60px;
 }
 
@@ -2686,5 +2685,29 @@ form.contFrm {
 
 /*franchise enquiry form end*/
 
+.video-testi-section{
+	width:80%;
+	margin:0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+:root {
+	--transition: 0.25s;
+	--spark: 1.8s;
+	--hue: 245;
+}
 
+#video {
+	margin-inline: auto; 
+	margin-block: 2rem;
+	display: block;
+	max-inline-size: 700px;
+	inline-size: 100%;
+}
 
+.side{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

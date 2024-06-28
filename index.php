@@ -445,7 +445,6 @@
                                         <li class="menu-item"><a href="LightBoxes">Light Boxes</a></li>
                                         <li class="menu-item"><a href="Lacquer">Lacquer</a></li>
                                         <li class="menu-item"><a href="Acoustic">Acoustic</a></li>
-
                                     </ul>
                                 </div>
                             </div>

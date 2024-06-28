@@ -217,13 +217,13 @@
                                                             <div class="row">
                                                                 <div class="col-lg-12">
                                                                     <div class="form-group comments">
-                                                                        <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About your Project / Ideas / Thoughts *"></textarea>
+                                                                        <textarea class="form-control" id="message" name="message" placeholder="Tell Us About your Project / Ideas / Thoughts *"></textarea>
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="row">
                                                                 <div class="col-lg-12">
-                                                                    <button type="submit" name="submit" id="contactFormSubmitBtn">
+                                                                    <button class="inptBtn" type="submit" name="submit" id="contactFormSubmitBtn">
                                                                         <i class="fa fa-paper-plane"></i> Get in Touch
                                                                     </button>
                                                                 </div>

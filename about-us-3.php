@@ -555,27 +555,6 @@
                     </div>
                     <!--category end-->
 
-                    <!--counter section start-->
-                    <!-- <div class="container-for-count">
-                        <div class="counter-container">
-                          <div class="counter" data-target="400"></div>
-                          <span>Clients</span>
-                        </div>
-                        <div class="counter-container">
-                          <div class="counter" data-target="20">+</div>
-                          <span>Products</span>
-                        </div>
-                        <div class="counter-container">
-                          <div class="counter" data-target="1000">+</div>
-                          <span>projects</span>
-                        </div>
-                        <div class="counter-container">
-                            <div class="counter" data-target="10">+</div>
-                            <span>Channel Partner</span>
-                          </div>
-                    </div> -->
-                    <!--counter section end-->
-
                     <!--testi start-->
                     <div class="testimonials-sec d-none"></div>
                     <section id="testim" class="testim d-none" >
@@ -804,19 +783,17 @@
                               <div class="carousel__item carousel__item--strawberry">
                                 <div>
                                     <img src="images/404-background.jpg">
-
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--vanilla">
                                 <div>
                                     <img src="images/404-background.jpg">
-
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--mango">
                                 <div>
                                     <img src="images/404-background.jpg">
-
+                        
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--chocolate">

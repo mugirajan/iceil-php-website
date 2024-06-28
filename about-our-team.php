@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+
  <meta name="keywords" content="Stretch Ceiling Coimbatore, Stretch Ceiling Pollachi, Stretch Ceiling Tiruppur, Stretch Ceiling Nagercoil, Stretch Ceiling Tirunelveli,
   Stretch Ceiling Mizoram, Stretch Ceiling Tuticorin, Stretch Ceiling Bangalore, Stretch Ceiling Mysore, Stretch Ceiling Hyderabad, Stretch Ceiling Vijayawada,
   Stretch Ceiling Kolkata, Stretch Ceiling Dharwad, Stretch Ceiling Bhubaneshwar, Stretch Ceiling Odisha, Stretch Ceiling Guwahati,
@@ -198,7 +199,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/light/chennai.jpeg" alt="" width="600" height="718"
+                                                                <a><img src="img/franchise-image/Pyramid Interiors.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -206,8 +207,7 @@
                                                                     style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
                                                                     <a>Branch: Chennai</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                    style="font-size: 15px ;font-style: normal ;">No: 10, 2nd Floor,
-                                                                    AE Block,7th Street Anna Nagar,Chennai, Tamil Nadu – 600040
+                                                                    style="font-size: 15px ;font-style: normal ;">Plot No:36, 1st Main Rd, Venus Nagar, Kolathur, Chennai, Tamil Nadu – 600099
                                                                 </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -224,8 +224,8 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/light/hyderabad.jpeg" alt="" width="600"
-                                                                        height="718" title="address" /></a>
+                                                                <a><img src="img/franchise-image/Brand it Hyderabad.png" alt="" width="600"
+                                                                        height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -251,7 +251,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix ">
                                                             <div
                                                                 class="image-for-partner gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                                <a><img src="img/light/kolkata.jpeg" alt="" width="600" height="718"
+                                                                <a><img src="img/franchise-image/jm decor.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -260,7 +260,7 @@
                                                                     <a>Branch:Kolkata</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">Plot No :157/ B,<br>
-                                                                    Lenin Sarani, <br>Kolkata- 700013</div>
+                                                                        Lenin Sarani, <br>Kolkata- 700013</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -276,17 +276,17 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/light/coimbatore1.png" alt="" width="600"
-                                                                        height="718" title="address" /></a>
+                                                                <a><img src="img/franchise-image/Arrowoods.png" alt="" width="600"
+                                                                        height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
                                                                     style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
                                                                     <a>Branch: Coimbatore</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                    style="font-size: 15px ;font-style: normal ;">208, Avinashi
-                                                                    Road, Hopes College, Opp. GRG Schools, Upstairs of Pasumai
-                                                                    Pharmacy,oimbatore-641004.</div>
+                                                                    style="font-size: 15px ;font-style: normal ;">27/437, Mettupalayam Road,Opp. Decor Point, R.S Puram,
+                                                                    Coimbatore, Tamil Nadu 641002, Pan no:  AULPS8908E.
+                                                                    </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -302,8 +302,8 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/light/bubaneshwar.jpeg" alt="" width="600"
-                                                                        height="718" title="address" /></a>
+                                                                <a><img src="img/franchise-image/blue jay.png" alt="" width="600"
+                                                                        height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -328,7 +328,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/light/goa.jpeg" alt="" width="600" height="718"
+                                                                <a><img src="img/franchise-image/Orchid Interiors.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -354,8 +354,8 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/light/thirunelveli.jpeg" alt="" width="600"
-                                                                        height="718" title="address" /></a>
+                                                                <a><img src="img/franchise-image/Viswam Interiors.png" alt="" width="600"
+                                                                        height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -380,24 +380,24 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/light/kochi.jpeg" alt="" width="600" height="718"
+                                                                <a><img src="img/franchise-image/Lights Gallery.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
                                                                     style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                    <a>Branch:Kochi</a></h3>
+                                                                    <a>Branch:Lucknow</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                    style="font-size: 15px ;font-style: normal ;">46/367 1P National
-                                                                    Highway Bypass, NH 66, Medical Centre Rd, Ernakulam, Kerala
-                                                                    682028, India</div>
+                                                                    style="font-size: 15px ;font-style: normal ;">1 station road, Hussainganj crossing,
+                                                                    vidhan sabha road opp.maharana pratap statue,Lucknow,Uttar Pradesh ,India, PIN: 226001.
+                                                                </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                    9633777099</div>
-
+                                                                    8935081100
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -406,7 +406,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="images/guwahati-tour.jpg" alt="" width="600" height="718"
+                                                                <a><img src="img/franchise-image/chandni lites.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -436,8 +436,8 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="images/trichy.png" alt="" width="600"
-                                                                        height="718" title="address" /></a>
+                                                                <a><img src="img/franchise-image/Rk Enterprises Trichy.png" alt="" width="600"
+                                                                        height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
@@ -464,7 +464,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="images/banglore.jpg" alt="" width="600" height="718"
+                                                                <a><img src="img/franchise-image/Rightwork Decor.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -482,7 +482,7 @@
                                                                 </div>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                    9633777099</div>
+                                                                    9972534884</div>
 
                                                             </div>
                                                         </div>
@@ -492,7 +492,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="images/banglore-outside.jpg" alt="" width="600" height="718"
+                                                                <a><img src="img/franchise-image/TM GLobal - Bangalore.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -512,368 +512,590 @@
                                                                 </div>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9626269797</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/Intimate Spacess.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Delhi</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">No 1447,
+
+                                                                    Near Shiv Temple,<br>
+                                                                    
+                                                                    Alipur,<br> Delhi – 110036</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9282233612</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/Infinite Ceiling.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Hubli</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">UGF 9, Tirumala Trade Centre,
+
+                                                                    Neeligin Road, Hubli<br>
+                                                                    
+                                                                    Karnataka-580029</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                     9108096622</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/lightzart.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Madurai</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">8A,<br> WEST MASI STREET,<br>
+
+                                                                    MADURAI – 625 001</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    73396 61499
+                                                                    </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/Apaart.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Punjab</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">SCO-10, Ground Floor,<br>
+
+                                                                    JLPL Sector 82,<br>
+                                                                    
+                                                                    Mohali Punjab 140301</div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9872355502</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/light craft.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Visakhapatnam</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    47-14-2/6, 2nd & 3rd Floor,
+                                                                    Sree Balajee Complex,
+                                                                    Dwarakanagar Main Road,
+                                                                    Visakhapatnam – 530016
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
                                                                     9633777099</div>
 
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/delhi.jpg" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Delhi</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">No 1447,
-
-                                                                Near Shiv Temple,<br>
-                                                                
-                                                                Alipur,<br> Delhi – 110036</div>
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
                                                             <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/The Sign Co.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
                                                             </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Bangalore</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
 
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                    <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/hubli-dharwad-tour-packages-500x500.webp" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Hubli</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">UGF 9, Tirumala Trade Centre,
+                                                                    F1,First Floor, 29,St Marks Rd,
 
-                                                                Neeligin Road, Hubli<br>
-                                                                
-                                                                Karnataka-580029</div>
-                                                            <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                            </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
+                                                                    Shanthala Nagar,
 
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                    <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/madurai-temple-1.jpg" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Madurai</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">8A,<br> WEST MASI STREET,<br>
-
-                                                                MADURAI – 625 001</div>
-                                                            <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                            </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
-
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                    <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/mohali.jpg" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Mohali</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">SCO-10, Ground Floor,<br>
-
-                                                                JLPL Sector 82,<br>
-                                                                
-                                                                Mohali Punjab 140301</div>
-                                                            <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                            </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
-
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                    <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/visakhapatnam.avif" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Visakhapatnam</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">
-                                                                47-14-2/6, 2nd & 3rd Floor,
-                                                                Sree Balajee Complex,
-                                                                Dwarakanagar Main Road,
-                                                                Visakhapatnam – 530016
+                                                                    Bengaluru,Karnataka – 560001
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
-                                                            <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                            </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9341307311</div>
 
+                                                            </div>
                                                         </div>
-                                                    </div>
                                                     </div>
                                                     <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/banglore.jpg" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Bangalore</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">
-                                                                VWF Industries (P) Ltd,
-
-                                                                F1, First Floor, 29, St Marks Rd,
-
-                                                                Shanthala Nagar, Ashok Nagar,
-
-                                                                Bengaluru,Karnataka – 560001
-                                                                </div>
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
                                                             <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/Pragathi Interiors.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
                                                             </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Pondicherry</a>
+                                                                </h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                        VEHAN BUILDERS
 
+                                                                        No.31, (15) Ground Floor,
+
+                                                                        100 FEET ROAD, SUNDARARAJA NAGAR ,
+
+                                                                        3RD CROSS, NELLITHOPE,PUDUCHERRY, 605004.
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9940239064
+                                                                </div>
+
+                                                            </div>
                                                         </div>
-                                                    </div>
                                                     </div>
                                                     <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/calicut.webp" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Calicut</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">
-                                                                26/499, Aura Electric,
-
-                                                                    V zone Complex,
-
-                                                                    3rd floor, kootoli,
-
-                                                                    Calicut, Kerala – 673016
-                                                                </div>
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
                                                             <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/blue key.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
                                                             </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Vijayawada</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    D.NO.59A-7-16, UPSTAIR OF CITY UNION BANK, 
 
+                                                                    SBH Colony,
+
+                                                                    Gurunanak Road,<br>
+
+                                                                    Vijayawada – 520010
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    99484 38828
+                                                                </div>
+
+                                                            </div>
                                                         </div>
-                                                    </div>
                                                     </div>
                                                     <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/Vijayawada.jpg" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Vijayawada</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">
-                                                                Upstair of City Union Bank,
-
-                                                                SBH Colony,
-
-                                                                Gurunanak Road,<br>
-
-                                                                Vijayawada – 520010
-                                                                </div>
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
                                                             <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/sairam enterprises.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
                                                             </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Erode</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    No.91,A,First Floor,MGP Palace,
 
+                                                                    Near Swastic Roundana, Sathy Road,
+
+                                                                    Erode – 638003
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9842965582
+                                                                </div>
+
+                                                            </div>
                                                         </div>
-                                                    </div>
                                                     </div>
                                                     <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/erode.jpg" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Erode</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">
-                                                                No.91,A,First Floor,MGP Palace,
-
-                                                                Near Swastic Roundana, Sathy Road,
-
-                                                                Erode – 638003
-                                                                </div>
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
                                                             <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/well and wall.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
                                                             </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Vellore</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    No.51, Golden Temple Road,
 
+                                                                    Big Allapuram, Thorapadi, <br>
+
+                                                                    Vellore -632002
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    97917 67249
+                                                                </div>
+
+                                                            </div>
                                                         </div>
-                                                    </div>
                                                     </div>
                                                     <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/vellore.webp" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Vellore</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">
-                                                                No.51, Golden Temple Road,
-
-                                                                Big Allapuram, Thorapadi, <br>
-
-                                                                Vellore -632002
-                                                                </div>
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
                                                             <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/gazella interiors.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
                                                             </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Trivandrum</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    Tc 24/1103, Golden Palace Views,
 
+                                                                    Kowdiar,<br>
+                                                                    
+                                                                    Thiruvananthapuram
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    97466 26009
+                                                                </div>
+
+                                                            </div>
                                                         </div>
-                                                    </div>
                                                     </div>
                                                     <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/thiruvandram.jpg" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Trivandrum</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">
-                                                                Tc 24/1103, Golden Palace Views,
-
-                                                                Kowdiar,<br>
-                                                                
-                                                                Thiruvananthapuram
-                                                                </div>
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
                                                             <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/LIGHTING PALACE.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
                                                             </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Salem</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    331/163 Gokulam Hospital road,
 
+                                                                    Near Vasanth N Co, 
+                                                                    
+                                                                    Meyanur Main Road,
+                                                                    
+                                                                    Salem – 636004
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    90036 61333</div>
+
+                                                            </div>
                                                         </div>
-                                                    </div>
                                                     </div>
                                                     <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-personnel-list clearfix">
-                                                        <div
-                                                            class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                            <a><img src="images/SALEM.jpg" alt="" width="600" height="718"
-                                                                    title="address" /></a>
-                                                        </div>
-                                                        <div class="gdlr-core-personnel-list-content-wrap">
-                                                            <h3 class="gdlr-core-personnel-list-title"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                <a>Branch:Salem</a></h3>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">
-                                                                331/163 Gokulam Hospital road,
-
-                                                                Near Vasanth N Co, 
-                                                                
-                                                                Meyanur Main Road,
-                                                                
-                                                                Salem – 636004
-                                                                </div>
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
                                                             <div
-                                                                class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/RK Enterprises Jaipur.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
                                                             </div>
-                                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                9633777099</div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Jaipur</a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    314, basement, Shree gopal nagar, Near Somani Hospital,
 
+                                                                    Mahesh Nagar, Jaipur, Rajasthan, India, PIN: 302019
+                                                                    
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    96800 66214
+                                                                </div>
+
+                                                            </div>
                                                         </div>
                                                     </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/Millenium Spaces.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Vijayapura
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    No.184, Mahveer Road,
+                                                                        ,Vijayapura,
+                                                                        Karnataka,India, PIN: 586101
+                                                                        State Code: 29
+
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    74119 80851</div>
+
+                                                            </div>
+                                                        </div>
                                                     </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/Aura Electric.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Calicut
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    "26/499, Aura Electric,
+
+                                                                        V zone Complex,
+
+                                                                        3rd floor, kootoli,
+
+                                                                        Calicut, Kerala – 673016"
+
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    96336 69494</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/Easysigns.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Mumbai
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    Man Resources, Next to hotel nityan, Sakinaka - Ghatloper link road, Mumbai - 400084
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    98199 60667
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/lighting era.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Indore 
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    The Lighting Culture 
+
+                                                                    316 Pu4, Scheme No. 54, A.B.Road , INDORE (M.P.)
+
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    9926106016
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/lighting era.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Rajahmundry
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    D.No.8-18, Nirmala Grand Function Hall, Near, 22/2, Kambham Choultry St, Mangalavaripeta, Rajamahendravaram,
+
+                                                                    Rajahmundry,
+                                                                    
+                                                                    Andhrapradesh,India, PIN: 533101
+                                                                    
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    90000 49444</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/franchise-image/archicon engineers_copy.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Pune
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                    Plot no 36, first floor Aacharya cooperative housing society,Chaitanya Nagari,Ambedkar chowk. 
+
+                                                                    Warje,Pune 58.
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
+                                                                    99609 07769</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    
                                                     <!--end of partner-->
                                                 </div>
                                             </div>
@@ -917,6 +1139,26 @@
                     </section>
                     <!--stats end-->
 
+                    <!--testi video start-->
+                    <section class="video-testi-section">
+                        <div class="row">
+                            <div class="col-lg-4 side">
+                                <div class="div-of-hero">
+                                <h2>Our Testimonials</h2>
+                                <p>Discover why our clients love our ceiling work! Hear firsthand from satisfied customers about their experiences with our exceptional craftsmanship and dedicated service. </p>
+                            </div>
+                            </div>
+                            <div class="col-lg-8">
+                                <video crossorigin="anonymous" id="video" controls preload="metadata" poster="img/light/Iceil-final-logo-png.webp">
+                                    <source src="img/franchise-image/testimonial raw.mp4" type="video/mp4">
+                                    </source>
+                                    
+                                </video>
+                            </div>
+                        </div>
+                    </section>
+                    <!--testi video end-->
+
                     <!--Enquiry Form-->
                     <section class="contact-sec sec-pad">
                         <div class="container">
@@ -944,36 +1186,36 @@
                             </div>
 
                             <div class="col-md-8">
-                                <form id="contactForm"  class="contFrm contact-form" method="POST">
-                                <div class="row form-group">
-                                    <div class="col-sm-12">
-                                    <input class="form-control inptFld" id="name" name="name" placeholder="Name*" type="text" required />
-                                    </div>
+                                <form id="franchiseForm"  class="contFrm" method="POST">
+                                    <div class="row form-group">
+                                        <div class="col-sm-12">
+                                        <input class="form-control inptFld" id="name" name="name" placeholder="Name*" type="text" required />
+                                        </div>
 
-                                    <div class="col-sm-6">
-                                    <input class="form-control inptFld" id="email" type="email" name="email" placeholder="Email Address"required />
-                                    </div>
+                                        <div class="col-sm-6">
+                                        <input class="form-control inptFld" id="email" type="email" name="email" placeholder="Email Address"required />
+                                        </div>
 
-                                    <div class="col-sm-6">
-                                    <input class="form-control inptFld" type="tel" name="phone" id="phone" placeholder="Phone Number"  required />
-                                    </div>
+                                        <div class="col-sm-6">
+                                        <input class="form-control inptFld" type="tel" name="phone" id="phone" placeholder="Phone Number"  required />
+                                        </div>
 
-                                    <div class="col-sm-6">
-                                    <input class="form-control inptFld" type="text" name="state"  id="state" placeholder="State"  required />
-                                    </div>
+                                        <div class="col-sm-6">
+                                        <input class="form-control inptFld" type="text" name="state"  id="state" placeholder="State"  required />
+                                        </div>
 
-                                    <div class="col-sm-6">
-                                    <input class="form-control inptFld" type="text" name="city" id="city" placeholder="City"  required />
-                                    </div>
+                                        <div class="col-sm-6">
+                                        <input class="form-control inptFld" type="text" name="city" id="city" placeholder="City"  required />
+                                        </div>
 
-                                    <div class="col-12">
-                                    <textarea class="form-control inptFld"  name="message" id="message" rows="" cols="" placeholder="Your Message..." required></textarea>
-                                    </div>
+                                        <div class="col-12">
+                                        <textarea class="form-control inptFld"  name="message" id="message" rows="" cols="" placeholder="Your Message..." required></textarea>
+                                        </div>
 
-                                    <div class="col-12">
-                                    <button type="submit" name="submit" id="contactFormSubmitBtn" class="inptBtn">Submit</button>
+                                        <div class="col-12">
+                                        <button type="submit" name="submit" id="contactFormSubmitBtn" class="inptBtn">Submit</button>
+                                        </div>
                                     </div>
-                                </div>
                                 </form>
                             </div>
                             </div>
@@ -992,7 +1234,27 @@
         </div>
     </div>
 
+<script>
    
+// ("subscribe" in this example) is mentioned.
+const tracks = document.querySelectorAll("track");
+const button = document.querySelector(".button");
+
+// Loop over all "track" elements
+for (const track of tracks) {
+	track.addEventListener("cuechange", (event) => {
+		const cues = event.target.track.activeCues;
+		button.classList.remove("animate");
+		for (cue of cues) {
+			const txt = cue.text.toLowerCase();
+			if (txt.includes("subscri")) {
+				button.classList.add("animate");
+			}
+		}
+	});
+}
+
+    </script>
     
     <?php
         include "./shared/script.php"
