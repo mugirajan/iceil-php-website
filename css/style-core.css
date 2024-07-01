@@ -7295,8 +7295,13 @@ height:70vh;
 	background-color:transparent;
 }
 .image-for-partner img{
-	width:100%;
+	width:70%;
 	height:100%;
+}
+.image-for-partner a{
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .partners img {
 	height: 40vh;

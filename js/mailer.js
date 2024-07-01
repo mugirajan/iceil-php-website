@@ -1,4 +1,26 @@
-$(document).ready(function () {
+        function showToast(message, type = 'success') {
+            const toastContainer = document.getElementById('toast-container');
+            const toast = document.createElement('div');
+            toast.className = `toast ${type}`;
+            toast.innerText = message;
+
+            toastContainer.appendChild(toast);
+
+            // Show the toast
+            setTimeout(() => {
+                toast.classList.add('show');
+            }, 100); // Small delay to ensure the element is added before display
+
+            // Remove the toast after it fades out
+            setTimeout(() => {
+                toast.classList.remove('show');
+                setTimeout(() => {
+                    toast.remove();
+                }, 500); // Delay to match the fade-out duration
+            }, 3000); // Show the toast for 3 seconds
+        }
+
+    $(document).ready(function () {
     $("#contactForm").unbind("submit").bind("submit", function(event) {
 
         let form = new FormData(this);
@@ -12,33 +34,11 @@ $(document).ready(function () {
             success: function(response) {
                 console.log("Success Response: ", response);
                 if(response.success) {
-                    $('.mail-messages').html('<div class="alert alert-success">'+
-                        '<button type="button" class="close" data-dismiss="alert">&times;</button>'+
-                        '<strong><i class="glyphicon glyphicon-ok-sign"></i></strong> '+ response.message +
-                    '</div>');
-
-                    $(".alert-success").delay(100).show(10, function() {
-                        $(this).delay(3000).hide(10, function() {
-                            $(this).remove();
-                        });
-                    }); 
-
-                    // Reset the form after successful submission
                     $("#contactForm")[0].reset();
                     console.log("Form Reset Successful");
 
                 } else {
                     $("#contactForm")[0].reset();
-                    $('.mail-messages').html('<div class="alert alert-danger">'+
-                        '<button type="button" class="close" data-dismiss="alert">&times;</button>'+
-                        '<strong><i class="glyphicon glyphicon-ok-sign"></i></strong> '+ response.message +
-                    '</div>');
-
-                    $(".alert-danger").delay(100).show(10, function() {
-                        $(this).delay(3000).hide(10, function() {
-                            $(this).remove();
-                        });
-                    });
                 }
             },
             error: function(response) {
@@ -59,28 +59,8 @@ $(document).ready(function () {
             success:function(response) {
                 console.log("Success: ", response)
                 if(response.success) {
-                    $('.mail-messages').html('<div class="alert alert-success">'+
-                        '<button type="button" class="close" data-dismiss="alert">&times;</button>'+
-                        '<strong><i class="glyphicon glyphicon-ok-sign"></i></strong> '+ response.message +
-                    '</div>');
-    
-                    $(".alert-success").delay(100).show(10, function() {
-                        $(this).delay(3000).hide(10, function() {
-                            $(this).remove();
-                        });
-                    }); 
                     $("#popup-form")[0].reset();
                 } else {
-                    $('.mail-messages').html('<div class="alert alert-danger">'+
-                        '<button type="button" class="close" data-dismiss="alert">&times;</button>'+
-                        '<strong><i class="glyphicon glyphicon-ok-sign"></i></strong> '+ response.message +
-                    '</div>');
-    
-                    $(".alert-danger").delay(100).show(10, function() {
-                        $(this).delay(3000).hide(10, function() {
-                            $(this).remove();
-                        });
-                    });
                     $("#popup-form")[0].reset();
                 }
             },
@@ -105,28 +85,8 @@ $(document).ready(function () {
             success:function(response) {
                 console.log("Success: ", response)
                 if(response.success) {
-                    $('.mail-messages').html('<div class="alert alert-success">'+
-                        '<button type="button" class="close" data-dismiss="alert">&times;</button>'+
-                        '<strong><i class="glyphicon glyphicon-ok-sign"></i></strong> '+ response.message +
-                    '</div>');
-    
-                    $(".alert-success").delay(100).show(10, function() {
-                        $(this).delay(3000).hide(10, function() {
-                            $(this).remove();
-                        });
-                    }); 
                     $("#franchiseForm")[0].reset();
                 } else {
-                    $('.mail-messages').html('<div class="alert alert-danger">'+
-                        '<button type="button" class="close" data-dismiss="alert">&times;</button>'+
-                        '<strong><i class="glyphicon glyphicon-ok-sign"></i></strong> '+ response.message +
-                    '</div>');
-    
-                    $(".alert-danger").delay(100).show(10, function() {
-                        $(this).delay(3000).hide(10, function() {
-                            $(this).remove();
-                        });
-                    });
                     $("#franchiseForm")[0].reset();
 
                 }

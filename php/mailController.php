@@ -19,7 +19,7 @@ if (isset($_POST["type"])) {
             break;
         
         case "franchiseForm":
-            $res = $sm->contactEnquiry($_POST);
+            $res = $sm->franchiseEnquiry($_POST);
             break;
 
         default:

@@ -1,7 +1,6 @@
 
 $(document).ready(function () {
 
-
         //contact form start
         $("#contactForm").unbind("submit").bind("submit", function() {
 
@@ -76,23 +75,21 @@ $(document).ready(function () {
                     success: function(params) {
                         if(params.success) {
                             
-                            alert(params.message,"success")
+                            showToast('Form submitted successfully!', 'success');
                             $("#contactForm")[0].reset();
-                            $("html, body, div.modal, div.modal-content, div.modal-body").animate({scrollTop: '0'}, 100);
                         }
                         else {
-                            $("#contactForm")[0].reset();
+                            showToast(`Error: ${params.message}`, 'error');
                             console.log("Error in succ ", params.message);
-                            alert(params.message,"error")
                         }
                     },
                     error: function(params) {
-                        console.log("ERROR: ", params);
+                        showToast("Please fill out all the required fields!", 'error');
                     }
                 })
             }
             else {
-                alert("Please fill out all the required fields...!","error")
+                console.log("Please fill out all the required fields...!","error")
             }
             return false;
         });
@@ -171,25 +168,24 @@ $(document).ready(function () {
                     dataType: "json",
                     success: function(params) {
                         if(params.success) {
-                            
-                            alert(params.message,"success")
+                            showToast('Form submitted successfully!', 'success');
                             $("#popupForm")[0].reset();
-                            $("html, body, div.modal, div.modal-content, div.modal-body").animate({scrollTop: '0'}, 100);
                         }
                         else {
+                            showToast(`Error: ${params.message}`, 'error');
                             $("#popupForm")[0].reset();
                             console.log("Error in succ ", params.message);
-                            alert(params.message,"error")
                         }
                     },
                     error: function(params) {
+                        showToast('please fill all the fields');
                         $("#popupForm")[0].reset();
                         console.log("ERROR: ", params);
                     }
                 })
             }
             else {
-                alert("Please fill out all the required fields...!","error")
+                console.log("Please fill out all the required fields...!","error")
             }
             return false;
         });
@@ -271,24 +267,23 @@ $(document).ready(function () {
                     success: function(params) {
                         if(params.success) {
                             
-                            alert(params.message,"success")
+                            showToast('Form submitted successfully!', 'success');
                             $("#franchiseForm")[0].reset();
-                            $("html, body, div.modal, div.modal-content, div.modal-body").animate({scrollTop: '0'}, 100);
                         }
                         else {
+                            showToast(`Error: ${params.message}`, 'error');
                             $("#franchiseForm")[0].reset();
-                            console.log("Error in succ ", params.message);
-                            alert(params.message,"error")
                         }
                     },
                     error: function(params) {
+                        showToast('Please fill all the field');
                         $("#franchiseForm")[0].reset();
                         console.log("ERROR: ", params);
                     }
                 })
             }
             else {
-                alert("Please fill out all the required fields...!","error")
+                console.log("Please fill out all the required fields...!","error")
             }
             return false;
         });

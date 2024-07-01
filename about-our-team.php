@@ -89,7 +89,7 @@
 
                     <!--card like blog-->
                     <section class="blog-like-card">
-                    <h4 class="text-center">Every effort is made to protect <br><span class="span-for-you">your business</span></h4>
+                        <h4 class="text-center">Every effort is made to protect <br><span class="span-for-you">your business</span></h4>
                         <div class="cards-of-blog-like">
                         <a class="card-of-blog">
                             <div class="card-hero card-partner-height">
@@ -199,7 +199,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Pyramid Interiors.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/1.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -224,7 +224,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Brand it Hyderabad.png" alt="" width="600"
+                                                                <a><img src="img/photoshop-franchise/2.png" alt="" width="600"
                                                                         height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -251,7 +251,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix ">
                                                             <div
                                                                 class="image-for-partner gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                                <a><img src="img/franchise-image/jm decor.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/3.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -276,7 +276,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Arrowoods.png" alt="" width="600"
+                                                                <a><img src="img/photoshop-franchise/4.png" alt="" width="600"
                                                                         height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -302,7 +302,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/blue jay.png" alt="" width="600"
+                                                                <a><img src="img/photoshop-franchise/5.png" alt="" width="600"
                                                                         height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -328,7 +328,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Orchid Interiors.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/6.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -354,7 +354,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Viswam Interiors.png" alt="" width="600"
+                                                                <a><img src="img/photoshop-franchise/7.png" alt="" width="600"
                                                                         height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -380,7 +380,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Lights Gallery.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/8.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -406,7 +406,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/chandni lites.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/9.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -436,7 +436,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Rk Enterprises Trichy.png" alt="" width="600"
+                                                                <a><img src="img/photoshop-franchise/Rk Enterprises Trichy.png" alt="" width="600"
                                                                         height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -464,7 +464,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Rightwork Decor.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/10.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -492,7 +492,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/TM GLobal - Bangalore.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/11.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -522,7 +522,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Intimate Spacess.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/12.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -550,7 +550,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Infinite Ceiling.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/13.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -578,7 +578,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/lightzart.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/14.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -605,7 +605,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Apaart.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/15.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -633,7 +633,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/light craft.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/16.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -662,7 +662,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/The Sign Co.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/17.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -693,7 +693,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Pragathi Interiors.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/18.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -727,7 +727,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/blue key.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/19.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -760,7 +760,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/sairam enterprises.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/20.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -791,7 +791,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/well and wall.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/21.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -822,7 +822,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/gazella interiors.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/22.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -853,7 +853,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/LIGHTING PALACE.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/23.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -885,7 +885,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/RK Enterprises Jaipur.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/24.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -915,7 +915,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Millenium Spaces.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/25.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -946,7 +946,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Aura Electric.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/26.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -980,7 +980,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/Easysigns.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/27.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -1008,7 +1008,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/lighting era.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/28.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -1039,7 +1039,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/lighting era.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/29.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -1071,7 +1071,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/franchise-image/archicon engineers_copy.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/31.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -1149,8 +1149,8 @@
                             </div>
                             </div>
                             <div class="col-lg-8">
-                                <video crossorigin="anonymous" id="video" controls preload="metadata" poster="img/light/Iceil-final-logo-png.webp">
-                                    <source src="img/franchise-image/testimonial raw.mp4" type="video/mp4">
+                                <video crossorigin="anonymous" id="video" controls preload="metadata">
+                                    <source src="img/photoshop-franchise/testimonial raw.mp4" type="video/mp4">
                                     </source>
                                     
                                 </video>
@@ -1168,7 +1168,7 @@
                                 <h5 class="section-title">Franchise Enquiry Form</h5>
 
                                 <ul class="contact-ul">
-                                    <li><i class="fa fa-location-dot"></i>290A, 80 Feet TNHB Road, Sholinganallur, Chennai – 600 119</li>
+                                    <li><i class="fa fa-location-dot"></i><b>Sholinganallur, Chennai – 600 119</b></li>
 
                                     <li>
                                     <i class="fa fa-phone"></i>
@@ -1186,6 +1186,7 @@
                             </div>
 
                             <div class="col-md-8">
+                                <div id="toast-container"></div>
                                 <form id="franchiseForm"  class="contFrm" method="POST">
                                     <div class="row form-group">
                                         <div class="col-sm-12">

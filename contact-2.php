@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+
 <meta name="keywords" content="Stretch Ceiling Coimbatore, Stretch Ceiling Pollachi, Stretch Ceiling Tiruppur, Stretch Ceiling Nagercoil, Stretch Ceiling Tirunelveli,
   Stretch Ceiling Mizoram, Stretch Ceiling Tuticorin, Stretch Ceiling Bangalore, Stretch Ceiling Mysore, Stretch Ceiling Hyderabad, Stretch Ceiling Vijayawada,
   Stretch Ceiling Kolkata, Stretch Ceiling Dharwad, Stretch Ceiling Bhubaneshwar, Stretch Ceiling Odisha, Stretch Ceiling Guwahati,
@@ -177,6 +178,7 @@
                                                 <div class="gdlr-core-contact-form-7-item gdlr-core-item-pdlr gdlr-core-item-pdb ">
                                                     <div role="form" class="wpcf7" id="wpcf7-f1979-p1977-o1" lang="en-US" dir="ltr">
                                                         <div class="screen-reader-response"></div>
+                                                        <div id="toast-container"></div>
                                                         <form id="contactForm" class="contact-form">
                                                             <div class="row">
                                                                 <div class="col-lg-12">
@@ -233,6 +235,7 @@
                                                                 <div id="message" class="alert-msg"></div>
                                                             </div>
                                                         </form>
+                                                        
                                                     </div>
                                                 </div>
                                             </div>
@@ -335,6 +338,8 @@
                         </div>
                     </div>
                 </div>
+                
+
             </div>
             <?php
                    include "./shared/footer.php"

@@ -2495,7 +2495,6 @@ blockquote:after {
   position: relative;
   font-size: 30px;
   font-weight: 600;
- 
   margin: 0 0 35px;
 }
 
@@ -2506,12 +2505,12 @@ blockquote:after {
 .contact-sec {
   align-items: center;
   display: flex;
-  background-color: #5cbde417;
+  background-color: #f6f7f9;
 }
 
 .contact-sec .contact-ul li,
 .contact-ul b {
-  font-size: 20px;
+  font-size: 19px;
   margin: 10px 0;
   word-wrap: break-word;
 }
@@ -2527,23 +2526,8 @@ blockquote:after {
   text-decoration: none;
 }
 
-.contact-sec .contact-ul li b:hover {
-  color: #f93;
-}
-
-.contact-sec .contact-ul li .fa-location-dot {
-  color: #f44337;
-  border: 2px solid #f4433790;
-}
-
-.contact-sec .contact-ul li .fa-phone {
-  color: #00b055;
-  border: 2px solid #00b05590;
-}
-
-.contact-sec .contact-ul li .fa-envelope {
-  color: #ff6347;
-  border: 2px solid #ff634790;
+.contact-sec .contact-ul li i {
+  color: #2676bc;
 }
 
 .contact-detail span {
@@ -2711,3 +2695,38 @@ form.contFrm {
 	justify-content: center;
 	align-items: center;
 }
+
+
+/*toast*/
+        #toast-container {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 9999;
+        }
+
+        .toast {
+            visibility: hidden;
+            min-width: 200px;
+            margin-bottom: 10px;
+            padding: 15px;
+            color: #fff;
+            background-color: #333;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            transition: visibility 0s, opacity 0.5s linear;
+            opacity: 0;
+        }
+
+        .toast.show {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .toast.success {
+            background-color: #4caf50;
+        }
+
+        .toast.error {
+            background-color: #f44336;
+        }

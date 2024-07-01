@@ -19,6 +19,7 @@
                         <div id="popupForm" class="popup">
                             <div class="popup-content">
                                 <h4>Contact Us</h4>
+                                <div id="toast-container"></div>
                                 <form class="popup-form form-group">
                                     <label for="name">Name:</label>
                                     <input class="form-control" type="text" id="name" name="name" required>
@@ -36,7 +37,7 @@
                                     <input class="form-control" type="text" id="city" name="city" required>
                                     
                                     <label for="message">Message:</label>
-                                    <textarea class="form-control" type="text" id="message" name="message" required></textarea>
+                                    <textarea class="form-control" type="text" id="message" name="message" required></textarea><br>
                                     
                                     <button type="submit" name="submit" id="contactFormSubmitBtn" class="inptBtn">Submit</button>
                                 </form>
