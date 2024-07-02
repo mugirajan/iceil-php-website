@@ -9,7 +9,7 @@
         ?>
                 <!--banner start-->
                 <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                    style="height:75vh;background-image:url(img/light/DPS_stretch_ceilings_corporate_34.jpg)">
+                    style="height:55vh;background-image:url(img/light/DPS_stretch_ceilings_corporate_34.jpg)">
                     <div class="inteco-header-transparent-substitute"></div>
                     <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                     <div class="inteco-blog-title-bottom-overlay"></div>

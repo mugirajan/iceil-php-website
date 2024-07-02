@@ -326,7 +326,7 @@
 
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height:75vh;background-image:url(https://img.freepik.com/free-photo/businessman-suit-putting-last-piece-pyramid-using-wooden-blocks_181624-47103.jpg?t=st=1712034637~exp=1712038237~hmac=9b28a062156afaeccddfd03ccd97207d253937bb007dea79cc22cda258e178c2&w=740)">
+                style="height:55vh;background-image:url(https://img.freepik.com/free-photo/businessman-suit-putting-last-piece-pyramid-using-wooden-blocks_181624-47103.jpg?t=st=1712034637~exp=1712038237~hmac=9b28a062156afaeccddfd03ccd97207d253937bb007dea79cc22cda258e178c2&w=740)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
