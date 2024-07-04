@@ -9,7 +9,7 @@
 			<div class="inteco-page-wrapper" id="inteco-page-wrapper">
 				<div class="">
 					<div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image"
-					style="height:75vh;background-image:url(img/project-gallery/pics/02a.jpg)">
+					style="height:55vh;background-image:url(img/project-gallery/pics/02a.jpg)">
 					<div class="inteco-header-transparent-substitute"></div>
 					<div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
 					<div class="inteco-blog-title-bottom-overlay"></div>

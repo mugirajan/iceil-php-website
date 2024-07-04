@@ -2351,6 +2351,7 @@ blockquote:after {
 	position:fixed;
 	z-index:999;
 	bottom:3rem;
+	right: 20px;
   }
 
   .static-section-logo .social-links a i{
