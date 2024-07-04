@@ -239,13 +239,17 @@
 
 				<div class="swiper-container mry-main-slider">
 					<div class="swiper-wrapper">
+						<!-----
+						-------Stretch ceiling ----
+						                ---------->
+						<!-- Translucent -->
 						<div class="swiper-slide">
 							
 							<!-- project -->
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover mry-position-center" src="img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg" alt="Project" data-swiper-parallax="500"
+										<img class="mry-project-cover mry-position-center" src="images/landing/1.jpg" alt="Project" data-swiper-parallax="500"
 											data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 										<div class="mry-loading-curtain"></div>
@@ -268,13 +272,14 @@
 							<!-- project end -->
 
 						</div>
+						<!-- Printed -->
 						<div class="swiper-slide">
 
 							<!-- project -->
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover mry-position-right" src="img/project-gallery/pics/02a.jpg" alt="Project" data-swiper-parallax="500"
+										<img class="mry-project-cover mry-position-right" src="images/landing/2.jpg" alt="Project" data-swiper-parallax="500"
 											data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
@@ -297,39 +302,14 @@
 							<!-- project end -->
 
 						</div>
+						<!-- RGB Dynamic -->
 						<div class="swiper-slide">
 
 							<!-- project -->
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
-										<div class="mry-cover-overlay mry-gradient-overlay"></div>
-									</div>
-									<div class="mry-main-title-frame">
-										<div class="container">
-											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
-												data-swiper-parallax-duration="1000">
-												<div class="mry-subtitle mry-mb-20">Architecture</div>
-												<h1 class="mry-mb-30">Architectural Lighting<br><span class="mry-border-text">Projects</span><span class="mry-animation-el"></span></h1>
-												<div class="mry-text mry-mb-30"> It will set unique atmosphere for the entire interior.</div>
-												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
-												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- project end -->
-
-						</div>
-						<div class="swiper-slide">
-
-							<!-- project -->
-							<div class="mry-project-slider-item">
-								<div class="mry-project-frame">
-									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/3.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -349,13 +329,14 @@
 							<!-- project end -->
 
 						</div>
+						<!-- 3D Forms -->
 						<div class="swiper-slide">
 
 							<!-- project -->
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/4.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -375,13 +356,14 @@
 							<!-- project end -->
 
 						</div>
+						<!-- Acoustic -->
 						<div class="swiper-slide">
 
 							<!-- project -->
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/5.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -401,13 +383,14 @@
 							<!-- project end -->
 
 						</div>
+						<!-- Lacquer -->
 						<div class="swiper-slide">
 
 							<!-- project -->
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/6.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -427,13 +410,14 @@
 							<!-- project end -->
 
 						</div>
+						<!-- Printed Lacquer -->
 						<div class="swiper-slide">
 
 							<!-- project -->
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/7.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -443,7 +427,7 @@
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
 												<h1 class="mry-mb-30">Printed Lacquer<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 												<div class="mry-text mry-mb-30"> Iceil Printed Lacquer Ceiling allows printing virtually any design or pattern onto Lacquer Stretch  <br> Ceiling. This versatility enables the customization of ceilings to match specific aesthetic preferences <br> or complement interior themes, offering endless possibilities for creating unique and personalized<br> spaces.
-</div>
+											</div>
 												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 											</div>
@@ -454,13 +438,14 @@
 							<!-- project end -->
 
 						</div>
+						<!-- Art -->
 						<div class="swiper-slide">
 
 							<!-- project -->
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/8.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -480,13 +465,14 @@
 							<!-- project end -->
 
 						</div>
+						<!-- Mirror -->
 						<div class="swiper-slide">
 
 							<!-- project -->
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/9.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -506,6 +492,283 @@
 							<!-- project end -->
 
 						</div>
+						<!---end--->
+
+						<!-----
+						-------Metal Perforated illuminated ceiling: ----
+						                               ---------->
+						<!-- Metal -->
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="images/landing/10.jpeg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Metal Perforated illuminated ceiling</div>
+												<h1 class="mry-mb-30">Metal <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30"> Iceil Metal Perforated illuminated ceiling integrates <br>perforated metal panels with embedded lighting elements,<br>
+												 offering a unique blend of functionality and aesthetics.
+												</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<!---end--->
+
+						<!-----
+						-------Signage Light Box ----
+						                               ---------->
+						<!-- Signage Light -->
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="images/landing/11.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Signage Light Box</div>
+												<h1 class="mry-mb-30">Signage Light <br><span class="mry-border-text">Box</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30"> Iceil fabric signage light box offers a lightweight, durable, and vibrant solution for advertising. It features high-quality fabric stretched over a frame, providing easy installation and portability.
+												</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<!---end--->
+
+						<!-----
+						-------Custom Wall Graphics ----
+						                               ---------->
+						<!-- Wall -->
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="images/landing/12.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Custom Wall Graphics</div>
+												<h1 class="mry-mb-30">Wall <br><span class="mry-border-text">Graphics</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30">Iceil Custom Wall Graphics provide a uniquely personalized touch to your space, showcasing an image of your choice printed on premium fabric seam- lessly pasted onto your wall. 
+												</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<!---end--->
+
+						<!-----
+						-------Architectural customised lighting ----
+						                               ---------->
+						<!-- Architectural -->
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="images/landing/13.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Architectural customised lighting</div>
+												<h1 class="mry-mb-30">Architectural <br><span class="mry-border-text">lighting</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30">Iceil Architectural lights are constructed with lighting in combination with a suitable aluminium frame and a Polycarbonate diffusers / stretch fabric. We can customize this to any shape and size. 
+												</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<!-- Geometric -->
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="images/landing/14.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Architectural customised lighting</div>
+												<h1 class="mry-mb-30">Geometric Shape Custom <br><span class="mry-border-text">lighting</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30">Iceil Geometric Shape Custom Lighting involves designing personalized lighting solutions using shapes like squares, triangles, circles, and others. These designs aim to enhance both the aesthetic appeal and practical functionality of indoor spaces, offering versatile and modern lighting options. 
+												</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+
+						<!-----
+						-------Profile Shape Lighting ----
+						                               ---------->
+						<!-- ARC -->
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="images/landing/15.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Profile Shape Lighting</div>
+												<h1 class="mry-mb-30">Iceil ARC<br><span class="mry-border-text">WAVE Linear</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30">Iceil Arc/Wave linear lighting features designs that bend on both sides, offering flexible and dynamic illumination options.												. 
+												</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<!-- Surface -->
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="images/landing/16.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Profile Shape Lighting</div>
+												<h1 class="mry-mb-30"> Iceil Surface / <br><span class="mry-border-text">Suspended Linear</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30">Iceil surface / suspended linear lighting offers bendable solutions to create versatile linear configurations.</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<!-- Recessed -->
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="images/landing/17.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Profile Shape Lighting</div>
+												<h1 class="mry-mb-30"> Iceil Curved Recessed <br><span class="mry-border-text">Linear</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30">Iceil curved recessed linear lighting seamlessly integrates into gypsum ceilings and offers the flexibility to be bent into various shapes. 
+												</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<!-- Outward -->
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="images/landing/18.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Profile Shape Lighting</div>
+												<h1 class="mry-mb-30">Iceil Outward / Inward / Downward<br><span class="mry-border-text">Linear</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30">Iceil outward / inward /downward linear lighting solutions are completely flexible,<br> featuring bendable designs that allow for lighting in any<br> direc- tion-upward, downward, inward, and outward.</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<!---end--->
+
 					</div>
 					
 				</div>
