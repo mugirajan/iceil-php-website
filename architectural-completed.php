@@ -11,7 +11,7 @@
 
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height:55vh;background-image:url(https://img.freepik.com/free-photo/antique-ceiling-lamp_1203-804.jpg?t=st=1712037437~exp=1712041037~hmac=03964276f5c739ce994463ab0d725db0509ee7694f5f2d7e0e0fb25cbe6e687c&w=740)">
+                style="height: 65vh;background-image:url(https://img.freepik.com/free-photo/antique-ceiling-lamp_1203-804.jpg?t=st=1712037437~exp=1712041037~hmac=03964276f5c739ce994463ab0d725db0509ee7694f5f2d7e0e0fb25cbe6e687c&w=740)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>

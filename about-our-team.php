@@ -22,7 +22,7 @@
 
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height:55vh;background-image:url(https://img.freepik.com/free-photo/handshake-businessmen_1098-742.jpg?t=st=1712042152~exp=1712045752~hmac=86c576e8aab0ec5a4b05205453d66e1a2fd8f8aab558f68a0f5068b5c67a71cf&w=740)">
+                style="height: 65vh;background-image:url(https://img.freepik.com/free-photo/handshake-businessmen_1098-742.jpg?t=st=1712042152~exp=1712045752~hmac=86c576e8aab0ec5a4b05205453d66e1a2fd8f8aab558f68a0f5068b5c67a71cf&w=740)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>

@@ -73,11 +73,7 @@
         popupform.style.display = "block";
     });
 
-    window.addEventListener("click", function(event) {
-        if (event.target == popupform) {
-            popupform.style.display = "none";
-        }
-    });
+    
 });
 
     </script>

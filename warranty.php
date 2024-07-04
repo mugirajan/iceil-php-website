@@ -9,7 +9,7 @@
         
     
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-            style="height:55vh;background-image:url(https://img.freepik.com/free-photo/standard-quality-control-collage_23-2149631010.jpg?t=st=1712050750~exp=1712054350~hmac=18296b439718148a05356f176c8990b66a484d7edc99cbd972df3f75d07e92f9&w=740)">
+            style="height: 65vh;background-image:url(https://img.freepik.com/free-photo/standard-quality-control-collage_23-2149631010.jpg?t=st=1712050750~exp=1712054350~hmac=18296b439718148a05356f176c8990b66a484d7edc99cbd972df3f75d07e92f9&w=740)">
             <div class="inteco-header-transparent-substitute"></div>
             <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
             <div class="inteco-blog-title-bottom-overlay"></div>

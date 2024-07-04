@@ -328,7 +328,7 @@
 
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height:55vh;background-image:url(https://img.freepik.com/free-photo/cloud-computing-network-connection-perforated-paper_53876-14267.jpg?t=st=1711629805~exp=1711633405~hmac=b537633db63c05c723dada2fd2e6e12299eb629e49c9fffc85f8195ffe587eb9&w=740)">
+                style="height: 65vh;background-image:url(https://img.freepik.com/free-photo/cloud-computing-network-connection-perforated-paper_53876-14267.jpg?t=st=1711629805~exp=1711633405~hmac=b537633db63c05c723dada2fd2e6e12299eb629e49c9fffc85f8195ffe587eb9&w=740)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>

@@ -26,7 +26,7 @@
                     
                     <!--banner start-->
                     <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                        style="height:55vh;background-image:url(https://img.freepik.com/free-photo/businessman-using-laptop-mobile-phone_1421-526.jpg?t=st=1712043643~exp=1712047243~hmac=f0a0c55862fd0dc57ba245fa7dc01e7cbb5d5752da25b4c85873f24b378e1c46&w=740)">
+                        style="height: 65vh;background-image:url(https://img.freepik.com/free-photo/businessman-using-laptop-mobile-phone_1421-526.jpg?t=st=1712043643~exp=1712047243~hmac=f0a0c55862fd0dc57ba245fa7dc01e7cbb5d5752da25b4c85873f24b378e1c46&w=740)">
                         <div class="inteco-header-transparent-substitute"></div>
                         <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                         <div class="inteco-blog-title-bottom-overlay"></div>

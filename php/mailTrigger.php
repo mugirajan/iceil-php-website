@@ -50,7 +50,7 @@ class sndMail
         try {
 
             $mail->clearAddresses(); // Clear previous recipient
-            $mail->addAddress("mugirajan95@gmail.com"); // Admin's email address
+            $mail->addAddress("info@iceilsystems.com"); // Admin's email address
             $mail->Subject = "New enquiry - " . $data['name'];
             $mail->Body = "
                 Contact details:
@@ -94,8 +94,8 @@ class sndMail
         try {
 
             $mail->clearAddresses(); // Clear previous recipient
-            $mail->addAddress("mugirajan95@gmail.com"); // Admin's email address
-            $mail->Subject = "New enquiry - " . $data['name'];
+            $mail->addAddress("info@iceilsystems.com"); // Admin's email address
+            $mail->Subject = "New enquiry from Franchise- " . $data['name'];
             $mail->Body = "
                 Contact details:
                 Name: {$data['name']} 
@@ -104,7 +104,6 @@ class sndMail
                 State: {$data['state']}
                 City: {$data['city']}
                 Message:{$data['message']} 
-                body:'franchise message'
             ";
 
             $mail->send();

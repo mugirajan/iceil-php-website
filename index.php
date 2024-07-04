@@ -339,7 +339,7 @@
 					 	<div class="d-flex justify-content-end">
                             <div class="static-section-logo " >
                                 <div class="social-links link1">
-                                    <a target="_blank" href="https://wa.me/918925517107">
+                                    <a target="_blank" href="https://wa.me/918925530871">
                                         <i class="fab fa-whatsapp"></i>
                                     </a>
                                 </div>
@@ -420,6 +420,8 @@
 	<script src="js/plugins/parsley.min.js"></script>
 	<!-- main js -->
 	<script src="js/main.js"></script>
+	<script src="js/mailer.js"></script>
+    <script src="js/mailHelper.js"></script>
 	<script>
         document.addEventListener("DOMContentLoaded", function() {
     var popupform = document.getElementById("popupForm");

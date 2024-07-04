@@ -12,7 +12,7 @@
                 <div class="gdlr-core-page-builder-body">
                     <!--banner start-->
                     <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                        style="height:55vh;background-image:url(https://img.freepik.com/free-photo/managing-smart-speakers-concept_23-2150170081.jpg?t=st=1712127564~exp=1712131164~hmac=90fcc4f31c94e6e0bf23bba6e22f3ea9f7669a8e43995a12c64e1ceed569663d&w=740)">
+                        style="height: 65vh;background-image:url(https://img.freepik.com/free-photo/managing-smart-speakers-concept_23-2150170081.jpg?t=st=1712127564~exp=1712131164~hmac=90fcc4f31c94e6e0bf23bba6e22f3ea9f7669a8e43995a12c64e1ceed569663d&w=740)">
                         <div class="inteco-header-transparent-substitute"></div>
                         <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                         <div class="inteco-blog-title-bottom-overlay"></div>

@@ -11,7 +11,7 @@
 
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height:55vh;background-image:url(https://img.freepik.com/free-photo/futuristic-design-illuminates-modern-apartment-empty-corridor-generated-by-ai_188544-21267.jpg?t=st=1712123260~exp=1712126860~hmac=ee5c28db4821c31d5e1280b8f8ab8c9223063818a7d757703d2ebe7a950ef44a&w=826)">
+                style="height: 65vh;background-image:url(https://img.freepik.com/free-photo/futuristic-design-illuminates-modern-apartment-empty-corridor-generated-by-ai_188544-21267.jpg?t=st=1712123260~exp=1712126860~hmac=ee5c28db4821c31d5e1280b8f8ab8c9223063818a7d757703d2ebe7a950ef44a&w=826)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
