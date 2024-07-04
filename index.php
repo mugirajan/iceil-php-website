@@ -254,9 +254,9 @@
 										<div class="container">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
-												<div class="mry-subtitle mry-mb-20">Interior design</div>
-												<h1 class="mry-mb-30">Architects<br><span class="mry-border-text">Boxing</span></h1>
-												<div class="mry-text mry-mb-30">The boxes can be single or double-sided, free-standing,<br>wall-mounted, table-top, or ceiling-hung</div>
+												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
+												<h1 class="mry-mb-30">Translucent Stretch<br><span class="mry-border-text">Ceiling</span></h1>
+												<div class="mry-text mry-mb-30">Iceil Translucent Stretch Ceilings allow light to be evenly distributed with the stretch membrane<br>offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 50 SQM<br>without joints creating a great ambiance.</div>
 												<a class="mry-btn mry-default-link mry-anima-link" href="Boxing">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 
@@ -282,9 +282,10 @@
 										<div class="container">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
-												<div class="mry-subtitle mry-mb-20">Ceilings</div>
-												<h1 class="mry-mb-30">Stretch Ceiling<br><span class="mry-border-text">Printed</span><span class="mry-animation-el"></span></h1>
-												<div class="mry-text mry-mb-30">The Printed Stretch Ceiling combines art with <br>interior design, light, form, and function.</div>
+												<div class="mry-subtitle mry-mb-20">Stretch Ceiling	</div>
+												<h1 class="mry-mb-30">Printed Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30">Iceil Printed Stretch Ceilings turn any room of your home or business into a work of designer art. <br>The possibilities are endless, giving you the option of enhancing your ceiling with reproductions<br> of famous artists masterwork, or your own art or photographs using modern digital<br>printing techniques on a stretch fabric ceiling installation.
+												</div>
 												<a class="mry-btn mry-default-link mry-anima-link" href="Printed">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 
@@ -312,6 +313,189 @@
 												<div class="mry-subtitle mry-mb-20">Architecture</div>
 												<h1 class="mry-mb-30">Architectural Lighting<br><span class="mry-border-text">Projects</span><span class="mry-animation-el"></span></h1>
 												<div class="mry-text mry-mb-30"> It will set unique atmosphere for the entire interior.</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
+												<h1 class="mry-mb-30">RGB Dynamic Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30"> Iceil RGB Dynamic Stretch Ceiling combines innovative lighting technology with flexible design, <br> allowing colorful lighting to be implemented through addressable, programmable LEDs and DMX<br> controls.</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
+												<h1 class="mry-mb-30"> 3D Forms Stretch <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30"> Iceil 3D Form Stretch Ceiling are created by engineering multilevel framing structures using the latest  <br> fabrication technologies. Such a Structure can be made to the required size, shape, and then can be<br>fitted with the desired stretch film or printed film.</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
+												<h1 class="mry-mb-30">Acoustic Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30"> Iceil Acoustic Stretch Ceiling combines sound-absorbing materials with a stretchable perforated  <br> fabric, effectively reducing noise levels while maintain- ing an aesthetically pleasing appearance.</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
+												<h1 class="mry-mb-30">Lacquer Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30"> Iceil Lacquer Stretch Ceiling is a sophisticated ceiling finish characterized by its glossy and reflective <br> surface. Its reflective properties enhance the brightness of the room by bouncing light, while its <br> smooth texture adds a touch of modern elegance.</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
+												<h1 class="mry-mb-30">Printed Lacquer<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30"> Iceil Printed Lacquer Ceiling allows printing virtually any design or pattern onto Lacquer Stretch  <br> Ceiling. This versatility enables the customization of ceilings to match specific aesthetic preferences <br> or complement interior themes, offering endless possibilities for creating unique and personalized<br> spaces.
+</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
+												<h1 class="mry-mb-30"> Art Perforated <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30"> Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining two stretch ceiling layer  <br> to create an eye-catching visual effect.</div>
+												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- project end -->
+
+						</div>
+						<div class="swiper-slide">
+
+							<!-- project -->
+							<div class="mry-project-slider-item">
+								<div class="mry-project-frame">
+									<div class="mry-cover-frame">
+										<img class="mry-project-cover" src="img/project-gallery/pics/Splunk.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<div class="mry-cover-overlay mry-gradient-overlay"></div>
+									</div>
+									<div class="mry-main-title-frame">
+										<div class="container">
+											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+												data-swiper-parallax-duration="1000">
+												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
+												<h1 class="mry-mb-30">Mirror Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30"> Iceil Mirror Stretch Ceiling enhances interior design with reflective surfaces, vi- sually enlarging  <br> spaces and creating a sleek, modern aesthetic. <br> controls.</div>
 												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 											</div>
