@@ -4,7 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta name="keywords" content="iceil stretch ceiling, pvc stretch ceiling, stretch ceiling, stretch fabric ceiling, stretch ceiling lighting, 
+    architectural lighting, lighting manufacturer in India, 3d wallpapers, customized lighting manufacturer, top lighting designers in india,
+    profile light ceiling, stretch ceiling installation, 3d stretch ceiling, stretch ceiling material suppliers, Acoustic solutions, Stretch ceiling near me,
+    lacquer stretch ceiling, decorative lighting, Modern stretch ceiling, backlit ceiling, Stretch Ceiling India, Stretch Ceiling Chennai, Stretch Ceiling Manufacturer in India,
+    Stretch Ceiling Supplier, Stretch Ceiling Supplier India, Sky Ceiling, Printed Stretch Ceiling, Translucent Stretch Ceiling, Stretch Ceiling Manufacturer, Sky stretch ceiling india,
+      ">
+    
     <title>Iceil</title>
     <link rel="shortcut icon" href="img/project-gallery/Iceil-final-logo-png.jpg" type="image/x-icon">
 
@@ -29,6 +35,9 @@
     <link rel="stylesheet" href="css/plugins/fancybox.min.css">
     <!-- mapbox css -->
     <link href="css/plugins/mapbox-style.css" rel='stylesheet'>
+    <link rel="stylesheet" href="css/warranty.css">
+
+    
     <!-- main css -->
     <link rel="stylesheet" href="css/style-light.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">

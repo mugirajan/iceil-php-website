@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+
 </head>
 
 
@@ -9,7 +10,7 @@
 ?>
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height:75vh;background-image:url(img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg)">
+                style="height: 65vh;background-image:url(img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
@@ -22,6 +23,7 @@
                         </div>
                     </div>
                 </div>
+                        
             </div>
             
             
@@ -78,7 +80,7 @@
                     <!--our story end-->
                     
                     <!--card-bgimage start-->
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 110px 0px 100px 0px;" id="gdlr-core-wrapper-2">
+                    <div class="gdlr-core-pbf-wrapper d-none " style="padding: 110px 0px 100px 0px;" id="gdlr-core-wrapper-2">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(https://img.freepik.com/free-photo/shot-panoramic-composition-living-room_23-2150315635.jpg?t=st=1711361588~exp=1711365188~hmac=3af751175f87a5351d1e1d2612a251e16cdf8ddfe897f118f8ccfa5255c2ccbc&w=996) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.2"></div>
                         </div>
@@ -241,6 +243,62 @@
                     </div>
                     <!--ourvission mission end--> 
 
+                    <!-- Management Showcase Vivek and Raj -->
+                    <!-- Team Section -->
+                    <section id="teamiceil" class="d-none teamiceil section-bg">
+                        <div class="container-for-team" data-aos="fade-up">
+
+                            <div class="section-title">
+                            <h2>Team</h2>
+                            </div>
+
+                            <div class="row">
+
+                            <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
+                                <div class="member d-flex align-items-start">
+                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
+                                <div class="member-info">
+                                    <h4>Vivek</h4>
+                                    <span>Chief Executive Officer</span>
+                                    <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                                    <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
+                                <div class="member d-flex align-items-start">
+                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
+                                <div class="member-info">
+                                    <h4>Raj</h4>
+                                    <span>Product Manager</span>
+                                    <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                                    <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+
+
+                            
+
+                            </div>
+
+                        </div>
+                    </section>
+                    <!-- End Team Section -->
+
+                    <!-- Management Showcase Vivek and Raj end -->
+
                     <!--why choose us start-->
                     <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
                         <div class="gdlr-core-pbf-background-wrap" style="background-color: #f7f7f7 ;"></div>
@@ -281,7 +339,7 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image"
                                                         style="margin-top: 10px;margin-right: 30px;"><img
                                                             src="upload/columsvc-icon-1.png" alt="" width="37"
-                                                            height="37" title="columsvc-icon-1" /></div>
+                                                            height="37" title="Accountability" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap"
                                                             style="margin-bottom: 10px ;">
@@ -305,7 +363,7 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image"
                                                         style="margin-top: 10px;margin-right: 25px;"><img
                                                             src="upload/columsvc-icon-2.png" alt="" width="46"
-                                                            height="46" title="columsvc-icon-2" /></div>
+                                                            height="46" title="Customer Centric" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap"
                                                             style="margin-bottom: 10px ;">
@@ -333,7 +391,7 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image"
                                                         style="margin-top: 10px;margin-right: 27px;margin-bottom:  0;">
                                                         <img src="upload/columsvc-icon-3.png" alt="" width="42"
-                                                            height="41" title="columsvc-icon-3" /></div>
+                                                            height="41" title="Renew and Improve" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap"
                                                             style="margin-bottom: 10px ;">
@@ -357,7 +415,7 @@
                     <!--why choose us end-->
                     
                     <!--commitment start-->
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 68px 0px 0px 0px;">
+                    <div class="gdlr-core-pbf-wrapper d-none" style="padding: 68px 0px 0px 0px;">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -386,7 +444,7 @@
                     <!--commitment end-->
                    
                      <!--category start-->
-                     <div class="box-wrapper">
+                     <div class="box-wrapper d-none">
                         <figure class="shape-box shape-box_half">
                             <img src="img/project-gallery/Di8-wsMW4AEs98X.jpg" alt="">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
@@ -397,7 +455,7 @@
                                 </div>
                                 <p class="card-content">Lacquer stretch ceiling provide a mirror effect on your ceiling with a high degree of light reflection. This provides an elite ambiance and and visually enlarged room space
                                 </p>
-                                <a href="lacquer.php" class="read-more-btn">Read More</a>
+                                <a href="Lacquer" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -410,7 +468,7 @@
                                     <h4 class="card-main-title">Translucent stretch ceiling </h4>
                                 </div>
                                 <p class="card-content">Translucent stretch ceiling allows light to be evenly distributed with the stretch membrane offering 75% Translucency.</p>
-                                <a href="translucent.php" class="read-more-btn">Read More</a>
+                                <a href="Translucent" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -423,7 +481,7 @@
                                     <h4 class="card-main-title">Acoustic Ceiling </h4>
                                 </div>
                                 <p class="card-content">Translucent stretch ceiling allows light to be evenly distributed with the stretch membrane offering 75% Translucency.</p>
-                                <a href="acoustic.php" class="read-more-btn">Read More</a>
+                                <a href="Acoustic" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -436,7 +494,7 @@
                                     <h4 class="card-main-title">Stretch Ad - Sign box</h4>
                                 </div>
                                 <p class="card-content">Light boxes stretch fabric allows light to be evenly distributed with the stretch membrane offering 75% Translucency.</p>
-                                <a href="stretch-ceiling .php" class="read-more-btn">Read More</a>
+                                <a href="StretchCeiling" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -450,7 +508,7 @@
                                 </div>
                                 <p class="card-content">Printed stretch ceiling provide a mirror effect on your ceiling with a high degree of light reflection. This provides an elite ambiance and visually enlarged room space</p>
                                 </p>
-                                <a href="printed.php" class="read-more-btn">Read More</a>
+                                <a href="Printed" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -477,7 +535,7 @@
                                 </div>
                                 <p class="card-content">ceilings are created by engineering multilevel framing structures and can be made to
                                     the required size, shape, and then can be fitted with the desired stretch film.</p>
-                                <a href="threed.php" class="read-more-btn">Read More</a>
+                                <a href="3DForms" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -490,37 +548,16 @@
                                     <h4 class="card-main-title">Wall Graphics</h4>
                                 </div>
                                 <p class="card-content">Custom wallpaper murals are an extremely unique and personalized product. Print image of your choice in your walls printed film.</p>
-                                <a href="wallpaper.php" class="read-more-btn">Read More</a>
+                                <a href="WallGraphics" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
                     </div>
                     <!--category end-->
 
-                    <!--counter section start-->
-                    <!-- <div class="container-for-count">
-                        <div class="counter-container">
-                          <div class="counter" data-target="400"></div>
-                          <span>Clients</span>
-                        </div>
-                        <div class="counter-container">
-                          <div class="counter" data-target="20">+</div>
-                          <span>Products</span>
-                        </div>
-                        <div class="counter-container">
-                          <div class="counter" data-target="1000">+</div>
-                          <span>projects</span>
-                        </div>
-                        <div class="counter-container">
-                            <div class="counter" data-target="10">+</div>
-                            <span>Channel Partner</span>
-                          </div>
-                    </div> -->
-                    <!--counter section end-->
-
                     <!--testi start-->
-                    <div class="testimonials-sec"></div>
-                    <section id="testim" class="testim">
+                    <div class="testimonials-sec d-none"></div>
+                    <section id="testim" class="testim d-none" >
                         <div class="wrap">
                             <span id="right-arrow" class="arrow right fa fa-chevron-right"></span>
                             <span id="left-arrow" class="arrow left fa fa-chevron-left "></span>
@@ -579,7 +616,7 @@
                     
                     <!--testi end-->
 
-                    <div class="gdlr-core-pbf-wrapper mar-gin-top" style="padding: 80px 0px 80px 0px;" data-skin="Brown Divider">
+                    <div class="d-none gdlr-core-pbf-wrapper mar-gin-top" style="padding: 80px 0px 80px 0px;" data-skin="Brown Divider">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(img/project-gallery/hp1-service-bg.webp) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.2"></div>
                         </div>
@@ -596,7 +633,7 @@
                                                 <p class="franchise-para">Discover the exciting world of interior design and innovative solutions with our franchise. Join us in delivering premium stretch ceiling and lighting works to homes and businesses.
                                                 To learn more about our franchise opportunities and how you can be part of our success story!</p>
                                                 </div>
-                                                <button class="read-more-btn" style="color:white;border:none"><a href="about-our-team.php"  style="color:white;border:none">Click Here</a></button>
+                                                <button class="read-more-btn" style="color:white;border:none"><a href="Partners"  style="color:white;border:none">Click Here</a></button>
                                             </div>
                                         </div>
                                         
@@ -605,7 +642,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="gdlr-core-pbf-wrapper " style="margin:-110px 0px 50px 0px;padding: 0px 0px 30px 0px;">
+                    <div class="d-none gdlr-core-pbf-wrapper " style="margin:-110px 0px 50px 0px;padding: 0px 0px 30px 0px;">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container d-flex">
@@ -651,7 +688,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 100px 0px 30px 0px;max-width: 1320px ;" id="gdlr-core-wrapper-6">
+                    <div class="gdlr-core-pbf-wrapper " style="margin-top:50px;padding: 100px 0px 30px 0px;max-width: 1320px ;" id="gdlr-core-wrapper-6">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-wrapper-bg-overlay gdlr-core-pos-left " style="background-image: url(img/project-gallery/Stretch-Ceilings-Ltd_RFU-2104_1000x667.jpg) ;background-position:center;margin-right: -540px;margin-bottom: 110px;margin-left: -600px;"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
@@ -698,7 +735,7 @@
                                                                     <div class="gdlr-core-pbf-element">
                                                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                                                             <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;text-transform: none ;">
-                                                                                <button class="read-more-btn" style="border-radius:0.5rem"><a style="color:white" href="about-our-team.php">Click here</a></button>
+                                                                                <button class="read-more-btn" style="border-radius:0.5rem"><a style="color:white" href="Partners">Click here</a></button>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -746,19 +783,17 @@
                               <div class="carousel__item carousel__item--strawberry">
                                 <div>
                                     <img src="images/404-background.jpg">
-
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--vanilla">
                                 <div>
                                     <img src="images/404-background.jpg">
-
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--mango">
                                 <div>
                                     <img src="images/404-background.jpg">
-
+                        
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--chocolate">

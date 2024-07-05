@@ -1437,5 +1437,30 @@ transform: scale(1);
     letter-spacing: 0.3em;
 }
 
+/*contact page franchise*/
+.franchise-column{
+	border:1px solid rgba(0, 0, 0, 0.062);
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 1px 3px;
+}
+.franchise-column h4{
+	text-align: center;
+	font-size:15px !important;
+	line-height: 0%;
+}
+.franchise-section{
+	width:95%;
+	margin:0 auto;
+	padding:5rem 0;
+}
+.franchise-column{
+	margin:1rem 0;
+}
+.franchise-image-div{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-bottom:1rem;
+}
+/*contact page end*/
 
 

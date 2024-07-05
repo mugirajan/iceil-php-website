@@ -1,42 +1,6 @@
-<!DOCTYPE html>
-<html lang="en-US" class="no-js">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>Iceil</title>
-
-    <link rel='stylesheet' href='css/block.min.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/combine/style.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='plugins/goodlayers-core/include/css/page-builder.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/style-core.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/inteco-style-custom.css' type='text/css' media='all' />
-    <!-- favicon  -->
-    <link rel="shortcut icon" href="img/project-gallery/Iceil-final-logo-png.jpg" type="image/x-icon">
-    <!-- bootstrap css -->
-    <link rel="stylesheet" href="css/plugins/bootstrap.min.css">
-    <!-- font awesome css -->
-    <link rel="stylesheet" href="css/plugins/font-awesome.min.css">
-    <!-- swiper css -->
-    <link rel="stylesheet" href="css/plugins/swiper.min.css">
-    <!-- fancybox css -->
-    <link rel="stylesheet" href="css/plugins/fancybox.min.css">
-    <!-- mapbox css -->
-    <link href="css/plugins/mapbox-style.css" rel='stylesheet'>
-    <!-- main css -->
-    <link rel="stylesheet" href="css/style-light.css">
-    <link rel="stylesheet" href="css/warranty.css">
-
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-
-
-
-    <link rel='stylesheet' id='gdlr-core-google-font-css'
-        href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic&amp;subset=cyrillic-ext%2Cvietnamese%2Clatin%2Ccyrillic%2Cgreek-ext%2Clatin-ext%2Cgreek&amp;ver=5.0.2'
-        type='text/css' media='all' />
-
+<?php
+  include "./shared/header-top.php"
+?>
 
 </head>
 
@@ -47,7 +11,7 @@
             <div class="inteco-mobile-header-container inteco-container clearfix">
                 <div class="inteco-logo  inteco-item-pdlr">
                     <div class="inteco-logo-inner">
-                        <a class="" href="index.php"><img src="img/light/Iceil-logo-white.png" alt="" width="200"
+                        <a class="" href="Home"><img src="img/light/Iceil-logo-white.png" alt="" width="200"
                                 height="39" title="logo" /></a>
                     </div>
                 </div>
@@ -63,52 +27,50 @@
                                 <div class="inteco-overlay-menu-cell">
                                     <ul id="menu-main-navigation" class="menu">
                                         <li class="menu-item menu-item-home current-menu-item "><a
-                                                href="index.php">Home</a>
+                                                href="Home">Home</a>
 
                                         </li>
-                                        <li class="menu-item "><a href="wallpaper.php">Wall Graphics</a>
+                                        <li class="menu-item "><a href="WallGraphics">Wall Graphics</a>
 
                                         </li>
-                                        <li class="menu-item "><a href="about-our-team.php">Partner With us</a>
+                                        <li class="menu-item "><a href="Partners">Partner With us</a>
 
                                         </li>
-                                        <li class="menu-item "><a href="about-us-3.php">Who we are</a>
+                                        <li class="menu-item "><a href="AboutUs">Who we are</a>
 
                                         </li>
-                                        <li class="menu-item "><a href="contact-2.php">Contact Us</a>
+                                        <li class="menu-item "><a href="ContactUs">Contact Us</a>
 
                                         </li>
                                         <li class="menu-item "><a
-                                                href="blog-full-left-sidebar-with-frame.php">Blogs</a>
+                                                href="Blogs">Blogs</a>
 
                                         </li>
-                                        <li class="menu-item "><a href="downloads.php">Downloads</a>
+                                        <li class="menu-item "><a href="Downloads">Downloads</a>
 
                                         </li>
-                                        <li class="menu-item "><a href="projects.php">Projects</a>
+                                        <li class="menu-item "><a href="Projects">Projects</a>
 
                                         </li>
 
                                         <li class="menu-item menu-item-has-children"><a href="#."
                                                 class="mry-default-link">Architects</a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item"><a href="stretch-ceiling .php"
+                                                <li class="menu-item"><a href="StretchCeiling"
                                                         class="mry-anima-link mry-default-link">Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="warranty.php"
+                                                <li class="menu-item"><a href="Warranty"
                                                         class="mry-anima-link mry-default-link">Warranty</a></li>
-                                                <li class="menu-item"><a
-                                                        class="mry-anima-link mry-default-link">Pre-Requisites</a></li>
-                                                <li class="menu-item"><a href="boxing.php"
+                                                <li class="menu-item"><a href="Boxing"
                                                         class="mry-anima-link mry-default-link">Boxing</a></li>
-                                                <li class="menu-item"><a href="led.php"
+                                                <li class="menu-item"><a href="LED"
                                                         class="mry-anima-link mry-default-link">LED</a></li>
-                                                <li class="menu-item"><a href="stretch-fabric.php"
+                                                <li class="menu-item"><a href="Stretch-Fabric"
                                                         class="mry-anima-link mry-default-link">Stretch Fabric</a></li>
-                                                <li class="menu-item"><a href="profiles.php"
+                                                <li class="menu-item"><a href="Profiles"
                                                         class="mry-anima-link mry-default-link">Profiles</a></li>
                                                         <li class="menu-item"><a href="drives.php"
                                                             class="mry-anima-link mry-default-link">Drive</a></li>
-                                                <li class="menu-item"><a href="drivecontrollers.php"
+                                                <li class="menu-item"><a href="Drive-Controllers"
                                                         class="mry-anima-link mry-default-link">Remotes & Controllers</a>
                                                 </li>
 
@@ -123,17 +85,17 @@
                                                 <li class="menu-item"><a href="completed-projects.php"
                                                         class="mry-anima-link mry-default-link">Completed Projects</a>
                                                 </li>
-                                                <li class="menu-item"><a href="translucent.php"
+                                                <li class="menu-item"><a href="Translucent"
                                                         class="mry-anima-link mry-default-link">Translucent</a></li>
-                                                <li class="menu-item"><a href="printed.php"
+                                                <li class="menu-item"><a href="Printed"
                                                         class="mry-anima-link mry-default-link">Printed</a></li>
-                                                <li class="menu-item"><a href="threed.php"
+                                                <li class="menu-item"><a href="3DForms"
                                                         class="mry-anima-link mry-default-link">3D Forms</a></li>
-                                                <li class="menu-item"><a href="light-boxes.php"
+                                                <li class="menu-item"><a href="LightBoxes"
                                                         class="mry-anima-link mry-default-link">Light Boxes</a></li>
-                                                <li class="menu-item"><a href="lacquer.php"
+                                                <li class="menu-item"><a href="Lacquer"
                                                         class="mry-anima-link mry-default-link">Lacquer</a></li>
-                                                <li class="menu-item"><a href="acoustic.php"
+                                                <li class="menu-item"><a href="Acoustic"
                                                         class="mry-anima-link mry-default-link">Acoustic</a></li>
                                             </ul>
                                         </li>
@@ -180,24 +142,29 @@
 
         <!-- cursor end -->
 
-        <!-- top panel -->
-        <div class="mry-top-panel laptop-navigation">
-            <div class="mry-logo-frame">
-                <a href="index.php" class="mry-default-link mry-anima-link">
-                    <img class="mry-logo" src="img/light/Iceil-final-logo-png.webp" alt="Mireya">
-                </a>
-            </div>
-            <div class="mry-menu-button-frame">
-                <div class="mry-label"></div>
-
-                <div class="mry-menu-btn mry-magnetic-link">
-                    <div class="mry-burger mry-magnetic-object">
-                        <span></span>
+       
+                <!-- top panel -->
+                <div class="mry-top-panel row d-flex justify-content-between">
+                    <div class="mry-logo-frame col-lg-6 col-md-6">
+                        <div class="row">
+                            <a href="Home" class="col-lg-5 col-md-4 mry-default-link mry-anima-link">
+                                <img class="mry-logo" src="img/light/Iceil-final-logo-png.webp" alt="Mireya">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="mry-menu-button-frame col-lg-6 col-md-6 justify-content-end">
+                        <div class="row">
+                        <div class="mry-label"></div>
+                        
+                            <div class="col-lg-12 mry-menu-btn mry-magnetic-link">
+                                <div class="mry-burger mry-magnetic-object">
+                                    <span></span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        <!-- top panel end -->
+                <!-- top panel end -->
 
         <!-- menu -->
         <div class="mry-menu">
@@ -206,27 +173,27 @@
                     <div class="col-md-4 menu-list">
                         <nav id="mry-dynamic-menu">
                             <ul>
-                                <li class="menu-item "><a href="index.php" class="mry-default-link">Home</a></li>
+                                <li class="menu-item "><a href="Home" class="mry-default-link">Home</a></li>
 
-                                <li class="menu-item"><a href="wallpaper.php"
+                                <li class="menu-item"><a href="WallGraphics"
                                         class="mry-anima-link mry-default-link">Wall Graphics</a></li>
 
-                                <li class="menu-item"><a href="about-our-team.php"
+                                <li class="menu-item"><a href="Partners"
                                         class="mry-anima-link mry-default-link">Partner with us</a></li>
 
-                                <li class="menu-item"><a href="about-us-3.php"
+                                <li class="menu-item"><a href="AboutUs"
                                         class="mry-anima-link mry-default-link">Who We Are</a></li>
 
-                                <li class="menu-item"><a href="contact-2.php"
+                                <li class="menu-item"><a href="ContactUs"
                                         class="mry-anima-link mry-default-link">Contact Us</a></li>
 
-                                <li class="menu-item"><a href="blog-full-left-sidebar-with-frame.php"
+                                <li class="menu-item"><a href="Blogs"
                                         class="mry-anima-link mry-default-link">Blogs</a></li>
 
-                                <li class="menu-item"><a href="downloads.php"
+                                <li class="menu-item"><a href="Downloads"
                                         class="mry-anima-link mry-default-link">Downloads</a></li>
 
-                                <li class="menu-item"><a href="projects.php"
+                                <li class="menu-item"><a href="Projects"
                                         class="mry-anima-link mry-default-link">Projects</a></li>
 
 
@@ -242,23 +209,21 @@
                                 <li class="menu-item menu-item-has-children"><a href="#."
                                         class="mry-default-link">Architects</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="stretch-ceiling .php"
+                                        <li class="menu-item"><a href="StretchCeiling"
                                                 class="mry-anima-link mry-default-link">Stretch Ceiling</a></li>
-                                        <li class="menu-item"><a href="warranty.php"
+                                        <li class="menu-item"><a href="Warranty"
                                                 class="mry-anima-link mry-default-link">Warranty</a></li>
-                                        <li class="menu-item"><a
-                                                class="mry-anima-link mry-default-link">Pre-Requisites</a></li>
-                                        <li class="menu-item"><a href="boxing.php"
+                                        <li class="menu-item"><a href="Boxing"
                                                 class="mry-anima-link mry-default-link">Boxing</a></li>
-                                        <li class="menu-item"><a href="led.php"
+                                        <li class="menu-item"><a href="LED"
                                                 class="mry-anima-link mry-default-link">LED</a></li>
-                                        <li class="menu-item"><a href="stretch-fabric.php"
+                                        <li class="menu-item"><a href="Stretch-Fabric"
                                                 class="mry-anima-link mry-default-link">Stretch Fabric</a></li>
-                                        <li class="menu-item"><a href="profiles.php"
+                                        <li class="menu-item"><a href="Profiles"
                                                 class="mry-anima-link mry-default-link">Profiles</a></li>
                                                 <li class="menu-item"><a href="drives.php"
                                                     class="mry-anima-link mry-default-link">Drive</a></li>
-                                        <li class="menu-item"><a href="drivecontrollers.php"
+                                        <li class="menu-item"><a href="Drive-Controllers"
                                                 class="mry-anima-link mry-default-link">Remotes & Controllers</a></li>
 
                                     </ul>
@@ -271,17 +236,17 @@
                                                 class="mry-anima-link mry-default-link">Project Gallery</a></li>
                                         <li class="menu-item"><a href="completed-projects.php"
                                                 class="mry-anima-link mry-default-link">Completed Projects</a></li>
-                                        <li class="menu-item"><a href="translucent.php"
+                                        <li class="menu-item"><a href="Translucent"
                                                 class="mry-anima-link mry-default-link">Translucent</a></li>
-                                        <li class="menu-item"><a href="printed.php"
+                                        <li class="menu-item"><a href="Printed"
                                                 class="mry-anima-link mry-default-link">Printed</a></li>
-                                        <li class="menu-item"><a href="threed.php"
+                                        <li class="menu-item"><a href="3DForms"
                                                 class="mry-anima-link mry-default-link">3D Forms</a></li>
-                                        <li class="menu-item"><a href="light-boxes.php"
+                                        <li class="menu-item"><a href="LightBoxes"
                                                 class="mry-anima-link mry-default-link">Light Boxes</a></li>
-                                        <li class="menu-item"><a href="lacquer.php"
+                                        <li class="menu-item"><a href="Lacquer"
                                                 class="mry-anima-link mry-default-link">Lacquer</a></li>
-                                        <li class="menu-item"><a href="acoustic.php"
+                                        <li class="menu-item"><a href="Acoustic"
                                                 class="mry-anima-link mry-default-link">Acoustic</a></li>
                                     </ul>
                                 </li>
@@ -357,7 +322,8 @@
                 </header>
             </div>
         </div>
-    </div>
+                        
+        </div>
 
     <div class="wrapper-blog">
         <!-- <button id="sidebar-toggle">Toggle Sidebar</button> -->
@@ -464,7 +430,7 @@
             <section class="blog-page">
                 <ul class="page">
                     <li>
-                        <img src="https://img.freepik.com/free-photo/interior-kitchen-area-modern-office-with-long-wooden-table-chairs_181624-17912.jpg?t=st=1714208126~exp=1714211726~hmac=3fe631a09bbaa98e4c5dc7270a8a58eb1832f92047d480c6344ca5aafbfe555c&w=740">
+                        <img src="images/blog-page/blog-1.jpg">
                         <h4>How Stretch Ceilings Can Improve Your IT Workplace</h4>
                         <span>Admin-
                             Post published:08/05/2023
@@ -474,7 +440,7 @@
                         <button ><a href="standard-post-type.php">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/12/TRANSLUCENT-CEILING-1.png?resize=768%2C433&ssl=1">
+                        <img src="images/blog-page/blog-2.jpg">
                         <h4>What is the benefit of a Stretch Ceiling? </h4>
                         <span>Admin
                             Post published:17/12/2022
@@ -484,7 +450,7 @@
                         <button ><a href="standard-post-type.php">Read More</a></button>
                     </li>
                     <li>
-                        <img src="img/project-gallery/pics/01 (1).jpg">
+                        <img src="images/blog-page/blog-3.jpg">
                         <h4>Stretch Ceilings –Much STRONGER than you can imagine</h4>
                         <span>Admin
                             Post published:26/08/2022
@@ -504,7 +470,7 @@
                         <button ><a href="standard-post-type.php">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/05/00.jpg?resize=768%2C432&ssl=1">
+                        <img src="images/blog-page/blog-4.jpeg">
                         <h4>High Gloss Lacquer stretch ceiling with linear lights</h4>
                         <span>Admin
                             Post published:27/05/2022
@@ -756,7 +722,7 @@
         
             </section>
             <div class="pagination">
-                <button class=" arrow" id="prevPage" disabled>← <span class="nav-text"></span></button>
+                <button class="arrow" id="prevPage" disabled>← <span class="nav-text"></span></button>
                 <div class="pages">
                     <div class="page-number active">1</div>
                     <div class="page-number">2</div>
@@ -767,187 +733,11 @@
         </div>
         </div>
     </div>
-    <!--footer start-->
-    <footer>
-        <div class="inteco-footer-wrapper ">
-            <div class="inteco-footer-container inteco-container clearfix">
-                <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer">
-                    <div id="nav_menu-2" class="widget widget_nav_menu inteco-widget">
-                        <div class="grayscale-footer-image">
-                            <img class="alignnone size-full wp-image-5803" src="img/light/Iceil-logo-white.png" alt=""
-                                width="130" height="34">
-                        </div>
-                        <h3 class="inteco-widget-title-footer">Quick Links</h3><span class="clear"></span>
-                        <div class="menu-services-container">
-                            <ul id="menu-services" class="menu">
-                                <li class="menu-item"><a href="homepage-3.php">Home</a></li>
-                                <li class="menu-item"><a href="about-us-3.php">Who We Are</a></li>
-                                <li class="menu-item"><a href="about-our-team.php">Partner with us</a></li>
-                                <li class="menu-item"><a href="blog-full-left-sidebar-with-frame.php">Blogs</a></li>
-                                <li class="menu-item"><a href="contact-2.php">Contact Us</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer">
-                    <div id="nav_menu-2" class="widget widget_nav_menu inteco-widget">
-                        <h3 class="inteco-widget-title-footer">Works</h3><span class="clear"></span>
-                        <div class="menu-services-container">
-                            <ul id="menu-services" class="menu">
-                                <li class="menu-item"><a href="wallpaper.php">Wall Graphics</a></li>
-                                <li class="menu-item"><a href="projects.php">Project</a></li>
-                                <li class="menu-item"><a href="project-details.php">Project Details</a></li>
-                                <li class="menu-item"><a href="single-projects-detail.php">Single Project Page</a></li>
-                            </ul>
-                        </div><br>
-                        <h3 class="inteco-widget-title-footer">Architectural Lighting</h3><span class="clear"></span>
-                        <div class="menu-services-container">
-                            <ul id="menu-services" class="menu">
-                                <li class="menu-item"><a href="architectural-project.php">Project Gallery</a></li>
-                                <li class="menu-item"><a href="architectural-completed.php">Completed Projects</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer">
-                    <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
-                        <h3 class="inteco-widget-title-footer">Architects</h3><span class="clear"></span>
-                        <div class="menu-quick-links-container">
-                            <ul id="menu-quick-links" class="menu">
-                                <li class="menu-item"><a href="stretch-ceiling .php">Stretch Ceiling</a></li>
-                                <li class="menu-item"><a href="warranty.php">Warranty</a></li>
-                                <li class="menu-item"><a href="pre-requisites.php">Pre requisites</a></li>
-                                <li class="menu-item"><a href="boxing.php">Boxing</a></li>
-                                <li class="menu-item"><a href="stretch-fabric.php">Stretch Fabric</a></li>
-                                <li class="menu-item"><a href="profiles.php">Profiles</a></li>
-                                <li class="menu-item"><a href="led.php">LED</a></li>
-<li class="menu-item"><a href="drives.php">Drive</a></li>
-                                <li class="menu-item"><a href="drivecontrollers.php">Remotes and Controllers</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer-last">
-                    <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
-                        <h3 class="inteco-widget-title-footer">Stretch Ceilings</h3><span class="clear"></span>
-                        <div class="menu-quick-links-container">
-                            <ul id="menu-quick-links" class="menu">
-                                <li class="menu-item"><a href="project-gallery.php">Project Gallery</a></li>
-                                <li class="menu-item"><a href="completed-projects.php">Completed Projects</a></li>
-                                <li class="menu-item"><a href="translucent.php">Translucent</a></li>
-                                <li class="menu-item"><a href="printed.php">Printed</a></li>
-                                <li class="menu-item"><a href="threed.php">3D Forms</a></li>
-                                <li class="menu-item"><a href="light-boxes.php">Light Boxes</a></li>
-                                <li class="menu-item"><a href="lacquer.php">Lacquer</a></li>
-                                <li class="menu-item"><a href="acoustic.php">Acoustic</a></li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- <div class="inteco-footer-column inteco-item-pdlr inteco-column-15">
-                    <div id="gdlr-core-recent-portfolio-widget-2" class="widget widget_gdlr-core-recent-portfolio-widget inteco-widget">
-                        <h3 class="inteco-widget-title">Recent Works</h3><span class="clear"></span>
-                        <div class="gdlr-core-recent-portfolio-widget-wrap clearfix">
-                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                <a href="#"><img src="upload/port-1-150x150.jpg" alt="" width="150" height="150" title="port-1" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
-                            </div>
-                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                <a href="#"><img src="upload/gdtography-310706-unsplash-150x150.jpg" alt="" width="150" height="150" title="gdtography-310706-unsplash" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
-                            </div>
-                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                <a href="#"><img src="upload/shutterstock_627788162-150x150.jpg" alt="" width="150" height="150" title="shutterstock_627788162" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
-                            </div>
-                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                <a href="#"><img src="upload/hutomo-abrianto-576207-unsplash-150x150.jpg" alt="" width="150" height="150" title="hutomo-abrianto-576207-unsplash" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
-                            </div>
-                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                <a href="#"><img src="upload/shutterstock_578977615-150x150.jpg" alt="" width="150" height="150" title="shutterstock_578977615" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
-                            </div>
-                            <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                <a href="#"><img src="upload/shutterstock_631879034-150x150.jpg" alt="" width="150" height="150" title="shutterstock_631879034" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-            </div>
+    <?php
+                   include "./shared/footer.php"
+                ?>
         </div>
-        <div class="inteco-copyright-wrapper">
-            <div class="inteco-copyright-container inteco-container clearfix">
-
-                <div class="inteco-copyright-left inteco-item-pdlr">
-                    <a href="https://www.facebook.com/ICEIL/" target="_blank">
-                        <i class="fab fa-facebook" style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
-                    </a>
-                    <a href="https://twitter.com/iceilsys" target="_blank">
-                        <i class="fa-brands fa-x-twitter" style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
-                    </a>
-                    <a href="https://www.linkedin.com/company/iceil-systems/" target="_blank">
-                        <i class="fab fa-linkedin" style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
-                    </a>
-                    <a href="https://www.instagram.com/iceilstretchceiling/" target="_blank">
-                        <i class="fab fa-instagram" style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
-                    </a>
-                    <a href="https://www.youtube.com/@ICeilSystems" target="_blank">
-                        <i class="fab fa-youtube"
-                            style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
-                    </a>
-                </div>
-                <div class="inteco-copyright-right inteco-item-pdlr">© Iceil Systems Pvt Ltd <a href="https://blackitechs.com/"
-                        target="_blank">Developed by Black I Technologies & Solutions</a></div>
-            </div>
-        </div>
-
-    </footer>
-    <!--footer end-->
-    <script type='text/javascript' src='js/jquery/jquery.js'></script>
-    <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
-    <script type='text/javascript' src='plugins/goodlayers-core/plugins/combine/script.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var gdlr_core_pbf = {
-            "admin": "",
-            "video": {
-                "width": "640",
-                "height": "360"
-            },
-            "ajax_url": "#"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
-    <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
-    <script type='text/javascript' src='js/plugins.js'></script>
-    <script type='text/javascript' src='js/isotope.js'></script>
-    <!-- jquery js -->
-    <script src="js/plugins/jquery.min.js"></script>
-    <!-- tween max js -->
-    <script src="js/plugins/tween-max.min.js"></script>
-    <!-- scroll magic js -->
-    <script src="js/plugins/scroll-magic.js"></script>
-    <!-- scroll magic gsap plugin js -->
-    <script src="js/plugins/scroll-magic-gsap-plugin.js"></script>
-    <!-- swiper js -->
-    <script src="js/plugins/swiper.min.js"></script>
-    <!-- isotope js -->
-    <script src="js/plugins/isotope.min.js"></script>
-    <!-- fancybox js -->
-    <script src="js/plugins/fancybox.min.js"></script>
-    <!-- mapbox js -->
-    <script src="js/plugins/mapbox.min.js"></script>
-    <!-- smooth scrollbar js -->
-    <script src="js/plugins/smooth-scrollbar.min.js"></script>
-    <!-- overscroll js -->
-    <script src="js/plugins/overscroll.min.js"></script>
-    <!-- canvas js -->
-    <script src="js/plugins/canvas.js"></script>
-    <!-- parsley js -->
-    <script src="js/plugins/parsley.min.js"></script>
-    <!-- main js -->
-    <script src="js/main.js"></script>
-    <script src="js/blogpage.js"></script>
-
-
+    </div>
     <script>
         $(document).ready(function() {
             $('#sidebar-toggle').click(function() {
@@ -955,7 +745,8 @@
             });
         });
     </script>
+    <script src="js/blogpage.js"></script> 
+    <?php
+        include "./shared/script.php"
+    ?>
 
-</body>
-
-</html>

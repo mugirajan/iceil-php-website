@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+
 </head>
 
 <?php
@@ -9,7 +10,7 @@
 
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height:75vh;background-image:url(img/project-gallery/pics/04\ \(1\).jpg)">
+                style="height: 65vh;background-image:url(img/project-gallery/pics/04\ \(1\).jpg)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
@@ -22,6 +23,9 @@
                         </div>
                     </div>
                 </div>
+                <?php
+                                include "./shared/popup.php"
+                                ?>
             </div>
             <!--banner end-->
 
@@ -104,7 +108,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-20.png" alt="" width="600" height="600" title="jean-philippe-delberghe-660138-unsplash" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-20.png" alt="" width="600" height="600" title="Wall Graphics" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -115,7 +119,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-21.png" alt="" width="600" height="600" title="armin-djuhic-609206-unsplash" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-21.png" alt="" width="600" height="600" title="Wall Graphics" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -245,50 +249,6 @@
         </div>
     </div>
     
-    <script type='text/javascript' src='js/jquery/jquery.js'></script>
-    <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
-    <script type='text/javascript' src='plugins/goodlayers-core/plugins/combine/script.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var gdlr_core_pbf = {
-            "admin": "",
-            "video": {
-                "width": "640",
-                "height": "360"
-            },
-            "ajax_url": "#"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
-    <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
-    <script type='text/javascript' src='js/plugins.js'></script>
-    <script type='text/javascript' src='js/isotope.js'></script>
-    <!-- jquery js -->
-    <script src="js/plugins/jquery.min.js"></script>
-    <!-- tween max js -->
-    <script src="js/plugins/tween-max.min.js"></script>
-    <!-- scroll magic js -->
-    <script src="js/plugins/scroll-magic.js"></script>
-    <!-- scroll magic gsap plugin js -->
-    <script src="js/plugins/scroll-magic-gsap-plugin.js"></script>
-    <!-- swiper js -->
-    <script src="js/plugins/swiper.min.js"></script>
-    <!-- isotope js -->
-    <script src="js/plugins/isotope.min.js"></script>
-    <!-- fancybox js -->
-    <script src="js/plugins/fancybox.min.js"></script>
-    <!-- mapbox js -->
-    <script src="js/plugins/mapbox.min.js"></script>
-    <!-- smooth scrollbar js -->
-    <script src="js/plugins/smooth-scrollbar.min.js"></script>
-    <!-- overscroll js -->
-    <script src="js/plugins/overscroll.min.js"></script>
-    <!-- canvas js -->
-    <script src="js/plugins/canvas.js"></script>
-    <!-- parsley js -->
-    <script src="js/plugins/parsley.min.js"></script>
-    <!-- main js -->
-    <script src="js/main.js"></script>
-</body>
-</html>
+    <?php
+        include "./shared/script.php"
+    ?>

@@ -6042,7 +6042,6 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
 
 .input1 {
 	border: 0 !important;
-	padding: 20px 10px !important;
 	color: #333;
 }
 
@@ -6886,27 +6885,26 @@ height:70vh;
 	margin-bottom: 110px;
 	padding: 90px 50px 40px;
 	position: relative;
-	transition: .3s;
+	transition: 1s;
 	border-radius: 2px;
-	&:hover {
-		box-shadow: 0 40px 70px 0 rgba(0, 0, 0, 0.22);
-		cursor: pointer;
-		.features-icon {
-			color: #536dfe;
-			border-color: #536dfe;
-		}
-		.features-info {
-			.title {
-				color: #536dfe;
-				border-color: #536dfe;
-			}
-			p {
-				color:#536dfe;
-				border-color: #536dfe;
-			}
-		}
-	}
+	
 }
+.features-item:hover {
+	box-shadow: 0 40px 70px 0 rgba(0, 0, 0, 0.22);
+	cursor: pointer;
+	
+}
+.features-item:hover .features-icon {
+	color: #536dfe;
+	border-color: #536dfe;
+}
+.features-item:hover .features-info .title {
+	
+		color: #536dfe;
+		border-color: #536dfe;
+	
+}
+
 .features-icon {
 	font-size: 36px;
 	width: 96px;
@@ -6924,6 +6922,7 @@ height:70vh;
 	color: #bdbdbd;
 	transition: .3s;
 }
+
 @media only screen and(max-width: 992px) {
 	.clear-problem > div:nth-child(3n + 1) {
 		clear: none;
@@ -7296,7 +7295,13 @@ height:70vh;
 	background-color:transparent;
 }
 .image-for-partner img{
-	
+	width:70%;
+	height:100%;
+}
+.image-for-partner a{
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .partners img {
 	height: 40vh;
@@ -8224,7 +8229,7 @@ body {
 
 	@media(min-width:1000px){
 	.mar-gin-top{
-		margin-top:-110px;
+		margin-top:0px;
 	}
 	.franchise-sec{
 		padding:0px 550px 0px 0px;
@@ -9512,7 +9517,7 @@ Component
   }
   @media(min-width:1025px){
 	.statistics-card{
-		padding: 3em 7em;
+		padding: 0em 3em;
 		width:80%;
 	}
 	.content-for-slider h3{
@@ -9578,7 +9583,7 @@ Component
   }
   
   .statistics-type p{
-	width: 45ch;
+	/* width: 45ch; */
 	margin: 1em auto 2em;
   }
   
@@ -9587,7 +9592,7 @@ Component
   .statistics-stats{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	gap: 5em;
+	/* gap: 5em; */
 	position: relative;
   }
   
@@ -9610,20 +9615,22 @@ Component
   
   .statistics-stats::before{
 	top: 50%;
-	left: -5%;
-	width: 110%;
+	left: 5%;
+	width: 93%;
 	height: 1px;
 	background: var(--text-clr-light);
   }
   
   .statistics-stats::after{
 	left: 50%;
-	top: -5%;
+	top: 12%;
 	width: 0.8px;
-	height: 110%;
+	height: 80%;
 	background: var(--text-clr-light);
   }
-  
+  .statistics-clientrev, .statistics-adspend, .statistics-maus,.statistics-roi{
+	text-align:center;
+  }
   .statistics-card::before{
 	content: '';
 	position: absolute;
@@ -10586,6 +10593,7 @@ height:35vh;
 	padding:3rem 0 0 0;
 }
 .image-profile-stretch-spcl img{
+	width: 80%;
 	height:35vh;
 }
 
@@ -10616,6 +10624,12 @@ height:35vh;
 	justify-content: center;
 	align-items: center;
 	margin:0 auto;
+}
+.image-snip-boxing-img img{
+	width:100%;
+}
+.image-snip-boxing-img{
+	width:25%;
 }
 
 /*profile-acoustic*/
@@ -10851,3 +10865,363 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 	width:100%;
 }
    */
+
+/*CTA*/
+.cta {
+	background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("https://images.unsplash.com/photo-1694902304153-ffed849ca876?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1980&q=80") fixed center center;
+	background-size: cover;
+	padding: 80px 0;
+  }
+  
+  .cta h2 {
+	color: #fff !important;
+	font-size: 28px !important;
+	font-weight: 700;
+	text-align: left;
+  }
+  
+  .cta p {
+	color: #fff;
+	text-align: left;
+  }
+  
+  .cta .cta-btn {
+	font-family: "Jost", sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	letter-spacing: 1px;
+	display: inline-block;
+	padding: 12px 25px;
+	border-radius: 50px;
+	transition: 0.5s;
+	margin: 10px;
+	border: 2px solid #fff;
+	color: #fff;
+  }
+  
+  .cta .cta-btn:hover {
+	background: #47b2e4;
+	border: 2px solid #47b2e4;
+  }
+  
+  @media (max-width: 1024px) {
+	.cta {
+	  background-attachment: scroll;
+	}
+  }
+  
+  @media (min-width: 769px) {
+	.cta .cta-btn-container {
+	  display: flex;
+	  align-items: center;
+	  justify-content: flex-end;
+	}
+  }
+  /*CTA END*/
+
+  /*what we do*/
+  .whatwedosection{
+   width:95%;
+   margin:0 auto;
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+  }
+
+
+  .whatwedo-image h3{
+	font-size:20px !important;
+  }
+  .whatwedodiv{
+	padding:10px;
+  }
+  @media(min-width:800px){
+	.whatwedodiv{
+		width: 20%;
+	}
+  }
+  @media(max-width:799px) and (min-width:600px){
+	.whatwedodiv{
+		width: 33% 
+	}
+  }
+  @media(max-width:599px) {
+	.whatwedodiv{
+		width: 100% 
+	}
+  }
+  .whatwedodiv div img{
+	height:35vh;
+	width:100%;
+  }
+  .whatwedo-image h3{
+	text-align: center;
+	padding-top:10px;
+  }
+  .whatwedo-image p{
+	text-align: center;
+  }
+
+
+
+  /* Management showcase - Vivek and Raj */
+
+  section {
+	padding: 60px 0;
+	overflow: hidden;
+  }
+  
+  .section-bg {
+	background-color: #f3f5fa;
+  }
+  
+  .section-title {
+	text-align: center;
+	padding-bottom: 30px;
+  }
+  
+  .section-title h2 {
+	font-size: 32px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	position: relative;
+	color: #37517e;
+  }
+  
+  .section-title h2::before {
+	content: "";
+	position: absolute;
+	display: block;
+	width: 120px;
+	height: 1px;
+	background: #ddd;
+	bottom: 1px;
+	left: calc(50% - 60px);
+  }
+  
+  .section-title h2::after {
+	content: "";
+	position: absolute;
+	display: block;
+	width: 40px;
+	height: 3px;
+	background: #47b2e4;
+	bottom: 0;
+	left: calc(50% - 20px);
+  }
+  
+  .section-title p {
+	margin-bottom: 0;
+  }
+  
+  .teamiceil .member {
+	position: relative;
+	box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+	padding: 30px;
+	border-radius: 5px;
+	background: #fff;
+	transition: 0.5s;
+	height: 100%;
+  }
+  
+  .teamiceil .member .pic {
+	overflow: hidden;
+	width: 180px;
+	border-radius: 50%;
+  }
+  
+  .teamiceil .member .pic img {
+	transition: ease-in-out 0.3s;
+  }
+  
+  .teamiceil .member:hover {
+	transform: translateY(-10px);
+  }
+  
+  .teamiceil .member .member-info {
+	padding-left: 30px;
+	padding-top: 20px;
+  }
+  
+  .teamiceil .member h4 {
+	font-weight: 700;
+	margin-bottom: 5px;
+	font-size: 20px;
+	color: #37517e;
+  }
+  
+  .teamiceil .member span {
+	display: block;
+	font-size: 15px;
+	padding-bottom: 10px;
+	position: relative;
+	font-weight: 500;
+  }
+  
+  .teamiceil .member span::after {
+	content: "";
+	position: absolute;
+	display: block;
+	width: 50px;
+	height: 1px;
+	background: #cbd6e9;
+	bottom: 0;
+	left: 0;
+  }
+  
+  .teamiceil .member p {
+	margin: 10px 0 0 0;
+	font-size: 14px;
+  }
+  
+  .teamiceil .member .social {
+	margin-top: 12px;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+  }
+  
+  .teamiceil .member .social a {
+	transition: ease-in-out 0.3s;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50px;
+	width: 32px;
+	height: 32px;
+	background: #eff2f8;
+  }
+  
+  .teamiceil .member .social a i {
+	color: #37517e;
+	font-size: 16px;
+	margin: 0 2px;
+  }
+  
+  .teamiceil .member .social a:hover {
+	background: #47b2e4;
+  }
+  
+  .teamiceil .member .social a:hover i {
+	color: #fff;
+  }
+  
+  .teamiceil .member .social a + a {
+	margin-left: 8px;
+  }
+  
+  .container-for-team {
+	width: 90%;
+	margin: 0 auto;
+  }
+
+
+    /* Management showcase - Vivek and Raj End */
+
+  @media(min-width:800px){
+	.image-about-page{
+		padding:50px;
+	  }
+  }
+  @media(max-width:799px) and (min-width:500px){
+	.image-about-page{
+		padding:30px;
+	  }
+  }
+  @media(min-width:499px){
+	.image-about-page{
+		padding:5px;
+	  }
+  }
+
+  /*CONTACT US franchise section*/
+.clients-section{
+	width:90%;
+	margin:0 auto;
+	padding:5rem 0 8rem 0;
+}
+.clients-border li img{
+	width:80%;
+	margin:0 auto;
+}
+.clients-border li {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	width:15%;
+}
+   /*CONTACT US franchise end*/
+
+/*light box start*/
+
+ .div-list i{
+	font-size:30px;
+	color:#2676bc;
+ }
+ .div-list p{
+	font-size:20px;
+ }
+
+/*light  box end*/
+
+/*drives and controller*/
+.driveandremote-heading h1{
+	font-size:20px !important;
+}
+.driveandremote-div h3{
+	font-size:20px !important;
+}
+.sub-div-driveandremote p{
+	font-size:12px !important;
+	color:#040404 !important;
+	transition: 1s ease;
+}
+.image-div-driveandremote {
+    text-align: center;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.pdf-icon {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.253);
+	border-radius: 1.5rem;
+    color: rgb(255 252 252) !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 30px !important;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+.image-container:hover .pdf-icon {
+    display: flex;
+    opacity: 1;
+}
+.image-div-driveandremote:hover .para_driveandremote{
+   color:rgb(0, 0, 0) !important;
+   font-weight: bold;
+   font-size:13px;
+}
+
+
+/*drives and controller end*/

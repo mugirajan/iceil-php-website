@@ -2,6 +2,47 @@
 <footer>
                 <div class="inteco-footer-wrapper ">
                     <div class="inteco-footer-container inteco-container clearfix">
+                    <!--fixed icons start-->   
+                        <div class="d-flex justify-content-end">
+                            <div class="static-section-logo " >
+                                <div class="social-links link1">
+                                    <a target="_blank" href="https://wa.me/918925530871">
+                                        <i class="fab fa-whatsapp"></i>
+                                    </a>
+                                </div>
+                                <div class="social-links">
+                                    <a id="email-icon" href="#">
+                                    <i class="far fa-comment-alt"></i>                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="popupForm" class="popup">
+                            <div class="popup-content">
+                                <h4>Contact Us</h4>
+                                <div id="toast-container"></div>
+                                <form class="popup-form form-group">
+                                    <label for="name">Name:</label>
+                                    <input class="form-control" type="text" id="name" name="name" required>
+                                    
+                                    <label for="email">Email:</label>
+                                    <input class="form-control" type="email" id="email" name="email" required>
+
+                                    <label for="tel">Phone:</label>
+                                    <input class="form-control" type="tel" id="tel" name="tel" required>
+                                    
+                                    <label for="state">State:</label>
+                                    <input class="form-control" type="text" id="state" name="state" required>
+                                    
+                                    <label for="city">City:</label>
+                                    <input class="form-control" type="text" id="city" name="city" required>
+                                    
+                                    <label for="message">Message:</label>
+                                    <textarea class="form-control" type="text" id="message" name="message" required></textarea><br>
+                                    
+                                    <button type="submit" name="submit" id="contactFormSubmitBtn" class="inptBtn">Submit</button>
+                                </form>
+                            </div>
+                        </div>
                         <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer">
                             <div id="nav_menu-2" class="widget widget_nav_menu inteco-widget">
                                 <div class="grayscale-footer-image">
@@ -11,12 +52,12 @@
                                 <h3 class="inteco-widget-title-footer">Quick Links</h3><span class="clear"></span>
                                 <div class="menu-services-container">
                                     <ul id="menu-services" class="menu">
-                                        <li class="menu-item"><a href="homepage-3.php">Home</a></li>
-                                        <li class="menu-item"><a href="about-us-3.php">Who We Are</a></li>
-                                        <li class="menu-item"><a href="about-our-team.php">Partner with us</a></li>
-                                        <li class="menu-item"><a href="blog-full-left-sidebar-with-frame.php">Blogs</a>
+                                        <li class="menu-item"><a href="Home">Home</a></li>
+                                        <li class="menu-item"><a href="AboutUs">Who We Are</a></li>
+                                        <li class="menu-item"><a href="Partners">Partner with us</a></li>
+                                        <li class="menu-item"><a href="Blogs">Blogs</a>
                                         </li>
-                                        <li class="menu-item"><a href="contact-2.php">Contact Us</a></li>
+                                        <li class="menu-item"><a href="ContactUs">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -26,10 +67,10 @@
                                 <h3 class="inteco-widget-title-footer">Works</h3><span class="clear"></span>
                                 <div class="menu-services-container">
                                     <ul id="menu-services" class="menu">
-                                        <li class="menu-item"><a href="wallpaper.php">Wall Graphics</a></li>
-                                        <li class="menu-item"><a href="projects.php">Project</a></li>
-                                        <li class="menu-item"><a href="project-details.php">Project Details</a></li>
-                                        <li class="menu-item"><a href="single-projects-detail.php">Single Project
+                                        <li class="menu-item"><a href="WallGraphics">Wall Graphics</a></li>
+                                        <li class="menu-item"><a href="Projects">Project</a></li>
+                                        <li class="menu-item"><a href="Project-Details">Project Details</a></li>
+                                        <li class="menu-item"><a href="Single-Project">Single Project
                                                 Page</a></li>
                                     </ul>
                                 </div><br>
@@ -37,28 +78,24 @@
                                     class="clear"></span>
                                 <div class="menu-services-container">
                                     <ul id="menu-services" class="menu">
-                                        <li class="menu-item"><a href="architectural-project.php">Project Gallery</a>
+                                        <li class="menu-item"><a href="architectural-completed.php">Architectural Lighting</a>
                                         </li>
-                                        <li class="menu-item"><a href="architectural-completed.php">Completed
-                                                Projects</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer">
                             <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
-                                <h3 class="inteco-widget-title-footer">Architects</h3><span class="clear"></span>
+                                <h3 class="inteco-widget-title-footer">Architect Area & Technical Infos</h3><span class="clear"></span>
                                 <div class="menu-quick-links-container">
                                     <ul id="menu-quick-links" class="menu">
-                                        <li class="menu-item"><a href="stretch-ceiling .php">Stretch Ceiling</a></li>
-                                        <li class="menu-item"><a href="warranty.php">Warranty</a></li>
-                                        <li class="menu-item"><a href="pre-requisites.php">Pre requisites</a></li>
-                                        <li class="menu-item"><a href="boxing.php">Boxing</a></li>
-                                        <li class="menu-item"><a href="stretch-fabric.php">Stretch Fabric</a></li>
-                                        <li class="menu-item"><a href="profiles.php">Profiles</a></li>
-                                        <li class="menu-item"><a href="led.php">LED</a></li>
-                                        <li class="menu-item"><a href="drives.php">Drive</a></li>
-                                        <li class="menu-item"><a href="drivecontrollers.php">Remotes and Controllers</a>
+                                        <li class="menu-item"><a href="StretchCeiling">Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="Warranty">Warranty</a></li>
+                                        <li class="menu-item"><a href="Boxing">Boxing</a></li>
+                                        <li class="menu-item"><a href="Stretch-Fabric">Stretch Fabric</a></li>
+                                        <li class="menu-item"><a href="Profiles">Profiles</a></li>
+                                        <li class="menu-item"><a href="LED">LED</a></li>
+                                        <li class="menu-item"><a href="Drive-Controllers">Drive, Remotes and Controllers</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -69,21 +106,19 @@
                                 <h3 class="inteco-widget-title-footer">Stretch Ceilings</h3><span class="clear"></span>
                                 <div class="menu-quick-links-container">
                                     <ul id="menu-quick-links" class="menu">
-                                        <li class="menu-item"><a href="project-gallery.php">Project Gallery</a></li>
-                                        <li class="menu-item"><a href="completed-projects.php">Completed Projects</a>
-                                        </li>
-                                        <li class="menu-item"><a href="translucent.php">Translucent</a></li>
-                                        <li class="menu-item"><a href="printed.php">Printed</a></li>
-                                        <li class="menu-item"><a href="threed.php">3D Forms</a></li>
-                                        <li class="menu-item"><a href="light-boxes.php">Light Boxes</a></li>
-                                        <li class="menu-item"><a href="lacquer.php">Lacquer</a></li>
-                                        <li class="menu-item"><a href="acoustic.php">Acoustic</a></li>
+                                        <li class="menu-item"><a href="Translucent">Translucent</a></li>
+                                        <li class="menu-item"><a href="Printed">Printed</a></li>
+                                        <li class="menu-item"><a href="3DForms">3D Forms</a></li>
+                                        <li class="menu-item"><a href="LightBoxes">Light Boxes</a></li>
+                                        <li class="menu-item"><a href="Lacquer">Lacquer</a></li>
+                                        <li class="menu-item"><a href="Acoustic">Acoustic</a></li>
 
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <!--fixed icons end--> 
                 </div>
                 <div class="inteco-copyright-wrapper">
                     <div class="inteco-copyright-container inteco-container clearfix">
@@ -118,3 +153,6 @@
 
             </footer>
             <!--footer end-->
+
+
+<?php include 'script.php'?>

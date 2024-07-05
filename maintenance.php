@@ -66,34 +66,12 @@
                     </div>
                 </div>
             </div>
-            <footer>
-                <div class="inteco-copyright-wrapper">
-                    <div class="inteco-copyright-container inteco-container clearfix">
-                        <div class="inteco-copyright-left inteco-item-pdlr"><a href="https://facebook.com/goodlayers" target="_blank"><i class="fa fa-facebook" style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"  ></i></a> <a href="https://facebook.com/goodlayers" target="_blank"><i class="fa fa-twitter" style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"  ></i></a> <a href="https://facebook.com/goodlayers" target="_blank"><i class="fa fa-linkedin" style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"  ></i></a> <a href="https://facebook.com/goodlayers" target="_blank"><i class="fa fa-instagram" style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"  ></i></a> <a href="https://facebook.com/goodlayers" target="_blank"><i class="fa fa-pinterest-p" style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"  ></i></a> <a href="https://facebook.com/goodlayers" target="_blank"><i class="fa fa-vimeo" style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"  ></i></a></div>
-                        <div class="inteco-copyright-right inteco-item-pdlr">Copyright 2018, GoodLayers. All right reserved</div>
-                    </div>
-                </div>
-            </footer>
+            <?php
+                   include "./shared/footer.php"
+                ?>
         </div>
     </div>
     
-    <script type='text/javascript' src='js/jquery/jquery.js'></script>
-    <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
-    <script type='text/javascript' src='plugins/goodlayers-core/plugins/combine/script.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var gdlr_core_pbf = {
-            "admin": "",
-            "video": {
-                "width": "640",
-                "height": "360"
-            },
-            "ajax_url": "#"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
-    <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
-    <script type='text/javascript' src='js/plugins.js'></script>
-</body>
-</html>
+    <?php
+        include "./shared/script.php"
+    ?>

@@ -60,6 +60,23 @@
     <script src="js/plugins/parsley.min.js"></script>
     <!-- main js -->
     <script src="js/main.js"></script>
+    <script src="js/mailer.js"></script>
+    <script src="js/mailHelper.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+    var popupform = document.getElementById("popupForm");
+    var emailIcon = document.getElementById("email-icon");
+    var closeBtn = document.querySelector(".close-btn");
+
+    emailIcon.addEventListener("click", function(event) {
+        event.preventDefault();
+        popupform.style.display = "block";
+    });
+
+    
+});
+
+    </script>
     </body>
 
 </html>
