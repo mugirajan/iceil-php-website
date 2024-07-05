@@ -23,7 +23,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover mry-position-right" src="images/landing/111.jpg" alt="Project" data-swiper-parallax="500"
+										<img class="mry-project-cover mry-position-right" src="images/landing/1.jpg" alt="Project" data-swiper-parallax="500"
 											data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
