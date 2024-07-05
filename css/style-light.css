@@ -1265,16 +1265,18 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	transition-duration: 10s;
 }
 
+
 .mry-slider-arrows {
-	position: absolute;
-	top: -15px;
-	padding: 0 20px 0 40px;
-	right: 30px;
-	background-color: #f7f8fa69;
-	border:1px solid black;
-	display: flex;
-	justify-content: flex-end;
-	align-items: center;
+    bottom: 85px;
+    z-index: 99;
+    position: absolute;
+    padding: 0 20px 0 40px;
+    right: 159px;
+    background-color: #f7f8fa69;
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
 @media(max-width:699px){
 	.mry-slider-arrows{
