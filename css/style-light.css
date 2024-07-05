@@ -1267,9 +1267,10 @@ html.is-animating .transition-fade .mry-loading-curtain {
 
 .mry-slider-arrows {
 	position: absolute;
-	top: -15px;
+	bottom: 20px;
+	z-index: 999;
 	padding: 0 20px 0 40px;
-	right: 30px;
+	right: 150px;
 	background-color: #f7f8fa69;
 	border:1px solid black;
 	display: flex;
