@@ -18,23 +18,23 @@
 						                ---------->
 						<!-- Translucent -->
 						<div class="swiper-slide">
-							
+
 							<!-- project -->
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover mry-position-center" src="images/landing/1.jpg" alt="Project" data-swiper-parallax="500"
+										<img class="mry-project-cover mry-position-right" src="images/landing/111.jpg" alt="Project" data-swiper-parallax="500"
 											data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
-										<div class="mry-loading-curtain"></div>
 									</div>
 									<div class="mry-main-title-frame">
 										<div class="container">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
-												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
-												<h1 class="mry-mb-30">Translucent Stretch<br><span class="mry-border-text">Ceiling</span></h1>
-												<div class="mry-text mry-mb-30">Iceil Translucent Stretch Ceilings allow light to be evenly distributed with the stretch membrane offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 50 SQM without joints creating a great ambiance.</div>
+												<div class="mry-subtitle mry-mb-20">Stretch Ceiling	</div>
+												<h1 class="mry-mb-30">Translucent Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30">Iceil Translucent Stretch Ceilings allow light to be evenly distributed with the stretch membrane offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 50 SQM without joints creating a great ambiance.
+												</div>
 												<a class="mry-btn mry-default-link mry-anima-link" href="Translucent">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 
