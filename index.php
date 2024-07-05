@@ -261,7 +261,7 @@
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
 												<h1 class="mry-mb-30">Translucent Stretch<br><span class="mry-border-text">Ceiling</span></h1>
 												<div class="mry-text mry-mb-30">Iceil Translucent Stretch Ceilings allow light to be evenly distributed with the stretch membrane<br>offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 50 SQM<br>without joints creating a great ambiance.</div>
-												<a class="mry-btn mry-default-link mry-anima-link" href="Boxing">Click here</a>
+												<a class="mry-btn mry-default-link mry-anima-link" href="Translucent">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 
 											</div>
@@ -319,7 +319,7 @@
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
 												<h1 class="mry-mb-30">RGB Dynamic Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 												<div class="mry-text mry-mb-30"> Iceil RGB Dynamic Stretch Ceiling combines innovative lighting technology with flexible design, <br> allowing colorful lighting to be implemented through addressable, programmable LEDs and DMX<br> controls.</div>
-												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn mry-default-link mry-anima-link" href="3DForms">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 											</div>
 										</div>
@@ -346,7 +346,7 @@
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
 												<h1 class="mry-mb-30"> 3D Forms Stretch <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 												<div class="mry-text mry-mb-30"> Iceil 3D Form Stretch Ceiling are created by engineering multilevel framing structures using the latest  <br> fabrication technologies. Such a Structure can be made to the required size, shape, and then can be<br>fitted with the desired stretch film or printed film.</div>
-												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn mry-default-link mry-anima-link" href="3DForms">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 											</div>
 										</div>
@@ -373,7 +373,7 @@
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
 												<h1 class="mry-mb-30">Acoustic Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 												<div class="mry-text mry-mb-30"> Iceil Acoustic Stretch Ceiling combines sound-absorbing materials with a stretchable perforated  <br> fabric, effectively reducing noise levels while maintain- ing an aesthetically pleasing appearance.</div>
-												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn mry-default-link mry-anima-link" href="Acoustic">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 											</div>
 										</div>
@@ -400,7 +400,7 @@
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
 												<h1 class="mry-mb-30">Lacquer Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 												<div class="mry-text mry-mb-30"> Iceil Lacquer Stretch Ceiling is a sophisticated ceiling finish characterized by its glossy and reflective <br> surface. Its reflective properties enhance the brightness of the room by bouncing light, while its <br> smooth texture adds a touch of modern elegance.</div>
-												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn mry-default-link mry-anima-link" href="Lacquer">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 											</div>
 										</div>
@@ -428,7 +428,7 @@
 												<h1 class="mry-mb-30">Printed Lacquer<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 												<div class="mry-text mry-mb-30"> Iceil Printed Lacquer Ceiling allows printing virtually any design or pattern onto Lacquer Stretch  <br> Ceiling. This versatility enables the customization of ceilings to match specific aesthetic preferences <br> or complement interior themes, offering endless possibilities for creating unique and personalized<br> spaces.
 											</div>
-												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn mry-default-link mry-anima-link" href="Lacquer">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 											</div>
 										</div>
@@ -455,7 +455,7 @@
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
 												<h1 class="mry-mb-30"> Art Perforated <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 												<div class="mry-text mry-mb-30"> Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining two stretch ceiling layer  <br> to create an eye-catching visual effect.</div>
-												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn mry-default-link mry-anima-link" href="StretchCeiling">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 											</div>
 										</div>
@@ -482,7 +482,7 @@
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
 												<h1 class="mry-mb-30">Mirror Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 												<div class="mry-text mry-mb-30"> Iceil Mirror Stretch Ceiling enhances interior design with reflective surfaces, vi- sually enlarging  <br> spaces and creating a sleek, modern aesthetic. <br> controls.</div>
-												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn mry-default-link mry-anima-link" href="StretchCeiling">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 											</div>
 										</div>
@@ -549,7 +549,7 @@
 												<h1 class="mry-mb-30">Signage Light <br><span class="mry-border-text">Box</span><span class="mry-animation-el"></span></h1>
 												<div class="mry-text mry-mb-30"> Iceil fabric signage light box offers a lightweight, durable, and vibrant solution for advertising. It features high-quality fabric stretched over a frame, providing easy installation and portability.
 												</div>
-												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn mry-default-link mry-anima-link" href="Boxing">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 											</div>
 										</div>
@@ -582,7 +582,7 @@
 												<h1 class="mry-mb-30">Wall <br><span class="mry-border-text">Graphics</span><span class="mry-animation-el"></span></h1>
 												<div class="mry-text mry-mb-30">Iceil Custom Wall Graphics provide a uniquely personalized touch to your space, showcasing an image of your choice printed on premium fabric seam- lessly pasted onto your wall. 
 												</div>
-												<a class="mry-btn mry-default-link mry-anima-link" href="architectural-completed.php">Click here</a>
+												<a class="mry-btn mry-default-link mry-anima-link" href="WallGraphics">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 											</div>
 										</div>
