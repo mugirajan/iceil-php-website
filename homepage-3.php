@@ -499,7 +499,7 @@
                                 </div>
                                 <div class="statistics-stats col-lg-6 col-md-6 col-sm-12">
                                     <div class="statistics-clientrev">
-                                        <span>400+</span>
+                                        <span>500+</span>
                                         <p>Happy Clients</p>
                                     </div>
                                     <div class="statistics-adspend">
@@ -507,11 +507,11 @@
                                         <p>Products</p>
                                     </div>
                                     <div class="statistics-maus">
-                                        <span>1000+</span>
+                                        <span>1500+</span>
                                         <p>Projects</p>
                                     </div>
                                     <div class="statistics-roi">
-                                        <span>10+</span>
+                                        <span>35+</span>
                                         <p>channal partners</p>
                                     </div>
                                 </div>

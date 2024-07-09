@@ -6222,7 +6222,7 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
 	height: 100%;
 	display: flex;
 	flex-wrap: wrap;
-	align-items: center;
+	align-items: flex-start;
 	justify-content: center;
   }
   
@@ -6728,7 +6728,7 @@ height:70vh;
 
 .inteco-widget-title-footer{
 	font-weight: 700 !important;
-    font-size: 20px !important;
+    font-size: 17px !important;
 }
 @media(min-width:1000px){
 	.gdlr-core-pbf-wrapper-trans{
@@ -8723,23 +8723,28 @@ Component
 /*downloads start*/
 
 	.card-section-for-download{
-		width:90%;
+		width:80%;
 		margin:0 auto;
 		margin-top:4rem;
 		margin-bottom:4rem;
 	}
     .card-section-for-download .card {
-      /* margin:10px; */
+      margin:0 auto;
+	  width:85%;
       cursor:pointer;
       position: relative;
       height: 50vh;
       overflow: hidden;
       border-radius: 10px;
-      /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
       transition: transform 0.3s;
       box-shadow: 0 10px 20px black;
     }
-	
+	.input-button{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin:0 auto;
+	}
 
     .card-section-for-download .card:hover {
       transform: scale(1.05);
@@ -9277,9 +9282,9 @@ Component
 }
 
 .cards-of-blog-like {
-  max-width: 100%;
+  max-width: 90%;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   column-gap: 2rem;
   row-gap: 2rem;
   grid-auto-flow: dense;
@@ -11140,7 +11145,7 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 .clients-section{
 	width:90%;
 	margin:0 auto;
-	padding:5rem 0 8rem 0;
+	padding:5rem 0 0 0;
 }
 .clients-border li img{
 	width:80%;

@@ -116,5 +116,6 @@ class sndMail
         return $this->valid;
     }
 
+
 }
 ?>

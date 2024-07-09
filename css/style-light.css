@@ -312,7 +312,7 @@ a, a:hover {
 
 .mry-magnetic-link {
 	width: 100px;
-	height: 80px;
+	height: 70px;
 	display: flex;
 	position: relative;
 	justify-content: center;
@@ -525,8 +525,8 @@ a, a:hover {
     height: 100%;
 }
 .mry-app .mry-top-panel .mry-logo-frame a{
-	margin-top: -2px;
-	padding: 20px;
+	margin-top: -28px;
+	padding: 11px;
     justify-content: center;
     display: flex;
     width: 50%;
@@ -572,6 +572,7 @@ a, a:hover {
 }
 
 .mry-menu-button-frame .mry-menu-btn {
+	margin-top:-15px;
 	width:100px;
 	position: relative;
 	border-radius: 0 0 30px 30px;
@@ -681,7 +682,7 @@ a, a:hover {
 
 .mry-menu nav ul .menu-item a {
     color: #010d0d;
-    font-size: 20px;
+    font-size: 16px;
     display: inline-block;
     height: 100%;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
@@ -1267,13 +1268,12 @@ html.is-animating .transition-fade .mry-loading-curtain {
 
 
 .mry-slider-arrows {
-    bottom: 85px;
+    bottom: 60px;
     z-index: 99;
     position: absolute;
     padding: 0 20px 0 40px;
     right: 159px;
     background-color: #f7f8fa69;
-    border: 1px solid black;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -1291,6 +1291,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 
 .mry-slider-arrows .mry-label {
 	margin-right: 20px;
+	margin-left: 20px;
 	color: #0d0d0d;
 }
 
@@ -1301,9 +1302,15 @@ html.is-animating .transition-fade .mry-loading-curtain {
 
 .mry-slider-arrows .mry-button-next span, .mry-slider-arrows .mry-button-prev span {
 	display: block;
-	width: 20px;
-	height: 20px;
+	width: 40px;
+	height: 40px;
 	text-align: center;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 1px solid black;
+    /* display: block; */
 }
 
 .mry-slider-arrows .mry-button-next span i, .mry-slider-arrows .mry-button-prev span i {
@@ -2630,6 +2637,25 @@ form.contFrm {
   border-radius:0.8rem;
 }
 
+.inptBtndiv {
+    height: 40px;
+    border: 0;
+    background: #21252999;
+    font-size: 14px;
+    color: #fff;
+    margin: auto;
+    letter-spacing: 1px;
+    cursor: pointer;
+    width: 100%;
+    max-width: 198px;
+    border-radius: 0.7rem;
+}
+.inptBtndiv a{
+	color:white !important;
+}
+.navbar-caps ul li{
+	text-transform:uppercase;
+}
 
 
 @media (max-width: 991px) {

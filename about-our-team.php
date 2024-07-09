@@ -50,6 +50,10 @@
                             <div class="col-lg-6 div-of-hero">
                                 <h3>Expand your possibilities through a defined relationship</h3>
                                 <p>At ICEIL, we believe in the power of collaboration and partnership to unlock new opportunities and drive mutual success. By joining forces with us, you can expand your possibilities and achieve your goals with confidence.</p>
+                                <div class="button-div-hero">
+                                    <button class="inptBtndiv mr-4"><a href="#collaboration">Partner collaboration</a></button>
+                                    <button class="inptBtndiv"><a href="#collaboration">Project collaboration</a></button>
+                                </div>
                             </div>
                             <div class="col-lg-6">
                             <img src="https://img.freepik.com/free-photo/two-businesspeople-shaking-hands-indoors_1423-209.jpg?w=740" alt="">
@@ -87,105 +91,11 @@
                     </section>
                     <!--rounded card section-->
 
-                    <!--card like blog-->
-                    <section class="blog-like-card">
-                        <h4 class="text-center">Every effort is made to protect <br><span class="span-for-you">your business</span></h4>
-                        <div class="cards-of-blog-like">
-                        <a class="card-of-blog">
-                            <div class="card-hero card-partner-height">
-                                <img src="img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg" width="288" />
-                            </div>
-                                <div class="card-header-blog">
-                                    <h3>Ideation and Design</h3>
-                                </div>
-                                <div class="card-body-blog">
-                                    <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
-                                </div>
-                        </a>
-                        <a class="card-of-blog">
-                            <div class="card-hero card-partner-height">
-                                <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTY0MDI3Nzg4NQ&ixlib=rb-1.2.1&q=85" width="288" />
-                            </div>
-                            <div class="card-header-blog">
-                                <h3>Lighting Solutions</h3>
-                            </div>
-                            <div class="card-body-blog">
-                                <p>With our creativity, we can transform your vision into a reality & lighting solutions can illuminate your space. </p>
-                            </div>
-                        </a>
-                        <a class="card-of-blog">
-                            <div class="card-hero card-partner-height">
-                                <img src="img/project-gallery/pics/stretch-ceilings-inside-nightbars.jpg" width="288" />
-                            </div>
-                            <div class="card-header-blog">
-                                <h3>Installation and Support</h3>
-                            </div>
-                            <div class="card-body-blog">
-                                <p>We committed to ensuring a seamless installation process and providing ongoing support to meet your needs. </p>
-                            </div>
-                        </a>
-                        </div>
-                    </section>
-                    <!--card like blog end-->
-
-                    <!--super team start-->
-                    <!-- <div class="padding-for-super" id="gdlr-core-wrapper-1">
-                        <div class="gdlr-core-pbf-background-wrap">
-                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                style="background-image: url(upload/tittle-bg-top-1.png) ;background-repeat: no-repeat ;background-position: top center ;"
-                                data-parallax-speed="0.1"></div>
-                        </div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                                    <div
-                                                        class="gdlr-core-title-item-title-wrap  gdlr-core-with-divider">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title "
-                                                            style="font-size: 33px ;letter-spacing: 0px ;text-transform: none ;color: #111111 ;">
-                                                            Super Team .</h3>
-                                                        <div class="gdlr-core-title-item-divider gdlr-core-right gdlr-core-skin-divider"
-                                                            style="border-color: #2676bc ;"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                                    <div class="gdlr-core-text-box-item-content"
-                                                        style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                        <p>Welcome to Iceil, where collaboration is key to success. Our
-                                                            dedication to excellence extends beyond our own capabilities
-                                                            – we believe in the power of partnerships to achieve
-                                                            outstanding results. Join us as we forge meaningful
-                                                            connections and elevate the standard for exceptional
-                                                            ceilings.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-                    <!--super team end-->
-
                     <!--Partner with us--->
                     <div class="inteco-page-wrapper" id="inteco-page-wrapper">
                             <div class="gdlr-core-page-builder-body">
                                 <div class="franchise" style="padding:30px 0px 0px 45px">
-                                    <h4 class="text-center">Our Franchise</h4>
+                                    <h4 class="text-center">Our Partners Across India</h4>
                                 </div>
                                 <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
                                     <div class="gdlr-core-pbf-background-wrap"></div>
@@ -207,7 +117,7 @@
                                                                     style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
                                                                     <a>Branch: Chennai</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                    style="font-size: 15px ;font-style: normal ;">Plot No:36, 1st Main Rd, Venus Nagar, Kolathur, Chennai, Tamil Nadu – 600099
+                                                                    style="font-size: 15px ;font-style: normal ;">Plot No:36, 1st Main Rd,<br> Venus Nagar, Kolathur, Chennai,<br> Tamil Nadu – 600099.
                                                                 </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -234,7 +144,7 @@
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">1-8-144 Arya
                                                                     Vysya,Abhyudaya Sangam Building,PG Road, Secunderabad, Telangana
-                                                                    – 500003</div>
+                                                                    – 500003.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -260,7 +170,7 @@
                                                                     <a>Branch:Kolkata</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">Plot No :157/ B,<br>
-                                                                        Lenin Sarani, <br>Kolkata- 700013</div>
+                                                                        Lenin Sarani, <br>Kolkata- 700013.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -312,7 +222,7 @@
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">Plot No –
                                                                     823/1092, At-Nuapatna, Po-Banguarlps-Balianta, Bhubaneswar,
-                                                                    Khordha, Odisha</div>
+                                                                    Khordha, Odisha.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -338,7 +248,7 @@
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">Plot No : 780/3,
                                                                     Sushila Villa,Behind Prabhu Accupuncture, Near NEXA, Porvorim,
-                                                                    ARDEZ-GOA-403501</div>
+                                                                    ARDEZ-GOA-403501.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -389,7 +299,7 @@
                                                                     <a>Branch:Lucknow</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">1 station road, Hussainganj crossing,
-                                                                    vidhan sabha road opp.maharana pratap statue,Lucknow,Uttar Pradesh ,India, PIN: 226001.
+                                                                    vidhan sabha road opp.maharana pratap statue,Lucknow,Uttar Pradesh ,India-226001.
                                                                 </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -420,7 +330,7 @@
                                                                     
                                                                     Ganeshguri Flyover,
                                                                     
-                                                                    Gs Road, Guwahati</div>
+                                                                    Gs Road, Guwahati.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -448,7 +358,7 @@
 
                                                                     Koothapar Manin Road,
                                                                     
-                                                                    Thiruverumbur ,<br>Trichy – 620014</div>
+                                                                    Thiruverumbur ,<br>Trichy – 620014.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -506,7 +416,7 @@
                                                                     
                                                                     Gokul 1st stage 2nd phase,
                                                                     
-                                                                    Bangalore – 560054</div>
+                                                                    Bangalore – 560054.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -534,7 +444,7 @@
 
                                                                     Near Shiv Temple,<br>
                                                                     
-                                                                    Alipur,<br> Delhi – 110036</div>
+                                                                    Alipur,<br> Delhi – 110036.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -562,7 +472,7 @@
 
                                                                     Neeligin Road, Hubli<br>
                                                                     
-                                                                    Karnataka-580029</div>
+                                                                    Karnataka-580029.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -586,9 +496,9 @@
                                                                     style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
                                                                     <a>Branch:Madurai</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                    style="font-size: 15px ;font-style: normal ;">8A,<br> WEST MASI STREET,<br>
+                                                                    style="font-size: 15px ;font-style: normal ;">8A,<br> West Masi Street,<br>
 
-                                                                    MADURAI – 625 001</div>
+                                                                    Madurai – 625001.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -617,7 +527,7 @@
 
                                                                     JLPL Sector 82,<br>
                                                                     
-                                                                    Mohali Punjab 140301</div>
+                                                                    Mohali Punjab - 140301.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -645,7 +555,7 @@
                                                                     47-14-2/6, 2nd & 3rd Floor,
                                                                     Sree Balajee Complex,
                                                                     Dwarakanagar Main Road,
-                                                                    Visakhapatnam – 530016
+                                                                    Visakhapatnam – 530016.
                                                                     </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -672,11 +582,11 @@
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">
 
-                                                                    F1,First Floor, 29,St Marks Rd,
+                                                                    F1,First Floor, 29,St Marks Rd,<br>
 
-                                                                    Shanthala Nagar,
+                                                                    Shanthala Nagar,<br>
 
-                                                                    Bengaluru,Karnataka – 560001
+                                                                    Bengaluru,Karnataka – 560001.
                                                                     </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -703,13 +613,13 @@
                                                                 </h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">
-                                                                        VEHAN BUILDERS
+                                                                        Vehan Builders
 
                                                                         No.31, (15) Ground Floor,
 
-                                                                        100 FEET ROAD, SUNDARARAJA NAGAR ,
+                                                                        100 FEET ROAD, Sundararaja Nagar,
 
-                                                                        3RD CROSS, NELLITHOPE,PUDUCHERRY, 605004.
+                                                                        3rd Cross, Nellithope, Puduchery - 605004.
                                                                     </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -742,7 +652,7 @@
 
                                                                     Gurunanak Road,<br>
 
-                                                                    Vijayawada – 520010
+                                                                    Vijayawada – 520010.
                                                                     </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -771,9 +681,9 @@
                                                                     style="font-size: 15px ;font-style: normal ;">
                                                                     No.91,A,First Floor,MGP Palace,
 
-                                                                    Near Swastic Roundana, Sathy Road,
+                                                                    Near Swastic Roundana, Sathy Road,<br>
 
-                                                                    Erode – 638003
+                                                                    Erode – 638003.
                                                                     </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -804,7 +714,7 @@
 
                                                                     Big Allapuram, Thorapadi, <br>
 
-                                                                    Vellore -632002
+                                                                    Vellore -632002.
                                                                     </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -835,7 +745,7 @@
 
                                                                     Kowdiar,<br>
                                                                     
-                                                                    Thiruvananthapuram
+                                                                    Thiruvananthapuram.
                                                                     </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -868,7 +778,7 @@
                                                                     
                                                                     Meyanur Main Road,
                                                                     
-                                                                    Salem – 636004
+                                                                    Salem – 636004.
                                                                     </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -896,7 +806,7 @@
                                                                     style="font-size: 15px ;font-style: normal ;">
                                                                     314, basement, Shree gopal nagar, Near Somani Hospital,
 
-                                                                    Mahesh Nagar, Jaipur, Rajasthan, India, PIN: 302019
+                                                                    Mahesh Nagar, Jaipur, Rajasthan - 302019
                                                                     
                                                                     </div>
                                                                 <div
@@ -927,8 +837,8 @@
                                                                     style="font-size: 15px ;font-style: normal ;">
                                                                     No.184, Mahveer Road,
                                                                         ,Vijayapura,
-                                                                        Karnataka,India, PIN: 586101
-                                                                        State Code: 29
+                                                                        State Code: 29,<br>
+                                                                        Karnataka-586101.
 
                                                                     </div>
                                                                 <div
@@ -956,13 +866,13 @@
                                                                     </a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">
-                                                                    "26/499, Aura Electric,
+                                                                    26/499, Aura Electric,
 
                                                                         V zone Complex,
 
                                                                         3rd floor, kootoli,
 
-                                                                        Calicut, Kerala – 673016"
+                                                                        Calicut, <br>Kerala – 673016.
 
                                                                     </div>
                                                                 <div
@@ -990,7 +900,7 @@
                                                                     </a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">
-                                                                    Man Resources, Next to hotel nityan, Sakinaka - Ghatloper link road, Mumbai - 400084
+                                                                    Man Resources, Next to hotel nityan, Sakinaka - Ghatloper link road,<br> Mumbai - 400084.
                                                                     </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -1020,7 +930,7 @@
                                                                     style="font-size: 15px ;font-style: normal ;">
                                                                     The Lighting Culture 
 
-                                                                    316 Pu4, Scheme No. 54, A.B.Road , INDORE (M.P.)
+                                                                    316 Pu4, <br>Scheme No. 54, A.B.Road ,<br> INDORE (M.P.).
 
                                                                     </div>
                                                                 <div
@@ -1053,7 +963,7 @@
 
                                                                     Rajahmundry,
                                                                     
-                                                                    Andhrapradesh,India, PIN: 533101
+                                                                    Andhrapradesh-533101.
                                                                     
                                                                     </div>
                                                                 <div
@@ -1118,7 +1028,7 @@
                                 </div>
                                 <div class="statistics-stats col-lg-6 col-md-6 col-sm-12">
                                     <div class="statistics-clientrev">
-                                        <span>400+</span>
+                                        <span>500+</span>
                                         <p>Happy Clients</p>
                                     </div>
                                     <div class="statistics-adspend">
@@ -1126,11 +1036,11 @@
                                         <p>Products</p>
                                     </div>
                                     <div class="statistics-maus">
-                                        <span>1000+</span>
+                                        <span>1500+</span>
                                         <p>Projects</p>
                                     </div>
                                     <div class="statistics-roi">
-                                        <span>10+</span>
+                                        <span>35+</span>
                                         <p>channal partners</p>
                                     </div>
                                 </div>
@@ -1160,7 +1070,7 @@
                     <!--testi video end-->
 
                     <!--Enquiry Form-->
-                    <section class="contact-sec sec-pad">
+                    <section class="contact-sec sec-pad" id="collaboration">
                         <div class="container">
                             <div class="row">
                             <div class="col-md-4">
@@ -1189,28 +1099,35 @@
                                 <div id="toast-container"></div>
                                 <form id="franchiseForm"  class="contFrm" method="POST">
                                     <div class="row form-group">
-                                        <div class="col-sm-12">
+                                        <div class="col-sm-6">
                                         <input class="form-control inptFld" id="name" name="name" placeholder="Name*" type="text" required />
                                         </div>
 
                                         <div class="col-sm-6">
-                                        <input class="form-control inptFld" id="email" type="email" name="email" placeholder="Email Address"required />
+                                        <input class="form-control inptFld" id="email" type="email" name="email" placeholder="Email Address*" required />
                                         </div>
 
                                         <div class="col-sm-6">
-                                        <input class="form-control inptFld" type="tel" name="phone" id="phone" placeholder="Phone Number"  required />
+                                        <input class="form-control inptFld" type="tel" name="phone" id="phone" placeholder="Phone Number*"  required />
                                         </div>
 
                                         <div class="col-sm-6">
-                                        <input class="form-control inptFld" type="text" name="state"  id="state" placeholder="State"  required />
+                                        <input class="form-control inptFld" type="text" name="state"  id="state" placeholder="State*"  required />
                                         </div>
 
                                         <div class="col-sm-6">
-                                        <input class="form-control inptFld" type="text" name="city" id="city" placeholder="City"  required />
+                                        <input class="form-control inptFld" type="text" name="city" id="city" placeholder="City*"  required />
+                                        </div>
+
+                                        <div class="col-sm-6">
+                                            <select class="form-control inptFld" name="Collaboration" id="Collaboration">
+                                                <option value="Project Collaboration">Project Collaboration</option>
+                                                <option value="Partner Collaboration">Partner Collaboration</option>
+                                            </select>
                                         </div>
 
                                         <div class="col-12">
-                                        <textarea class="form-control inptFld"  name="message" id="message" rows="" cols="" placeholder="Your Message..." required></textarea>
+                                        <textarea class="form-control inptFld"  name="message" id="message" rows="" cols="" placeholder="Your Message...*" required></textarea>
                                         </div>
 
                                         <div class="col-12">

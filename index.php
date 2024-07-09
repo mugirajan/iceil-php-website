@@ -8,7 +8,6 @@
   include "./shared/navbar.php"
 ?> 
 
-
 	
 				<!-- <canvas class="mry-dots"></canvas> -->
 
@@ -19,23 +18,23 @@
 						                ---------->
 						<!-- Translucent -->
 						<div class="swiper-slide">
-							
+
 							<!-- project -->
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover mry-position-center" src="images/landing/1.jpg" alt="Project" data-swiper-parallax="500"
+										<img class="mry-project-cover mry-position-right" src="images/landing/iceil-landing/1.jpg" alt="Project" data-swiper-parallax="500"
 											data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
-										<div class="mry-loading-curtain"></div>
 									</div>
 									<div class="mry-main-title-frame">
 										<div class="container">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
-												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
-												<h1 class="mry-mb-30">Translucent Stretch<br><span class="mry-border-text">Ceiling</span></h1>
-												<div class="mry-text mry-mb-30">Iceil Translucent Stretch Ceilings allow light to be evenly distributed with the stretch membrane offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 50 SQM without joints creating a great ambiance.</div>
+												<div class="mry-subtitle mry-mb-20">Stretch Ceiling	</div>
+												<h1 class="mry-mb-30">Translucent Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+												<div class="mry-text mry-mb-30">Iceil Translucent Stretch Ceilings allow light to be evenly distributed with the stretch membrane offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 50 SQM without joints creating a great ambiance.
+												</div>
 												<a class="mry-btn mry-default-link mry-anima-link" href="Translucent">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
 
@@ -54,7 +53,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover mry-position-right" src="images/landing/2.jpg" alt="Project" data-swiper-parallax="500"
+										<img class="mry-project-cover mry-position-right" src="images/landing/iceil-landing/2.jpg" alt="Project" data-swiper-parallax="500"
 											data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
@@ -84,7 +83,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/3.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/3.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -111,7 +110,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/4.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/4.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -138,7 +137,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/5.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/5.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -165,7 +164,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/6.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/6.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -220,7 +219,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/8.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/8.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -247,7 +246,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/9.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/9.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -279,7 +278,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/10.jpeg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/10.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -312,7 +311,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/11.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/11.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -345,7 +344,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/12.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/12.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -378,7 +377,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/13.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/13.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -406,7 +405,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/14.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/14.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -438,7 +437,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/15.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/15.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -466,7 +465,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/16.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/16.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -493,7 +492,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/17.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/17.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -521,7 +520,7 @@
 							<div class="mry-project-slider-item">
 								<div class="mry-project-frame">
 									<div class="mry-cover-frame">
-										<img class="mry-project-cover" src="images/landing/18.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+										<img class="mry-project-cover" src="images/landing/iceil-landing/18.jpg" alt="Project" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
@@ -548,14 +547,7 @@
 				</div>
 
 
-				<div class="mry-slider-nav-panel d-flex">
-					<div class="container">
-						<div class="mry-slider-progress-bar-frame">
-							<div class="mry-slider-progress-bar">
-								<div class="mry-progress"></div>
-							</div>
-						</div>
-					</div>
+					<div class="mry-slider-nav-panel d-flex">
 					 <!--fixed icons start-->   
 					 	<div class="d-flex justify-content-end">
                             <div class="static-section-logo " >
@@ -599,14 +591,11 @@
                         </div>
                         
                     </div>
-
-
-					<div class="mry-slider-arrows ">
-						
-						<div class="mry-label">View Other Projects</div>
-						<div class="mry-button-prev mry-magnetic-link"><span class="mry-magnetic-object"><i class="fas fa-arrow-left"></i></span></div>
-						<div class="mry-button-next mry-magnetic-link"><span class="mry-magnetic-object"><i class="fas fa-arrow-right"></i></span></div>
-					</div>
+						<div class="mry-slider-arrows ">
+							<div class="mry-button-prev mry-magnetic-link"><span class="mry-magnetic-object"><i class="fas fa-arrow-left"></i></span></div>
+							<div class="mry-label">View Other Projects</div>
+							<div class="mry-button-next mry-magnetic-link"><span class="mry-magnetic-object"><i class="fas fa-arrow-right"></i></span></div>
+						</div>
 				</div>
 	
 

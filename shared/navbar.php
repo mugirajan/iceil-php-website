@@ -77,7 +77,7 @@
                                                 class="mry-default-link">Architect Area & Technical Infos</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="StretchCeiling"
-                                                        class="mry-anima-link mry-default-link">Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">BAQ</a></li>
                                                 <li class="menu-item"><a href="Warranty"
                                                         class="mry-anima-link mry-default-link">Warranty</a></li>
                                                 <li class="menu-item"><a href="Boxing"
@@ -152,7 +152,7 @@
                 <!-- menu -->
                 <div class="mry-menu">
                     <div class="container">
-                        <div class="row justify-content-between">
+                        <div class="row justify-content-between navbar-caps">
                             <div class="col-md-4 menu-list">
                                 <nav id="mry-dynamic-menu">
                                     <ul>
@@ -216,7 +216,7 @@
                                                 class="mry-default-link">Architect Area & Technical Infos</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="StretchCeiling"
-                                                        class="mry-anima-link mry-default-link">Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">BAQ</a></li>
                                                 <li class="menu-item"><a href="Warranty"
                                                         class="mry-anima-link mry-default-link">Warranty</a></li>
                                                 <li class="menu-item"><a href="Boxing"

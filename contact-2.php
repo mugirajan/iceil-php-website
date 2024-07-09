@@ -45,114 +45,6 @@
                     </div>
                     <!--banner end-->
 
-                    <!---Franchise start--->
-                    <section class="franchise-section">
-                        <div class="franchise-div">
-                            <h2 class="text-center">Our Franchise</h2>
-                            <div class="row franchise-row">
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="franchise-column">
-                                        <div class="franchise-image-div">
-                                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ-npnFEyPhmVums4ycIEjNArJeFJsaEPQ&s">
-                                        </div>
-                                        <h4>+91 9392423939</h4>
-                                        <h4>mail</h4>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="franchise-column">
-                                        <div class="franchise-image-div">
-                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ-npnFEyPhmVums4ycIEjNArJeFJsaEPQ&s">
-                                        </div>
-                                        <h4>+91 9392423939</h4>
-                                        <h4>mail</h4>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="franchise-column">
-                                        <div class="franchise-image-div">
-                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ-npnFEyPhmVums4ycIEjNArJeFJsaEPQ&s">
-                                        </div>
-                                        <h4>+91 9392423939</h4>
-                                        <h4>mail</h4>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="franchise-column">
-                                        <div class="franchise-image-div">
-                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ-npnFEyPhmVums4ycIEjNArJeFJsaEPQ&s">
-                                        </div>
-                                        <h4>+91 9392423939</h4>
-                                        <h4>mail</h4>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="franchise-column">
-                                        <div class="franchise-image-div">
-                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ-npnFEyPhmVums4ycIEjNArJeFJsaEPQ&s">
-                                        </div>
-                                        <h4>+91 9392423939</h4>
-                                        <h4>mail</h4>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="franchise-column">
-                                        <div class="franchise-image-div">
-                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ-npnFEyPhmVums4ycIEjNArJeFJsaEPQ&s">
-                                        </div>
-                                        <h4>+91 9392423939</h4>
-                                        <h4>mail</h4>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="franchise-column">
-                                        <div class="franchise-image-div">
-                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ-npnFEyPhmVums4ycIEjNArJeFJsaEPQ&s">
-                                        </div>
-                                        <h4>+91 9392423939</h4>
-                                        <h4>mail</h4>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="franchise-column">
-                                        <div class="franchise-image-div">
-                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ-npnFEyPhmVums4ycIEjNArJeFJsaEPQ&s">
-                                        </div>
-                                        <h4>+91 9392423939</h4>
-                                        <h4>mail</h4>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="franchise-column">
-                                        <div class="franchise-image-div">
-                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ-npnFEyPhmVums4ycIEjNArJeFJsaEPQ&s">
-                                        </div>
-                                        <h4>+91 9392423939</h4>
-                                        <h4>mail</h4>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="franchise-column">
-                                        <div class="franchise-image-div">
-                                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ-npnFEyPhmVums4ycIEjNArJeFJsaEPQ&s">
-                                        </div>
-                                        <h4>+91 9392423939</h4>
-                                        <h4>mail</h4>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="franchise-column">
-                                        <div class="franchise-image-div">
-                                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ-npnFEyPhmVums4ycIEjNArJeFJsaEPQ&s">
-                                        </div>
-                                        <h4>+91 9392423939</h4>
-                                        <h4>mail</h4>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <!---Franchise end--->
 
                     <div class="gdlr-core-pbf-wrapper " style="padding: 40px 0px 40px 0px;">
                         <div class="gdlr-core-pbf-background-wrap" style="background-color: #f5f5f5 ;"></div>
@@ -183,7 +75,7 @@
                                                             <div class="row">
                                                                 <div class="col-lg-12">
                                                                     <div class="form-group">
-                                                                        <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+                                                                        <input class="form-control" id="name" name="name" placeholder="Name*" type="text" required>
                                                                         <span class="alert-error"></span>
                                                                     </div>
                                                                 </div>
@@ -197,7 +89,7 @@
                                                                 </div>
                                                                 <div class="col-lg-6">
                                                                     <div class="form-group">
-                                                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text" required>
+                                                                        <input class="form-control" id="phone" name="phone" placeholder="Phone*" type="text" required>
                                                                         <span class="alert-error"></span>
                                                                     </div>
                                                                 </div>
@@ -211,7 +103,7 @@
                                                                 </div>
                                                                 <div class="col-lg-6">
                                                                     <div class="form-group">
-                                                                        <input class="form-control" id="city" name="city" placeholder="city" type="text" required>
+                                                                        <input class="form-control" id="city" name="city" placeholder="city*" type="text" required>
                                                                         <span class="alert-error"></span>
                                                                     </div>
                                                                 </div>
@@ -219,7 +111,7 @@
                                                             <div class="row">
                                                                 <div class="col-lg-12">
                                                                     <div class="form-group comments">
-                                                                        <textarea class="form-control" id="message" name="message" placeholder="Tell Us About your Project / Ideas / Thoughts *"></textarea>
+                                                                        <textarea class="form-control" id="message" name="message*" placeholder="Tell Us About your Project / Ideas / Thoughts *"></textarea>
                                                                     </div>
                                                                 </div>
                                                             </div>

@@ -63,56 +63,46 @@
                             </div>
                         </div>
                         <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer">
-                            <div id="nav_menu-2" class="widget widget_nav_menu inteco-widget">
-                                <h3 class="inteco-widget-title-footer">Works</h3><span class="clear"></span>
-                                <div class="menu-services-container">
-                                    <ul id="menu-services" class="menu">
-                                        <li class="menu-item"><a href="WallGraphics">Wall Graphics</a></li>
-                                        <li class="menu-item"><a href="Projects">Project</a></li>
-                                        <li class="menu-item"><a href="Project-Details">Project Details</a></li>
-                                        <li class="menu-item"><a href="Single-Project">Single Project
-                                                Page</a></li>
-                                    </ul>
-                                </div><br>
-                                <h3 class="inteco-widget-title-footer">Architectural Lighting</h3><span
-                                    class="clear"></span>
-                                <div class="menu-services-container">
-                                    <ul id="menu-services" class="menu">
-                                        <li class="menu-item"><a href="architectural-completed.php">Architectural Lighting</a>
-                                        </li>
+                        <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
+                                <h3 class="inteco-widget-title-footer">Stretch Ceilings</h3><span class="clear"></span>
+                                <div class="menu-quick-links-container">
+                                    <ul id="menu-quick-links" class="menu">
+                                        <li class="menu-item"><a href="Translucent">Translucent Stretch Ceiling </a></li>
+                                        <li class="menu-item"><a href="Printed">Printed Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="LightBoxes">RGB Dynamic Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="3DForms">3D Forms Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="Acoustic">Acoustic Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="Lacquer">Lacquer Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="Lacquer">Printed Lacquer Ceiling</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer">
                             <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
-                                <h3 class="inteco-widget-title-footer">Architect Area & Technical Infos</h3><span class="clear"></span>
+                                    <ul id="menu-quick-links" class="menu">
+                                        <li class="menu-item"><a href="Lacquer">Art Perforated Ceiling</a></li>
+                                        <li class="menu-item"><a href="Lacquer">Mirror Stretch Ceiling</a></li>
+                                    </ul>
+                                <h3 class="inteco-widget-title-footer">Architectural customised lighting</h3><span class="clear"></span>
                                 <div class="menu-quick-links-container">
                                     <ul id="menu-quick-links" class="menu">
-                                        <li class="menu-item"><a href="StretchCeiling">Stretch Ceiling</a></li>
-                                        <li class="menu-item"><a href="Warranty">Warranty</a></li>
-                                        <li class="menu-item"><a href="Boxing">Boxing</a></li>
-                                        <li class="menu-item"><a href="Stretch-Fabric">Stretch Fabric</a></li>
-                                        <li class="menu-item"><a href="Profiles">Profiles</a></li>
-                                        <li class="menu-item"><a href="LED">LED</a></li>
-                                        <li class="menu-item"><a href="Drive-Controllers">Drive, Remotes and Controllers</a>
-                                        </li>
+                                        <li class="menu-item"><a href="StretchCeiling">Geometrical shape custom lighting</a></li>
+                                        <li class="menu-item"><a href="Warranty">Iceil ARC / WAVE Linear</a></li>
+                                        <li class="menu-item"><a href="Boxing">Iceil Surface / Suspended Linear</a></li>
+                                        <li class="menu-item"><a href="Stretch-Fabric">Iceil Curved Recessed Linear</a></li>
+                                        <li class="menu-item"><a href="Profiles">Iceil Outward / Inward / Downward Linear</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer-last">
                             <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
-                                <h3 class="inteco-widget-title-footer">Stretch Ceilings</h3><span class="clear"></span>
+                                <h3 class="inteco-widget-title-footer">Architect Area & Technical Infos</h3><span class="clear"></span>
                                 <div class="menu-quick-links-container">
                                     <ul id="menu-quick-links" class="menu">
-                                        <li class="menu-item"><a href="Translucent">Translucent</a></li>
-                                        <li class="menu-item"><a href="Printed">Printed</a></li>
-                                        <li class="menu-item"><a href="3DForms">3D Forms</a></li>
-                                        <li class="menu-item"><a href="LightBoxes">Light Boxes</a></li>
-                                        <li class="menu-item"><a href="Lacquer">Lacquer</a></li>
-                                        <li class="menu-item"><a href="Acoustic">Acoustic</a></li>
-
+                                        <li class="menu-item"><a href="Warranty">Boxing</a></li>
+                                        <li class="menu-item"><a href="StretchCeiling">BOQ</a></li>
                                     </ul>
                                 </div>
                             </div>

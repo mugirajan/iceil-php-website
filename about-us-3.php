@@ -1,7 +1,57 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<style>
+.y-us-section {
+    padding: 82px 0 82px;
+}
+.y-us-head {
+    text-align: center;
+    margin: 0 0 91px;
+}
+.y-us-title h2 {
+    color: #000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 32px;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+}
+.y-us-title > p {
+    color: #777777;
+    line-height: 22px;
+}
+.y-us-title-border {
+    background: #ffae11 none repeat scroll 0 0;
+    border-radius: 2px;
+    display: inline-block;
+    height: 3px;
+    position: relative;
+    width: 50px;
+}
+.service-3 .service-box {
+    margin-bottom: 18px;
+}
+.service-3 .service-box .iconset {
+    float: left;
+    text-align: center;
+    width: 25%;
+}
+.service-3 .service-box .y-us-content {
+    float: left;
+    width: 75%;
+}
 
+.y-us-content h4 {
+    font-size: 16px !important;
+
+}
+
+
+.iconset span img{
+width:50%;
+}
+</style>
 </head>
 
 
@@ -210,7 +260,7 @@
                     <div class="container-for-card">
                         <a class="card1">
                           <h3>Our Vission</h3>
-                          <p class="small">Aspire to be the No.1 manufacturer of stretch ceilings and architectural lighting solutions in India.</p>
+                          <p class="small">Aspire to be the No.1 manufacturer of stretch ceilings and architectural lighting solutions in India. Delivering a world class lighting experience</p>
                           <div class="go-corner">
                             <div class="go-arrow">
                               →
@@ -233,7 +283,8 @@
                             <h3>Quality Policy</h3>
                             <p class="small">
                                 Quality Committed to ongoing enhance- Policy creativity to consistently improve
-                                ment, we foster innovation.</p>
+                                ment, we foster innovation and
+                                the quality, reliability, and value of our products and services.</p>
                             <div class="go-corner" >
                               <div class="go-arrow">
                                 →
@@ -300,109 +351,111 @@
                     <!-- Management Showcase Vivek and Raj end -->
 
                     <!--why choose us start-->
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
-                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #f7f7f7 ;"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-left"
-                                        data-sync-height="height1">
-                                        <div class="gdlr-core-pbf-background-wrap">
-                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                                style="background-image: url(img/light/service-detail2.jpg) ;background-size: cover ;background-position: center ;"
-                                                data-parallax-speed="0.2"></div>
-                                        </div>
-                                        <div
-                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                    <div class="y-us-section">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12">
+                                    <div class="y-us-head">
+                                        <div class="y-us-title">
+                                            <h2>Why choose us</h2>
+                                            <p>Biiggest stretch ceiling network in India with an ISO 9001:2015. Certified factory in Chennai</p>
+                                            <span class="y-us-title-border"></span>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30" data-skin="team column svc  icon"
-                                    id="gdlr-core-column-1">
-                                    <div class=" gdlr-core-js " style="padding: 60px 0px 30px 0px;"
-                                        data-sync-height="height1">
-                                        <div
-                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 40px ;">
-                                                    <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title whychooseustitle "
-                                                            style="font-size: 25px ;letter-spacing: 0px ;text-transform: none ;color: #2b2b2b ;">
-                                                            Why Choose Us?</h3>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="y-us-content">
+                                        <div class="service-3">
+                                            <div class="service-box">
+                                                <div class="clearfix">
+                                                    <div class="iconset">
+                                                        <span><img src="https://cdn-icons-png.flaticon.com/128/5759/5759691.png"></span>
+                                                    </div>
+                                                    <div class="y-us-content">
+                                                        <h4>ISO Certified</h4>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 15px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image"
-                                                        style="margin-top: 10px;margin-right: 30px;"><img
-                                                            src="upload/columsvc-icon-1.png" alt="" width="37"
-                                                            height="37" title="Accountability" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap"
-                                                            style="margin-bottom: 10px ;">
-                                                            <h3 class="about-title gdlr-core-column-service-title "
-                                                                style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">
-                                                                Accountability</h3>
-                                                        </div>
-                                                        <div class="gdlr-core-column-service-content"
-                                                            style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                            <p>We embrace accountability for our products and services,
-                                                                maintaining the utmost professional standards. We
-                                                                assess our perarmance against well defined metrics and
-                                                                targets to ensure excellence. </p>
-                                                        </div>
+                                            <div class="service-box">
+                                                <div class="clearfix">
+                                                    <div class="iconset">
+                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
+                                                    </div>
+                                                    <div class="y-us-content">
+                                                        <h4>Reach Complaint</h4>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 15px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image"
-                                                        style="margin-top: 10px;margin-right: 25px;"><img
-                                                            src="upload/columsvc-icon-2.png" alt="" width="46"
-                                                            height="46" title="Customer Centric" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap"
-                                                            style="margin-bottom: 10px ;">
-                                                            <h3 class="about-title gdlr-core-column-service-title"
-                                                                style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">
-                                                                Customer Centric:</h3>
-                                                        </div>
-                                                        <div class="gdlr-core-column-service-content"
-                                                            style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                            <p>Every customer holds a distinct value for us, and we
-                                                                believe in tailoring individualized solutions. Our
-                                                                commitment is to achieve the highest levels of customer
-                                                                satisfaction across all our products and services,
-                                                                recognizing and addressing the unique needs of each
-                                                                client.
-
-                                                            </p>
-                                                        </div>
+                                            <div class="service-box">
+                                                <div class="clearfix">
+                                                    <div class="iconset">
+                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
+                                                    </div>
+                                                    <div class="y-us-content">
+                                                        <h4>10 Years Warranty</h4>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 25px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image"
-                                                        style="margin-top: 10px;margin-right: 27px;margin-bottom:  0;">
-                                                        <img src="upload/columsvc-icon-3.png" alt="" width="42"
-                                                            height="41" title="Renew and Improve" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap"
-                                                            style="margin-bottom: 10px ;">
-                                                            <h3 class="gdlr-core-column-service-title about-title"
-                                                                style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">
-                                                                Renew and Improve</h3>
-                                                        </div>
-                                                        <div class="gdlr-core-column-service-content"
-                                                            style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                            <p>We are continually seeking improvements in our approach. Overcoming seemingly insur mountable challenges is not just a key factor in our success but also a wellspring of inspiration.</p>
-                                                        </div>
+                                            <div class="service-box">
+                                                <div class="clearfix">
+                                                    <div class="iconset">
+                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
+                                                    </div>
+                                                    <div class="y-us-content">
+                                                        <h4>Complaint</h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="why-choose-banner">
+                                        <img src="http://themeinnovation.com/demo2/html/build-up/img/home1/why-choose.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="y-us-contentbox">
+                                        <div class="service-3">
+                                            <div class="service-box">
+                                                <div class="clearfix">
+                                                    <div class="iconset">
+                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
+                                                    </div>
+                                                    <div class="y-us-content">
+                                                        <h4>VOC Certified</h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="service-box">
+                                                <div class="clearfix">
+                                                    <div class="iconset">
+                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
+                                                    </div>
+                                                    <div class="y-us-content">
+                                                        <h4>European Certified</h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="service-box">
+                                                <div class="clearfix">
+                                                    <div class="iconset">
+                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
+                                                    </div>
+                                                    <div class="y-us-content">
+                                                        <h4>Recyclable</h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="service-box">
+                                                <div class="clearfix">
+                                                    <div class="iconset">
+                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
+                                                    </div>
+                                                    <div class="y-us-content">
+                                                        <h4>Flame Retardant b-s1-d0</h4>
                                                     </div>
                                                 </div>
                                             </div>
@@ -756,7 +809,7 @@
                     <main class="row main-carousel">
                         <div class="col-lg-3">
                             <div class="left-carousel-sec">
-                                <h4>Award-Winning<span class="span-for-you"> Stretch Ceiling</span></h4>
+                                <h4>Iceil Top Five <span class="span-for-you">Projects</span></h4>
                                 <p style="font-size:20px;">Highlighted as one of our award-winning products.</p>
                             </div>
                         </div>
