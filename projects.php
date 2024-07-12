@@ -104,7 +104,7 @@
                                     <h3>DLF DownTown</h3>
                                 </div>
                                 <div class="card-body-blog">
-                                    <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                                    <P>DLF DownTown - Total Area : 19,200 SQFT,  Translucent Stretch ceiling on Lift Lobbies - 12,000 SQFT and Metal perforated Ceiling in the Entrance Lobby - 7200 SQFT.                                    </P>
                                 </div>
                         </a>
                         <a class="card-of-blog">
@@ -115,7 +115,8 @@
                                 <h3>Dr. KM Cherian Institute</h3>
                             </div>
                             <div class="card-body-blog">
-                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                                <P>KM Cherian Institution in Pondicherry - 2000 SQFT of  Printed stretch ceiling.
+                                </P>
                             </div>
                         </a>
                         <a class="card-of-blog">
@@ -126,7 +127,7 @@
                                 <h3>GOA Airport</h3>
                             </div>
                             <div class="card-body-blog">
-                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                                <P>MOPA GOA Airport, 1800 SQFT space of Printed Stretch Ceiling.</P>
                             </div>
                         </a>
                         <a class="card-of-blog">
@@ -137,7 +138,7 @@
                                 <h3>GRT Radisson Blu</h3>
                             </div>
                             <div class="card-body-blog">
-                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                                <P>GRT Radisson Blu Hotel in Chennai - 1500 SQFT.  3D Form Pyramid Stretch Ceiling in Banquet Hall  and Printed Stretch Ceiling in Gym and Restobar Areas.</P>
                             </div>
                         </a>
                         <a class="card-of-blog">
@@ -148,7 +149,7 @@
                                     <h3>kalaignar library</h3>
                                 </div>
                                 <div class="card-body-blog">
-                                    <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                                    <P>Kalaignar Library in Madurai - 1500 SQFT of  Printed Stretch Ceiling in the Entrance and Walking Lobby</P>
                                 </div>
                         </a>
                         <a class="card-of-blog">
@@ -170,7 +171,7 @@
                                 <h3>Maharishi Vidya Mandir School</h3>
                             </div>
                             <div class="card-body-blog">
-                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                                <P>Maharishi Vidya Mandir School, Chennai , 1000 SQFT RGBWW Tunable lighting solutions in classrooms.                                </P>
                             </div>
                         </a>
                         <a class="card-of-blog">
@@ -181,7 +182,7 @@
                                 <h3>Sun Beam School</h3>
                             </div>
                             <div class="card-body-blog">
-                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                                <P>Sunbeam School in Vellore, 800 SQFT Customized Architectural Lighting Solutions.</P>
                             </div>
                         </a>
                         <a class="card-of-blog">
@@ -192,7 +193,7 @@
                                 <h3>Trimble</h3>
                             </div>
                             <div class="card-body-blog">
-                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                                <P>Trimble, Lakshmi Tech Park, Chennai - 1800 SQFT Translucent and Printed Stretch Ceiling including Reception Lobby, Meeting Room and Kids Play Area.                        </P>
                             </div>
                         </a>
                         <a class="card-of-blog">
@@ -203,7 +204,7 @@
                                 <h3>World Skill Center</h3>
                             </div>
                             <div class="card-body-blog">
-                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                                <P>World Skill Center - Bhubaneswar - 2250 SQFT. Translucent Hexagon Panels - 1700 SQFT, Printed stretch ceiling in Board Room.</P>
                             </div>
                         </a>
                         </div>

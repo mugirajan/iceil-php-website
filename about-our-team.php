@@ -1050,23 +1050,23 @@
                     <!--stats end-->
 
                     <!--testi video start-->
+                    
                     <section class="video-testi-section">
                         <div class="row">
-                            <div class="col-lg-4 side">
+                            <div class="col-lg-8 side">
                                 <div class="div-of-hero">
-                                <h2>Our Testimonials</h2>
-                                <p>Discover why our clients love our ceiling work! Hear firsthand from satisfied customers about their experiences with our exceptional craftsmanship and dedicated service. </p>
+                                    <h2>Our Testimonials</h2>
+                                    <p>Discover why our clients love our ceiling work! Hear firsthand from satisfied customers about their experiences with our exceptional craftsmanship and dedicated service.</p>
+                                </div>
                             </div>
-                            </div>
-                            <div class="col-lg-8">
-                                <video crossorigin="anonymous" id="video" controls preload="metadata">
-                                    <source src="img/photoshop-franchise/testimonial raw.mp4" type="video/mp4">
-                                    </source>
-                                    
-                                </video>
+                            <div class="col-lg-4">
+                                <a href="https://www.youtube.com/playlist?list=PL2wd3eKmgLLPZxWACJPO3sG8UtAYTzPeA" target="_blank">
+                                    <img style="width:70%" src="img/photoshop-franchise/franchise speaks.jpg" alt="Video Poster" style="height: auto;">
+                                </a>
                             </div>
                         </div>
                     </section>
+
                     <!--testi video end-->
 
                     <!--Enquiry Form-->
@@ -1174,7 +1174,13 @@ for (const track of tracks) {
 }
 
     </script>
-    
+    <script>
+    document.getElementById('videoPoster').addEventListener('click', function() {
+        this.style.display = 'none';
+        document.getElementById('videoIframe').style.display = 'block';
+        document.getElementById('videoIframe').src += "?autoplay=1";
+    });
+</script>
     <?php
         include "./shared/script.php"
     ?>
