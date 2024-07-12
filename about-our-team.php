@@ -1078,7 +1078,7 @@
                                 <h5 class="section-title">Franchise Enquiry Form</h5>
 
                                 <ul class="contact-ul">
-                                    <li><i class="fa fa-location-dot"></i><b>Sholinganallur, Chennai – 600 119</b></li>
+                                    <li><i class="fas fa-map-marker-alt"></i><b>Sholinganallur, Chennai – 600 119</b></li>
 
                                     <li>
                                     <i class="fa fa-phone"></i>
@@ -1087,7 +1087,7 @@
                                     </li>
 
                                     <li>
-                                    <i class="fa-solid fa-envelope"></i>
+                                    <i class="fas fa-envelope"></i>
                                     <a href="mailto:info@iceilsystems.com"><b>info@iceilsystems.com</b></a>
                                     </li>
                                 </ul>
