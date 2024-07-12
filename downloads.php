@@ -1,6 +1,29 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<style>
+    .modal-backdrop.show body{
+        position: fixed !important;
+        top: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        left: 0 !important;
+        z-index: 1040 !important;
+        background-color: #000 !important;
+    }
+    .modal-backdrop.show{
+        opacity: 0 !important;
+    }
+    .modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0 !important;
+    background-color: #000;
+}
+</style>
 </head>
 
 <?php
@@ -24,7 +47,7 @@
                         
                     </div>
             <div class=" download-padding"  id="gdlr-core-wrapper-1">
-                <div class="gdlr-core-pbf-background-wrap"></div>
+                
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                         <div class="col-lg-4 col-md-5 col-sm-12 gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
@@ -63,49 +86,84 @@
                 </div>
             </div>
 
-            <!---brochure start-->
             <div class="card-section-for-download">
-                <h3 class="text-center">Iceil Brochure</h3><br>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
-                    <h5>Corporate Brochure</h5>
-                    <a class="card" href="img/project-gallery/pics/01 (1).jpeg" download>
-                        <img src="img/project-gallery/pics/01 (1).jpeg" alt="Card Background">
-                    </a><br>
-                    <div class="input-button">
-                        <button class="inptBtndiv text-center" data-toggle="modal" data-target="#downloadModal" onclick="setDownloadLink('img/project-gallery/pics/01 (1).jpeg')">Download</button>
-                    </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
-                    <h5>Tech Brochure</h5>
-                    <a class="card" href="img/project-gallery/pics/02a.jpg" download>
-                        <img src="img/project-gallery/pics/02a.jpg" alt="Card Background">
-                    </a><br>
-                    <div class="input-button">
-                        <button class="inptBtndiv text-center" data-toggle="modal" data-target="#downloadModal" onclick="setDownloadLink('img/project-gallery/pics/02a.jpg')">Download</button>
-                    </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
-                    <h5>Brochure</h5>
-                    <a class="card" href="img/project-gallery/pics/03.jpg" download>
-                        <img src="img/project-gallery/pics/03.jpg" alt="Card Background">
-                    </a><br>
-                    <div class="input-button">
-                        <button class="inptBtndiv text-center" data-toggle="modal" data-target="#downloadModal" onclick="setDownloadLink('img/project-gallery/pics/03.jpg')">Download</button>
-                    </div>
-                    </div>
-                </div>
+    <h3 class="text-center">Iceil Brochure</h3><br>
+    <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
+            <h5>Corporate Brochure</h5>
+            <a class="card" href="img/project-gallery/pics/01 (1).jpeg" download>
+                <img src="img/project-gallery/pics/01 (1).jpeg" alt="Card Background">
+            </a><br>
+            <div class="input-button">
+                <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#downloadModal" data-pdf="images/blog-page/iceil.pdf">Download</button>
             </div>
-            <!-- Brochure section end-->
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
+            <h5>Tech Brochure</h5>
+            <a class="card" href="img/project-gallery/pics/02a.jpg" download>
+                <img src="img/project-gallery/pics/02a.jpg" alt="Card Background">
+            </a><br>
+            <div class="input-button">
+                <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#downloadModal" data-pdf="images/blog-page/tech-brochure.pdf">Download</button>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
+            <h5>General Brochure</h5>
+            <a class="card" href="img/project-gallery/pics/03.jpg" download>
+                <img src="img/project-gallery/pics/03.jpg" alt="Card Background">
+            </a><br>
+            <div class="input-button">
+                <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#downloadModal" data-pdf="images/blog-page/general-brochure.pdf">Download</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Brochure section end-->
+
+<div id="toast-container"></div>
+<!-- Modal -->
+<div class="modal fade" id="downloadModal" tabindex="-1" role="dialog" aria-labelledby="downloadModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="downloadModalLabel">Fill the form to get Brochure</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="brochureForm">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="name">Enter Name</label>
+                        <input type="text" class="form-control" id="name" name="name" placeholder="Enter Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Enter Email</label>
+                        <input type="email" class="form-control" id="email" name="email" placeholder="Enter Your Email" required>
+                    </div>
+                    <input type="hidden" id="pdfFile" name="pdfFile">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Send PDF</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+
+
 
             
         <?php
-                   include "./shared/footer.php"
-                ?>
+            include "./shared/footer.php"
+        ?>
         </div>
     </div>
         
-    <?php
-        include "./shared/script.php"
-    ?>
+    
     <!-- JavaScript to set download link -->

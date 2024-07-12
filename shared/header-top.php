@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US" class="no-js">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -8,8 +8,7 @@
     architectural lighting, lighting manufacturer in India, 3d wallpapers, customized lighting manufacturer, top lighting designers in india,
     profile light ceiling, stretch ceiling installation, 3d stretch ceiling, stretch ceiling material suppliers, Acoustic solutions, Stretch ceiling near me,
     lacquer stretch ceiling, decorative lighting, Modern stretch ceiling, backlit ceiling, Stretch Ceiling India, Stretch Ceiling Chennai, Stretch Ceiling Manufacturer in India,
-    Stretch Ceiling Supplier, Stretch Ceiling Supplier India, Sky Ceiling, Printed Stretch Ceiling, Translucent Stretch Ceiling, Stretch Ceiling Manufacturer, Sky stretch ceiling india,
-      ">
+    Stretch Ceiling Supplier, Stretch Ceiling Supplier India, Sky Ceiling, Printed Stretch Ceiling, Translucent Stretch Ceiling, Stretch Ceiling Manufacturer, Sky stretch ceiling india">
     
     <title>Iceil</title>
     <link rel="shortcut icon" href="img/project-gallery/Iceil-final-logo-png.jpg" type="image/x-icon">
@@ -25,8 +24,13 @@
     <link rel='stylesheet' href='css/inteco-style-custom.css' type='text/css' media='all' />
     <!-- favicon  -->
     <link rel="shortcut icon" href="img/project-gallery/Iceil-final-logo-png.jpg" type="image/x-icon">
+
     <!-- bootstrap css -->
-    <link rel="stylesheet" href="css/plugins/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="css/plugins/bootstrap.min.css"> -->
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
     <!-- font awesome css -->
     <link rel="stylesheet" href="css/plugins/font-awesome.min.css">
     <!-- swiper css -->
@@ -40,10 +44,9 @@
     
     <!-- main css -->
     <link rel="stylesheet" href="css/style-light.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"> -->
 
-
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 
     <link rel='stylesheet' id='gdlr-core-google-font-css'
         href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic&amp;subset=cyrillic-ext%2Cvietnamese%2Clatin%2Ccyrillic%2Cgreek-ext%2Clatin-ext%2Cgreek&amp;ver=5.0.2'

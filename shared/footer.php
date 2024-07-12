@@ -11,38 +11,67 @@
                                     </a>
                                 </div>
                                 <div class="social-links">
-                                    <a id="email-icon" href="#">
+                                    <a data-toggle="modal" data-target="#exampleModal" href="#">
                                     <i class="far fa-comment-alt"></i>                                    </a>
                                 </div>
                             </div>
                         </div>
-                        <div id="popupForm" class="popup">
-                            <div class="popup-content">
-                                <h4>Contact Us</h4>
-                                <div id="toast-container"></div>
-                                <form class="popup-form form-group">
-                                    <label for="name">Name:</label>
-                                    <input class="form-control" type="text" id="name" name="name" required>
-                                    
-                                    <label for="email">Email:</label>
-                                    <input class="form-control" type="email" id="email" name="email" required>
+                        <!-- Button trigger modal -->
+                       
 
-                                    <label for="tel">Phone:</label>
-                                    <input class="form-control" type="tel" id="tel" name="tel" required>
-                                    
-                                    <label for="state">State:</label>
-                                    <input class="form-control" type="text" id="state" name="state" required>
-                                    
-                                    <label for="city">City:</label>
-                                    <input class="form-control" type="text" id="city" name="city" required>
-                                    
-                                    <label for="message">Message:</label>
-                                    <textarea class="form-control" type="text" id="message" name="message" required></textarea><br>
-                                    
-                                    <button type="submit" name="submit" id="contactFormSubmitBtn" class="inptBtn">Submit</button>
-                                </form>
+                        <!-- Modal -->
+                        <div id="toast-container"></div>
+                        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Reach Us Out!</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                           
+                            <form id="popupForm">
+                                <div class="modal-body">
+                                    <div class="form-group">
+                                        <label for="name">Enter Name</label>
+                                        <input type="text" class="form-control" id="name" name="name" placeholder="Enter Your Name" required>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-sm-12 form-group">
+                                            <label for="email">Enter Email</label>
+                                            <input type="email" class="form-control" id="email" name="email" placeholder="Enter Your Email" required>
+                                        </div>
+                                        <div class="col-lg-6 col-sm-12 form-group">
+                                            <label for="tel">Enter Phone NUmber</label>
+                                            <input type="tel" class="form-control" id="tel" name="tel" placeholder="Enter Your Number" required>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-sm-12 form-group">
+                                            <label for="state">Enter State</label>
+                                            <input type="text" class="form-control" id="state" name="state" placeholder="Enter Your State" required>
+                                        </div>
+                                        <div class="col-lg-6 col-sm-12 form-group">
+                                            <label for="city">Enter City</label>
+                                            <input type="text" class="form-control" id="city" name="city" placeholder="Enter Your City" required>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="city">Message</label>
+                                        <textarea class="form-control"  name="message" id="message" rows="" cols="" placeholder="Your Message...*" required></textarea>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="submit" class="btn btn-primary">Send Message</button>
+                                </div>
+                            </form>
                             </div>
                         </div>
+                        </div>
+
+                        <!--popup end-->
                         <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer">
                             <div id="nav_menu-2" class="widget widget_nav_menu inteco-widget">
                                 <div class="grayscale-footer-image">
@@ -62,6 +91,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer">
                         <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
                                 <h3 class="inteco-widget-title-footer">Stretch Ceilings</h3><span class="clear"></span>
@@ -144,5 +174,31 @@
             </footer>
             <!--footer end-->
 
+            <style>
+    .modal-backdrop.show body{
+        position: fixed !important;
+        top: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        left: 0 !important;
+        z-index: 1040 !important;
+        background-color: #000 !important;
+    }
+    .modal-backdrop.show{
+        opacity: 0 !important;
+    }
+    .modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0 !important;
+    background-color: #000;
+}
+#exampleModalLabel{
+    color:black !important;
+}
 
+</style>
 <?php include 'script.php'?>

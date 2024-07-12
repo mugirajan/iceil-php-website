@@ -1,7 +1,58 @@
 <?php
   include "./shared/header-top.php"
 ?>
-
+<style>
+	@media(max-width:800px){
+		.mry-menu-button-frame .mry-menu-btn{
+		margin-top:-99px;
+	}
+	
+	}
+	@media(min-width:700px){
+		.mry-slider-arrows{
+			display:flex;
+		}
+	}
+	@media(max-width:699px){
+		.mry-slider-arrows{
+			display:none;
+		}
+	}
+	@media (max-width: 500px) {
+    .mry-app .mry-top-panel {
+        display: block !important;
+    }
+	.row-of-none{
+		display:none !important;
+	}
+	
+	}
+	.modal-backdrop.show body{
+				position: fixed !important;
+				top: 0 !important;
+				right: 0 !important;
+				bottom: 0 !important;
+				left: 0 !important;
+				z-index: 1040 !important;
+				background-color: #000 !important;
+			}
+			.modal-backdrop.show{
+				opacity: 0 !important;
+			}
+			.modal-backdrop {
+			position: fixed;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			z-index: 0 !important;
+			background-color: #000;
+		}
+		#exampleModalLabel{
+			color:black !important;
+		}
+	
+	</style>
 </head>
 
 <?php
@@ -11,7 +62,7 @@
 	
 				<!-- <canvas class="mry-dots"></canvas> -->
 
-				<div class="swiper-container mry-main-slider">
+				<div class="swiper-container-fluid mry-main-slider">
 					<div class="swiper-wrapper">
 						<!-----
 						-------Stretch ceiling ----
@@ -28,7 +79,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling	</div>
@@ -58,7 +109,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling	</div>
@@ -87,7 +138,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
@@ -114,7 +165,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
@@ -141,7 +192,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
@@ -168,7 +219,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
@@ -195,7 +246,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
@@ -223,7 +274,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
@@ -250,7 +301,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Stretch Ceiling</div>
@@ -282,7 +333,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Metal Perforated illuminated ceiling</div>
@@ -315,7 +366,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Signage Light Box</div>
@@ -348,7 +399,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Custom Wall Graphics</div>
@@ -381,7 +432,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Architectural customised lighting</div>
@@ -409,7 +460,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Architectural customised lighting</div>
@@ -441,7 +492,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Profile Shape Lighting</div>
@@ -469,7 +520,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Profile Shape Lighting</div>
@@ -496,7 +547,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Profile Shape Lighting</div>
@@ -524,7 +575,7 @@
 										<div class="mry-cover-overlay mry-gradient-overlay"></div>
 									</div>
 									<div class="mry-main-title-frame">
-										<div class="container">
+										<div class="container-fluid">
 											<div class="mry-main-title" data-swiper-parallax-x="30%" data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
 												data-swiper-parallax-duration="1000">
 												<div class="mry-subtitle mry-mb-20">Profile Shape Lighting</div>
@@ -548,8 +599,8 @@
 
 
 					<div class="mry-slider-nav-panel d-flex">
-					 <!--fixed icons start-->   
-					 	<div class="d-flex justify-content-end">
+					 	 <!--fixed icons start-->   
+						  <div class="d-flex justify-content-end">
                             <div class="static-section-logo " >
                                 <div class="social-links link1">
                                     <a target="_blank" href="https://wa.me/918925530871">
@@ -557,38 +608,67 @@
                                     </a>
                                 </div>
                                 <div class="social-links">
-                                    <a id="email-icon" href="#">
-                                    <i class="far fa-comment-alt"></i></a>
+                                    <a data-toggle="modal" data-target="#exampleModal">
+                                    <i class="far fa-comment-alt"></i>                                    </a>
                                 </div>
                             </div>
-                        </div>
-						<div id="popupForm" class="popup">
-                            <div class="popup-content">
-                                <span class="d-none close-btn">&times;</span>
-                                <h4>Contact Us</h4>
-                                <form class="popup-form">
-                                    <label for="name">Name:</label>
-                                    <input type="text" id="name" name="name" required>
-                                    
-                                    <label for="email">Email:</label>
-                                    <input type="email" id="email" name="email" required>
-
-                                    <label for="tel">Phone:</label>
-                                    <input type="tel" id="tel" name="tel" required>
-                                    
-                                    <label for="tel">State:</label>
-                                    <input type="tel" id="tel" name="tel" required>
-                                    
-                                    <label for="tel">City:</label>
-                                    <input type="tel" id="tel" name="tel" required>
-                                    
-                                    <label for="tel">Message:</label>
-                                    <textarea type="tel" id="tel" name="tel" required></textarea>
-                                    
-                                    <button class="popup-button" type="submit">Submit</button>
-                                </form>
+							 <!-- Modal -->
+							 <div id="toast-container"></div>
+                        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Reach Us Out!</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                           
+                            <form id="popupForm">
+                                <div class="modal-body">
+                                    <div class="form-group">
+                                        <label for="name">Enter Name</label>
+                                        <input type="text" class="form-control" id="name" name="name" placeholder="Enter Your Name" required>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-sm-12 form-group">
+                                            <label for="email">Enter Email</label>
+                                            <input type="email" class="form-control" id="email" name="email" placeholder="Enter Your Email" required>
+                                        </div>
+                                        <div class="col-lg-6 col-sm-12 form-group">
+                                            <label for="tel">Enter Phone NUmber</label>
+                                            <input type="tel" class="form-control" id="tel" name="tel" placeholder="Enter Your Number" required>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-sm-12 form-group">
+                                            <label for="state">Enter State</label>
+                                            <input type="text" class="form-control" id="state" name="state" placeholder="Enter Your State" required>
+                                        </div>
+                                        <div class="col-lg-6 col-sm-12 form-group">
+                                            <label for="city">Enter City</label>
+                                            <input type="text" class="form-control" id="city" name="city" placeholder="Enter Your City" required>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="city">Message</label>
+                                        <textarea class="form-control"  name="message" id="message" rows="" cols="" placeholder="Your Message...*" required></textarea>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="submit" class="btn btn-primary">Send Message</button>
+                                </div>
+                            </form>
                             </div>
                         </div>
+                        </div>
+						<!-- Modal end-->
+                        </div>
+                        <!-- Button trigger modal -->
+                       
+
+                       
                         
                     </div>
 						<div class="mry-slider-arrows ">
@@ -627,57 +707,11 @@
 	<script src="js/main.js"></script>
 	<script src="js/mailer.js"></script>
     <script src="js/mailHelper.js"></script>
-	<script>
-        document.addEventListener("DOMContentLoaded", function() {
-    var popupform = document.getElementById("popupForm");
-    var emailIcon = document.getElementById("email-icon");
-    var closeBtn = document.querySelector(".close-btn");
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-    emailIcon.addEventListener("click", function(event) {
-        event.preventDefault();
-        popupform.style.display = "block";
-    });
-
-    closeBtn.addEventListener("click", function() {
-        popupform.style.display = "none";
-    });
-
-    window.addEventListener("click", function(event) {
-        if (event.target == popupform) {
-            popupform.style.display = "none";
-        }
-    });
-});
-
+	
     </script>
-<style>
-	@media(max-width:800px){
-		.mry-menu-button-frame .mry-menu-btn{
-		margin-top:-99px;
-	}
-	
-	}
-	@media(min-width:700px){
-		.mry-slider-arrows{
-			display:flex;
-		}
-	}
-	@media(max-width:699px){
-		.mry-slider-arrows{
-			display:none;
-		}
-	}
-	@media (max-width: 500px) {
-    .mry-app .mry-top-panel {
-        display: block !important;
-    }
-	.row-of-none{
-		display:none !important;
-	}
 
-	
-	}
-	
-	</style>
 </body>
 </html>

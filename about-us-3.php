@@ -2,12 +2,9 @@
   include "./shared/header-top.php"
 ?>
 <style>
-.y-us-section {
-    padding: 82px 0 82px;
-}
+
 .y-us-head {
     text-align: center;
-    margin: 0 0 91px;
 }
 .y-us-title h2 {
     color: #000;
@@ -29,28 +26,44 @@
     position: relative;
     width: 50px;
 }
-.service-3 .service-box {
-    margin-bottom: 18px;
-}
-.service-3 .service-box .iconset {
-    float: left;
-    text-align: center;
-    width: 25%;
-}
-.service-3 .service-box .y-us-content {
-    float: left;
-    width: 75%;
+.image-div-why img{
+    width:40%;
+    margin:0 auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
 
-.y-us-content h4 {
-    font-size: 16px !important;
-
+.image-div h4{
+    padding-top:10px;
+    font-size:15px !important;
+    text-align:center;
+}
+.row-of-why{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+}
+.image-div{
+    width:12.5%;
+}
+@media(min-width:800px){
+    .image-div{
+    width:12.5%;
+}
+}
+@media(min-width:600px) and (max-width:799px){
+    .image-div{
+         width:25%;
+    }
+}
+@media(max-width:599px){
+    .image-div{
+    width:100%;
+}
 }
 
 
-.iconset span img{
-width:50%;
-}
 </style>
 </head>
 
@@ -352,115 +365,65 @@ width:50%;
 
                     <!--why choose us start-->
                     <div class="y-us-section">
-                        <div class="container">
+                        <div class="container-fluid">
                             <div class="row">
                                 <div class="col-md-12 col-sm-12 col-xs-12">
                                     <div class="y-us-head">
                                         <div class="y-us-title">
                                             <h2>Why choose us</h2>
                                             <p>Biiggest stretch ceiling network in India with an ISO 9001:2015. Certified factory in Chennai</p>
-                                            <span class="y-us-title-border"></span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="y-us-content">
-                                        <div class="service-3">
-                                            <div class="service-box">
-                                                <div class="clearfix">
-                                                    <div class="iconset">
-                                                        <span><img src="https://cdn-icons-png.flaticon.com/128/5759/5759691.png"></span>
-                                                    </div>
-                                                    <div class="y-us-content">
-                                                        <h4>ISO Certified</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="service-box">
-                                                <div class="clearfix">
-                                                    <div class="iconset">
-                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
-                                                    </div>
-                                                    <div class="y-us-content">
-                                                        <h4>Reach Complaint</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="service-box">
-                                                <div class="clearfix">
-                                                    <div class="iconset">
-                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
-                                                    </div>
-                                                    <div class="y-us-content">
-                                                        <h4>10 Years Warranty</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="service-box">
-                                                <div class="clearfix">
-                                                    <div class="iconset">
-                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
-                                                    </div>
-                                                    <div class="y-us-content">
-                                                        <h4>Complaint</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                            <div class="row-of-why">
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/15878/15878142.png">
                                     </div>
+                                    <h4>ISO Certified</h4>
                                 </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="why-choose-banner">
-                                        <img src="http://themeinnovation.com/demo2/html/build-up/img/home1/why-choose.jpg" alt="">
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/15878/15878142.png">
                                     </div>
+                                    <h4>Reach Complaint</h4>
                                 </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="y-us-contentbox">
-                                        <div class="service-3">
-                                            <div class="service-box">
-                                                <div class="clearfix">
-                                                    <div class="iconset">
-                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
-                                                    </div>
-                                                    <div class="y-us-content">
-                                                        <h4>VOC Certified</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="service-box">
-                                                <div class="clearfix">
-                                                    <div class="iconset">
-                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
-                                                    </div>
-                                                    <div class="y-us-content">
-                                                        <h4>European Certified</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="service-box">
-                                                <div class="clearfix">
-                                                    <div class="iconset">
-                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
-                                                    </div>
-                                                    <div class="y-us-content">
-                                                        <h4>Recyclable</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="service-box">
-                                                <div class="clearfix">
-                                                    <div class="iconset">
-                                                    <span><img src="https://cdn-icons-png.flaticon.com/128/1327/1327264.png"></span>
-                                                    </div>
-                                                    <div class="y-us-content">
-                                                        <h4>Flame Retardant b-s1-d0</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/6179/6179100.png">
                                     </div>
+                                    <h4>10 Years Warranty</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/6179/6179100.png">
+                                    </div>
+                                    <h4>Complaint</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/6179/6179100.png">
+                                    </div>
+                                    <h4>VOC Certified</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/6179/6179100.png">
+                                    </div>
+                                    <h4>European Certified</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/6179/6179100.png">
+                                    </div>
+                                    <h4>Flame Retardant b-sl-d0</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/892/892930.png">
+                                    </div>
+                                    <h4>Recyclable</h4>
                                 </div>
                             </div>
                         </div>
@@ -809,8 +772,8 @@ width:50%;
                     <main class="row main-carousel">
                         <div class="col-lg-3">
                             <div class="left-carousel-sec">
-                                <h4>Iceil Top Five <span class="span-for-you">Projects</span></h4>
-                                <p style="font-size:20px;">Highlighted as one of our award-winning products.</p>
+                                <h4>Our <span class="span-for-you">Projects</span></h4>
+                                <p style="font-size:20px;">Iceil's top five projects showcase our expertise in stretch ceilings.</p>
                             </div>
                         </div>
                         <div class="col-lg-9 section-carousel">
@@ -830,28 +793,28 @@ width:50%;
                             <div class="carousel" style="height:0px !important;">
                               <div class="carousel__item carousel__item carousel__item--matcha">
                                 <div>
-                                  <img src="images/404-background.jpg">
+                                  <img src="images/top5-projects/1.jpeg">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--strawberry">
                                 <div>
-                                    <img src="images/404-background.jpg">
+                                    <img src="images/top5-projects/2.jpeg">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--vanilla">
                                 <div>
-                                    <img src="images/404-background.jpg">
+                                    <img src="images/top5-projects/3.jpg">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--mango">
                                 <div>
-                                    <img src="images/404-background.jpg">
+                                    <img src="images/top5-projects/4.png">
                         
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--chocolate">
                                 <div>
-                                    <img src="images/404-background.jpg">
+                                    <img src="images/top5-projects/5.jpeg">
 
                                   <!-- <div class="carousel__item__name">Chocolate</div> -->
                                 </div>

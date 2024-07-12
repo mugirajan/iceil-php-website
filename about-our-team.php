@@ -1120,7 +1120,8 @@
                                         </div>
 
                                         <div class="col-sm-6">
-                                            <select class="form-control inptFld" name="Collaboration" id="Collaboration">
+                                            <select class="form-control inptFld" name="collaboration" id="Collaboration" required>
+                                                <option value="" disabled selected>Select Collaboration Type*</option>
                                                 <option value="Project Collaboration">Project Collaboration</option>
                                                 <option value="Partner Collaboration">Partner Collaboration</option>
                                             </select>

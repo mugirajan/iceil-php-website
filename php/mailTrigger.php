@@ -94,7 +94,7 @@ class sndMail
         try {
 
             $mail->clearAddresses(); // Clear previous recipient
-            $mail->addAddress("info@iceilsystems.com"); // Admin's email address
+            $mail->addAddress("mugirajan95@gmail.com"); // Admin's email address
             $mail->Subject = "New enquiry from Franchise- " . $data['name'];
             $mail->Body = "
                 Contact details:
@@ -116,6 +116,53 @@ class sndMail
         return $this->valid;
     }
 
+
+    public function brochureRequest($data) {
+        $mail = $this->configureMailer();
+    
+        try {
+            // Attach the specific PDF file
+            if (!isset($data['pdfFile']) || empty($data['pdfFile'])) {
+                throw new Exception("PDF file path not provided.");
+            }
+    
+            $pdfPath = $data['pdfFile'];
+            if (!file_exists($pdfPath)) {
+                throw new Exception("Could not access file: $pdfPath");
+            }
+            $mail->addAttachment($pdfPath, basename($pdfPath));
+    
+            // Send email to user
+            $mail->addAddress($data['email']);
+            $mail->Subject = "Your Brochure Request";
+            $mail->Body = "Dear {$data['name']},\n\nThank you for your brochure request. Please find attached the brochure.\n\nThanks and Regards,\nTeam ICEIL";
+    
+            if (!$mail->send()) {
+                throw new Exception($mail->ErrorInfo);
+            }
+    
+            // Send email to admin
+            $mail->clearAddresses();
+            $mail->addAddress("mugirajan95@gmail.com");
+            $mail->Subject = "Brochure Request from {$data['name']}";
+            $mail->Body = "Name: {$data['name']}\nEmail: {$data['email']}";
+    
+            if (!$mail->send()) {
+                throw new Exception($mail->ErrorInfo);
+            }
+    
+            $this->valid['success'] = true;
+            $this->valid['message'] = "Brochure request sent successfully.";
+        } catch (Exception $e) {
+            error_log("Error in brochureRequest: " . $e->getMessage());
+            $this->valid['message'] = "Failed to send brochure request: " . $e->getMessage();
+        }
+    
+        return $this->valid;
+    }
+    
+    
+    
 
 }
 ?>

@@ -98,10 +98,10 @@
                         <div class="cards-of-blog-like">
                         <a class="card-of-blog">
                             <div class="card-hero card-partner-height">
-                                <img src="img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg" width="288" />
+                                <img src="images/project-page/DLF DownTown.jpg" width="288" />
                             </div>
                                 <div class="card-header-blog">
-                                    <h3>Ideation and Design</h3>
+                                    <h3>DLF DownTown</h3>
                                 </div>
                                 <div class="card-body-blog">
                                     <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
@@ -109,10 +109,10 @@
                         </a>
                         <a class="card-of-blog">
                             <div class="card-hero card-partner-height">
-                                <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTY0MDI3Nzg4NQ&ixlib=rb-1.2.1&q=85" width="288" />
+                                <img src="images/project-page/Dr. KM Cherian Institute.jpg" width="288" />
                             </div>
                             <div class="card-header-blog">
-                                <h3>Lighting Solutions</h3>
+                                <h3>Dr. KM Cherian Institute</h3>
                             </div>
                             <div class="card-body-blog">
                                 <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
@@ -120,10 +120,10 @@
                         </a>
                         <a class="card-of-blog">
                             <div class="card-hero card-partner-height">
-                                <img src="img/project-gallery/pics/stretch-ceilings-inside-nightbars.jpg" width="288" />
+                                <img src="images/project-page/GOA Airport.jpg" width="288" />
                             </div>
                             <div class="card-header-blog">
-                                <h3>Installation & Support</h3>
+                                <h3>GOA Airport</h3>
                             </div>
                             <div class="card-body-blog">
                                 <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
@@ -131,10 +131,76 @@
                         </a>
                         <a class="card-of-blog">
                             <div class="card-hero card-partner-height">
-                                <img src="img/project-gallery/pics/stretch-ceilings-inside-nightbars.jpg" width="288" />
+                                <img src="images/project-page/GRT Radisson Blu.jpeg" width="288" />
                             </div>
                             <div class="card-header-blog">
-                                <h3>Installation & Support</h3>
+                                <h3>GRT Radisson Blu</h3>
+                            </div>
+                            <div class="card-body-blog">
+                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                            </div>
+                        </a>
+                        <a class="card-of-blog">
+                            <div class="card-hero card-partner-height">
+                                <img src="images/project-page/kalaignar library.jpg" width="288" />
+                            </div>
+                                <div class="card-header-blog">
+                                    <h3>kalaignar library</h3>
+                                </div>
+                                <div class="card-body-blog">
+                                    <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                                </div>
+                        </a>
+                        <a class="card-of-blog">
+                            <div class="card-hero card-partner-height">
+                                <img src="images/project-page/kauvery hospital.jpg" width="288" />
+                            </div>
+                            <div class="card-header-blog">
+                                <h3>kauvery hospital</h3>
+                            </div>
+                            <div class="card-body-blog">
+                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                            </div>
+                        </a>
+                        <a class="card-of-blog">
+                            <div class="card-hero card-partner-height">
+                                <img src="images/project-page/Maharishi Vidya Mandir School.jpg" width="288" />
+                            </div>
+                            <div class="card-header-blog">
+                                <h3>Maharishi Vidya Mandir School</h3>
+                            </div>
+                            <div class="card-body-blog">
+                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                            </div>
+                        </a>
+                        <a class="card-of-blog">
+                            <div class="card-hero card-partner-height">
+                                <img src="images/project-page/Sun Beam School.jpg" width="288" />
+                            </div>
+                            <div class="card-header-blog">
+                                <h3>Sun Beam School</h3>
+                            </div>
+                            <div class="card-body-blog">
+                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                            </div>
+                        </a>
+                        <a class="card-of-blog">
+                            <div class="card-hero card-partner-height">
+                                <img src="images/project-page/Trimble.jpg" width="288" />
+                            </div>
+                            <div class="card-header-blog">
+                                <h3>Trimble</h3>
+                            </div>
+                            <div class="card-body-blog">
+                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                            </div>
+                        </a>
+                        <a class="card-of-blog">
+                            <div class="card-hero card-partner-height">
+                                <img src="images/project-page/World Skill Center.jpeg" width="288" />
+                            </div>
+                            <div class="card-header-blog">
+                                <h3>World Skill Center</h3>
                             </div>
                             <div class="card-body-blog">
                                 <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>

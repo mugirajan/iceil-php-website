@@ -267,16 +267,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                                    <a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border"
-                                                        href="#" id="gdlr-core-button-id-84180">
-                                                        <span class="gdlr-core-content">More</span>
-                                                        <i class="gdlr-core-pos-right fa fa-long-arrow-right"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -318,16 +309,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                                    <a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border"
-                                                        href="#" id="gdlr-core-button-id-84180">
-                                                        <span class="gdlr-core-content">More</span>
-                                                        <i class="gdlr-core-pos-right fa fa-long-arrow-right"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -369,16 +351,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                                    <a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border"
-                                                        href="#" id="gdlr-core-button-id-68921">
-                                                        <span class="gdlr-core-content">More</span>
-                                                        <i class="gdlr-core-pos-right fa fa-long-arrow-right"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>

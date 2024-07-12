@@ -14,12 +14,16 @@ if (isset($_POST["type"])) {
             $res = $sm->contactEnquiry($_POST);
             break;
 
-        case "popup-form":
+        case "popupForm":
             $res = $sm->contactEnquiry($_POST);
             break;
         
         case "franchiseForm":
             $res = $sm->franchiseEnquiry($_POST);
+            break;
+
+        case "brochureForm":
+            $res = $sm->brochureRequest($_POST);
             break;
 
             

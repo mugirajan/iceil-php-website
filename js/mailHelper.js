@@ -96,11 +96,11 @@ $(document).ready(function () {
          //contact form end
 
         //popup form start
-        $("#popup-form").unbind("submit").bind("submit", function() {
+        $("#popupForm").unbind("submit").bind("submit", function() {
 
             let name = $("#name").val();
             let email = $("#email").val();
-            let phone = $("#phone").val();
+            let phone = $("#tel").val();
             let state = $("#state").val();
             let city = $("#city").val();
             let message = $("#message").val();
@@ -125,12 +125,12 @@ $(document).ready(function () {
             }	
 
             if(phone == "") {
-                $("#phone").after('<p class="text-danger"> Phone field is required</p>');
-                $('#phone').closest('.form-group').addClass('has-error');
+                $("#tel").after('<p class="text-danger"> Phone field is required</p>');
+                $('#tel').closest('.form-group').addClass('has-error');
                 isvalid = false
             }	else {
-                $("#phone").find('.text-danger').remove();
-                $("#phone").closest('.form-group').addClass('has-success');
+                $("#tel").find('.text-danger').remove();
+                $("#tel").closest('.form-group').addClass('has-success');
             }	
             if(state == "") {
                 $("#state").after('<p class="text-danger"> state field is required</p>');
@@ -158,7 +158,7 @@ $(document).ready(function () {
                     message: message,
                     state:state,
                     city:city,
-                    type: "popup-form"
+                    type: "popupForm"
                 }
 
                 $.ajax({
@@ -170,6 +170,7 @@ $(document).ready(function () {
                         if(params.success) {
                             showToast('Form submitted successfully!', 'success');
                             $("#popupForm")[0].reset();
+                            $("#exampleModal").modal('hide');
                         }
                         else {
                             showToast(`Error: ${params.message}`, 'error');
@@ -201,6 +202,7 @@ $(document).ready(function () {
             let phone = $("#phone").val();
             let state = $("#state").val();
             let city = $("#city").val();
+            let collaboration = $("#Collaboration").val();
             let message = $("#message").val();
             let isvalid = true;
 
@@ -245,6 +247,14 @@ $(document).ready(function () {
             }	else {
                 $("#city").find('.text-danger').remove();
                 $("#city").closest('.form-group').addClass('has-success');
+            }
+            if (collaboration == "") {
+                $("#Collaboration").after('<p class="text-danger">Collaboration field is required</p>');
+                $('#Collaboration').closest('.form-group').addClass('has-error');
+                isValid = false;
+            } else {
+                $("#Collaboration").siblings('.text-danger').remove();
+                $("#Collaboration").closest('.form-group').addClass('has-success');
             }	
 
             if(isvalid != false) {
@@ -256,6 +266,7 @@ $(document).ready(function () {
                     message: message,
                     state:state,
                     city:city,
+                    collaboration: collaboration,
                     type: "franchiseForm"
                 }
 
@@ -289,7 +300,72 @@ $(document).ready(function () {
         });
         //popup form end
 
+        //brochure form start
+        $("#brochureForm").unbind("submit").bind("submit", function() {
 
+            console.log("iopp");
+            $(".text-danger").remove();
+            let name = $("#name").val();
+            let email = $("#email").val();
+            let isvalid = true;
+
+            if(name == "") {
+                $("#name").after('<p class="text-danger"> Name field is required</p>');
+                $('#name').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#name").find('.text-danger').remove();
+                $("#name").closest('.form-group').addClass('has-success');
+            }	
+
+            if(email == "") {
+                $("#email").after('<p class="text-danger"> Email field is required</p>');
+                $('#email').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#email").find('.text-danger').remove();
+                $("#email").closest('.form-group').addClass('has-success');
+            }	
+
+
+            if(isvalid != false) {
+
+                let formData = {
+                    name: name,
+                    email: email,
+                    type: "brochureForm"
+                }
+
+                $.ajax({
+                    url: "./php/mailController.php",
+                    data: formData,
+                    type: "post",
+                    dataType: "json",
+                    success: function(params) {
+                        if(params.success) {
+                            
+                            showToast('Form submitted successfully!', 'success');
+                            $("#brochureForm")[0].reset();
+                            $("#downloadModal").modal('hide');
+                        }
+                        else {
+                            showToast(`Error: ${params.message}`, 'error');
+                            $("#brochureForm")[0].reset();
+                        }
+                    },
+                    error: function(params) {
+                        showToast('Please fill all the field');
+                        $("#franchiseForm")[0].reset();
+                        console.log("ERROR: ", params);
+                    }
+                })
+            }
+            else {
+                console.log("Please fill out all the required fields...!","error")
+            }
+            return false;
+        });
+        //brochure form end
         
 });
 
