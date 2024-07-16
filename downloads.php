@@ -99,7 +99,7 @@
             </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
-            <h5>Tech Brochure</h5>
+            <h5>Lighting Brochure</h5>
             <a class="card" href="img/project-gallery/pics/02a.jpg" download>
                 <img src="img/project-gallery/pics/02a.jpg" alt="Card Background">
             </a><br>
@@ -108,7 +108,7 @@
             </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
-            <h5>General Brochure</h5>
+            <h5>Technical Spec</h5>
             <a class="card" href="img/project-gallery/pics/03.jpg" download>
                 <img src="img/project-gallery/pics/03.jpg" alt="Card Background">
             </a><br>

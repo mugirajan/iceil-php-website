@@ -543,7 +543,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/16.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/36.png" alt="" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -885,34 +885,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div
-                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
-                                                        <div class="gdlr-core-personnel-list clearfix">
-                                                            <div
-                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/27.png" alt="" width="600" height="auto"
-                                                                        title="address" /></a>
-                                                            </div>
-                                                            <div class="gdlr-core-personnel-list-content-wrap">
-                                                                <h3 class="gdlr-core-personnel-list-title"
-                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                    <a>Branch:Mumbai
-                                                                    </a></h3>
-                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                    style="font-size: 15px ;font-style: normal ;">
-                                                                    Man Resources, Next to hotel nityan, Sakinaka - Ghatloper link road,<br> Mumbai - 400084.
-                                                                    </div>
-                                                                <div
-                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
-                                                                </div>
-                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                    style="font-size: 15px ;font-style: normal ;">Call:+91
-                                                                    98199 60667
-                                                                </div>
-
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                   
                                                     <div
                                                         class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
                                                         <div class="gdlr-core-personnel-list clearfix">
@@ -1001,6 +974,136 @@
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">Call:+91
                                                                     99609 07769</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/photoshop-franchise/32.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Udaipur
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                        N0.24, First Floor,<br>Bhupalpura Main Road,<br>Udaipur-313001.
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:9414040722</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/photoshop-franchise/33.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Kochi
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                        LR Towers,<br> 39/2475-B1 Palarivattam,<br> Eranakulam, Kochi-686025, Kerala.
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:7909125531 / 9895031264</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/photoshop-franchise/33.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Godhra
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                        Ornate Furniture OPP, SRP Colony, Lunawada Road, Godhra-389001, (GUJ).
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:9898148598</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/photoshop-franchise/34.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Mumbai
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                        11-A/J Laxmi Industrial Estate, New Link Road, Andheri West, Mumbai-40053.
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:9332697684 / 9224773935</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/photoshop-franchise/35.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Patna
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                        Braj Kunj, Flat Num-11, Boring Canal Road, Patna, Bihar-800001.
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:8826698395</div>
 
                                                             </div>
                                                         </div>
