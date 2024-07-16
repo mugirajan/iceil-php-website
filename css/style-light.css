@@ -1274,7 +1274,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
     z-index: 5;
     position: absolute;
     padding: 0 20px 0 40px;
-    right: 159px;
+    right: 35%;
     background-color: #f7f8fa69;
     display: flex;
     justify-content: flex-end;
