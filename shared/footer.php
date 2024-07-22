@@ -141,8 +141,20 @@
                     </div>
                     <!--fixed icons end--> 
                 </div>
+                <div class="inteco-copyright-wrapper" style="border-bottom:1px solid #faa41a;">
+                        <div class="image-certificate">
+                            <div class="row image-certificate-div">
+                                <div class="col-lg-6 certificate-div d-flex justify-content-end">
+                                    <img class="image1" src="images/clutch.png">
+                                </div>
+                                <div class="col-lg-6 certificate-div">
+                                <img class="image2" src="images/tuvnord.png">
+                                </div>
+                            </div>
+                        </div>
+                </div>
                 <div class="inteco-copyright-wrapper">
-                    <div class="inteco-copyright-container inteco-container clearfix">
+                    <div class="footerr-copyright inteco-copyright-container inteco-container clearfix">
 
                         <div class="inteco-copyright-left inteco-item-pdlr">
                             <a href="https://www.facebook.com/ICEIL/" target="_blank">
@@ -199,6 +211,21 @@
 }
 #exampleModalLabel{
     color:black !important;
+}
+.image-certificate-div{
+	display: flex;
+	justify-content: center;
+    align-items:center;
+}
+.certificate-div .image1{
+    width:10%;
+}
+.certificate-div .image2{
+    width:18%;
+}
+.footerr-copyright{
+    padding-top:15px;
+    padding-bottom:15px;
 }
 
 </style>
