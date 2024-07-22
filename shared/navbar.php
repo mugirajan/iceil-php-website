@@ -90,8 +90,8 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="menu-item "><a href="WallGraphics">Wall Graphics</a>
-
+                                        <li class="menu-item "><a href="Signage">Signage lightbox</a></li>
+                                        <li class="menu-item "><a href="WallGraphics">Custom Wall Graphics</a>
                                         </li>
                                         <li class="menu-item menu-item-has-children"><a href="#."
                                                 class="mry-default-link">Architect Area & Technical Infos</a>
@@ -239,8 +239,10 @@
                                                 </li>
                                             </ul>
                                         </li>
+                                        <li class="menu-item"><a href="Signage"
+                                                class="mry-anima-link mry-default-link">Signage lightbox</a></li>
                                         <li class="menu-item"><a href="WallGraphics"
-                                                class="mry-anima-link mry-default-link">Wall Graphics</a></li>
+                                                class="mry-anima-link mry-default-link">Custom Wall Graphics</a></li>
                                         <li class="menu-item menu-item-has-children"><a href="#."
                                                 class="mry-default-link">Architect Area & Technical Infos</a>
                                             <ul class="sub-menu">

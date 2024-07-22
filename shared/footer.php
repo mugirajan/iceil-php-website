@@ -114,21 +114,28 @@
                                         <li class="menu-item"><a href="ArtPerforated">Art Perforated Ceiling</a></li>
                                         <li class="menu-item"><a href="Mirror">Mirror Stretch Ceiling</a></li>
                                         <li class="menu-item"><a href="Metal">Metal Perforated Ceiling</a></li>
+                                        <li class="menu-item"><a href="Signage">Signage lightbox</a></li>
+                                        <li class="menu-item"><a href="WallGraphics">Custom wall graphics</a></li>
+
                                     </ul>
                                 <h3 class="inteco-widget-title-footer">Architectural customised lighting</h3><span class="clear"></span>
                                 <div class="menu-quick-links-container">
                                     <ul id="menu-quick-links" class="menu">
                                         <li class="menu-item"><a href="Geometrical">Geometrical shape custom lighting</a></li>
                                         <li class="menu-item"><a href="ARC">Iceil ARC / WAVE Linear</a></li>
-                                        <li class="menu-item"><a href="Surface">Iceil Surface / Suspended Linear</a></li>
-                                        <li class="menu-item"><a href="Curved">Iceil Curved Recessed Linear</a></li>
-                                        <li class="menu-item"><a href="Outward-Inward">Iceil Outward / Inward / Downward Linear</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer-last">
                             <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
+                                <div class="menu-quick-links-container">
+                                    <ul id="menu-quick-links" class="menu">
+                                        <li class="menu-item"><a href="Surface">Iceil Surface / Suspended Linear</a></li>
+                                        <li class="menu-item"><a href="Curved">Iceil Curved Recessed Linear</a></li>
+                                        <li class="menu-item"><a href="Outward-Inward">Iceil Outward / Inward / Downward Linear</a></li>
+                                    </ul>
+                                </div>
                                 <h3 class="inteco-widget-title-footer">Architect Area & Technical Infos</h3><span class="clear"></span>
                                 <div class="menu-quick-links-container">
                                     <ul id="menu-quick-links" class="menu">
@@ -148,7 +155,7 @@
                                     <img class="image1" src="images/clutch.png">
                                 </div>
                                 <div class="col-lg-6 certificate-div">
-                                <img class="image2" src="images/tuvnord.png">
+                                <img class="image2" src="images/white.png">
                                 </div>
                             </div>
                         </div>

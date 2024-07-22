@@ -21,7 +21,7 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .num-address div{
-    border:1px solid gray;
+    border:1px solid #8080802b;
     display:flex;
     justify-content:center;
 }
