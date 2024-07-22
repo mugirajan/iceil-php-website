@@ -62,7 +62,7 @@
                                                         class="mry-anima-link mry-default-link">Lacquer Stretch Ceiling</a></li>
                                                 <li class="menu-item"><a href="PrintedLacquer"
                                                         class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
-                                                <li class="menu-item"><a href="Perforated"
+                                                <li class="menu-item"><a href="ArtPerforated"
                                                         class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
                                                 <li class="menu-item"><a href="Mirror"
                                                         class="mry-anima-link mry-default-link">Mirror Stretch Ceiling</a></li>
@@ -73,19 +73,19 @@
                                         <li class="menu-item menu-item-has-children"><a href="#"
                                                 class="mry-default-link">Architectural  lighting</a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item"><a href="architectural-completed.php"
+                                                <li class="menu-item"><a href="Geometrical"
                                                         class="mry-anima-link mry-default-link">Geometrical shape custom lighting</a>
                                                 </li>
-                                                <li class="menu-item"><a href="architectural-completed.php"
+                                                <li class="menu-item"><a href="ARC"
                                                         class="mry-anima-link mry-default-link">Iceil ARC / WAVE Linear</a>
                                                 </li>
-                                                <li class="menu-item"><a href="architectural-completed.php"
+                                                <li class="menu-item"><a href="Surface"
                                                         class="mry-anima-link mry-default-link">Iceil Surface / Suspended Linear</a>
                                                 </li>
-                                                <li class="menu-item"><a href="architectural-completed.php"
+                                                <li class="menu-item"><a href="Curved"
                                                         class="mry-anima-link mry-default-link">Iceil Curved Recessed Linear</a>
                                                 </li>
-                                                <li class="menu-item"><a href="architectural-completed.php"
+                                                <li class="menu-item"><a href="Outward-Inward"
                                                         class="mry-anima-link mry-default-link">Iceil Outward / Inward / Downward Linear</a>
                                                 </li>
                                             </ul>
@@ -210,7 +210,7 @@
                                                         class="mry-anima-link mry-default-link">Lacquer Stretch Ceiling</a></li>
                                                 <li class="menu-item"><a href="PrintedLacquer"
                                                         class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
-                                                <li class="menu-item"><a href="Perforated"
+                                                <li class="menu-item"><a href="ArtPerforated"
                                                         class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
                                                 <li class="menu-item"><a href="Mirror"
                                                         class="mry-anima-link mry-default-link">Mirror Stretch Ceiling</a></li>
@@ -222,19 +222,19 @@
                                         <li class="menu-item menu-item-has-children"><a href="#"
                                                 class="mry-default-link">Architectural  lighting</a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item"><a href="architectural-completed.php"
+                                                <li class="menu-item"><a href="Geometrical"
                                                         class="mry-anima-link mry-default-link">Geometrical shape custom lighting</a>
                                                 </li>
-                                                <li class="menu-item"><a href="architectural-completed.php"
+                                                <li class="menu-item"><a href="ARC"
                                                         class="mry-anima-link mry-default-link">Iceil ARC / WAVE Linear</a>
                                                 </li>
-                                                <li class="menu-item"><a href="architectural-completed.php"
+                                                <li class="menu-item"><a href="Surface"
                                                         class="mry-anima-link mry-default-link">Iceil Surface / Suspended Linear</a>
                                                 </li>
-                                                <li class="menu-item"><a href="architectural-completed.php"
+                                                <li class="menu-item"><a href="Curved"
                                                         class="mry-anima-link mry-default-link">Iceil Curved Recessed Linear</a>
                                                 </li>
-                                                <li class="menu-item"><a href="architectural-completed.php"
+                                                <li class="menu-item"><a href="Outward-Inward"
                                                         class="mry-anima-link mry-default-link">Iceil Outward / Inward / Downward Linear</a>
                                                 </li>
                                             </ul>

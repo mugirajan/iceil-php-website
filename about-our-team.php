@@ -836,7 +836,7 @@
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">
                                                                     No.184, Mahveer Road,
-                                                                        ,Vijayapura,
+                                                                        Vijayapura,
                                                                         State Code: 29,<br>
                                                                         Karnataka-586101.
 
@@ -1156,15 +1156,15 @@
                     
                     <section class="video-testi-section">
                         <div class="row">
-                            <div class="col-lg-8 side">
+                            <div class="col-lg-4 side">
                                 <div class="div-of-hero">
                                     <h2>Our Testimonials</h2>
                                     <p>Discover why our clients love our ceiling work! Hear firsthand from satisfied customers about their experiences with our exceptional craftsmanship and dedicated service.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-8">
                                 <a href="https://www.youtube.com/playlist?list=PL2wd3eKmgLLPZxWACJPO3sG8UtAYTzPeA" target="_blank">
-                                    <img style="width:70%" src="img/photoshop-franchise/franchise speaks.jpg" alt="Video Poster" style="height: auto;">
+                                    <img style="width:100%" src="img/photoshop-franchise/franchise.jpg" alt="Video Poster" style="height: auto;">
                                 </a>
                             </div>
                         </div>

@@ -99,11 +99,11 @@
                                     <ul id="menu-quick-links" class="menu">
                                         <li class="menu-item"><a href="Translucent">Translucent Stretch Ceiling </a></li>
                                         <li class="menu-item"><a href="Printed">Printed Stretch Ceiling</a></li>
-                                        <li class="menu-item"><a href="LightBoxes">RGB Dynamic Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="RGB">RGB Dynamic Stretch Ceiling</a></li>
                                         <li class="menu-item"><a href="3DForms">3D Forms Stretch Ceiling</a></li>
                                         <li class="menu-item"><a href="Acoustic">Acoustic Stretch Ceiling</a></li>
                                         <li class="menu-item"><a href="Lacquer">Lacquer Stretch Ceiling</a></li>
-                                        <li class="menu-item"><a href="Lacquer">Printed Lacquer Ceiling</a></li>
+                                        <li class="menu-item"><a href="PrintedLacquer">Printed Lacquer Ceiling</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -111,17 +111,18 @@
                         <div class="inteco-footer-column-foo inteco-item-pdlr inteco-column-15 flex-for-footer">
                             <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
                                     <ul id="menu-quick-links" class="menu">
-                                        <li class="menu-item"><a href="Lacquer">Art Perforated Ceiling</a></li>
-                                        <li class="menu-item"><a href="Lacquer">Mirror Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="ArtPerforated">Art Perforated Ceiling</a></li>
+                                        <li class="menu-item"><a href="Mirror">Mirror Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="Metal">Metal Perforated Ceiling</a></li>
                                     </ul>
                                 <h3 class="inteco-widget-title-footer">Architectural customised lighting</h3><span class="clear"></span>
                                 <div class="menu-quick-links-container">
                                     <ul id="menu-quick-links" class="menu">
-                                        <li class="menu-item"><a href="StretchCeiling">Geometrical shape custom lighting</a></li>
-                                        <li class="menu-item"><a href="Warranty">Iceil ARC / WAVE Linear</a></li>
-                                        <li class="menu-item"><a href="Boxing">Iceil Surface / Suspended Linear</a></li>
-                                        <li class="menu-item"><a href="Stretch-Fabric">Iceil Curved Recessed Linear</a></li>
-                                        <li class="menu-item"><a href="Profiles">Iceil Outward / Inward / Downward Linear</a></li>
+                                        <li class="menu-item"><a href="Geometrical">Geometrical shape custom lighting</a></li>
+                                        <li class="menu-item"><a href="ARC">Iceil ARC / WAVE Linear</a></li>
+                                        <li class="menu-item"><a href="Surface">Iceil Surface / Suspended Linear</a></li>
+                                        <li class="menu-item"><a href="Curved">Iceil Curved Recessed Linear</a></li>
+                                        <li class="menu-item"><a href="Outward-Inward">Iceil Outward / Inward / Downward Linear</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -149,7 +150,7 @@
                                     style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
                             </a>
                             <a href="https://twitter.com/iceilsys" target="_blank">
-                                <i class="fa-brands fa-x-twitter"
+                            <i class="fab fa-twitter"
                                     style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
                             </a>
                             <a href="https://www.linkedin.com/company/iceil-systems/" target="_blank">

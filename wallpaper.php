@@ -18,14 +18,11 @@
                     <div class="inteco-blog-title-content inteco-item-pdlr" >
                         <div class="inteco-page-title-container-about-our">
                             <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                                <h1 class="inteco-page-title">Wall Graphics</h1>
+                                <h1 class="inteco-page-title">Custom Wall Graphics</h1>
                             </div>
                         </div>
                     </div>
                 </div>
-                <?php
-                                include "./shared/popup.php"
-                                ?>
             </div>
             <!--banner end-->
 
@@ -59,8 +56,7 @@
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
                                                 <p>
-                                                    Custom wallpaper murals are an extremely unique and personalized product that we offer at Iceil. Imagine a situation where you need to brand your product images or company information at your commercial space or let us assume that it is your anniversary and you want to decorate your bedroom wall with a family picture. In all these cases, you need our custom printed wallpaper solution to give that personalized look to your interiors. A standard interior shop will not offer custom-designed wallpaper. What they will offer you, are the standard designs or stock photography available in their albums. So come to us if you need a wall mural bearing your image or content. We can print it out for you, in just about any size that you can think of. 
-                                                </p>
+                                                Iceil Custom Wall Graphics provide a uniquely personalized touch to your space, showcasing an image of your choice printed on premium fabric seamlessly posted onto your wall. At Iceil, we deliver a flawless, join-free solution using high-quality materials, elevating your environment with elegance and transforming your space into a reflection of your style.                                              </p>
                                             </div>
                                         </div>
                                     </div>
@@ -93,10 +89,7 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>Custom wallpaper murals are an extremely unique and personalized product that we offer at Iceil. Imagine a situation where you need to brand your product images or company information at your commercial space or let us assume that it is your anniversary and you want to decorate your bedroom wall with a family picture.</p>
-                                                <p>Printed wallpaper featuring custom designs or patterns.
-                                                Suitable for adding texture, color, or personality to interior spaces, such as offices, hotels, or residential homes.</p>
-                                                </p>
+                                                <p>Iceil Custom Wall Graphics provide a uniquely personalized touch to your space, showcasing an image of your choice printed on premium fabric seamlessly posted onto your wall. At Iceil, we deliver a flawless, join free solution using high quality materials, elevating your environment with elegance and transforming your space into a reflection of your style</p>
                                             </div>
                                         </div>
                                     </div>

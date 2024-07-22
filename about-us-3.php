@@ -426,6 +426,13 @@
                                     <h4>Recyclable</h4>
                                 </div>
                             </div>
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12">
+                                    <div class="">
+                                        <img src="images/top5-projects/whoweare.jpg">
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <!--why choose us end-->

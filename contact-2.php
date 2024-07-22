@@ -449,7 +449,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/21.png">
+                                            <img src="img/photoshop-franchise/8.png">
                                         </div>
                                         <h5 class="address-name">Lucknow</h5>
                                         <h6 class="mob-number">8935081100, 8935083300</h6>
@@ -458,7 +458,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/22.png">
+                                            <img src="img/photoshop-franchise/10.png">
                                         </div>
                                         <h5 class="address-name">Bangalore</h5>
                                         <h6 class="mob-number">9972534884</h6>
@@ -467,7 +467,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/23.png">
+                                            <img src="img/photoshop-franchise/11.png">
                                         </div>
                                         <h5 class="address-name">Namakkal</h5>
                                         <h6 class="mob-number">9626269797</h6>
@@ -476,7 +476,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/24.png">
+                                            <img src="img/photoshop-franchise/15.png">
                                         </div>
                                         <h5 class="address-name">Punjab</h5>
                                         <h6 class="mob-number">9872355502</h6>
@@ -485,7 +485,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/25.png">
+                                            <img src="img/photoshop-franchise/36.png">
                                         </div>
                                         <h5 class="address-name">Vizag</h5>
                                         <h6 class="mob-number">6302977007</h6>
@@ -494,7 +494,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/26.png">
+                                            <img src="img/photoshop-franchise/17.png">
                                         </div>
                                         <h5 class="address-name">Bangalore</h5>
                                         <h6 class="mob-number">9341307311</h6>
@@ -503,7 +503,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/27.png">
+                                            <img src="img/photoshop-franchise/21.png">
                                         </div>
                                         <h5 class="address-name">Vellore</h5>
                                         <h6 class="mob-number">9944606818</h6>
@@ -512,7 +512,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/28.png">
+                                            <img src="img/photoshop-franchise/22.png">
                                         </div>
                                         <h5 class="address-name">Trivandrum</h5>
                                         <h6 class="mob-number">9746626009</h6>
@@ -521,7 +521,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/29.png">
+                                            <img src="img/photoshop-franchise/25.png">
                                         </div>
                                         <h5 class="address-name">Vijayapura</h5>
                                         <h6 class="mob-number">7411980851</h6>
@@ -539,7 +539,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/31.png">
+                                            <img src="img/photoshop-franchise/33.png">
                                         </div>
                                         <h5 class="address-name">Kochi</h5>
                                         <h6 class="mob-number">7909125531 / 9895031264</h6>
@@ -548,7 +548,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/32.png">
+                                            <img src="img/photoshop-franchise/26.png">
                                         </div>
                                         <h5 class="address-name">Calicut</h5>
                                         <h6 class="mob-number">9633669494</h6>
@@ -557,7 +557,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/33.png">
+                                            <img src="img/photoshop-franchise/37.png">
                                         </div>
                                         <h5 class="address-name">Gothra</h5>
                                         <h6 class="mob-number">9898148598</h6>
@@ -575,7 +575,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/35.png">
+                                            <img src="img/photoshop-franchise/34.png">
                                         </div>
                                         <h5 class="address-name">Mumbai</h5>
                                         <h6 class="mob-number">9332697684 / 9224773935</h6>
@@ -584,7 +584,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img src="img/photoshop-franchise/36.png">
+                                            <img src="img/photoshop-franchise/35.png">
                                         </div>
                                         <h5 class="address-name">Patna</h5>
                                         <h6 class="mob-number">8826698395</h6>

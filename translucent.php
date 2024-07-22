@@ -58,7 +58,8 @@
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
                                                 <p>
-                                                    Translucent Stretch Ceiling allows light to be evenly distributed with the stretch membrane offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 5M without joints creating a great ambience. The Translucent Stretch Ceiling of ICeil can be customized to offer different colors and dimming controls suiting your mood.</p>
+                                                Iceil Translucent Stretch Ceilings allow light to be evenly distributed with the stretch membrane offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 50 SQM without joints creating a great ambiance. The ceilings can be customized to offer different colors and dimming controls suiting your mood.
+                                                </p>
                                             </div>
                                             <!-- <div>
                                                 <h5>Application Areas:</h5>
@@ -83,7 +84,7 @@
             <!--intro end-->
 
             <!--card section start-->
-		    <section id="services" class="services bgcolor-gray section-common-space">
+		    <section id="services" class="d-none services bgcolor-gray section-common-space">
                 <div class="container">
                     <div class="text-center m-t-120">
                         <div class="row clear-problem">
@@ -148,8 +149,8 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>The visual impact of translucent stretch ceilings plays a crucial role in creating a memorable showroom experience.</p>
-                                                <p>Careful attention should be paid to the design, color, and texture of the ceiling to ensure it complements the overall aesthetic of the showroom and enhances the presentation of the vehicles.</p>
+                                                <p>Stretch lighting accelerates car sales compared to regular lighting due to its ability to eradicate shadows and reflections, thereby improving the vehicle's presentation.</p>
+                                                <p> Stretch Luminaires are NO GLARE Luminaires.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -292,7 +293,9 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>A translucent ceiling in a gym or health center offers numerous benefits. By allowing natural light to filter through, it creates a bright and inviting atmosphere, enhancing the overall mood and motivation of users. The modern and stylish aesthetic of translucent materials adds visual appeal, while the connection to the outdoors promotes a sense of well-being. Additionally, maximizing natural light can contribute to energy efficiency, reducing reliance on artificial lighting. With customization options available, such as colors and textures, translucent ceilings can be tailored to fit the specific design concept of the gym or health center, enhancing its overall ambiance and functionality.</p>
+                                                <p>The ambiance of the light shapes our mood, which in turn molds our productivity, and ultimately paves the path to success.
+                                                    Diffused lighting offered by Iceil Translucent Ceiling enhances safety, motivation, visibility, mood and overall satisfaction in gyms, elevating the workout experience for all gym-goers.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -324,7 +327,7 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>Translucent ceilings in meeting rooms enhance ambiance by allowing natural light, fostering a bright and productive atmosphere. With modern aesthetics, they create visually appealing spaces conducive to collaboration. The integration of customizable designs adds versatility, catering to various meeting room requirements while promoting a comfortable and inspiring environment.</p>
+                                                <p>Translucent ceilings in meeting rooms enhance ambiance by allowing natural light, fostering a bright and productive atmosphere. With modern aesthetics, they create visually appealing spaces conducive to collaboration. Tuneable solutions in meeting rooms are indispensable, offering unparalleled versatility and adaptability to accommodate diverse needs and preferences.</p>
                                             </div>
                                         </div>
                                     </div>

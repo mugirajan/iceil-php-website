@@ -15,9 +15,20 @@ RewriteRule ^WallGraphics?$ wallpaper.php
 RewriteRule ^Translucent?$ translucent.php
 RewriteRule ^Printed?$ printed.php
 RewriteRule ^3DForms?$ threed.php
+RewriteRule ^RGB?$ RGB.php
 RewriteRule ^LightBoxes?$ light-boxes.php
 RewriteRule ^Lacquer?$ lacquer.php
 RewriteRule ^Acoustic?$ acoustic.php
+RewriteRule ^PrintedLacquer?$ PrintedLacquer.php
+RewriteRule ^ArtPerforated?$ artPerforated.php
+RewriteRule ^Mirror?$ mirror.php
+RewriteRule ^Metal?$ metal.php
+
+RewriteRule ^Geometrical?$ Geometrical.php
+RewriteRule ^ARC?$ ARC.php
+RewriteRule ^Curved?$ curved.php
+RewriteRule ^Surface?$ surface.php
+RewriteRule ^Outward-Inward?$ outward-inward.php
 
 RewriteRule ^StretchCeiling?$ stretch-ceiling.php
 RewriteRule ^Warranty?$ warranty.php

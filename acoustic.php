@@ -57,19 +57,8 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>Acoustic stretch ceilings are a specialized type of stretch ceiling designed to address sound related issues in interior spaces. These ceilings combine the aesthetic advantages of stretch ceilings with acoustic properties, creating an environment that is both visually pleasing and acoustically comfortable.</p>
+                                                <p>Iceil Acoustic Stretch Ceiling combines sound-absorbing materials with a stretchable perforated fabric, effectively reducing noise levels while maintaining an aesthetically pleasing appearance. These ceilings are ideal for spaces where noise control is essential, such as auditoriums, offices, classrooms, or recording studios. By absorbing sound waves and minimizing reverberation, acoustic stretch ceilings improve acoustics, enhance speech intelligibility, and create a more comfortable environment for occupants.                                                </p>
                                             </div>
-                                            <!-- <div>
-                                                <h5>Application Areas:</h5>
-                                                <ul>
-                                                    <li>Cinema Halls</li>
-                                                    <li>Auditoriums</li>
-                                                    <li>Business Houses</li>
-                                                    <li>Hospitals</li>
-                                                    <li>Retail Showrooms</li>
-                                                    <li>Residences</li>
-                                                </ul>
-                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -81,118 +70,6 @@
             </div>
             <!--intro end-->
 
-            <!--card section start-->
-            <div class="widthof">
-                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container d-flex-for-col">
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first col-width-for-tab">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js card-for-content"
-                                style="padding: 100px 0px 0px 0px;">
-                                <div class="gdlr-core-pbf-background-wrap">
-                                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                        style="background-image: url() ;background-repeat: no-repeat ;background-position: top left ;"
-                                        data-parallax-speed="0.1"></div>
-                                </div>
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div
-                                            class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
-                                                style="border-width: 0px;">
-                                                <a class="gdlr-core-lightgallery gdlr-core-js "
-                                                    href="upload/icon-1122.png"><img src="upload/icon-1122.png" alt=""
-                                                        width="45" height="45" title="acoustic" /></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-pbf-element">
-                                        <div
-                                            class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="..core-skin-title  "
-                                                    style="font-size: 21px ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
-                                                    Upto 5M spans without joints</h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20 col-width-for-tab" id="gdlr-core-column-2">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js "
-                                style="padding: 100px 0px 0px 0px;">
-                                <div class="gdlr-core-pbf-background-wrap">
-                                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                        style="background-image: url() ;background-repeat: no-repeat ;background-position: top left ;"
-                                        data-parallax-speed="0.1"></div>
-                                </div>
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div
-                                            class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
-                                                style="border-width: 0px;">
-                                                <a class="gdlr-core-lightgallery gdlr-core-js "
-                                                    href="upload/icon-2-1.png"><img src="upload/icon-2-1.png" alt=""
-                                                        width="59" height="46" title="acoustic" /></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-pbf-element">
-                                        <div
-                                            class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="..core-skin-title "
-                                                    style="font-size: 21px ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
-                                                    Installed on ceiling or wall</h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                    
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20 col-width-for-tab" id="gdlr-core-column-2 ">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js "
-                                style="padding: 100px 0px 0px 0px;">
-                                <div class="gdlr-core-pbf-background-wrap">
-                                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                        style="background-image: url() ;background-repeat: no-repeat ;background-position: top left ;"
-                                        data-parallax-speed="0.1"></div>
-                                </div>
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div
-                                            class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
-                                                style="border-width: 0px;">
-                                                <a class="gdlr-core-lightgallery gdlr-core-js "
-                                                    href="upload/icon-1.png"><img src="upload/icon-1.png" alt=""
-                                                        width="49" height="48" title="acoustic" /></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-pbf-element">
-                                        <div
-                                            class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="..core-skin-title"
-                                                    style="font-size: 21px ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
-                                                    Any shapes and designs</h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                   
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </div>
-                </div>
-            </div>
-            <!--card section end-->
             <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 100px 0px;">
                 <div class="gdlr-core-pbf-background-wrap" style="background-color: #f7f7f7 ;"></div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " data-gdlr-animation="fadeInUp" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
