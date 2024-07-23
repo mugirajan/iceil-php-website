@@ -188,7 +188,7 @@ margin-bottom:20px;
                                                                     style="font-size: 17px ;color: black;margin-right: 12px ;"></i>
                                                             </a>
                                                             <a href="https://twitter.com/iceilsys" target="_blank">
-                                                                <i class="fa-brands fa-x-twitter"
+                                                                <i class="fab fa-twitter"
                                                                     style="font-size: 17px ;color: black ;margin-right: 12px ;"></i>
                                                             </a>
                                                             <a href="https://www.linkedin.com/company/iceil-systems/" target="_blank">
@@ -201,7 +201,7 @@ margin-bottom:20px;
                                                             </a>
                                                             <a href="https://www.youtube.com/@ICeilSystems" target="_blank">
                                                                 <i class="fab fa-youtube"
-                                                                    style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
+                                                                    style="font-size: 17px ;color: black ;margin-right: 12px ;"></i>
                                                             </a>
                                                         </div>
                                                     </div>

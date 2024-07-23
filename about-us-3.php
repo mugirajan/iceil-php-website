@@ -371,7 +371,7 @@
                                     <div class="y-us-head">
                                         <div class="y-us-title">
                                             <h2>Why choose us</h2>
-                                            <p>Biiggest stretch ceiling network in India with an ISO 9001:2015. Certified factory in Chennai</p>
+                                            <p>Biggest stretch ceiling network in India with an ISO 9001:2015. Certified factory in Chennai</p>
                                         </div>
                                     </div>
                                 </div>

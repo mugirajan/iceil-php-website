@@ -1108,6 +1108,33 @@
                                                             </div>
                                                         </div>
                                                     </div>
+
+                                                    <div
+                                                        class="col-lg-3 col-md-4 col-sm-12 gdlr-core-personnel-list-column  gdlr-core-column-15 gdlr-core-item-pdlr">
+                                                        <div class="gdlr-core-personnel-list clearfix">
+                                                            <div
+                                                                class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
+                                                                <a><img src="img/photoshop-franchise/38.png" alt="" width="600" height="auto"
+                                                                        title="address" /></a>
+                                                            </div>
+                                                            <div class="gdlr-core-personnel-list-content-wrap">
+                                                                <h3 class="gdlr-core-personnel-list-title"
+                                                                    style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
+                                                                    <a>Branch:Raipur
+                                                                    </a></h3>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">
+                                                                        Sardar patel chowk, New timber market, devendra nagar , Raipur-492001.
+                                                                    </div>
+                                                                <div
+                                                                    class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
+                                                                </div>
+                                                                <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
+                                                                    style="font-size: 15px ;font-style: normal ;">Call:7879252535</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                     
                                                     <!--end of partner-->
                                                 </div>
@@ -1163,7 +1190,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-8">
-                                <a href="https://www.youtube.com/playlist?list=PL2wd3eKmgLLPZxWACJPO3sG8UtAYTzPeA" target="_blank">
+                                <a href="https://www.youtube.com/channel/UC_FNx9XaDA2yUyw9WgV3B4Q" target="_blank">
                                     <img style="width:100%" src="img/photoshop-franchise/franchise.jpg" alt="Video Poster" style="height: auto;">
                                 </a>
                             </div>

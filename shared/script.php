@@ -39,7 +39,7 @@
     <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
     <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
     <!-- tween max js -->
-    <script src="js/plugins/tween-max.min.js"></script>
+    <!-- <script src="js/plugins/tween-max.min.js"></script> -->
     <!-- scroll magic js -->
     <script src="js/plugins/scroll-magic.js"></script>
     <!-- scroll magic gsap plugin js -->

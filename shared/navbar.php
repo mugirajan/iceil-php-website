@@ -70,6 +70,8 @@
                                                         class="mry-anima-link mry-default-link">Light Boxes</a></li>
                                             </ul>
                                         </li>
+                                        <li class="menu-item"><a href="Metal"
+                                                class="mry-default-link">Metal Perforated Ceiling</a></li>
                                         <li class="menu-item menu-item-has-children"><a href="#"
                                                 class="mry-default-link">Architectural  lighting</a>
                                             <ul class="sub-menu">
@@ -219,6 +221,8 @@
                                                 
                                             </ul>
                                         </li>
+                                        <li class="menu-item"><a href="Metal"
+                                            class="mry-anima-link mry-default-link">Metal Perforated Ceiling</a> </li>
                                         <li class="menu-item menu-item-has-children"><a href="#"
                                                 class="mry-default-link">Architectural  lighting</a>
                                             <ul class="sub-menu">

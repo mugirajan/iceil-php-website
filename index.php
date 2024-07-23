@@ -682,7 +682,7 @@
 	<!-- jquery js -->
 	<script src="js/plugins/jquery.min.js"></script>
 	<!-- tween max js -->
-	<script src="js/plugins/tween-max.min.js"></script>
+	<!-- <script src="js/plugins/tween-max.min.js"></script> -->
 	<!-- scroll magic js -->
 	<script src="js/plugins/scroll-magic.js"></script>
 	<!-- scroll magic gsap plugin js -->
