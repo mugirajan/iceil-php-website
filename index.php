@@ -627,31 +627,31 @@
                             <form id="popupForm">
                                 <div class="modal-body">
                                     <div class="form-group">
-                                        <label for="name">Enter Name</label>
+                                        <label for="name">Enter Name*</label>
                                         <input type="text" class="form-control" id="name" name="name" placeholder="Enter Your Name" required>
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-6 col-sm-12 form-group">
-                                            <label for="email">Enter Email</label>
+                                            <label for="email">Enter Email*</label>
                                             <input type="email" class="form-control" id="email" name="email" placeholder="Enter Your Email" required>
                                         </div>
                                         <div class="col-lg-6 col-sm-12 form-group">
-                                            <label for="tel">Enter Phone NUmber</label>
+                                            <label for="tel">Enter Phone NUmber*</label>
                                             <input type="tel" class="form-control" id="tel" name="tel" placeholder="Enter Your Number" required>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-6 col-sm-12 form-group">
-                                            <label for="state">Enter State</label>
+                                            <label for="state">Enter State*</label>
                                             <input type="text" class="form-control" id="state" name="state" placeholder="Enter Your State" required>
                                         </div>
                                         <div class="col-lg-6 col-sm-12 form-group">
-                                            <label for="city">Enter City</label>
+                                            <label for="city">Enter City*</label>
                                             <input type="text" class="form-control" id="city" name="city" placeholder="Enter Your City" required>
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label for="city">Message</label>
+                                        <label for="city">Message*</label>
                                         <textarea class="form-control"  name="message" id="message" rows="" cols="" placeholder="Your Message...*" required></textarea>
                                     </div>
                                 </div>

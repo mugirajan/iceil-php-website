@@ -135,11 +135,11 @@
             <form id="brochureForm">
                 <div class="modal-body">
                     <div class="form-group">
-                        <label for="name">Enter Name</label>
+                        <label for="name">Enter Name*</label>
                         <input type="text" class="form-control" id="name" name="name" placeholder="Enter Your Name" required>
                     </div>
                     <div class="form-group">
-                        <label for="email">Enter Email</label>
+                        <label for="email">Enter Email*</label>
                         <input type="email" class="form-control" id="email" name="email" placeholder="Enter Your Email" required>
                     </div>
                     <input type="hidden" id="pdfFile" name="pdfFile">
