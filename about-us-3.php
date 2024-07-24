@@ -379,49 +379,49 @@
                             <div class="row-of-why">
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/15878/15878142.png">
+                                        <img src="images/logo/01.jpg">
                                     </div>
                                     <h4>ISO Certified</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/15878/15878142.png">
+                                        <img src="images/logo/02.jpg">
                                     </div>
                                     <h4>Reach Complaint</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/6179/6179100.png">
+                                        <img src="images/logo/08.jpg">
                                     </div>
                                     <h4>10 Years Warranty</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/6179/6179100.png">
+                                        <img src="images/logo/03.jpg">
                                     </div>
                                     <h4>Complaint</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/6179/6179100.png">
+                                        <img src="images/logo/04.jpg">
                                     </div>
                                     <h4>VOC Certified</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/6179/6179100.png">
+                                        <img src="images/logo/05.jpg">
                                     </div>
                                     <h4>European Certified</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/6179/6179100.png">
+                                        <img src="images/logo/06.jpg">
                                     </div>
                                     <h4>Flame Retardant b-sl-d0</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/892/892930.png">
+                                        <img src="images/logo/07.jpg">
                                     </div>
                                     <h4>Recyclable</h4>
                                 </div>
