@@ -3,23 +3,23 @@ RewriteEngine on
 
 
 RewriteRule ^Home?$ homepage-3.php
-RewriteRule ^AboutUs?$ about-us-3.php
+RewriteRule ^stretch-ceiling-manufacturer-india?$ about-us-3.php
 RewriteRule ^Projects?$ projects.php
 RewriteRule ^Partners?$ about-our-team.php
 RewriteRule ^Blogs?$ blog-full-left-sidebar-with-frame.php
 RewriteRule ^ContactUs?$ contact-2.php
 RewriteRule ^Downloads?$ downloads.php
 
-RewriteRule ^WallGraphics?$ wallpaper.php
+RewriteRule ^3DWallGraphics?$ wallpaper.php
 
-RewriteRule ^Translucent?$ translucent.php
-RewriteRule ^Printed?$ printed.php
-RewriteRule ^3DForms?$ threed.php
+RewriteRule ^Translucent-Stretch-Ceilings?$ translucent.php
+RewriteRule ^Printed-Stretch-Ceilings?$ printed.php
+RewriteRule ^3D-Forms-Stretch-Ceilings?$ threed.php
 RewriteRule ^RGB?$ RGB.php
-RewriteRule ^LightBoxes?$ light-boxes.php
-RewriteRule ^Lacquer?$ lacquer.php
+RewriteRule ^Fabric-Light-Boxes?$ light-boxes.php
+RewriteRule ^Lacquer-Ceilings?$ lacquer.php
 RewriteRule ^Acoustic?$ acoustic.php
-RewriteRule ^PrintedLacquer?$ PrintedLacquer.php
+RewriteRule ^Printed-Lacquer-Ceilings?$ PrintedLacquer.php
 RewriteRule ^ArtPerforated?$ artPerforated.php
 RewriteRule ^Mirror?$ mirror.php
 RewriteRule ^Metal?$ metal.php

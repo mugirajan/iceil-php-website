@@ -82,7 +82,7 @@
                                 <div class="menu-services-container">
                                     <ul id="menu-services" class="menu">
                                         <li class="menu-item"><a href="Home">Home</a></li>
-                                        <li class="menu-item"><a href="AboutUs">Who We Are</a></li>
+                                        <li class="menu-item"><a href="stretch-ceiling-manufacturer-india">Who We Are</a></li>
                                         <li class="menu-item"><a href="Partners">Partner with us</a></li>
                                         <li class="menu-item"><a href="Blogs">Blogs</a>
                                         </li>
@@ -97,13 +97,13 @@
                                 <h3 class="inteco-widget-title-footer">Stretch Ceilings</h3><span class="clear"></span>
                                 <div class="menu-quick-links-container">
                                     <ul id="menu-quick-links" class="menu">
-                                        <li class="menu-item"><a href="Translucent">Translucent Stretch Ceiling </a></li>
-                                        <li class="menu-item"><a href="Printed">Printed Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="Translucent-Stretch-Ceilings">Translucent Stretch Ceiling </a></li>
+                                        <li class="menu-item"><a href="Printed-Stretch-Ceilings">Printed Stretch Ceiling</a></li>
                                         <li class="menu-item"><a href="RGB">RGB Dynamic Stretch Ceiling</a></li>
-                                        <li class="menu-item"><a href="3DForms">3D Forms Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings">3D Forms Stretch Ceiling</a></li>
                                         <li class="menu-item"><a href="Acoustic">Acoustic Stretch Ceiling</a></li>
-                                        <li class="menu-item"><a href="Lacquer">Lacquer Stretch Ceiling</a></li>
-                                        <li class="menu-item"><a href="PrintedLacquer">Printed Lacquer Ceiling</a></li>
+                                        <li class="menu-item"><a href="Lacquer-Ceilings">Lacquer Stretch Ceiling</a></li>
+                                        <li class="menu-item"><a href="Printed-Lacquer-Ceilings">Printed Lacquer Ceiling</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -115,7 +115,7 @@
                                         <li class="menu-item"><a href="Mirror">Mirror Stretch Ceiling</a></li>
                                         <li class="menu-item"><a href="Metal">Metal Perforated Ceiling</a></li>
                                         <li class="menu-item"><a href="Signage">Signage lightbox</a></li>
-                                        <li class="menu-item"><a href="WallGraphics">Custom wall graphics</a></li>
+                                        <li class="menu-item"><a href="3DWallGraphics">Custom wall graphics</a></li>
 
                                     </ul>
                                 <h3 class="inteco-widget-title-footer">Architectural customised lighting</h3><span class="clear"></span>

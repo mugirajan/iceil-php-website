@@ -56,13 +56,13 @@
                                         <li class="menu-item menu-item-home current-menu-item "><a href="Home">Home</a>
                                             
                                         </li>
-                                        <li class="menu-item "><a href="WallGraphics">Wall Graphics</a>
+                                        <li class="menu-item "><a href="3DWallGraphics">Wall Graphics</a>
                                             
                                         </li>
                                         <li class="menu-item "><a href="Partners">Partner With us</a>
                                             
                                         </li>
-                                        <li class="menu-item "><a href="AboutUs">Who we are</a>
+                                        <li class="menu-item "><a href="stretch-ceiling-manufacturer-india">Who we are</a>
                                            
                                         </li>
                                         <li class="menu-item "><a href="ContactUs">Contact Us</a>
@@ -108,15 +108,15 @@
                                                     class="mry-anima-link mry-default-link">Project Gallery</a></li>
                                             <li class="menu-item"><a href="completed-projects.php"
                                                     class="mry-anima-link mry-default-link">Completed Projects</a></li>
-                                            <li class="menu-item"><a href="Translucent"
+                                            <li class="menu-item"><a href="Translucent-Stretch-Ceilings"
                                                     class="mry-anima-link mry-default-link">Translucent</a></li>
-                                            <li class="menu-item"><a href="Printed"
+                                            <li class="menu-item"><a href="Printed-Stretch-Ceilings"
                                                     class="mry-anima-link mry-default-link">Printed</a></li>
-                                            <li class="menu-item"><a href="3DForms"
+                                            <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings"
                                                     class="mry-anima-link mry-default-link">3D Forms</a></li>
-                                            <li class="menu-item"><a href="LightBoxes"
+                                            <li class="menu-item"><a href="Fabric-Light-Boxes"
                                                     class="mry-anima-link mry-default-link">Light Boxes</a></li>
-                                            <li class="menu-item"><a href="Lacquer"
+                                            <li class="menu-item"><a href="Lacquer-Ceilings"
                                                     class="mry-anima-link mry-default-link">Lacquer</a></li>
                                             <li class="menu-item"><a href="Acoustic"
                                                     class="mry-anima-link mry-default-link">Acoustic</a></li>
@@ -193,13 +193,13 @@
                                     <ul>
                                         <li class="menu-item "><a href="Home" class="mry-default-link">Home</a></li>
         
-                                        <li class="menu-item"><a href="WallGraphics"
+                                        <li class="menu-item"><a href="3DWallGraphics"
                                                 class="mry-anima-link mry-default-link">Wall Graphics</a></li>
         
                                         <li class="menu-item"><a href="Partners"
                                                 class="mry-anima-link mry-default-link">Partner with us</a></li>
         
-                                        <li class="menu-item"><a href="AboutUs"
+                                        <li class="menu-item"><a href="stretch-ceiling-manufacturer-india"
                                                 class="mry-anima-link mry-default-link">Who We Are</a></li>
         
                                         <li class="menu-item"><a href="ContactUs"
@@ -254,15 +254,15 @@
                                                         class="mry-anima-link mry-default-link">Project Gallery</a></li>
                                                 <li class="menu-item"><a href="completed-projects.php"
                                                         class="mry-anima-link mry-default-link">Completed Projects</a></li>
-                                                <li class="menu-item"><a href="Translucent"
+                                                <li class="menu-item"><a href="Translucent-Stretch-Ceilings"
                                                         class="mry-anima-link mry-default-link">Translucent</a></li>
-                                                <li class="menu-item"><a href="Printed"
+                                                <li class="menu-item"><a href="Printed-Stretch-Ceilings"
                                                         class="mry-anima-link mry-default-link">Printed</a></li>
-                                                <li class="menu-item"><a href="3DForms"
+                                                <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings"
                                                         class="mry-anima-link mry-default-link">3D Forms</a></li>
-                                                <li class="menu-item"><a href="LightBoxes"
+                                                <li class="menu-item"><a href="Fabric-Light-Boxes"
                                                         class="mry-anima-link mry-default-link">Light Boxes</a></li>
-                                                <li class="menu-item"><a href="Lacquer"
+                                                <li class="menu-item"><a href="Lacquer-Ceilings"
                                                         class="mry-anima-link mry-default-link">Lacquer</a></li>
                                                 <li class="menu-item"><a href="Acoustic"
                                                         class="mry-anima-link mry-default-link">Acoustic</a></li>

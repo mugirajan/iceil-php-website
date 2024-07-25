@@ -26,7 +26,7 @@
                                                 href="Home">Home</a>
 
                                         </li>
-                                        <li class="menu-item "><a href="AboutUs">Who we are</a>
+                                        <li class="menu-item "><a href="stretch-ceiling-manufacturer-india">Who we are</a>
 
                                         </li>
                                         <li class="menu-item "><a href="Projects">Our Projects</a>
@@ -48,25 +48,25 @@
                                         <li class="menu-item menu-item-has-children"><a href="#."
                                                 class="mry-default-link">Stretch Ceilings</a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item"><a href="Translucent"
+                                                <li class="menu-item"><a href="Translucent-Stretch-Ceilings"
                                                         class="mry-anima-link mry-default-link">Translucent Stretch ceiling </a></li>
-                                                <li class="menu-item"><a href="Printed"
+                                                <li class="menu-item"><a href="Printed-Stretch-Ceilings"
                                                         class="mry-anima-link mry-default-link">Printed Stretch Ceiling</a></li>
                                                 <li class="menu-item"><a href="RGB"
                                                         class="mry-anima-link mry-default-link">RGB Dynamic Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="3DForms"
+                                                <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings"
                                                         class="mry-anima-link mry-default-link">3D Forms Stretch Ceiling</a></li>
                                                 <li class="menu-item"><a href="Acoustic"
                                                         class="mry-anima-link mry-default-link">Acoustic Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="Lacquer"
+                                                <li class="menu-item"><a href="Lacquer-Ceilings"
                                                         class="mry-anima-link mry-default-link">Lacquer Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="PrintedLacquer"
+                                                <li class="menu-item"><a href="Printed-Lacquer-Ceilings"
                                                         class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
                                                 <li class="menu-item"><a href="ArtPerforated"
                                                         class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
                                                 <li class="menu-item"><a href="Mirror"
                                                         class="mry-anima-link mry-default-link">Mirror Stretch Ceiling</a></li>
-                                                <li class="d-none menu-item"><a href="LightBoxes"
+                                                <li class="d-none menu-item"><a href="Fabric-Light-Boxes"
                                                         class="mry-anima-link mry-default-link">Light Boxes</a></li>
                                             </ul>
                                         </li>
@@ -93,14 +93,14 @@
                                             </ul>
                                         </li>
                                         <li class="menu-item "><a href="Signage">Signage lightbox</a></li>
-                                        <li class="menu-item "><a href="WallGraphics">Custom Wall Graphics</a>
+                                        <li class="menu-item "><a href="3DWallGraphics">Custom Wall Graphics</a>
                                         </li>
                                         <li class="menu-item menu-item-has-children"><a href="#."
                                                 class="mry-default-link">Architect Area & Technical Infos</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="StretchCeiling"
                                                         class="mry-anima-link mry-default-link">BOQ</a></li>
-                                                <li class="menu-item"><a href="LightBoxes"
+                                                <li class="menu-item"><a href="Fabric-Light-Boxes"
                                                         class="mry-anima-link mry-default-link">Boxing</a></li>
                                             </ul>
                                         </li>
@@ -169,7 +169,7 @@
                                         <li class="menu-item "><a href="Home" class="mry-default-link">Home</a>
                                         </li>
 
-                                        <li class="menu-item"><a href="AboutUs"
+                                        <li class="menu-item"><a href="stretch-ceiling-manufacturer-india"
                                                 class="mry-anima-link mry-default-link">Who We Are</a></li>
                                         <li class="menu-item"><a href="Projects"
                                                 class="mry-anima-link mry-default-link">Our Projects</a></li>
@@ -198,25 +198,25 @@
                                         <li class="menu-item menu-item-has-children"><a href="#."
                                                 class="mry-default-link">Stretch Ceilings</a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item"><a href="Translucent"
+                                                <li class="menu-item"><a href="Translucent-Stretch-Ceilings"
                                                         class="mry-anima-link mry-default-link">Translucent Stretch ceiling </a></li>
-                                                <li class="menu-item"><a href="Printed"
+                                                <li class="menu-item"><a href="Printed-Stretch-Ceilings"
                                                         class="mry-anima-link mry-default-link">Printed Stretch Ceiling</a></li>
                                                 <li class="menu-item"><a href="RGB"
                                                         class="mry-anima-link mry-default-link">RGB Dynamic Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="3DForms"
+                                                <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings"
                                                         class="mry-anima-link mry-default-link">3D Forms Stretch Ceiling</a></li>
                                                 <li class="menu-item"><a href="Acoustic"
                                                         class="mry-anima-link mry-default-link">Acoustic Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="Lacquer"
+                                                <li class="menu-item"><a href="Lacquer-Ceilings"
                                                         class="mry-anima-link mry-default-link">Lacquer Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="PrintedLacquer"
+                                                <li class="menu-item"><a href="Printed-Lacquer-Ceilings"
                                                         class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
                                                 <li class="menu-item"><a href="ArtPerforated"
                                                         class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
                                                 <li class="menu-item"><a href="Mirror"
                                                         class="mry-anima-link mry-default-link">Mirror Stretch Ceiling</a></li>
-                                                <li class="d-none menu-item"><a href="LightBoxes"
+                                                <li class="d-none menu-item"><a href="Fabric-Light-Boxes"
                                                         class="mry-anima-link mry-default-link">Light Boxes</a></li>
                                                 
                                             </ul>
@@ -245,14 +245,14 @@
                                         </li>
                                         <li class="menu-item"><a href="Signage"
                                                 class="mry-anima-link mry-default-link">Signage lightbox</a></li>
-                                        <li class="menu-item"><a href="WallGraphics"
+                                        <li class="menu-item"><a href="3DWallGraphics"
                                                 class="mry-anima-link mry-default-link">Custom Wall Graphics</a></li>
                                         <li class="menu-item menu-item-has-children"><a href="#."
                                                 class="mry-default-link">Architect Area & Technical Infos</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="StretchCeiling"
                                                         class="mry-anima-link mry-default-link">BOQ</a></li>
-                                                <li class="menu-item"><a href="LightBoxes"
+                                                <li class="menu-item"><a href="Fabric-Light-Boxes"
                                                         class="mry-anima-link mry-default-link">Boxing</a></li>
 
                                             </ul>

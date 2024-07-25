@@ -56,7 +56,7 @@
                                                         <div
                                                             class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
                                                             <a class="gdlr-core-button  gdlr-core-button-bottom-border-on-text gdlr-core-button-no-border"
-                                                                href="AboutUs"
+                                                                href="stretch-ceiling-manufacturer-india"
                                                                 style="font-size: 20px ;letter-spacing: 0px ;color: #ffffff ;padding: 0px 0px 0px 0px;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;">
                                                                 <span class="gdlr-core-border-on-text"
                                                                     style="border-bottom-width: 12px ;border-color: #2676bc ;margin-top: -16px ;"></span>
@@ -105,7 +105,7 @@
                                                             can make your spaces lively. 
                                                             </p>
                                                     </div>
-                                                    <button class="custom-btn btn-15"><a style="color:white" href="AboutUs">About Us</a></button>
+                                                    <button class="custom-btn btn-15"><a style="color:white" href="stretch-ceiling-manufacturer-india">About Us</a></button>
                                                 </div>
                                             </div>
                                         </div>
@@ -467,7 +467,7 @@
                                 <div class="statistics-type col-lg-6 col-md-6 col-sm-12">
                                     <h4 style="color:white">Our statistics</h4>
                                     <p>Being the best Stretch ceiling Manufacturer in India, We supply and install Stretch Ceilings projects across India.</p>
-                                    <button class="read-more-btn"><a href="AboutUs"
+                                    <button class="read-more-btn"><a href="stretch-ceiling-manufacturer-india"
                                         style="color: #ffffff;">Read More</a></button>
                                 </div>
                                 <div class="statistics-stats col-lg-6 col-md-6 col-sm-12">

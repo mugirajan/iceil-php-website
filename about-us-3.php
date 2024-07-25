@@ -478,7 +478,7 @@
                                 </div>
                                 <p class="card-content">Lacquer stretch ceiling provide a mirror effect on your ceiling with a high degree of light reflection. This provides an elite ambiance and and visually enlarged room space
                                 </p>
-                                <a href="Lacquer" class="read-more-btn">Read More</a>
+                                <a href="Lacquer-Ceilings" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -491,7 +491,7 @@
                                     <h4 class="card-main-title">Translucent stretch ceiling </h4>
                                 </div>
                                 <p class="card-content">Translucent stretch ceiling allows light to be evenly distributed with the stretch membrane offering 75% Translucency.</p>
-                                <a href="Translucent" class="read-more-btn">Read More</a>
+                                <a href="Translucent-Stretch-Ceilings" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -531,7 +531,7 @@
                                 </div>
                                 <p class="card-content">Printed stretch ceiling provide a mirror effect on your ceiling with a high degree of light reflection. This provides an elite ambiance and visually enlarged room space</p>
                                 </p>
-                                <a href="Printed" class="read-more-btn">Read More</a>
+                                <a href="Printed-Stretch-Ceilings" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -558,7 +558,7 @@
                                 </div>
                                 <p class="card-content">ceilings are created by engineering multilevel framing structures and can be made to
                                     the required size, shape, and then can be fitted with the desired stretch film.</p>
-                                <a href="3DForms" class="read-more-btn">Read More</a>
+                                <a href="3D-Forms-Stretch-Ceilings" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -571,7 +571,7 @@
                                     <h4 class="card-main-title">Wall Graphics</h4>
                                 </div>
                                 <p class="card-content">Custom wallpaper murals are an extremely unique and personalized product. Print image of your choice in your walls printed film.</p>
-                                <a href="WallGraphics" class="read-more-btn">Read More</a>
+                                <a href="3DWallGraphics" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
