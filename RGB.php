@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="RGB dynamic stretch ceiling, addressable LEDs, programmable LED lighting, DMX controlled lighting, customizable RGB lighting effects, music-reactive lighting, automation-controlled lighting, flexible lighting design, vibrant club lighting, pub RGB lighting, immersive lighting experiences, dynamic ceiling lighting, customizable color displays, lighting for parties and gatherings">
 
 </head>
 <?php
@@ -109,7 +110,7 @@
                                     <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                         <div class="gdlr-core-pbf-element">
                                             <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                                <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-rgb/night-bars-with-stretch-ceilings.jpg" alt="" width="600" height="600" title="RGB Dynamic Stretch Ceiling" /></div>
+                                                <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-rgb/night-bars-with-stretch-ceilings.jpg" alt="RGB Dynamic Stretch Ceiling" width="600" height="600" title="RGB Dynamic Stretch Ceiling" /></div>
                                             </div>
                                         </div>
                                     </div>

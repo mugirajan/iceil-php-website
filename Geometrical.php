@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="geometric shape custom lighting, personalized lighting solutions, square lighting, triangle lighting, circle lighting, versatile lighting designs, modern lighting options, aesthetic lighting, practical lighting solutions, indoor lighting customization">
 
 </head>
 

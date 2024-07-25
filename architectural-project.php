@@ -41,7 +41,7 @@
             <div class="inteco-mobile-header-container inteco-container clearfix">
                 <div class="inteco-logo  inteco-item-pdlr">
                    <div class="inteco-logo-inner">
-                        <a class="" href="Landing-Page"><img src="img/light/Iceil-logo-white.png" alt="" width="200" height="39" title="logo" /></a>
+                        <a class="" href="Landing-Page"><img src="img/light/Iceil-logo-white.png" alt="Our logo" width="200" height="39" title="logo" /></a>
                     </div>
                 </div>
                 <div class="inteco-mobile-menu-right">
@@ -152,7 +152,7 @@
                 <!-- preloader -->
                 <div class="mry-preloader mry-active">
                     <div class="mry-preloader-content pre-loader">
-                        <img class=" mry-mb-20 " src="img/light/Iceil-final-logo-png.webp" alt="Mireya">
+                        <img class=" mry-mb-20 " src="img/light/Iceil-final-logo-png.webp" alt="loader">
 
                         <div class="mry-loader-bar">
                             <div class="mry-loader"></div>
@@ -170,7 +170,7 @@
                 <div class="mry-top-panel laptop-navigation">
                     <div class="mry-logo-frame">
                         <a href="Home" class="mry-default-link mry-anima-link">
-                            <img class="mry-logo" src="img/light/Iceil-final-logo-png.webp" alt="Mireya">
+                            <img class="mry-logo" src="img/light/Iceil-final-logo-png.webp" alt="our logo">
                         </a>
                     </div>
                     <div class="mry-menu-button-frame">

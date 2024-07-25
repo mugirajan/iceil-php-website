@@ -79,22 +79,22 @@
                                         <div class="gdlr-core-gallery-item-holder gdlr-core-js-2 clearfix" data-layout="fitrows">
                                             <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-15 gdlr-core-column-first">
                                                 <div class="gdlr-core-gallery-list gdlr-core-media-image width-for-archi-image">
-                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/01 (1).jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/01 (1).jpg" alt="" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
+                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/01 (1).jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/01 (1).jpg" alt="Architectural Lighting" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-15">
                                                 <div class="gdlr-core-gallery-list gdlr-core-media-image width-for-archi-image">
-                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/07 (1).jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/07 (1).jpg" alt="" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
+                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/07 (1).jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/07 (1).jpg" alt="Architectural Lighting" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-15">
                                                 <div class="gdlr-core-gallery-list gdlr-core-media-image width-for-archi-image">
-                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/03.jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/03.jpg" alt="" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
+                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/03.jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/03.jpg" alt="Architectural Lighting" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-15">
                                                 <div class="gdlr-core-gallery-list gdlr-core-media-image width-for-archi-image">
-                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/05.jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/05.jpg" alt="" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
+                                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="img/project-gallery/pics/05.jpg" data-lightbox-group="gdlr-core-img-group-1"><img src="img/project-gallery/pics/05.jpg" alt="Architectural Lighting" width="630" height="501" title="architectural lighting" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"  ></i></span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -139,7 +139,7 @@
                                         <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="img/project-gallery/pics/badminton-court-stretch-ceiling (1).jpg" alt="" width="600" height="600" title="architectural lighting" /></div>
+                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="img/project-gallery/pics/badminton-court-stretch-ceiling (1).jpg" alt="Architectural Lighting" width="600" height="600" title="architectural lighting" /></div>
                                                 </div>
                                             </div>
                                         </div>

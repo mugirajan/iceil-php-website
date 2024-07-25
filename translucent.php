@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="stretch lighting, no glare luminaires, translucent stretch ceilings, natural light diffusion, customizable ceiling designs, elegant lobby ceilings, acoustic comfort ceilings, RGB lighting for pubs, dynamic lighting effects, psychological color influence, mood-enhancing lighting, diffused lighting for gyms, versatile lighting solutions, translucent ceilings for meeting rooms, energy-efficient lighting, modern aesthetic ceilings, customizable lighting features, versatile stretch ceilings">
 
 </head>
 <?php
@@ -162,7 +163,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-translucent/02.jpg" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-translucent/02.jpg" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -180,7 +181,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:80vh" src="img/drive-translucent/16.jpg" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:80vh" src="img/drive-translucent/16.jpg" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -249,7 +250,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="https://img.freepik.com/free-photo/bar-cafeteria-family-restaurant-interior-shooting_114579-1119.jpg?t=st=1711970912~exp=1711974512~hmac=d2c2e13ac9c6c043f0357b095636f95f35e6c30ed1f5db1d03bd37d49a18f922&w=740" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="https://img.freepik.com/free-photo/bar-cafeteria-family-restaurant-interior-shooting_114579-1119.jpg?t=st=1711970912~exp=1711974512~hmac=d2c2e13ac9c6c043f0357b095636f95f35e6c30ed1f5db1d03bd37d49a18f922&w=740" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -268,7 +269,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="img/drive-translucent/26.jpg" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="img/drive-translucent/26.jpg" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -339,7 +340,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-translucent/04.jpg" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-translucent/04.jpg" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -357,7 +358,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="img/drive-translucent/ICEIL_3000009.jpg" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="img/drive-translucent/ICEIL_3000009.jpg" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>

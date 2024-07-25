@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="printed lacquer ceiling, customizable ceiling designs, printed designs on lacquer, personalized ceiling patterns, versatile ceiling customization, interior theme matching, unique ceiling solutions, modern lacquer stretch ceilings, bespoke ceiling designs, artistic ceiling options">
 
 </head>
 

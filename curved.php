@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="curved recessed linear lighting, gypsum ceiling lighting, flexible lighting designs, customizable lighting shapes, aesthetic lighting solutions, residential lighting, commercial lighting, office lighting, seamless integration lighting, dynamic lighting designs">
 
 </head>
 

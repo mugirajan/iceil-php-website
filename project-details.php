@@ -46,7 +46,7 @@
                                                 <div class="gdlr-core-portfolio-modern"  >
                                                     <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon"  >
                                                         <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover width-of-home" >
-                                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/10/ezgif-7-d31527d33c61.jpg" alt="" width="500" height="500" title="simone-hutsch-616158-unsplash" />
+                                                            <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/10/ezgif-7-d31527d33c61.jpg" alt="" width="500" height="500" title="simone-hutsch-616158-unsplash" />
                                                             <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js"  >
                                                                 <span class="gdlr-core-image-overlay-content" >
                                                                     <span class="gdlr-core-portfolio-title gdlr-core-title-font "  >
@@ -67,7 +67,7 @@
                                                 <div class="gdlr-core-portfolio-modern"  >
                                                     <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon"  >
                                                         <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover width-of-home" >
-                                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/10/Translucent-After.jpg" alt="" width="500" height="500" title="simone-hutsch-412470-unsplash" />
+                                                            <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/10/Translucent-After.jpg" alt="" width="500" height="500" title="simone-hutsch-412470-unsplash" />
                                                             <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js"  >
                                                                 <span class="gdlr-core-image-overlay-content" >
                                                                     <span class="gdlr-core-portfolio-title gdlr-core-title-font "  >
@@ -88,7 +88,7 @@
                                                 <div class="gdlr-core-portfolio-modern"  >
                                                     <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon"  >
                                                         <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover width-of-home" >
-                                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/10/stretch-ceiling-installation-1208x800-1.jpg" alt="" width="500" height="500" title="simone-hutsch-616164-unsplash" />
+                                                            <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/10/stretch-ceiling-installation-1208x800-1.jpg" alt="" width="500" height="500" title="simone-hutsch-616164-unsplash" />
                                                             <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js"  >
                                                                 <span class="gdlr-core-image-overlay-content" >
                                                                     <span class="gdlr-core-portfolio-title gdlr-core-title-font "  >
@@ -109,7 +109,7 @@
                                                 <div class="gdlr-core-portfolio-modern"  >
                                                     <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon"  >
                                                         <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover width-of-home" >
-                                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/10/2ff4d9357f7be17eaeed5b322e1d2c7a.jpg" alt="" width="500" height="500" title="alexander-andrews-457319-unsplash" />
+                                                            <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/10/2ff4d9357f7be17eaeed5b322e1d2c7a.jpg" alt="" width="500" height="500" title="alexander-andrews-457319-unsplash" />
                                                             <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js"  >
                                                                 <span class="gdlr-core-image-overlay-content" >
                                                                     <span class="gdlr-core-portfolio-title gdlr-core-title-font "  >
@@ -130,7 +130,7 @@
                                                 <div class="gdlr-core-portfolio-modern"  >
                                                     <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon"  >
                                                         <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover width-of-home" >
-                                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/10/8.jpg" alt="" width="500" height="500" title="dmitri-popov-326976-unsplash" />
+                                                            <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/10/8.jpg" alt="" width="500" height="500" title="dmitri-popov-326976-unsplash" />
                                                             <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js"  >
                                                                 <span class="gdlr-core-image-overlay-content" >
                                                                     <span class="gdlr-core-portfolio-title gdlr-core-title-font "  >
@@ -151,7 +151,7 @@
                                                 <div class="gdlr-core-portfolio-modern"  >
                                                     <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon"  >
                                                         <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover width-of-home" >
-                                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/sky-stretch-ceiling-Heaven-3d-Lahore.jpg" alt="" width="500" height="500" title="simone-hutsch-584675-unsplash" />
+                                                            <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/sky-stretch-ceiling-Heaven-3d-Lahore.jpg" alt="" width="500" height="500" title="simone-hutsch-584675-unsplash" />
                                                             <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js"  >
                                                                 <span class="gdlr-core-image-overlay-content" >
                                                                     <span class="gdlr-core-portfolio-title gdlr-core-title-font "  >
@@ -172,7 +172,7 @@
                                                 <div class="gdlr-core-portfolio-modern"  >
                                                     <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon"  >
                                                         <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover width-of-home" >
-                                                            <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2020/11/Untitled-design-2020-11-07T124453.896.png?resize=1200%2C795&ssl=1" alt="" width="500" height="500" title="port-hp-3-7" />
+                                                            <img alt="our project"  src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2020/11/Untitled-design-2020-11-07T124453.896.png?resize=1200%2C795&ssl=1" alt="" width="500" height="500" title="port-hp-3-7" />
                                                             <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js"  >
                                                                 <span class="gdlr-core-image-overlay-content" >
                                                                     <span class="gdlr-core-portfolio-title gdlr-core-title-font "  >
@@ -193,7 +193,7 @@
                                                 <div class="gdlr-core-portfolio-modern"  >
                                                     <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon"  >
                                                         <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover width-of-home" >
-                                                            <img src="img/project-gallery/pics/Splunk.jpg" alt="" width="500" height="500" title="simone-hutsch-679170-unsplash" />
+                                                            <img alt="our project"  src="img/project-gallery/pics/Splunk.jpg" alt="" width="500" height="500" title="simone-hutsch-679170-unsplash" />
                                                             <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js"  >
                                                                 <span class="gdlr-core-image-overlay-content" >
                                                                     <span class="gdlr-core-portfolio-title gdlr-core-title-font "  >
@@ -214,7 +214,7 @@
                                                 <div class="gdlr-core-portfolio-modern"  >
                                                     <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon"  >
                                                         <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover width-of-home" >
-                                                            <img src="img/project-gallery/pics/badminton-court-stretch-ceiling (1).jpg" alt="" width="500" height="500" title="simone-hutsch-568380-unsplash" />
+                                                            <img alt="our project"  src="img/project-gallery/pics/badminton-court-stretch-ceiling (1).jpg" alt="" width="500" height="500" title="simone-hutsch-568380-unsplash" />
                                                             <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js"  >
                                                                 <span class="gdlr-core-image-overlay-content" >
                                                                     <span class="gdlr-core-portfolio-title gdlr-core-title-font "  >
@@ -266,7 +266,7 @@
 										<div class="mry-card-item">
 											<div class="mry-card-cover-frame mry-mb-20 mry-fo">
 												<div class="mry-badge">interior</div>
-												<img src="https://iceilsystems.com/wp-content/uploads/2020/10/ezgif-7-d31527d33c61.jpg"
+												<img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/10/ezgif-7-d31527d33c61.jpg"
 													alt="project">
 												<div class="mry-cover-overlay"></div>
 												<div class="mry-hover-links">
@@ -294,7 +294,7 @@
 											<div class="mry-card-cover-frame mry-mb-20 mry-fo">
 												<div class="mry-badge">architecture</div>
 												<div class="mry-cover-overlay"></div>
-												<img src="https://iceilsystems.com/wp-content/uploads/2020/10/Translucent-After.jpg"
+												<img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/10/Translucent-After.jpg"
 													alt="project">
 												<div class="mry-hover-links">
 													<a href="https://iceilsystems.com/wp-content/uploads/2020/10/Translucent-After.jpg"
@@ -320,7 +320,7 @@
 										<div class="mry-card-item">
 											<div class="mry-card-cover-frame mry-mb-20 mry-fo">
 												<div class="mry-badge">interior</div>
-												<img src="https://iceilsystems.com/wp-content/uploads/2020/10/stretch-ceiling-installation-1208x800-1.jpg"
+												<img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/10/stretch-ceiling-installation-1208x800-1.jpg"
 													alt="project">
 												<div class="mry-cover-overlay"></div>
 												<div class="mry-hover-links">
@@ -347,7 +347,7 @@
 										<div class="mry-card-item">
 											<div class="mry-card-cover-frame mry-mb-20 mry-fo">
 												<div class="mry-badge">repair</div>
-												<img src="https://iceilsystems.com/wp-content/uploads/2020/10/2ff4d9357f7be17eaeed5b322e1d2c7a.jpg"
+												<img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/10/2ff4d9357f7be17eaeed5b322e1d2c7a.jpg"
 													alt="project">
 												<div class="mry-cover-overlay"></div>
 												<div class="mry-hover-links">
@@ -374,7 +374,7 @@
 										<div class="mry-card-item">
 											<div class="mry-card-cover-frame mry-mb-20 mry-fo">
 												<div class="mry-badge">architecture repair</div>
-												<img src="https://iceilsystems.com/wp-content/uploads/2020/10/stretch-ceiling-installation-1208x800-1.jpg"
+												<img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/10/stretch-ceiling-installation-1208x800-1.jpg"
 													alt="project">
 												<div class="mry-cover-overlay"></div>
 												<div class="mry-hover-links">
@@ -402,7 +402,7 @@
 											<div class="mry-card-cover-frame mry-mb-20 mry-fo">
 												<div class="mry-badge">repair</div>
 												<div class="mry-cover-overlay"></div>
-												<img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2020/11/Untitled-design-2020-11-07T124453.896.png?resize=1200%2C795&ssl=1"
+												<img alt="our project"  src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2020/11/Untitled-design-2020-11-07T124453.896.png?resize=1200%2C795&ssl=1"
 													alt="project">
 												<div class="mry-hover-links">
 													<a href="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2020/11/Untitled-design-2020-11-07T124453.896.png?resize=1200%2C795&ssl=1"
@@ -428,7 +428,7 @@
 										<div class="mry-card-item">
 											<div class="mry-card-cover-frame mry-mb-20 mry-fo">
 												<div class="mry-badge">architecture interior</div>
-												<img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2020/11/Untitled-design-2020-11-07T124453.896.png?resize=1200%2C795&ssl=1"
+												<img alt="our project"  src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2020/11/Untitled-design-2020-11-07T124453.896.png?resize=1200%2C795&ssl=1"
 													alt="project">
 												<div class="mry-cover-overlay"></div>
 												<div class="mry-hover-links">
@@ -455,7 +455,7 @@
 										<div class="mry-card-item">
 											<div class="mry-card-cover-frame mry-mb-20 mry-fo">
 												<div class="mry-badge">interior</div>
-												<img src="img/project-gallery/pics/Splunk.jpg" alt="project">
+												<img alt="our project"  src="img/project-gallery/pics/Splunk.jpg" alt="project">
 												<div class="mry-cover-overlay"></div>
 												<div class="mry-hover-links">
 													<a href="img/project-gallery/pics/Splunk.jpg" data-fancybox="works"

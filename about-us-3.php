@@ -320,7 +320,7 @@
 
                             <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
                                 <div class="member d-flex align-items-start">
-                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
+                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt="Vivek"></div>
                                 <div class="member-info">
                                     <h4>Vivek</h4>
                                     <span>Chief Executive Officer</span>
@@ -337,7 +337,7 @@
 
                             <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
                                 <div class="member d-flex align-items-start">
-                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
+                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt="Raj"></div>
                                 <div class="member-info">
                                     <h4>Raj</h4>
                                     <span>Product Manager</span>
@@ -379,49 +379,49 @@
                             <div class="row-of-why">
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="images/logo/01.jpg">
+                                        <img src="images/logo/01.jpg" alt="ISO Certified">
                                     </div>
                                     <h4>ISO Certified</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="images/logo/02.jpg">
+                                        <img src="images/logo/02.jpg" alt="Reach Complaint">
                                     </div>
                                     <h4>Reach Complaint</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="images/logo/08.jpg">
+                                        <img src="images/logo/08.jpg" alt="10 Years Warranty">
                                     </div>
                                     <h4>10 Years Warranty</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="images/logo/03.jpg">
+                                        <img src="images/logo/03.jpg" alt="Complaint">
                                     </div>
                                     <h4>Complaint</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="images/logo/04.jpg">
+                                        <img src="images/logo/04.jpg" alt="VOC Certified">
                                     </div>
                                     <h4>VOC Certified</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="images/logo/05.jpg">
+                                        <img src="images/logo/05.jpg" alt="European Certified">
                                     </div>
                                     <h4>European Certified</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="images/logo/06.jpg">
+                                        <img src="images/logo/06.jpg" alt="Flame Retardant b-sl-d0">
                                     </div>
                                     <h4>Flame Retardant b-sl-d0</h4>
                                 </div>
                                 <div class="image-div">
                                     <div class="image-div-why">
-                                        <img src="images/logo/07.jpg">
+                                        <img src="images/logo/07.jpg" alt="Recyclable">
                                     </div>
                                     <h4>Recyclable</h4>
                                 </div>
@@ -429,7 +429,7 @@
                             <div class="row">
                                 <div class="col-md-12 col-sm-12 col-xs-12">
                                     <div class="">
-                                        <img src="images/top5-projects/whoweare.jpg">
+                                        <img src="images/top5-projects/whoweare.jpg" alt="Competitive">
                                     </div>
                                 </div>
                             </div>
@@ -469,7 +469,7 @@
                      <!--category start-->
                      <div class="box-wrapper d-none">
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/Di8-wsMW4AEs98X.jpg" alt="">
+                            <img src="img/project-gallery/Di8-wsMW4AEs98X.jpg" alt="Lacquer Stretch Ceiling">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -483,7 +483,7 @@
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/03.jpg">
+                            <img src="img/project-gallery/pics/03.jpg" alt="Translucent stretch ceiling">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -496,7 +496,7 @@
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/01 (1).jpeg">
+                            <img src="img/project-gallery/pics/01 (1).jpeg" alt="Acoustic Ceiling ">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -509,7 +509,7 @@
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/Stretch-Ceilings-Ltd_Project-Ashurst-Tunable-Light-Boxes_1200.jpg">
+                            <img src="img/project-gallery/pics/Stretch-Ceilings-Ltd_Project-Ashurst-Tunable-Light-Boxes_1200.jpg" alt="Stretch Ad - Sign box">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -522,7 +522,7 @@
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/Di8-wsMW4AEs98X.jpg" alt="">
+                            <img src="img/project-gallery/Di8-wsMW4AEs98X.jpg" alt="Printed Stretch Ceiling">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -536,7 +536,7 @@
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/Splunk.jpg">
+                            <img src="img/project-gallery/pics/Splunk.jpg" alt="Architectural lights">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -549,7 +549,7 @@
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/P0A0566 (1).jpg">
+                            <img src="img/project-gallery/pics/P0A0566 (1).jpg" alt="3D Form">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -563,7 +563,7 @@
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/04 (1).jpg">
+                            <img src="img/project-gallery/pics/04 (1).jpg" alt="Wall Graphics">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -800,28 +800,28 @@
                             <div class="carousel" style="height:0px !important;">
                               <div class="carousel__item carousel__item carousel__item--matcha">
                                 <div>
-                                  <img src="images/top5-projects/1.jpeg">
+                                  <img src="images/top5-projects/1.jpeg" alt="our top 5 project">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--strawberry">
                                 <div>
-                                    <img src="images/top5-projects/2.jpeg">
+                                    <img src="images/top5-projects/2.jpeg" alt="our top 5 project">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--vanilla">
                                 <div>
-                                    <img src="images/top5-projects/3.jpg">
+                                    <img src="images/top5-projects/3.jpg" alt="our top 5 project">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--mango">
                                 <div>
-                                    <img src="images/top5-projects/4.png">
+                                    <img src="images/top5-projects/4.png" alt="our top 5 project">
                         
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--chocolate">
                                 <div>
-                                    <img src="images/top5-projects/5.jpeg">
+                                    <img src="images/top5-projects/5.jpeg" alt="our top 5 project">
 
                                   <!-- <div class="carousel__item__name">Chocolate</div> -->
                                 </div>

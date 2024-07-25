@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="Arc/Wave linear lighting, flexible lighting design, dynamic illumination, modern interior lighting, versatile lighting solutions, residential lighting, commercial lighting, office lighting, curved lighting fixtures, aesthetic lighting options">
 
 </head>
 

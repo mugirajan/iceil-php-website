@@ -76,7 +76,7 @@
                             <div id="nav_menu-2" class="widget widget_nav_menu inteco-widget">
                                 <div class="grayscale-footer-image">
                                     <img class="alignnone size-full wp-image-5803" src="img/light/iceil-logo-white.png"
-                                        alt="" width="130" height="34">
+                                        alt="logo" width="130" height="34">
                                 </div>
                                 <h3 class="inteco-widget-title-footer">Quick Links</h3><span class="clear"></span>
                                 <div class="menu-services-container">
@@ -152,10 +152,10 @@
                         <div class="image-certificate">
                             <div class="row image-certificate-div">
                                 <div class="col-lg-6 certificate-div d-flex justify-content-end">
-                                    <img class="image1" src="images/clutch.png">
+                                    <img class="image1" src="images/clutch.png" alt="certicate">
                                 </div>
                                 <div class="col-lg-6 certificate-div">
-                                <img class="image2" src="images/white.png">
+                                <img class="image2" src="images/white.png" alt="certicate">
                                 </div>
                             </div>
                         </div>

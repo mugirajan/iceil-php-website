@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="3D form stretch ceiling, multilevel framing structures, flexible ceiling materials, stretch film ceilings, printed film ceilings, illuminated stretch ceilings, custom ceiling designs, innovative architectural ceilings, textured ceilings, unique ceiling shapes, sculptural ceiling elements, geometric patterns, creative ceiling designs, personalized ceiling motifs, versatile ceiling solutions">
 
 </head>
 <?php
@@ -128,7 +129,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/01.jpg" alt="" width="600" height="600" title="3D Forms" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/01.jpg" alt="3D Forms" width="600" height="600" title="3D Forms" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -199,7 +200,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/ST-FF-1024x1024 (1).jpg" alt="" width="600" height="600" title="3D Forms" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/ST-FF-1024x1024 (1).jpg" alt="3D Forms" width="600" height="600" title="3D Forms" /></div>
                                         </div>
                                     </div>
                                 </div>

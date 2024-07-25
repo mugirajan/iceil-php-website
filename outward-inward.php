@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="outward linear lighting, inward linear lighting, downward linear lighting, flexible lighting solutions, bendable lighting fixtures, versatile lighting designs, residential lighting, commercial lighting, office lighting, adjustable lighting direction, functional lighting solutions, aesthetic lighting options">
 
 </head>
 

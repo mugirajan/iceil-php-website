@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="custom wall graphics, personalized wall art, premium fabric wall prints, seamless wall graphics, high-quality wall materials, elegant wall solutions, join-free wall installations, custom image prints, unique wall decor, stylish wall transformations, artistic wall designs, personalized interior decoration">
 
 </head>
 
@@ -112,7 +113,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-21.png" alt="" width="600" height="600" title="Wall Graphics" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-21.png" alt="Wall Graphics" width="600" height="600" title="Wall Graphics" /></div>
                                         </div>
                                     </div>
                                 </div>

@@ -1,6 +1,8 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="light box, multilevel framing structures, stretch film ceilings, printed film ceilings, unique ceiling designs, illuminated stretch forms, custom 3D ceilings, advanced fabrication technologies, space enhancement, ceiling and wall installations">
+
 </head>
 
 <?php

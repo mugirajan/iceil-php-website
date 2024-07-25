@@ -56,7 +56,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                            <img src="https://img.freepik.com/free-photo/two-businesspeople-shaking-hands-indoors_1423-209.jpg?w=740" alt="">
+                            <img src="https://img.freepik.com/free-photo/two-businesspeople-shaking-hands-indoors_1423-209.jpg?w=740" alt="Hand Shaking">
                             </div>
                         </div>
                     </section>
@@ -70,19 +70,19 @@
                             <div class="row row-of-you" style="margin:0 auto">
                                 <div class="col-lg-4 col-md-4 col-sm-12 col-of-you">
                                     <div class="image-of-you">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/3504/3504016.png" alt="">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/3504/3504016.png" alt="Access to Expertise">
                                     </div>
                                    <h5 class="text-center">Access to Expertise</h5>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-12 col-of-you">
                                     <div class="image-of-you">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/1283/1283342.png" alt="">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/1283/1283342.png" alt="Innovative Products">
                                     </div>
                                     <h5 class="text-center">Innovative Products</h5>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-12 col-of-you">
                                     <div class="image-of-you">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/950/950299.png" alt="">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/950/950299.png" alt="Continuous Support">
                                     </div>
                                    <h5 class="text-center">Continuous Support</h5>
                                 </div>
@@ -109,7 +109,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/1.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/1.png" alt="Chennai-franchise" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -134,7 +134,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/2.png" alt="" width="600"
+                                                                <a><img src="img/photoshop-franchise/2.png" alt="Hyderabad-franchise" width="600"
                                                                         height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -161,7 +161,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix ">
                                                             <div
                                                                 class="image-for-partner gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                                <a><img src="img/photoshop-franchise/3.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/3.png" alt="Kolkata-franchise" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -186,7 +186,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/4.png" alt="" width="600"
+                                                                <a><img src="img/photoshop-franchise/4.png" alt="Coimbatore-franchise" width="600"
                                                                         height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -212,7 +212,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/5.png" alt="" width="600"
+                                                                <a><img src="img/photoshop-franchise/5.png" alt="Bhubaneswar-franchise" width="600"
                                                                         height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -238,7 +238,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/6.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/6.png" alt="Goa" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -264,7 +264,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/7.png" alt="" width="600"
+                                                                <a><img src="img/photoshop-franchise/7.png" alt="Tirunelveli" width="600"
                                                                         height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -290,7 +290,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/8.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/8.png" alt="Lucknow" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -316,7 +316,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/9.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/9.png" alt="Guwahati" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -346,7 +346,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/Rk Enterprises Trichy.png" alt="" width="600"
+                                                                <a><img src="img/photoshop-franchise/Rk Enterprises Trichy.png" alt="Trichy" width="600"
                                                                         height="auto" title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -374,7 +374,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/10.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/10.png" alt="Bangalore" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -402,7 +402,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/11.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/11.png" alt="Bangalore" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -432,7 +432,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/12.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/12.png" alt="Delhi" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -460,7 +460,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/13.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/13.png" alt="Hubli" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -488,7 +488,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/14.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/14.png" alt="Madurai" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -515,7 +515,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/15.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/15.png" alt="Punjab" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -543,7 +543,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/36.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/36.png" alt="Visakhapatnam" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -572,7 +572,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/17.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/17.png" alt="Bangalore" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -603,7 +603,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/18.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/18.png" alt="Pondicherry" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -637,7 +637,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/19.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/19.png" alt="Vijayawada" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -670,7 +670,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/20.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/20.png" alt="Erode" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -701,7 +701,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/21.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/21.png" alt="Vellore" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -732,7 +732,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/22.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/22.png" alt="Trivandrum" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -763,7 +763,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/23.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/23.png" alt="Salem" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -795,7 +795,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/24.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/24.png" alt="Jaipur" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -825,7 +825,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/25.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/25.png" alt="Vijayapura" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -856,7 +856,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/26.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/26.png" alt="Calicut" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -891,7 +891,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/28.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/28.png" alt="Indore" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -922,7 +922,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/29.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/29.png" alt="Rajahmundry" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -954,7 +954,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/31.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/31.png" alt="Pune" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -983,7 +983,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/32.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/32.png" alt="Udaipur" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -1009,7 +1009,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/33.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/33.png" alt="Kochi" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -1035,7 +1035,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/37.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/37.png" alt="Godhra" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -1061,7 +1061,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/34.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/34.png" alt="Mumbai" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -1087,7 +1087,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/35.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/35.png" alt="Patna" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -1114,7 +1114,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/38.png" alt="" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/38.png" alt="Raipur" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">

@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="mirror stretch ceiling, reflective ceiling surfaces, visually enlarging spaces, modern ceiling design, sleek aesthetic, amplifying natural light, depth-enhancing ceilings, sophisticated interior design, gold stretch ceiling, copper stretch ceiling, mirror finish ceilings">
 
 </head>
 

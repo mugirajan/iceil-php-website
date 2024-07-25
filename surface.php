@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="surface linear lighting, suspended linear lighting, bendable linear fixtures, versatile lighting configurations, flexible lighting solutions, residential lighting, commercial lighting, office lighting, tailored lighting options, efficient linear lighting, adaptable ceiling fixtures">
 
 </head>
 

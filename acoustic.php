@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="acoustic stretch ceiling, sound-absorbing ceiling, noise reduction ceiling, perforated fabric ceiling, acoustic design, office acoustics, auditorium acoustics, soundproofing, speech intelligibility, acoustic panels, customizable acoustic ceilings">
 
 </head>
 
@@ -79,7 +80,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="upload/hp6-flower-1.png" alt="" width="344" height="500" title="acoustic" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="upload/hp6-flower-1.png" alt="Sound Absorption" width="344" height="500" title="acoustic" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -90,7 +91,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 25px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/hp6-service-1.png" alt="" width="44" height="44" title="acoustic" /></div>
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/hp6-service-1.png" alt="Sound Absorption" width="44" height="44" title="acoustic" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Sound Absorption</h3></div>
@@ -102,7 +103,7 @@
                                     </div>
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 25px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/hp6-service-3.png" alt="" width="47" height="40" title="acoustic" /></div>
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/hp6-service-3.png" alt="Materials" width="47" height="40" title="acoustic" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Materials</h3></div>
@@ -120,7 +121,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 25px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-top: 3px;"><img src="upload/hp6-service-2.png" alt="" width="40" height="40" title="acoustic" /></div>
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-top: 3px;"><img src="upload/hp6-service-2.png" alt="Design Options" width="40" height="40" title="acoustic" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Design Options</h3></div>
@@ -132,7 +133,7 @@
                                     </div>
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 22px;"><img src="upload/hp6-service-4.png" alt="" width="32" height="44" title="acoustic" /></div>
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 22px;"><img src="upload/hp6-service-4.png" alt="Improved Speech Intelligibility" width="32" height="44" title="acoustic" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Improved Speech Intelligibility</h3></div>

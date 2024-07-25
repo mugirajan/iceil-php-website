@@ -78,7 +78,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-46.png" alt="" width="700" height="935" title="port-1" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-46.png" alt="" width="700" height="935" title="port-1" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                
@@ -93,7 +93,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-45.png" alt="" width="700" height="935" title="gdtography-310706-unsplash" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-45.png" alt="" width="700" height="935" title="gdtography-310706-unsplash" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                 
@@ -108,7 +108,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-44.png" alt="" width="700" height="935" title="shutterstock_627788162" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-44.png" alt="" width="700" height="935" title="shutterstock_627788162" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                 
@@ -123,7 +123,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-43.png" alt="" width="700" height="935" title="hutomo-abrianto-576207-unsplash" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-43.png" alt="" width="700" height="935" title="hutomo-abrianto-576207-unsplash" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                 
@@ -138,7 +138,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-42.png" alt="" width="700" height="935" title="shutterstock_578977615" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-42.png" alt="" width="700" height="935" title="shutterstock_578977615" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                
@@ -153,7 +153,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-41.png" alt="" width="700" height="935" title="shutterstock_631879034" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-41.png" alt="" width="700" height="935" title="shutterstock_631879034" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                               
@@ -168,7 +168,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-40.png" alt="" width="700" height="935" title="tobias-van-schneider-230813-unsplash" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-40.png" alt="" width="700" height="935" title="tobias-van-schneider-230813-unsplash" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                 
@@ -183,7 +183,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-39.png" alt="" width="700" height="935" title="Image Title" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-39.png" alt="" width="700" height="935" title="Image Title" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                 
@@ -198,7 +198,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-38.png" alt="" width="700" height="935" title="Image Title" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-38.png" alt="" width="700" height="935" title="Image Title" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                 
@@ -215,7 +215,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-37.png" alt="" width="700" height="935" title="Image Title" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-37.png" alt="" width="700" height="935" title="Image Title" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                
@@ -231,7 +231,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-36.png" alt="" width="700" height="935" title="Image Title" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-36.png" alt="" width="700" height="935" title="Image Title" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                
@@ -246,7 +246,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-35.png" alt="" width="700" height="935" title="Image Title" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-35.png" alt="" width="700" height="935" title="Image Title" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                
@@ -261,7 +261,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-30.png" alt="" width="700" height="935" title="Image Title" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-30.png" alt="" width="700" height="935" title="Image Title" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >    
                                                                 <span class="gdlr-core-portfolio-icon-wrap">
@@ -275,7 +275,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-33.png" alt="" width="700" height="935" title="Image Title" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-33.png" alt="" width="700" height="935" title="Image Title" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                 <span class="gdlr-core-portfolio-icon-wrap">
@@ -293,7 +293,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-32.png" alt="" width="700" height="935" title="Image Title" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-32.png" alt="" width="700" height="935" title="Image Title" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                 
@@ -312,7 +312,7 @@
                                             <div class="gdlr-core-portfolio-modern">
                                                 <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
                                                     <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover">
-                                                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-31.png" alt="" width="700" height="935" title="Image Title" />
+                                                        <img alt="our project"  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-31.png" alt="" width="700" height="935" title="Image Title" />
                                                         <span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js">
                                                             <span class="gdlr-core-image-overlay-content" >
                                                                 
