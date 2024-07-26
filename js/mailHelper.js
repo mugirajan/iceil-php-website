@@ -305,34 +305,34 @@ $(document).ready(function () {
 
             console.log("iopp");
             $(".text-danger").remove();
-            let name = $("#name").val();
-            let email = $("#email").val();
+            let nameone = $("#nameone").val();
+            let emailone = $("#emailone").val();
             let isvalid = true;
 
-            if(name == "") {
-                $("#name").after('<p class="text-danger"> Name field is required</p>');
-                $('#name').closest('.form-group').addClass('has-error');
+            if(nameone == "") {
+                $("#nameone").after('<p class="text-danger"> Name field is required</p>');
+                $('#nameone').closest('.form-group').addClass('has-error');
                 isvalid = false
             }	else {
-                $("#name").find('.text-danger').remove();
-                $("#name").closest('.form-group').addClass('has-success');
+                $("#nameone").find('.text-danger').remove();
+                $("#nameone").closest('.form-group').addClass('has-success');
             }	
 
-            if(email == "") {
-                $("#email").after('<p class="text-danger"> Email field is required</p>');
-                $('#email').closest('.form-group').addClass('has-error');
+            if(emailone == "") {
+                $("#emailone").after('<p class="text-danger"> Email field is required</p>');
+                $('#emailone').closest('.form-group').addClass('has-error');
                 isvalid = false
             }	else {
-                $("#email").find('.text-danger').remove();
-                $("#email").closest('.form-group').addClass('has-success');
+                $("#emailone").find('.text-danger').remove();
+                $("#emailone").closest('.form-group').addClass('has-success');
             }	
 
 
             if(isvalid != false) {
 
                 let formData = {
-                    name: name,
-                    email: email,
+                    nameone: nameone,
+                    emailone: emailone,
                     type: "brochureForm"
                 }
 
@@ -355,7 +355,140 @@ $(document).ready(function () {
                     },
                     error: function(params) {
                         showToast('Please fill all the field');
-                        $("#franchiseForm")[0].reset();
+                        $("#brochureForm")[0].reset();
+                        console.log("ERROR: ", params);
+                    }
+                })
+            }
+            else {
+                console.log("Please fill out all the required fields...!","error")
+            }
+            return false;
+        });
+        //brochure form end
+
+        //brochure 2 form start
+        $("#brochuretwoForm").unbind("submit").bind("submit", function() {
+
+            $(".text-danger").remove();
+            let nametwo = $("#nametwo").val();
+            let emailtwo = $("#emailtwo").val();
+            let isvalid = true;
+
+            if(nametwo == "") {
+                $("#nametwo").after('<p class="text-danger"> Name field is required</p>');
+                $('#nametwo').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#nametwo").find('.text-danger').remove();
+                $("#nametwo").closest('.form-group').addClass('has-success');
+            }	
+
+            if(emailtwo == "") {
+                $("#emailtwo").after('<p class="text-danger"> Email field is required</p>');
+                $('#emailtwo').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#emailtwo").find('.text-danger').remove();
+                $("#emailtwo").closest('.form-group').addClass('has-success');
+            }	
+
+
+            if(isvalid != false) {
+
+                let formData = {
+                    nametwo: nametwo,
+                    emailtwo: emailtwo,
+                    type: "brochuretwoForm"
+                }
+
+                $.ajax({
+                    url: "./php/mailController.php",
+                    data: formData,
+                    type: "post",
+                    dataType: "json",
+                    success: function(params) {
+                        if(params.success) {
+                            
+                            showToast('Form submitted successfully!', 'success');
+                            $("#brochuretwoForm")[0].reset();
+                            $("#download2Modal").modal('hide');
+                        }
+                        else {
+                            showToast(`Error: ${params.message}`, 'error');
+                            $("#brochuretwoForm")[0].reset();
+                        }
+                    },
+                    error: function(params) {
+                        showToast('Please fill all the field');
+                        $("#brochuretwoForm")[0].reset();
+                        console.log("ERROR: ", params);
+                    }
+                })
+            }
+            else {
+                console.log("Please fill out all the required fields...!","error")
+            }
+            return false;
+        });
+        //brochure form end
+
+        //brochure 3 form start
+        $("#brochurethreeForm").unbind("submit").bind("submit", function() {
+
+            console.log("iopp");
+            $(".text-danger").remove();
+            let namethree = $("#namethree").val();
+            let emailthree = $("#emailthree").val();
+            let isvalid = true;
+
+            if(namethree == "") {
+                $("#namethree").after('<p class="text-danger"> Name field is required</p>');
+                $('#namethree').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#namethree").find('.text-danger').remove();
+                $("#namethree").closest('.form-group').addClass('has-success');
+            }	
+
+            if(emailthree == "") {
+                $("#emailthree").after('<p class="text-danger"> Email field is required</p>');
+                $('#emailthree').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#emailthree").find('.text-danger').remove();
+                $("#emailthree").closest('.form-group').addClass('has-success');
+            }	
+
+
+            if(isvalid != false) {
+
+                let formData = {
+                    namethree: namethree,
+                    emailthree: emailthree,
+                    type: "brochurethreeForm"
+                }
+
+                $.ajax({
+                    url: "./php/mailController.php",
+                    data: formData,
+                    type: "post",
+                    dataType: "json",
+                    success: function(params) {
+                        if(params.success) {
+                            
+                            showToast('Form submitted successfully!', 'success');
+                            $("#brochurethreeForm")[0].reset();
+                            $("#download3Modal").modal('hide');
+                        }
+                        else {
+                            showToast(`Error: ${params.message}`, 'error');
+                            $("#brochure3Form")[0].reset();
+                        }
+                    },
+                    error: function(params) {
+                        showToast('Please fill all the field');
+                        $("#brochurethreeForm")[0].reset();
                         console.log("ERROR: ", params);
                     }
                 })

@@ -101,11 +101,7 @@
     
     });
     
-    $(".btn-download").click(function() {
-        let pdfPath = $(this).data("pdf");
-        $("#pdfFile").val(pdfPath);
-    });
-
+    //brochure one
     $("#brochureForm").unbind("submit").bind("submit", function(event) {
         event.preventDefault();
 
@@ -133,6 +129,65 @@
             }
         });
     });
+
+    //brochure two
+    $("#brochuretwoForm").unbind("submit").bind("submit", function(event) {
+        event.preventDefault();
+
+        let form = new FormData(this);
+
+        $.ajax({
+            url: "./php/mailController.php",
+            type: "POST",
+            data: form,
+            processData: false,
+            contentType: false,
+            dataType: 'json',
+            success: function(response) {
+                console.log("Success: ", response);
+                if(response.success) {
+                    showToast('Form submitted successfully!', 'success');
+                    $("#brochuretwoForm")[0].reset();
+                } else {
+                    showToast(`Error: ${response.message}`, 'error');
+                }
+            },
+            error: function(response) {
+                showToast('Failed to submit form. Please try again later.', 'error');
+                console.log("Error: ", response);
+            }
+        });
+    });
+
+    //brochure three
+    $("#brochurethreeForm").unbind("submit").bind("submit", function(event) {
+        event.preventDefault();
+
+        let form = new FormData(this);
+
+        $.ajax({
+            url: "./php/mailController.php",
+            type: "POST",
+            data: form,
+            processData: false,
+            contentType: false,
+            dataType: 'json',
+            success: function(response) {
+                console.log("Success: ", response);
+                if(response.success) {
+                    showToast('Form submitted successfully!', 'success');
+                    $("#brochurethreeForm")[0].reset();
+                } else {
+                    showToast(`Error: ${response.message}`, 'error');
+                }
+            },
+            error: function(response) {
+                showToast('Failed to submit form. Please try again later.', 'error');
+                console.log("Error: ", response);
+            }
+        });
+    });
+
 });
 
 

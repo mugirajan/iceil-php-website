@@ -25,6 +25,14 @@ if (isset($_POST["type"])) {
         case "brochureForm":
             $res = $sm->brochureRequest($_POST);
             break;
+        
+        case "brochuretwoForm":
+            $res = $sm->brochuretwoRequest($_POST);
+            break;
+
+        case "brochurethreeForm":
+            $res = $sm->brochurethreeRequest($_POST);
+            break;
 
             
         default:

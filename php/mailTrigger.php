@@ -116,26 +116,22 @@ class sndMail
         return $this->valid;
     }
 
-
+    //mail from brochureRequest
     public function brochureRequest($data) {
         $mail = $this->configureMailer();
     
         try {
-            // Attach the specific PDF file
-            if (!isset($data['pdfFile']) || empty($data['pdfFile'])) {
-                throw new Exception("PDF file path not provided.");
-            }
+            $pdfPath = '../images/Iceil_Technical Spec_Updated.pdf'; 
     
-            $pdfPath = $data['pdfFile'];
             if (!file_exists($pdfPath)) {
                 throw new Exception("Could not access file: $pdfPath");
             }
+    
             $mail->addAttachment($pdfPath, basename($pdfPath));
     
-            // Send email to user
-            $mail->addAddress($data['email']);
+            $mail->addAddress($data['emailone']);
             $mail->Subject = "Your Brochure Request";
-            $mail->Body = "Dear {$data['name']},\n\nThank you for your brochure request. Please find attached the brochure.\n\nThanks and Regards,\nTeam ICEIL";
+            $mail->Body = "Dear {$data['nameone']},\n\nThank you for your brochure request. Please find attached Corporate Brochure.\n\nThanks and Regards,\nTeam ICEIL";
     
             if (!$mail->send()) {
                 throw new Exception($mail->ErrorInfo);
@@ -144,8 +140,8 @@ class sndMail
             // Send email to admin
             $mail->clearAddresses();
             $mail->addAddress("mugirajan95@gmail.com");
-            $mail->Subject = "Brochure Request from {$data['name']}";
-            $mail->Body = "Name: {$data['name']}\nEmail: {$data['email']}";
+            $mail->Subject = "Brochure Request from {$data['nameone']}";
+            $mail->Body = "Name: {$data['nameone']}\nEmail: {$data['emailone']}";
     
             if (!$mail->send()) {
                 throw new Exception($mail->ErrorInfo);
@@ -162,7 +158,87 @@ class sndMail
     }
     
     
+     //mail from brochureRequest two
+     public function brochuretwoRequest($data) {
+        $mail = $this->configureMailer();
     
+        try {
+            $pdfPath = '../images/Iceil_Technical Spec_Updated.pdf'; 
+    
+            if (!file_exists($pdfPath)) {
+                throw new Exception("Could not access file: $pdfPath");
+            }
+    
+            $mail->addAttachment($pdfPath, basename($pdfPath));
+    
+            $mail->addAddress($data['emailtwo']);
+            $mail->Subject = "Your Brochure Request";
+            $mail->Body = "Dear {$data['nametwo']},\n\nThank you for your brochure request. Please find attached Lighting Brochure.\n\nThanks and Regards,\nTeam ICEIL";
+    
+            if (!$mail->send()) {
+                throw new Exception($mail->ErrorInfo);
+            }
+    
+            // Send email to admin
+            $mail->clearAddresses();
+            $mail->addAddress("mugirajan95@gmail.com");
+            $mail->Subject = "Brochure Request from {$data['nametwo']}";
+            $mail->Body = "Name: {$data['nametwo']}\nEmail: {$data['emailtwo']}";
+    
+            if (!$mail->send()) {
+                throw new Exception($mail->ErrorInfo);
+            }
+    
+            $this->valid['success'] = true;
+            $this->valid['message'] = "Brochure request sent successfully.";
+        } catch (Exception $e) {
+            error_log("Error in brochureRequest: " . $e->getMessage());
+            $this->valid['message'] = "Failed to send brochure request: " . $e->getMessage();
+        }
+    
+        return $this->valid;
+    }
+
+     //mail from brochureRequest
+     public function brochurethreeRequest($data) {
+        $mail = $this->configureMailer();
+    
+        try {
+            $pdfPath = '../images/Iceil_Technical Spec_Updated.pdf'; 
+    
+            if (!file_exists($pdfPath)) {
+                throw new Exception("Could not access file: $pdfPath");
+            }
+    
+            $mail->addAttachment($pdfPath, basename($pdfPath));
+    
+            $mail->addAddress($data['emailthree']);
+            $mail->Subject = "Your Brochure Request";
+            $mail->Body = "Dear {$data['namethree']},\n\nThank you for your brochure request. Please find attached Technical Spec.\n\nThanks and Regards,\nTeam ICEIL";
+    
+            if (!$mail->send()) {
+                throw new Exception($mail->ErrorInfo);
+            }
+    
+            // Send email to admin
+            $mail->clearAddresses();
+            $mail->addAddress("mugirajan95@gmail.com");
+            $mail->Subject = "Brochure Request from {$data['namethree']}";
+            $mail->Body = "Name: {$data['namethree']}\nEmail: {$data['emailthree']}";
+    
+            if (!$mail->send()) {
+                throw new Exception($mail->ErrorInfo);
+            }
+    
+            $this->valid['success'] = true;
+            $this->valid['message'] = "Brochure request sent successfully.";
+        } catch (Exception $e) {
+            error_log("Error in brochureRequest: " . $e->getMessage());
+            $this->valid['message'] = "Failed to send brochure request: " . $e->getMessage();
+        }
+    
+        return $this->valid;
+    }
 
 }
 ?>

@@ -87,42 +87,45 @@
             </div>
 
             <div class="card-section-for-download">
-    <h3 class="text-center">Iceil Brochure</h3><br>
-    <div class="row">
-        <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
-            <h5>Corporate Brochure</h5>
-            <a class="card" href="img/project-gallery/pics/01 (1).jpeg" download>
-                <img src="img/project-gallery/pics/01 (1).jpeg" alt="Corporate Brochure">
-            </a><br>
-            <div class="input-button">
-                <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#downloadModal" data-pdf="images/blog-page/iceil.pdf">Download</button>
+                <h3 class="text-center">Iceil Brochure</h3><br>
+                <div class="row">
+                    <!--brochure one-->
+                    <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
+                        <h5>Corporate Brochure</h5>
+                        <a class="card" href="img/project-gallery/pics/01 (1).jpeg" download>
+                            <img src="img/project-gallery/pics/01 (1).jpeg" alt="Corporate Brochure">
+                        </a><br>
+                        <div class="input-button">
+                            <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#downloadModal">Download</button>
+                        </div>
+                    </div>
+                    <!--brochure 2-->
+                    <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
+                        <h5>Lighting Brochure</h5>
+                        <a class="card" href="img/project-gallery/pics/02a.jpg" download>
+                            <img src="img/project-gallery/pics/02a.jpg" alt="Lighting Brochure">
+                        </a><br>
+                        <div class="input-button">
+                            <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#download2Modal" >Download</button>
+                        </div>
+                    </div>
+                    <!--brochure 3-->
+                    <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
+                        <h5>Technical Spec</h5>
+                        <a class="card" href="img/project-gallery/pics/03.jpg" download>
+                            <img src="img/project-gallery/pics/03.jpg" alt="Technical Spec">
+                        </a><br>
+                        <div class="input-button">
+                            <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#download3Modal">Download</button>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
-            <h5>Lighting Brochure</h5>
-            <a class="card" href="img/project-gallery/pics/02a.jpg" download>
-                <img src="img/project-gallery/pics/02a.jpg" alt="Lighting Brochure">
-            </a><br>
-            <div class="input-button">
-                <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#downloadModal" data-pdf="images/blog-page/tech-brochure.pdf">Download</button>
-            </div>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
-            <h5>Technical Spec</h5>
-            <a class="card" href="img/project-gallery/pics/03.jpg" download>
-                <img src="img/project-gallery/pics/03.jpg" alt="Technical Spec">
-            </a><br>
-            <div class="input-button">
-                <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#downloadModal" data-pdf="images/blog-page/general-brochure.pdf">Download</button>
-            </div>
-        </div>
-    </div>
-</div>
 
 <!-- Brochure section end-->
 
 <div id="toast-container"></div>
-<!-- Modal -->
+<!-- Modal One-->
 <div class="modal fade" id="downloadModal" tabindex="-1" role="dialog" aria-labelledby="downloadModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -135,28 +138,83 @@
             <form id="brochureForm">
                 <div class="modal-body">
                     <div class="form-group">
-                        <label for="name">Enter Name*</label>
-                        <input type="text" class="form-control" id="name" name="name" placeholder="Enter Your Name" required>
+                        <label for="nameone">Enter Name*</label>
+                        <input type="text" class="form-control" id="nameone" name="nameone" placeholder="Enter Your Name" required>
                     </div>
                     <div class="form-group">
-                        <label for="email">Enter Email*</label>
-                        <input type="email" class="form-control" id="email" name="email" placeholder="Enter Your Email" required>
+                        <label for="emailone">Enter Email*</label>
+                        <input type="email" class="form-control" id="emailone" name="emailone" placeholder="Enter Your Email" required>
                     </div>
-                    <input type="hidden" id="pdfFile" name="pdfFile">
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <button type="submit" class="btn btn-primary">Send PDF</button>
+                    <button type="submit" class="btn btn-primary">Send Corporate Brochure</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- Modal 2-->
+<div class="modal fade" id="download2Modal" tabindex="-1" role="dialog" aria-labelledby="download2ModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="download2ModalLabel">Fill the form to get Brochure</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="brochuretwoForm">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="nametwo">Enter Name*</label>
+                        <input type="text" class="form-control" id="nametwo" name="nametwo" placeholder="Enter Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="emailtwo">Enter Email*</label>
+                        <input type="email" class="form-control" id="emailtwo" name="emailtwo" placeholder="Enter Your Email" required>
+                    </div>
+                    <input type="hidden" id="pdfFiletwo" name="pdfFiletwo">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Send Lighting Brochure's PDF</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- Modal 3-->
+<div class="modal fade" id="download3Modal" tabindex="-1" role="dialog" aria-labelledby="download3ModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="download3ModalLabel">Fill the form to get Brochure</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="brochurethreeForm">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="namethree">Enter Name*</label>
+                        <input type="text" class="form-control" id="namethree" name="namethree" placeholder="Enter Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="emailthree">Enter Email*</label>
+                        <input type="email" class="form-control" id="emailthree" name="emailthree" placeholder="Enter Your Email" required>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Send Technical Spec</button>
                 </div>
             </form>
         </div>
     </div>
 </div>
 
-
-
-
-
+<!-- Modal end-->
 
             
         <?php
