@@ -6719,6 +6719,28 @@ position: relative;
 overflow: hidden;
 height:70vh;
 }
+@media(min-width:600px){
+.certificate-div-one{
+	display:flex;
+	justify-content:flex-end;
+}
+}
+@media(max-width:599px){
+	.certificate-div-one{
+		display:flex;
+		justify-content:center;
+		padding:4px;
+	}
+	.certificate-div-two{
+		display:flex;
+		justify-content:center;
+		padding:4px;
+
+	}
+	.div-list-light{
+		padding-top:30px;
+	}
+	}
 
 .flex-for-footer{
 	border-right-width: 1px !important;
@@ -6756,7 +6778,6 @@ height:70vh;
 @media(max-width:800px) and (min-width:600px){
 	.flex-for-footer{
 		display: flex;
-		justify-content: center;
 		align-items: center;
 		text-align:left;
 		flex-wrap: wrap;
