@@ -78,7 +78,7 @@
                                             
                                         </li>
                                         
-                                        <li class="menu-item menu-item-has-children"><a href="#."
+                                        <li class="menu-item menu-item-has-children"><a href="#"
                                             class="mry-default-link">Architects</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item"><a href="StretchCeiling"

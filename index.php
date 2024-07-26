@@ -4,7 +4,7 @@
 <style>
 	@media(max-width:800px){
 		.mry-menu-button-frame .mry-menu-btn{
-		margin-top:-99px;
+		margin-top:-9px;
 	}
 	
 	}
@@ -19,12 +19,7 @@
 		}
 	}
 	@media (max-width: 500px) {
-    .mry-app .mry-top-panel {
-        display: block !important;
-    }
-	.row-of-none{
-		display:none !important;
-	}
+    
 	
 	}
 	.modal-backdrop.show body{
@@ -712,6 +707,8 @@
 
 	
     </script>
-
+	<?php
+        include "./shared/script.php"
+    ?>
 </body>
 </html>

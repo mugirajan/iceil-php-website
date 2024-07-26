@@ -101,6 +101,9 @@ body {
 		line-height: 22px;
 		color: black;
 	}
+	.mry-main-title-frame{
+		padding-right:27px !important;
+	}
 }
 .mry-main-title-frame{
 	padding-right:50px;
@@ -548,7 +551,7 @@ a, a:hover {
 }
 @media(max-width:1300px) and (min-width:800px){
 	.mry-app .mry-top-panel .mry-logo-frame a{
-		margin-top:-20px;
+		margin-top:-35px;
 	
 	}
 }
@@ -1105,6 +1108,21 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	height: 100vh;
 	width: 100%;
 }
+@media(max-width:600px){
+	.mry-project-slider-item .mry-main-title-frame {
+		/* height: 50vh; */
+	}
+	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title {
+		margin-left: -1px !important;
+		padding:20px 20px 80px 20px !important; 
+	}
+	.mry-project-slider-item .mry-project-frame .mry-cover-frame .mry-project-cover {
+		height: auto !important;
+	}
+	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title h1{
+		font-size:25px !important;
+	}
+}
 
 .mry-project-slider-item .mry-main-title-frame .mry-main-title {
 	width: 80%;
@@ -1128,6 +1146,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	.mry-project-slider-item .mry-project-frame .mry-cover-frame .mry-project-cover {
 		object-position: center !important;
 	}
+	
 }
 
 /*--- Slider Project after 768px ---*/
@@ -2574,7 +2593,12 @@ form.contFrm {
   padding:0 35px;
   margin: auto;
 }
-
+@media(max-width:600px){
+	form.contFrm {
+		padding:0 5px;
+		margin: auto;
+	  }
+}
 .inptFld {
   width: 100%;
   height: 50px;
@@ -2634,14 +2658,80 @@ form.contFrm {
 }
 
 
+@media (max-width: 600px) {
+	#collaboration{
+		margin-bottom:10px;
+	}
+	.transulecent{
+		font-size:35px !important;
+	}
+	.printedStretch{
+		font-size:27px !important;
+	}
+	.RGBdynamic{
+		font-size:28px !important;
+	}
+	.Acoustics{
+		font-size:27px !important;
+	}
+	.PrintedLacquer{
+		font-size:26px !important;
+	}
+	.ArtPerforated{
+		font-size:26px !important;
+	}
+	.Mirror{
+		font-size:27px !important;
+	}
+	.Graphics{
+		font-size:32px !important;
+	}
+	.Geometrical{
+		font-size:27px !important;
+	}
+	.ARC, .Surface, .Curved, .Outward{
+		font-size:27px !important;
+	}
+}
+@media (min-width: 601px) and (max-width: 800px){
+	.transulecent{
+		font-size:40px !important;
+	}
+	.printedStretch{
+		font-size:35px !important;
+	}
+	.RGBdynamic{
+		font-size:43px !important;
+	}
+	.Geometrical{
+		font-size:37px !important;
+	}
+	.ARC, .Surface, .Curved, .Outward{
+		font-size:35px !important;
+	}
+	
+}
+
+@media (min-width: 600px) {
+	#collaboration{
+		margin-right:10px;
+	}
+}
+
 @media (max-width: 991px) {
   .sec-pad {
-    padding: 20px 0 0px;
+    padding: 30px 0 20px;
   }
+.stretch-ceiling{
+	padding-top:20px;
+}
 
   .contact-sec .contact-ul li,
   .contact-ul b {
-    font-size: 18px;
+    font-size: 15px;
+  }
+  .contact-sec .contact-ul{
+	margin-left:0px;
   }
 
   .contact-sec .contact-ul i {

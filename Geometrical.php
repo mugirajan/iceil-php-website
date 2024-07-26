@@ -19,7 +19,7 @@
                     <div class="inteco-blog-title-content inteco-item-pdlr">
                         <div class="inteco-page-title-container-about-our">
                             <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                                <h1 class="inteco-page-title">Geometrical Shape Stretch ceiling
+                                <h1 class="inteco-page-title Geometrical">Geometrical Shape Stretch ceiling
                                 </h1>
                             </div>
                         </div>

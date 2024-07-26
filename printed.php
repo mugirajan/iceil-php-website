@@ -18,7 +18,7 @@
                     <div class="inteco-blog-title-content inteco-item-pdlr" >
                         <div class="inteco-page-title-container-about-our">
                             <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                                <h1 class="inteco-page-title">Printed Stretch Ceilings</h1>
+                                <h1 class="inteco-page-title printedStretch">Printed Stretch Ceilings</h1>
                             </div>
                         </div>
                     </div>

@@ -19,7 +19,7 @@
                     <div class="inteco-blog-title-content inteco-item-pdlr" >
                         <div class="inteco-page-title-container-about-our">
                             <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                                <h1 class="inteco-page-title">Custom Wall Graphics</h1>
+                                <h1 class="inteco-page-title Graphics">Custom Wall Graphics</h1>
                             </div>
                         </div>
                     </div>
@@ -112,7 +112,7 @@
                     </div>
                 </div>
             </div>
-            <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
+            <div class="gdlr-core-pbf-wrapper d-none" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
                 <div class="gdlr-core-pbf-background-wrap"></div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">

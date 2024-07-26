@@ -19,7 +19,7 @@
                     <div class="inteco-blog-title-content inteco-item-pdlr">
                         <div class="inteco-page-title-container-about-our">
                             <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                                <h1 class="inteco-page-title">Mirror Stretch Ceiling
+                                <h1 class="inteco-page-title Mirror">Mirror Stretch Ceiling
                                 </h1>
                             </div>
                         </div>

@@ -114,7 +114,7 @@
                                         <li class="menu-item"><a href="ArtPerforated">Art Perforated Ceiling</a></li>
                                         <li class="menu-item"><a href="Mirror">Mirror Stretch Ceiling</a></li>
                                         <li class="menu-item"><a href="Metal">Metal Perforated Ceiling</a></li>
-                                        <li class="menu-item"><a href="Signage">Signage lightbox</a></li>
+                                        <li class="menu-item"><a href="Fabric-Light-Boxes">Signage lightbox</a></li>
                                         <li class="menu-item"><a href="3DWallGraphics">Custom wall graphics</a></li>
 
                                     </ul>
@@ -151,10 +151,10 @@
                 <div class="inteco-copyright-wrapper" style="border-bottom:1px solid #faa41a;">
                         <div class="image-certificate">
                             <div class="row image-certificate-div">
-                                <div class="col-lg-6 certificate-div d-flex justify-content-end">
+                                <div class="col-lg-6 col-md-6 col-sm-6 certificate-div d-flex justify-content-end">
                                     <img class="image1" src="images/clutch.png" alt="certicate">
                                 </div>
-                                <div class="col-lg-6 certificate-div">
+                                <div class="col-lg-6 col-md-6 col-sm-6 certificate-div">
                                 <img class="image2" src="images/white.png" alt="certicate">
                                 </div>
                             </div>
