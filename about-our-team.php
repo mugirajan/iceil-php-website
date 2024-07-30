@@ -408,7 +408,7 @@
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
                                                                     style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                    <a>Branch:Bangalore</a></h3>
+                                                                    <a>Branch:Namakkal </a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">No: 1/147, Kavettipatti,
                                                                         Paramathi main road ,Namakkal ,
