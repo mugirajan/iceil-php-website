@@ -410,13 +410,9 @@
                                                                     style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
                                                                     <a>Branch:Bangalore</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                    style="font-size: 15px ;font-style: normal ;">No.296, 3rd cross,
-
-                                                                    10th main road,
-                                                                    
-                                                                    Gokul 1st stage 2nd phase,
-                                                                    
-                                                                    Bangalore – 560054.</div>
+                                                                    style="font-size: 15px ;font-style: normal ;">No: 1/147, Kavettipatti,
+                                                                        Paramathi main road ,Namakkal ,
+                                                                        Tamil Nadu ,India - 637003.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
                                                                 </div>
@@ -891,7 +887,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/28.png" alt="Indore" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/29.png" alt="Indore" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -922,7 +918,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/29.png" alt="Rajahmundry" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/28.png" alt="Rajahmundry" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">

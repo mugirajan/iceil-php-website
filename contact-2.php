@@ -323,7 +323,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img alt="partners-logo"  src="img/photoshop-franchise/28.png" alt="partners-logo">
+                                            <img alt="partners-logo"  src="img/photoshop-franchise/29.png" alt="partners-logo">
                                         </div>
                                         <h5 class="address-name">Indore</h5>
                                         <h6 class="mob-number">9926106016</h6>
@@ -332,7 +332,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img alt="partners-logo" src="img/photoshop-franchise/Rk Enterprises Trichy.png">
+                                            <img alt="partners-logo" src="img/photoshop-franchise/24.png">
                                         </div>
                                         <h5 class="address-name">Jaipur</h5>
                                         <h6 class="mob-number">9680066214</h6>
@@ -566,7 +566,7 @@ margin-bottom:20px;
                                 <div class="col-lg-2 col-md-4 col-sm-12">
                                     <div class="num-address">
                                         <div class="">
-                                            <img alt="partners-logo"  src="img/photoshop-franchise/34.png">
+                                            <img alt="partners-logo"  src="img/photoshop-franchise/38.png">
                                         </div>
                                         <h5 class="address-name">Raipur</h5>
                                         <h6 class="mob-number">942448383</h6>

@@ -96,9 +96,10 @@
                             </li>
                         </ul>
                     </li>
-                    <li class="menu-item "><a href="Fabric-Light-Boxes">Signage lightbox</a></li>
                     <li class="menu-item "><a href="3DWallGraphics">Custom Wall Graphics</a>
                     </li>
+                    <li class="menu-item "><a href="Fabric-Light-Boxes">Signage lightbox</a></li>
+                    
                     <li class="menu-item menu-item-has-children"><a href="#."
                             class="mry-default-link">Architect Area & Technical Infos</a>
                         <ul class="sub-menu">
@@ -246,10 +247,11 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="menu-item"><a href="Fabric-Light-Boxes"
-                                                class="mry-anima-link mry-default-link">Signage lightbox</a></li>
                                         <li class="menu-item"><a href="3DWallGraphics"
                                                 class="mry-anima-link mry-default-link">Custom Wall Graphics</a></li>
+                                        <li class="menu-item"><a href="Fabric-Light-Boxes"
+                                                class="mry-anima-link mry-default-link">Signage lightbox</a></li>
+                                        
                                         <li class="menu-item menu-item-has-children"><a href="#."
                                                 class="mry-default-link">Architect Area & Technical Infos</a>
                                             <ul class="sub-menu">

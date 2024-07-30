@@ -163,7 +163,7 @@ class sndMail
         $mail = $this->configureMailer();
     
         try {
-            $pdfPath = '../images/Iceil_Technical Spec_Updated.pdf'; 
+            $pdfPath = '../images/Iceil lighting brochure.pdf'; 
     
             if (!file_exists($pdfPath)) {
                 throw new Exception("Could not access file: $pdfPath");
