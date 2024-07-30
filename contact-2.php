@@ -40,7 +40,7 @@ margin-bottom:20px;
   Stretch Ceiling Jharkhand, Stretch Ceiling Kerala, Stretch Ceiling Maharashtra, Stretch Ceiling Madhya Pradesh, Stretch Ceiling Manipur, Stretch Ceiling Meghalay, Stretch Ceiling Nagaland,
   Stretch Ceiling Rajasthan, Stretch Ceiling Sikkim, Stretch Ceiling Tamil Nadu, Stretch Ceiling Tripura, Stretch Ceiling Telangana, Stretch Ceiling Uttar Pradesh,
   Stretch Ceiling Uttarakhand, Stretch Ceiling West Bengal, Stretch Ceiling Andaman, Stretch Ceiling Jammu and Kashmir, Stretch Ceiling Ladakh,
-  Stretch Ceiling Arunachal Pradesh ">
+  Stretch Ceiling Arunachal Pradesh,Stretch Ceiling ">
 </head>
 
 <?php
