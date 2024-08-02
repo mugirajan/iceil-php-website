@@ -408,7 +408,7 @@
                                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                                 <h3 class="gdlr-core-personnel-list-title"
                                                                     style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
-                                                                    <a>Branch:Namakkal </a></h3>
+                                                                    <a>Branch:Namakkal</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">No: 1/147, Kavettipatti,
                                                                         Paramathi main road ,Namakkal ,
@@ -1186,7 +1186,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-8">
-                                <a href="https://www.youtube.com/channel/UC_FNx9XaDA2yUyw9WgV3B4Q" target="_blank">
+                                <a href="https://www.youtube.com/playlist?list=PL2wd3eKmgLLPZxWACJPO3sG8UtAYTzPeA" target="_blank">
                                     <img style="width:100%" src="img/photoshop-franchise/franchise.jpg" alt="Video Poster" style="height: auto;">
                                 </a>
                             </div>
