@@ -101,6 +101,50 @@
                         <div class="cards-of-blog-like">
                         <a class="card-of-blog">
                             <div class="card-hero card-partner-height">
+                                <img alt="our project"  src="images/project-page/GOA Airport.jpg" width="288" />
+                            </div>
+                            <div class="card-header-blog">
+                                <h3>GOA Airport</h3>
+                            </div>
+                            <div class="card-body-blog">
+                                <P>MOPA GOA Airport, 1800 SQFT space of Printed Stretch Ceiling.</P>
+                            </div>
+                        </a>
+                        <a class="card-of-blog">
+                            <div class="card-hero card-partner-height">
+                                <img alt="our project"  src="images/project-page/kalaignar library.jpg" width="288" />
+                            </div>
+                                <div class="card-header-blog">
+                                    <h3>kalaignar library</h3>
+                                </div>
+                                <div class="card-body-blog">
+                                    <P>Kalaignar Library in Madurai - 1500 SQFT of  Printed Stretch Ceiling in the Entrance and Walking Lobby</P>
+                                </div>
+                        </a>
+                        <a class="card-of-blog">
+                            <div class="card-hero card-partner-height">
+                                <img alt="our project"  src="images/project-page/kauvery hospital.jpg" width="288" />
+                            </div>
+                            <div class="card-header-blog">
+                                <h3>kauvery hospital</h3>
+                            </div>
+                            <div class="card-body-blog">
+                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                            </div>
+                        </a>
+                        <a class="card-of-blog">
+                            <div class="card-hero card-partner-height">
+                                <img alt="our project"  src="images/project-page/Sun Beam School.jpg" width="288" />
+                            </div>
+                            <div class="card-header-blog">
+                                <h3>Sun Beam School</h3>
+                            </div>
+                            <div class="card-body-blog">
+                                <P>Sunbeam School in Vellore, 800 SQFT Customized Architectural Lighting Solutions.</P>
+                            </div>
+                        </a>
+                        <a class="card-of-blog">
+                            <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/DLF DownTown.jpg" width="288" />
                             </div>
                                 <div class="card-header-blog">
@@ -164,50 +208,6 @@
                             </div>
                             <div class="card-body-blog">
                                 <P>World Skill Center - Bhubaneswar - 2250 SQFT. Translucent Hexagon Panels - 1700 SQFT, Printed Stretch Ceiling in Board Room.</P>
-                            </div>
-                        </a>
-                        <a class="card-of-blog">
-                            <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/kalaignar library.jpg" width="288" />
-                            </div>
-                                <div class="card-header-blog">
-                                    <h3>kalaignar library</h3>
-                                </div>
-                                <div class="card-body-blog">
-                                    <P>Kalaignar Library in Madurai - 1500 SQFT of  Printed Stretch Ceiling in the Entrance and Walking Lobby</P>
-                                </div>
-                        </a>
-                        <a class="card-of-blog">
-                            <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/kauvery hospital.jpg" width="288" />
-                            </div>
-                            <div class="card-header-blog">
-                                <h3>kauvery hospital</h3>
-                            </div>
-                            <div class="card-body-blog">
-                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
-                            </div>
-                        </a>
-                        <a class="card-of-blog">
-                            <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/Sun Beam School.jpg" width="288" />
-                            </div>
-                            <div class="card-header-blog">
-                                <h3>Sun Beam School</h3>
-                            </div>
-                            <div class="card-body-blog">
-                                <P>Sunbeam School in Vellore, 800 SQFT Customized Architectural Lighting Solutions.</P>
-                            </div>
-                        </a>
-                        <a class="card-of-blog">
-                            <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/GOA Airport.jpg" width="288" />
-                            </div>
-                            <div class="card-header-blog">
-                                <h3>GOA Airport</h3>
-                            </div>
-                            <div class="card-body-blog">
-                                <P>MOPA GOA Airport, 1800 SQFT space of Printed Stretch Ceiling.</P>
                             </div>
                         </a>
                         </div>

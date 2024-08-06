@@ -51,7 +51,7 @@
                                 <h3>Expand your possibilities through a defined relationship</h3>
                                 <p>At ICEIL, we believe in the power of collaboration and partnership to unlock new opportunities and drive mutual success. By joining forces with us, you can expand your possibilities and achieve your goals with confidence.</p>
                                 <div class="button-div-hero">
-                                    <button class="inptBtndiv" id="collaboration"><a href="#collaboration">Partner collaboration</a></button>
+                                    <button class="inptBtndiv"><a href="#collaboration">Partner collaboration</a></button>
                                     <button class="inptBtndiv"><a href="#collaboration">Project collaboration</a></button>
                                 </div>
                             </div>
