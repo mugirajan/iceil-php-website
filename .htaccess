@@ -8,6 +8,7 @@ RewriteRule ^stretch-ceiling-manufacturer-india?$ about-us-3.php
 RewriteRule ^Projects?$ projects.php
 RewriteRule ^Partners?$ about-our-team.php
 RewriteRule ^Blogs?$ blog-full-left-sidebar-with-frame.php
+RewriteRule ^SingleBlog?$ standard-post-type.php
 RewriteRule ^ContactUs?$ contact-2.php
 RewriteRule ^Downloads?$ downloads.php
 

@@ -195,7 +195,7 @@
                                                                     <a>Branch: Coimbatore</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">27/437, Mettupalayam Road,Opp. Decor Point, R.S Puram,
-                                                                    Coimbatore, Tamil Nadu 641002, Pan no:  AULPS8908E.
+                                                                    Coimbatore, Tamil Nadu 641002.
                                                                     </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -273,7 +273,7 @@
                                                                     <a>Branch:Tirunelveli</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">No 17,KAS
-                                                                    Complex,south Bypass Road, Near to Passport Office, Tirunelveli,
+                                                                    Complex, South Bypass Road, Near to Passport Office, Tirunelveli,
                                                                     Tamil Nadu-627005.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -298,8 +298,8 @@
                                                                     style="font-size: 20px ;letter-spacing: 0px ;text-transform: none ;">
                                                                     <a>Branch:Lucknow</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                                    style="font-size: 15px ;font-style: normal ;">1 station road, Hussainganj crossing,
-                                                                    vidhan sabha road opp.maharana pratap statue,Lucknow,Uttar Pradesh ,India-226001.
+                                                                    style="font-size: 15px ;font-style: normal ;">1 Station Road, Hussainganj Crossing,
+                                                                    Vidhan Sabha Road Opp.Maharana Pratap Statue,Lucknow,Uttar Pradesh ,India-226001.
                                                                 </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -384,7 +384,7 @@
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">Ground Floor No – 342, Krishna Kunj,
 
-                                                                    12th cross Vishwapriya Nagar Road
+                                                                    12th Cross Vishwapriya Nagar Road
                                                                     
                                                                     Begur,Bangalore,Karnataka – 560068.</div>
                                                                 <div
@@ -411,7 +411,7 @@
                                                                     <a>Branch:Namakkal</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">No: 1/147, Kavettipatti,
-                                                                        Paramathi main road ,Namakkal ,
+                                                                        Paramathi Main Road ,Namakkal ,
                                                                         Tamil Nadu ,India - 637003.</div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">
@@ -800,7 +800,7 @@
                                                                     <a>Branch:Jaipur</a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">
-                                                                    314, basement, Shree gopal nagar, Near Somani Hospital,
+                                                                    314, Basement, Shree Gopal Nagar, Near Somani Hospital,
 
                                                                     Mahesh Nagar, Jaipur, Rajasthan - 302019
                                                                     
@@ -960,7 +960,7 @@
                                                                     </a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">
-                                                                    Plot no 36, first floor Aacharya cooperative housing society,Chaitanya Nagari,Ambedkar chowk. 
+                                                                    Plot no 36, First Floor Aacharya Cooperative Housing Society,Chaitanya Nagari,Ambedkar Chowk. 
 
                                                                     Warje,Pune 58.
                                                                     </div>
@@ -1120,7 +1120,7 @@
                                                                     </a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">
-                                                                        Sardar patel chowk, New timber market, devendra nagar , Raipur-492001.
+                                                                        Sardar Patel Chowk, New Timber Market, Devendra Nagar , Raipur-492001.
                                                                     </div>
                                                                 <div
                                                                     class="gdlr-core-personnel-list-divider gdlr-core-skin-divider">

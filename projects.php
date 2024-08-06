@@ -189,6 +189,17 @@
                         </a>
                         <a class="card-of-blog">
                             <div class="card-hero card-partner-height">
+                                <img alt="our project"  src="images/project-page/World Skill Center.jpeg" width="288" />
+                            </div>
+                            <div class="card-header-blog">
+                                <h3>World Skill Center</h3>
+                            </div>
+                            <div class="card-body-blog">
+                                <P>World Skill Center - Bhubaneswar - 2250 SQFT. Translucent Hexagon Panels - 1700 SQFT, Printed Stretch Ceiling in Board Room.</P>
+                            </div>
+                        </a>
+                        <a class="card-of-blog">
+                            <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/Dr. KM Cherian Institute.jpg" width="288" />
                             </div>
                             <div class="card-header-blog">
@@ -197,17 +208,6 @@
                             <div class="card-body-blog">
                                 <P>KM Cherian Institution in Pondicherry - 2000 SQFT of  Printed Stretch Ceiling.
                                 </P>
-                            </div>
-                        </a>
-                        <a class="card-of-blog">
-                            <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/World Skill Center.jpeg" width="288" />
-                            </div>
-                            <div class="card-header-blog">
-                                <h3>World Skill Center</h3>
-                            </div>
-                            <div class="card-body-blog">
-                                <P>World Skill Center - Bhubaneswar - 2250 SQFT. Translucent Hexagon Panels - 1700 SQFT, Printed Stretch Ceiling in Board Room.</P>
                             </div>
                         </a>
                         </div>

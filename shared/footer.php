@@ -114,9 +114,9 @@
                                         <ul id="menu-quick-links" class="menu">
                                             <li class="menu-item"><a href="ArtPerforated">Art Perforated Ceiling</a></li>
                                             <li class="menu-item"><a href="Mirror">Mirror Stretch Ceiling</a></li>
-                                            <li class="menu-item"><a href="Metal">Metal Perforated Ceiling</a></li>
-                                            <li class="menu-item"><a href="Fabric-Light-Boxes">Signage lightbox</a></li>
-                                            <li class="menu-item"><a href="3DWallGraphics">Custom wall graphics</a></li>
+                                            <li class="menu-item"><a href="Metal" style="color:white;font-size:17px;font-weight:700;">Metal Perforated Ceiling</a></li>
+                                            <li class="menu-item"><a href="Fabric-Light-Boxes" style="color:white;font-size:17px;font-weight:700;">Signage lightbox</a></li>
+                                            <li class="menu-item"><a href="3DWallGraphics" style="color:white;font-size:17px;font-weight:700;">Custom wall graphics</a></li>
                                         </ul>
                                     <h3 class="inteco-widget-title-footer">Architectural customised lighting</h3><span class="clear"></span>
                                     <div class="menu-quick-links-container">

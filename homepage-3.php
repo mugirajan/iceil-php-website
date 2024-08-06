@@ -497,8 +497,9 @@
                         </div>
                     </section>
                     <!--stats end-->
-                     <!--audi start-->
-                     <div class="gdlr-core-pbf-wrapper height-car-for-home" style="padding: 226px 0px 30px 0px;" id="gdlr-core-wrapper-1">
+
+                    <!--audi start-->
+                    <div class="gdlr-core-pbf-wrapper height-car-for-home" style="padding: 226px 0px 30px 0px;" id="gdlr-core-wrapper-1">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="height:100vh;background-image: url(img/home-image/home.jpeg) ;background-size: cover ;background-position: top center ;" data-parallax-speed="0.1"></div>
                         </div>
@@ -545,7 +546,7 @@
                             <div class="gdlr-core-item-list  gdlr-core-item-pdlr gdlr-core-column-15 gdlr-core-column-first col-md-6 col-lg-4">
                                 <div class="gdlr-core-blog-grid gdlr-core-style-2 gdlr-core-js  gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background  gdlr-core-outer-frame-element" style="box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -moz-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -webkit-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); ">
                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                        <a href="img/light/01aa.jpg">
+                                        <a href="Blogs">
                                             <img style="height:30vh" src="img/light/01aa.jpg" alt="blog-post" width="700" height="250" title="blog" />
                                             <div class="gdlr-core-sticky-banner gdlr-core-title-font">
                                                 <i class="fa fa-bolt"></i>Sticky Post
@@ -566,7 +567,7 @@
                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
                                                 <span class="gdlr-core-blog-info-sep" >•</span>
-                                                <a >June 6, 2016</a>
+                                                <a >Ceiling</a>
                                             </span>
                                         </div>
                                         <h4 class="gdlr-core-blog-title  blog-post-title" style="font-size: 14px ;">
@@ -579,7 +580,7 @@
                             <div class="gdlr-core-item-list  gdlr-core-item-pdlr gdlr-core-column-15 gdlr-core-column-first  col-md-6 col-lg-4">
                                 <div class="gdlr-core-blog-grid gdlr-core-style-2 gdlr-core-js  gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background  gdlr-core-outer-frame-element" style="box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -moz-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -webkit-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); ">
                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                        <a href="img/light/stretchciel3.jpg">
+                                        <a href="Blogs">
                                             <img style="height:30vh" src="img/light/stretchciel3.jpg" alt="blogPost" width="700" height="250" title="blog" />
                                             <div class="gdlr-core-sticky-banner gdlr-core-title-font">
                                                 <i class="fa fa-bolt"></i>Sticky Post
@@ -600,7 +601,7 @@
                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
                                                 <span class="gdlr-core-blog-info-sep" >•</span>
-                                                <a>June 6, 2016</a>
+                                                <a>Ceiling</a>
                                             </span>
                                         </div>
                                         <h4 class="gdlr-core-blog-title  blog-post-title" style="font-size: 14px ;">
@@ -617,7 +618,7 @@
                             <div class="gdlr-core-item-list  gdlr-core-item-pdlr gdlr-core-column-15 gdlr-core-column-first  col-md-6 col-lg-4">
                                 <div class="gdlr-core-blog-grid gdlr-core-style-2 gdlr-core-js  gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background  gdlr-core-outer-frame-element" style="box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -moz-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -webkit-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); ">
                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                        <a href="img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg">
+                                        <a href="Blogs">
                                             <img style="height:30vh" src="img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg" alt="blog" width="700" height="250" title="blog" />
                                             <div class="gdlr-core-sticky-banner gdlr-core-title-font">
                                                 <i class="fa fa-bolt"></i>Sticky Post
@@ -638,7 +639,7 @@
                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
                                                 <span class="gdlr-core-blog-info-sep" >•</span>
-                                                <a>June 6, 2016</a>
+                                                <a>Ceiling</a>
                                             </span>
                                         </div>
                                         <h4 class="gdlr-core-blog-title  blog-post-title" style="font-size: 14px ;">
@@ -650,58 +651,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- partial -->
-                     <!---slider section-->
-                        <section class="section-for-slider row d-none"> 
-                            <div class="col-lg-2 col-md-4 col-sm-12 content-for-slider">
-                                <h3>Our Partners</h3>
-                            </div>              
-                            <div class="col-lg-10 col-md-8 col-sm-12 slider">
-                                <div class="slide-track">
-                                    <div class="slide">
-                                        <img src="upload/banner-1.png" alt="Our Partners" />
-                                    </div>
-                                    <div class="slide">
-                                        <img src="upload/banner-2.png"  alt="Our Partners" />
-                                    </div>
-                                    <div class="slide">
-                                        <img src="upload/banner-3.png"  alt="Our Partners" />
-                                    </div>
-                                    <div class="slide">
-                                        <img src="upload/banner-4.png" alt="Our Partners" />
-                                    </div>
-                                    <div class="slide">
-                                        <img src="upload/banner-5.png"  alt="Our Partners" />
-                                    </div>
-                                    <div class="slide">
-                                        <img src="upload/banner-1.png" alt="Our Partners" />
-                                    </div>
-                                    <div class="slide">
-                                        <img src="upload/banner-2.png"  alt="Our Partners" />
-                                    </div>
-                                <div class="slide">
-                                        <img src="upload/banner-3.png"  alt="Our Partners" />
-                                    </div>
-                                <div class="slide">
-                                        <img src="upload/banner-4.png"  alt="Our Partners" />
-                                    </div>
-                                <div class="slide">
-                                        <img src="upload/banner-5.png"  alt="Our Partners" />
-                                    </div>
-                                <div class="slide">
-                                        <img src="upload/banner-1.png"  alt="Our Partners" />
-                                    </div>
-                                <div class="slide">
-                                        <img src="upload/banner-2.png"  alt="Our Partners" />
-                                    </div>
-                                <div class="slide">
-                                        <img src="upload/banner-3.png"  alt="Our Partners" />
-                                    </div>
-                                </div>
-                            </div>
-                        </section> 
-                    <!---slider section end-->
-                   
+                    <!-- partial -->                   
                     
                     <!--CTA--->
                     <section id="cta" class="cta">
