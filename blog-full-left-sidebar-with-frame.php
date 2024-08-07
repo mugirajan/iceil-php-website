@@ -546,7 +546,7 @@
                             Post category:ceiling/business/india/manufacturing/stretch
                             Post comments:0 Comments</span>
                         <p>Stretch ceilings can be shaped into any forms. More complex structures can be formed with the help of stretch ceiling…</p>
-                        <button ><a href="SingleBlog">Read More</a></button>
+                        <button ><a href="Blog20">Read More</a></button>
                     </li>
                     <li>
                         <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/light.jpg?resize=768%2C512&ssl=1">

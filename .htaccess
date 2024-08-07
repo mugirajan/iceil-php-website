@@ -44,5 +44,7 @@ RewriteRule ^Project-Details?$ project-details.php
 RewriteRule ^Single-Project?$ single-projects-detail.php
 
 
+RewriteRule ^Blog20?$ strech-ceiling-shapes.php
+
 
 
