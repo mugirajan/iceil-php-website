@@ -6,7 +6,7 @@
   include "./shared/navbar.php"
 ?>
 
-    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url('./img/light/6-things.webp');">
+    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url(img/light/header.jpg) ;">
         <div class="inteco-header-transparent-substitute"></div>
         <!-- <div class="inteco-blog-title-top-overlay"></div> -->
         <div class="inteco-blog-title-overlay" style="opacity: 0.37 ;"></div>
@@ -15,7 +15,7 @@
             <div class="inteco-blog-title-content inteco-item-pdlr" style="padding-top: 400px ;padding-bottom: 80px ;">
                 <header class="inteco-single-article-head clearfix">
                     <div class="inteco-single-article-head-right">
-                        <h1 class="inteco-single-article-title" style="color: white;">6 things you didn’t know about Stretch Ceilings</h1>
+                        <h1 class="inteco-single-article-title" style="color: white;">How Stretch Ceilings Can Improve Your IT Workplace</h1>
                     </div>
                 </header>
             </div>
@@ -36,30 +36,16 @@
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
                         <div class="inteco-single-article clearfix">
                             <div class="inteco-single-article-content">
-                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">6 things you didn’t know about Stretch Ceilings</h5>
-                                <img src="./img/light/6-things.webp" alt=""> <br><br>
-                                <h6>Low maintenance :</h6>
-                                <p>Stretch ceilings become the latest trend in the interior industry. Many architects prefer stretch ceilings to give rich look to your ambiance. Some people are still not aware of stretch ceilings. Here are some interesting things to know about stretch ceilings.</p>
-                                <p>Stretch ceilings require minimum effort to clean. The dust particles can be easily removed by dry cloth. There is no need to apply cleaning chemicals or detergents on the surface of the stretch ceiling. Dust condensation will never happen in stretch ceilings. The canvas of stretch ceilings will never get fade and crack. So there is no need to change the stretch ceiling over and over again. </p>
-                                <h6>Odourless environment:</h6>
-                                <p>
-                                Everyone thinks that if we install stretch ceilings, there will be odour around the space. It is not true. They are designed to be odourless. Due to its specific nature, they can be used to décor the interior of the kitchen.</p>
-                                <h6>Moisture-proof :</h6>
-                                <p>
-                                Do you know that stretch ceilings can withstand mild dew and great water resistance too? That’s why they are considered as the best option for high humidity rooms like spa, swimming pool, etc. It can protect the building from water leakage. The film of stretch ceilings can handle 10 litres of water per square feet.</p>
-                                <h6>Fire retardant :</h6>
-                                <p>
-                                Stretch ceilings are built with self-extinguishing waterproof film. It doesn’t catch fire easily. We can assure you that our stretch ceiling act as the great protector of the building.</p>
-                                <h6>Harmless environment:</h6>
-                                <p>
-                                Our stretch ceilings are anti-fungal and anti-bacterial in nature. The canvas of the stretch ceiling is easily recyclable. They are completely safe for the environment.</p>
-                                <h6>Customizable:</h6>
-                                <p>
-                                You can make your ceiling more colourful with printed stretch ceilings. They can be designed into any shape or sizes. These types of 3d form stretch ceilings are widely used in malls, showroom, etc…..</p>
-                                <!-- <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
-                                    <a href="upload/pexels-photo-247290.html"><img class="alignnone size-full wp-image-4927 blog-post-img" src="img/light/img-bg-stretch-12.png" alt="" width="400" height="auto" /></a>
-                                </p> -->
-                                <strong class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, imterior, stretcceiling</strong>
+                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">How Stretch Ceilings Can Improve Your IT Workplace</h5>
+                                <p>The IT industry is one of the most demanding and fast-paced fields in the world, and creating a comfortable work environment is crucial for the success of any workplace. Stretch ceilings are a modern and innovative solution that can enhance the aesthetics and functionality of any workplace. Made of a flexible membrane material stretched over a frame, stretch ceilings come in various designs, colors, and patterns, making them a versatile option for any workplace. </p>
+                               <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-09-at-11.24.06-AM.jpeg?resize=768%2C432&ssl=1" alt=""><br><br>
+                                <p>One of the major advantages of stretch ceilings is their ability to improve lighting conditions. Stretch ceilings provide a reflective surface that bounces off the light and spreads it evenly throughout the room, resulting in better illumination and less glare. <br><br>
+                                Furthermore, In terms of stretch ceilings and lighting, a study by the Lighting Research Center found that optimal lighting conditions can improve productivity by up to 15%. Moreover, a study by the British Journal of Health Psychology showed that natural light exposure in the workplace can improve sleep quality, resulting in reduced fatigue and increased productivity. Another study by the Journal of Environmental Psychology found that controlling noise levels in the workplace can improve task performance and satisfaction. <br><br>
+                                In addition to lighting, stretch ceilings can also provide acoustic benefits to the workplace. Stretch ceilings can absorb sound waves and reduce the echo in the room, resulting in a quieter and more peaceful environment. This can help employees to focus better and increase their productivity. <br><br>
+                                Overall, stretch ceilings are a cost-effective solution that can offer long-term benefits to any IT workplace. By creating a comfortable and ergonomic environment, stretch ceilings can make a significant difference in the productivity and well-being of employees.</p>
+                                
+                                <h6 class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: stretch ceiling, Stretch Ceiling ideas, stretch ceiling lighting, stretch ceiling manufacturer, stretch ceiling supplier, Translucent Ceiling
+                                </h6>
                                     <span class="gdlr-core-space-shortcode" style="margin-top: 30px ;"></span></p>
                             </div>
                         </div>

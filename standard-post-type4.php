@@ -6,7 +6,7 @@
   include "./shared/navbar.php"
 ?>
 
-    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url('./img/light/6-things.webp');">
+    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url(img/light/header.jpg) ;">
         <div class="inteco-header-transparent-substitute"></div>
         <!-- <div class="inteco-blog-title-top-overlay"></div> -->
         <div class="inteco-blog-title-overlay" style="opacity: 0.37 ;"></div>
@@ -15,7 +15,7 @@
             <div class="inteco-blog-title-content inteco-item-pdlr" style="padding-top: 400px ;padding-bottom: 80px ;">
                 <header class="inteco-single-article-head clearfix">
                     <div class="inteco-single-article-head-right">
-                        <h1 class="inteco-single-article-title" style="color: white;">6 things you didn’t know about Stretch Ceilings</h1>
+                        <h1 class="inteco-single-article-title" style="color: white;">Why we are better than other stretch ceiling manufacturers In India?</h1>
                     </div>
                 </header>
             </div>
@@ -36,30 +36,51 @@
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
                         <div class="inteco-single-article clearfix">
                             <div class="inteco-single-article-content">
-                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">6 things you didn’t know about Stretch Ceilings</h5>
-                                <img src="./img/light/6-things.webp" alt=""> <br><br>
-                                <h6>Low maintenance :</h6>
-                                <p>Stretch ceilings become the latest trend in the interior industry. Many architects prefer stretch ceilings to give rich look to your ambiance. Some people are still not aware of stretch ceilings. Here are some interesting things to know about stretch ceilings.</p>
-                                <p>Stretch ceilings require minimum effort to clean. The dust particles can be easily removed by dry cloth. There is no need to apply cleaning chemicals or detergents on the surface of the stretch ceiling. Dust condensation will never happen in stretch ceilings. The canvas of stretch ceilings will never get fade and crack. So there is no need to change the stretch ceiling over and over again. </p>
-                                <h6>Odourless environment:</h6>
-                                <p>
-                                Everyone thinks that if we install stretch ceilings, there will be odour around the space. It is not true. They are designed to be odourless. Due to its specific nature, they can be used to décor the interior of the kitchen.</p>
-                                <h6>Moisture-proof :</h6>
-                                <p>
-                                Do you know that stretch ceilings can withstand mild dew and great water resistance too? That’s why they are considered as the best option for high humidity rooms like spa, swimming pool, etc. It can protect the building from water leakage. The film of stretch ceilings can handle 10 litres of water per square feet.</p>
-                                <h6>Fire retardant :</h6>
-                                <p>
-                                Stretch ceilings are built with self-extinguishing waterproof film. It doesn’t catch fire easily. We can assure you that our stretch ceiling act as the great protector of the building.</p>
-                                <h6>Harmless environment:</h6>
-                                <p>
-                                Our stretch ceilings are anti-fungal and anti-bacterial in nature. The canvas of the stretch ceiling is easily recyclable. They are completely safe for the environment.</p>
-                                <h6>Customizable:</h6>
-                                <p>
-                                You can make your ceiling more colourful with printed stretch ceilings. They can be designed into any shape or sizes. These types of 3d form stretch ceilings are widely used in malls, showroom, etc…..</p>
-                                <!-- <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
+                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">Why we are better than other stretch ceiling manufacturers In India?</h5>
+                                <p>In the interior designing world, stretch ceilings have become the latest trend. There are very few manufacturers who produce Stretch Ceilings in an ISO Certified Factory and handle Installation and Services across India. Out of all the competitors, we at Iceil stand unique in delivering the best quality stretch ceiling meeting European safety standard. Let us help you to know Why our stretch ceiling is still the best in Industry.</p>
+                                <h6>Genuine Product</h6>
+                                <p>Every stretch ceiling company in India may say that they are using European materials to frame stretch ceilings. But the customer might not really get guaranteed European material as they promise. The simple fact is that as per European standards, Stretch ceilings cannot be manufactured beyond 3M in length. Any Stretch ceiling manufacturer who claims to provide wide span stretch ceilings without joints beyond 3M is doing it with materials imported from China. We at Iceil provide stretch ceiling both imported from Germany and as well as China. Our Chinese stretch ceilings are also manufactured with European Quality standards with adequate test certifications including BS1D0 fire safety standard and organic plasticizers (REACH + ROHS compliance)</p>
+                                <h6>Easy to handle</h6>
+                                <p>Our stretch ceilings don’t need any specific method to clean. Due to its demagnetizing dust particles nature, the dust will not be deposited.</p>
+                                <h6>Serviceability</h6>
+                                <p>One of the major challenges in Stretch ceiling industry is that the manufacturer doesn’t provide adequate service post-installation. Iceil is committed for providing the right support post-installation through its franchise network that is being created across India.</p>
+                                <h6>Lighting Solutions</h6>
+                                <p>It’s very important to use the right LED lighting solution for stretch ceiling as it will directly affect the longevity of stretch ceilings. Often incorrect lighting solutions are used by different vendors resulting in re-investment on the stretch ceiling products.  Most of our competitors use signage modules in which the Lumens (brightness) reduces within 6 months of usage. <br><br>
+                                Generally translucent stretch ceiling has 70-80% of translucency and Printed Stretch ceiling has 50-60% translucency based on the colours in the print.</p>
+                                <h6>Incorrect use of LED Solutions will result in</h6>
+                                <ul>
+                                        <li>Hotspots or dark areas, which are more visible in Translucent Ceilings</li>
+                                        <li>Low lifetime. Cheaper or incorrect LED Solution will result in colour shift and lumen reduction over a period of usage
+                                        </li>
+                                        <li>Discolouration of stretch film caused by heat produced by the lighting solution.</li>
+                                        <li>Frequent servicing of LED solutions with Stretch film removal increases the risk of film damage</li>
+                                </ul>
+                                <h6>Good parameters to look for in a stretch lighting solution</h6>
+                                <ul>
+                                        <li>LEDs with 170 Degree lighting angle to uniformly spread the light across the film</li>
+                                        <li>Energy efficient LED Solution (Atleast 100 Lumens per Watt). This will be cost effective with lowest energy consumption</li>
+                                        <li>Good CRI (Colour Rendering Index) > 80%</li>
+                                        <li>LED solutions with dimmer option so that the power consumption is directly proportional to the amount of brightness needed.</li>
+                                        <li>Distance between Lighting source and Film to be 75-150 MM. Ideal 150 MM</li>
+                                </ul>
+                                <h6>Customizable</h6>
+                                <p>For modern finish look, you can try our glossy look lacquers ceiling. It also creates an impression of enlarged space. Using printed stretch ceilings, you can add an artistic touch to your home. We allow you to make your own choice for designing the ceiling of any size and shape</p>
+                                <h6>Eco-friendly environment</h6>
+                                <p>Our stretch ceilings are designed to be environmentally friendly. It is completely recyclable and non-toxic. They are anti-bacterial and anti-fungal too.</p>
+                                <h6>Competitive Advantages of Iceil</h6>
+                                <ul>
+                                        <li>First Stretch Ceiling Manufacturer with 5M UV Printer in INDIA</li>
+                                        <li>Stretch Ceiling Delivery in 3 Days timeline across anywhere in India</li>
+                                        <li>Wide variety of stretch ceiling products</li>
+                                        <li>Growing Franchise Network enabling best service network</li>
+                                        <li>TUV Certified Factory (ISO 9001:2015 in ACC. with NORD)</li>
+                                </ul>
+                                <h6>Simplified Installation and maintenance</h6>
+                                <p>Installation of the stretch ceiling can be done in a few hours. It won’t take more time to complete the process. Our ceiling can hold over 35 gallons of water. To remove the water, you can easily dismantle the canvas. The ceiling retains its original shape after water is removed. Our stretch ceiling will never crack and crumble. We can promise you that our product will last for many years. <br><br>Hope you understand how our product stands out from other stretch ceiling manufacturers. We are especially concerned about delivering the best to the customer. Thinking to change the look of your interior, we are here to help you.</p>
+                                <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
                                     <a href="upload/pexels-photo-247290.html"><img class="alignnone size-full wp-image-4927 blog-post-img" src="img/light/img-bg-stretch-12.png" alt="" width="400" height="auto" /></a>
-                                </p> -->
-                                <strong class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, imterior, stretcceiling</strong>
+                                </p>
+                                <h6 class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #architecture, #manufacture, #stretch, #stretchceiling, ceiling, interior</h6>
                                     <span class="gdlr-core-space-shortcode" style="margin-top: 30px ;"></span></p>
                             </div>
                         </div>

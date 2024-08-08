@@ -6,7 +6,7 @@
   include "./shared/navbar.php"
 ?>
 
-    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url('./img/light/6-things.webp');">
+    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url(img/light/header.jpg) ;">
         <div class="inteco-header-transparent-substitute"></div>
         <!-- <div class="inteco-blog-title-top-overlay"></div> -->
         <div class="inteco-blog-title-overlay" style="opacity: 0.37 ;"></div>
@@ -15,7 +15,7 @@
             <div class="inteco-blog-title-content inteco-item-pdlr" style="padding-top: 400px ;padding-bottom: 80px ;">
                 <header class="inteco-single-article-head clearfix">
                     <div class="inteco-single-article-head-right">
-                        <h1 class="inteco-single-article-title" style="color: white;">6 things you didn’t know about Stretch Ceilings</h1>
+                        <h1 class="inteco-single-article-title" style="color: white;">How do you maintain Stretch Ceilings?</h1>
                     </div>
                 </header>
             </div>
@@ -36,30 +36,32 @@
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
                         <div class="inteco-single-article clearfix">
                             <div class="inteco-single-article-content">
-                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">6 things you didn’t know about Stretch Ceilings</h5>
-                                <img src="./img/light/6-things.webp" alt=""> <br><br>
-                                <h6>Low maintenance :</h6>
-                                <p>Stretch ceilings become the latest trend in the interior industry. Many architects prefer stretch ceilings to give rich look to your ambiance. Some people are still not aware of stretch ceilings. Here are some interesting things to know about stretch ceilings.</p>
-                                <p>Stretch ceilings require minimum effort to clean. The dust particles can be easily removed by dry cloth. There is no need to apply cleaning chemicals or detergents on the surface of the stretch ceiling. Dust condensation will never happen in stretch ceilings. The canvas of stretch ceilings will never get fade and crack. So there is no need to change the stretch ceiling over and over again. </p>
-                                <h6>Odourless environment:</h6>
-                                <p>
-                                Everyone thinks that if we install stretch ceilings, there will be odour around the space. It is not true. They are designed to be odourless. Due to its specific nature, they can be used to décor the interior of the kitchen.</p>
-                                <h6>Moisture-proof :</h6>
-                                <p>
-                                Do you know that stretch ceilings can withstand mild dew and great water resistance too? That’s why they are considered as the best option for high humidity rooms like spa, swimming pool, etc. It can protect the building from water leakage. The film of stretch ceilings can handle 10 litres of water per square feet.</p>
-                                <h6>Fire retardant :</h6>
-                                <p>
-                                Stretch ceilings are built with self-extinguishing waterproof film. It doesn’t catch fire easily. We can assure you that our stretch ceiling act as the great protector of the building.</p>
-                                <h6>Harmless environment:</h6>
-                                <p>
-                                Our stretch ceilings are anti-fungal and anti-bacterial in nature. The canvas of the stretch ceiling is easily recyclable. They are completely safe for the environment.</p>
-                                <h6>Customizable:</h6>
-                                <p>
-                                You can make your ceiling more colourful with printed stretch ceilings. They can be designed into any shape or sizes. These types of 3d form stretch ceilings are widely used in malls, showroom, etc…..</p>
-                                <!-- <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
-                                    <a href="upload/pexels-photo-247290.html"><img class="alignnone size-full wp-image-4927 blog-post-img" src="img/light/img-bg-stretch-12.png" alt="" width="400" height="auto" /></a>
-                                </p> -->
-                                <strong class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, imterior, stretcceiling</strong>
+                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">How do you maintain Stretch Ceilings?</h5>
+                                <p>Stretch ceiling is now one of the most popular buzzword in the interior industry.  In many Commercial and Residential Places, Stretch ceiling has become a desirable product in styling the interior.  Interesting feature of stretch ceiling is that it needs little effort to clean the canvas material. If you would like to know the cleaning procedure of stretch ceiling, please do read this article.</p>
+                                <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/05/manitance-stretch-ceiling.jpg?resize=768%2C576&ssl=1" alt=""> <br><br>
+                                <h6>How to clean the stretch ceiling?</h6>
+                                <p>Stretch ceiling are less prone to the dirt and dust. If stretch ceiling is installed in kitchen, there might be greasy, oily stain in the canvas surface. In that situation you can clean with mild detergent to the water. For ordinary stains we can easily remove it by dry or wet cloth. The canvas film of stretch ceiling prevents dust contamination. So, it is very rare to get dusty. Here are tips to clean the ceiling membrane.</p>
+                                <h6>Tips to cleanse the stretch ceiling :</h6>
+                                <ul>
+                                    <li>To remove the stain from canvas film, you can apply ethyl alcohol solution. The correct proposition of solution is one part of ethyl alcohol to 10 parts of water.</li>
+                                    <li>You can also use diluted soap or detergent solution to clean the PVC film.</li>
+                                    <li>It is better to avoid aggressive and abrasive cleaner as well as abrasive cloth. They may damage the surface of canvas film.</li>
+                                    <li>Residual products must be rinsed off with the water</li>
+                                    <li>Wipe the canvas with soft dry cotton cloth after cleaning</li>
+                                    <li>Stains occurred due to residual moisture may disappear in few hours</li>
+                                </ul>
+                                
+                                <h6>Advantage of Stretch ceiling over other ceilings of stretch ceiling :</h6>
+                                <ul>
+                                    <li>Highly Durable – Lasts even up to 20+ Years</li>
+                                    <li>We do not require to paint the surface in few years</li>
+                                    <li>Canvas film can be replaced if accidently damaged through sharp object at a lower cost and quick installation.</li>
+                                    <li>Suits Humid Atmosphere</li>
+                                </ul>
+                                
+                                
+                                <h6 class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: 3d stretch ceiling, Iceil stretch ceiling, stretch ceiling, stretch ceiling maintenance, stretch ceiling manufacturer, stretch ceiling supplier
+                                </h6>
                                     <span class="gdlr-core-space-shortcode" style="margin-top: 30px ;"></span></p>
                             </div>
                         </div>

@@ -6,7 +6,7 @@
   include "./shared/navbar.php"
 ?>
 
-    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url('./img/light/6-things.webp');">
+    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url(img/light/header.jpg) ;">
         <div class="inteco-header-transparent-substitute"></div>
         <!-- <div class="inteco-blog-title-top-overlay"></div> -->
         <div class="inteco-blog-title-overlay" style="opacity: 0.37 ;"></div>
@@ -15,7 +15,7 @@
             <div class="inteco-blog-title-content inteco-item-pdlr" style="padding-top: 400px ;padding-bottom: 80px ;">
                 <header class="inteco-single-article-head clearfix">
                     <div class="inteco-single-article-head-right">
-                        <h1 class="inteco-single-article-title" style="color: white;">6 things you didn’t know about Stretch Ceilings</h1>
+                        <h1 class="inteco-single-article-title" style="color: white;">WHICH CEILING IS BETTER: STRETCH OR GYPSUM?</h1>
                     </div>
                 </header>
             </div>
@@ -36,30 +36,54 @@
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
                         <div class="inteco-single-article clearfix">
                             <div class="inteco-single-article-content">
-                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">6 things you didn’t know about Stretch Ceilings</h5>
-                                <img src="./img/light/6-things.webp" alt=""> <br><br>
-                                <h6>Low maintenance :</h6>
-                                <p>Stretch ceilings become the latest trend in the interior industry. Many architects prefer stretch ceilings to give rich look to your ambiance. Some people are still not aware of stretch ceilings. Here are some interesting things to know about stretch ceilings.</p>
-                                <p>Stretch ceilings require minimum effort to clean. The dust particles can be easily removed by dry cloth. There is no need to apply cleaning chemicals or detergents on the surface of the stretch ceiling. Dust condensation will never happen in stretch ceilings. The canvas of stretch ceilings will never get fade and crack. So there is no need to change the stretch ceiling over and over again. </p>
-                                <h6>Odourless environment:</h6>
-                                <p>
-                                Everyone thinks that if we install stretch ceilings, there will be odour around the space. It is not true. They are designed to be odourless. Due to its specific nature, they can be used to décor the interior of the kitchen.</p>
-                                <h6>Moisture-proof :</h6>
-                                <p>
-                                Do you know that stretch ceilings can withstand mild dew and great water resistance too? That’s why they are considered as the best option for high humidity rooms like spa, swimming pool, etc. It can protect the building from water leakage. The film of stretch ceilings can handle 10 litres of water per square feet.</p>
-                                <h6>Fire retardant :</h6>
-                                <p>
-                                Stretch ceilings are built with self-extinguishing waterproof film. It doesn’t catch fire easily. We can assure you that our stretch ceiling act as the great protector of the building.</p>
-                                <h6>Harmless environment:</h6>
-                                <p>
-                                Our stretch ceilings are anti-fungal and anti-bacterial in nature. The canvas of the stretch ceiling is easily recyclable. They are completely safe for the environment.</p>
-                                <h6>Customizable:</h6>
-                                <p>
-                                You can make your ceiling more colourful with printed stretch ceilings. They can be designed into any shape or sizes. These types of 3d form stretch ceilings are widely used in malls, showroom, etc…..</p>
-                                <!-- <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
+                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">WHICH CEILING IS BETTER: STRETCH OR GYPSUM?</h5>
+                                <p>All operations for leveling and cleaning the ceiling are complex and require a lot of investments. But the stretch or Gypsum structure does not require additional surface preparation.</p>
+                                <h6>FEATURES OF GYPSUM AND STRETCH CEILINGS</h6>
+                                <p>For the installation of a Gypsum Ceilings, a metal frame is first constructed, onto which elements and ceiling modules themselves are fastened-plasterboard sheets. At the last stage produce its putty and painting. <br><br>
+                                The stretch system is attached to a Aluminium Profile, mounted on all sides of the room. For the installation of PVC Stretch, the Fabric heated and fixed into the Aluminium Profiles. Stretch film is tight after cooling. It turns out an even, beautiful and shiny ceiling, not afraid of water and not absorbing extraneous smells.</p>
+                                <h6>COMPARISON OF GYPSUM AND STRETCH CEILINGS</h6>
+                                <p>In order to determine the Gypsum or stretch ceiling used in the room you need to make their comparison in the main parameters.</p>
+                                <h6>EASE OF INSTALLATION AND THE NEED TO ATTRACT PROFESSIONALS</h6>
+                                <p>Do not install the stretch ceilings by yourself. To do this, you have to attract specialists. And they will not only stretch the canvas but also make it. For the installation of such. <br><br>
+                                Ceilings, special equipment, and experience in the installation of such structures are required. But for installation, the workspace need not be empty. Also, the installation Doesn’t create any construction garbage.<br><br>
+                                The installation of Gypsum ceilings is associated with a large amount of construction dust and garbage You have to empty the entire workspace. Then you need to spend a lot of effort on cleaning the premises.</p>
+                                <h6>SPEED OF INSTALLATION OF STRETCH AND GYPSUM CEILINGS</h6>
+                                <p>Stretch Ceiling is installed in about 3-4 hours. <br><br>
+                                The installation of the ceiling of the Gypsum board will take from 2 to 4 days. <br><br>
+                                Everything depends on the area, the complexity of the room, and the ceiling itself. If the design is quite complex, then it will take even more time.</p>
+                                <h6>LOSS OF ROOM HEIGHT</h6>
+                                <p>Stretch ceiling when attaching the Aluminum Profile to the slabs will slightly reduce the height of the room. And the construction of the gypsum board will reduce the height more. This should be taken into account in rooms where the ceiling height is low.</p>
+                                <h6>BUILT-IN LIGHT</h6>
+                                <p>Hiding the wiring and fixtures under the ceiling stretch type is extremely easy. For Spotlighting there are special elements that are mounted in the canvas. If the replacement of fixtures or replacement of the system of illumination is required, it will be simple to make it. <br><br>
+                                In the frame of the Gypsum structure, the wiring and fixtures are also well placed.Therefore, Gypsum or stretch ceilings in this respect are equivalent.</p>
+                                <h6>EASY CARE</h6>
+                                <p>Stretch Ceiling in the care is very undemanding. It can be wiped with a wet cloth. <br><br>
+                                Gypsum board construction needs maintenance. Sometimes it may be necessary to paint.</p>
+                                <h6>WHICH CEILING IS EASIER TO DAMAGE</h6>
+                                <p>Stretch Ceiling doesn’t damage unless damage is caused intentionally. Gypsum is more durable. However, you should not throw heavy objects on such a ceiling.</p>
+                                <h6>LEVEL OF FIRE RESISTANCE</h6>
+                                <p>Stretch Ceiling is Fire Retardent. Perhaps, on this point both are worthy. Both type of ceilings do not support combustion. Therefore, they cannot burn out of a fire, although they will be damaged.</p>
+                                <h6>WHICH CEILING WILL LAST LONGER</h6>
+                                <p>Gypsum ceilings have a guarantee of up to 10 years. For a fresh look, you have to paint the structure. <br><br>
+                                As for the ceiling of PVC stretch, the guarantee for it – from 10 to 15 years. At the same time, no cosmetic repairs will be needed.</p>
+                                <h6>RESISTANCE TO TEMPERATURE</h6>
+                                <p>Both Ceilings can withstand Temperature Changes. Stretch Ceilings are more suitable in a humid atmosphere.</p>
+                                <h6>DECORATIVE QUALITIES</h6>
+                                <p>Ceilings of stretch type in color can be almost any. It can be bright or pastel monophonic color, funny drawing, or reproduction of some famous painting. Completely customizable to consumer demand. <br><br>
+                                Gypsum ceilings can be designed in different ways, using a different texture, paint, or tile. The ceiling of several levels looks very original. The color scale is vast and infinite.</p>
+                                <h6>WHICH CEILING IS CHEAPER?</h6>
+                                <p>Ceiling Gypsum type of plasterboard will be three or four times cheaper than ceilings of  stretch type. Also, the price depends on the area of the room, the number of corners and curved sections.</p>
+                                <h6>IN WHICH CASE IT IS BETTER TO USE</h6>
+                                <p>For Creativity and Complete Customized Ceiling option and latest Trend, Go for Stretch Ceiling <br><br>
+                                If you have a limited budget, the Go for Gypsum Ceiling<br><br>
+                                In addition, there is another option. Make a construction of Gypsum, and in its middle insert a stretch ceiling. The ceiling will be original, beautiful, besides, possessing advantages of both types. <br><br>
+                                It will be great if you can like this article.</p>
+                                
+                                
+                                <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
                                     <a href="upload/pexels-photo-247290.html"><img class="alignnone size-full wp-image-4927 blog-post-img" src="img/light/img-bg-stretch-12.png" alt="" width="400" height="auto" /></a>
-                                </p> -->
-                                <strong class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, imterior, stretcceiling</strong>
+                                </p>
+                                <h6 class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, iceil, interior</h6>
                                     <span class="gdlr-core-space-shortcode" style="margin-top: 30px ;"></span></p>
                             </div>
                         </div>

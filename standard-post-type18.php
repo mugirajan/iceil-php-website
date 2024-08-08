@@ -6,7 +6,7 @@
   include "./shared/navbar.php"
 ?>
 
-    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url('./img/light/6-things.webp');">
+    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url(img/light/header.jpg) ;">
         <div class="inteco-header-transparent-substitute"></div>
         <!-- <div class="inteco-blog-title-top-overlay"></div> -->
         <div class="inteco-blog-title-overlay" style="opacity: 0.37 ;"></div>
@@ -15,7 +15,7 @@
             <div class="inteco-blog-title-content inteco-item-pdlr" style="padding-top: 400px ;padding-bottom: 80px ;">
                 <header class="inteco-single-article-head clearfix">
                     <div class="inteco-single-article-head-right">
-                        <h1 class="inteco-single-article-title" style="color: white;">6 things you didn’t know about Stretch Ceilings</h1>
+                        <h1 class="inteco-single-article-title" style="color: white;">Stretch Ceilings –Much STRONGER than you can imagine</h1>
                     </div>
                 </header>
             </div>
@@ -36,30 +36,21 @@
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
                         <div class="inteco-single-article clearfix">
                             <div class="inteco-single-article-content">
-                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">6 things you didn’t know about Stretch Ceilings</h5>
-                                <img src="./img/light/6-things.webp" alt=""> <br><br>
-                                <h6>Low maintenance :</h6>
-                                <p>Stretch ceilings become the latest trend in the interior industry. Many architects prefer stretch ceilings to give rich look to your ambiance. Some people are still not aware of stretch ceilings. Here are some interesting things to know about stretch ceilings.</p>
-                                <p>Stretch ceilings require minimum effort to clean. The dust particles can be easily removed by dry cloth. There is no need to apply cleaning chemicals or detergents on the surface of the stretch ceiling. Dust condensation will never happen in stretch ceilings. The canvas of stretch ceilings will never get fade and crack. So there is no need to change the stretch ceiling over and over again. </p>
-                                <h6>Odourless environment:</h6>
-                                <p>
-                                Everyone thinks that if we install stretch ceilings, there will be odour around the space. It is not true. They are designed to be odourless. Due to its specific nature, they can be used to décor the interior of the kitchen.</p>
-                                <h6>Moisture-proof :</h6>
-                                <p>
-                                Do you know that stretch ceilings can withstand mild dew and great water resistance too? That’s why they are considered as the best option for high humidity rooms like spa, swimming pool, etc. It can protect the building from water leakage. The film of stretch ceilings can handle 10 litres of water per square feet.</p>
-                                <h6>Fire retardant :</h6>
-                                <p>
-                                Stretch ceilings are built with self-extinguishing waterproof film. It doesn’t catch fire easily. We can assure you that our stretch ceiling act as the great protector of the building.</p>
-                                <h6>Harmless environment:</h6>
-                                <p>
-                                Our stretch ceilings are anti-fungal and anti-bacterial in nature. The canvas of the stretch ceiling is easily recyclable. They are completely safe for the environment.</p>
-                                <h6>Customizable:</h6>
-                                <p>
-                                You can make your ceiling more colourful with printed stretch ceilings. They can be designed into any shape or sizes. These types of 3d form stretch ceilings are widely used in malls, showroom, etc…..</p>
-                                <!-- <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
-                                    <a href="upload/pexels-photo-247290.html"><img class="alignnone size-full wp-image-4927 blog-post-img" src="img/light/img-bg-stretch-12.png" alt="" width="400" height="auto" /></a>
-                                </p> -->
-                                <strong class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, imterior, stretcceiling</strong>
+                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">Stretch Ceilings –Much STRONGER than you can imagine</h5>
+                                <p>Stretch ceiling, latest trend in customised lighting and ceiling solutions is being included in solutions across India by leading interior designers and architects. Appearance and texture of stretch ceiling attracts most of the people who are interested in defining the ambience of the place they live. However, the slim look of the stretch ceiling membrane creates the impression that the product can’t remain in good condition for a longer duration.  But the reality is the stretch ceiling can last for more than 20 – 30 years.  We can help you understand more about the stretch ceiling and its characteristics</p>
+                               
+                                <h6>Maximum Tensile Strength</h6>
+                                
+                                <p>Usually stretch ceiling membrane comes with maximum tensile strength. Stretch ceiling membrane has unique ability to expand and shrink. For example, when we place an object over the stretch ceiling membrane, the canvas material expands and when we remove it, it retains its original state. Do you know stretch ceiling can withstand the weight of the human adult?  Please have a look at the video to get an understanding on how strong the stretch ceiling membrane is. <a href=" https://www.youtube.com/watch?v=BWX7K0dQ2A8"> https://www.youtube.com/watch?v=BWX7K0dQ2A8</a></p>
+                                <h6>Water leak proof</h6>
+                                <p>In case of a water leak, stretch ceiling has the capacity to hold a large volume of water. The water stored in the stretch ceiling can be easily drained by removing the stretch ceiling membrane and releasing it.</p>
+
+                                <h6>Fire Retardant</h6>
+                                <p>We at Iceil, No 1 Stretch ceiling manufacturer, produce the best stretch ceilings which qualifies the European safety standard on fire retardant characteristics. Our stretch ceiling material doesn’t catch or spread fire and doesn’t generate droplets. Please watch the video for more information. <a href=" https://www.youtube.com/watch?v=Kb7bc5a3DLw"> https://www.youtube.com/watch?v=Kb7bc5a3DLw</a>
+                                Please reach us out on 8925517109 / 08 / 07 / 06 /05 for world class stretch ceiling experience</p>
+                                
+                                <h6 class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: 3d stretch ceiling, interior design, stretch ceiling, stretch ceiling manufacturer, stretch ceiling supplier
+                                </h6>
                                     <span class="gdlr-core-space-shortcode" style="margin-top: 30px ;"></span></p>
                             </div>
                         </div>

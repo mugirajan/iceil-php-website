@@ -6,7 +6,7 @@
   include "./shared/navbar.php"
 ?>
 
-    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url('./img/light/6-things.webp');">
+    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url(img/light/header.jpg) ;">
         <div class="inteco-header-transparent-substitute"></div>
         <!-- <div class="inteco-blog-title-top-overlay"></div> -->
         <div class="inteco-blog-title-overlay" style="opacity: 0.37 ;"></div>
@@ -15,7 +15,7 @@
             <div class="inteco-blog-title-content inteco-item-pdlr" style="padding-top: 400px ;padding-bottom: 80px ;">
                 <header class="inteco-single-article-head clearfix">
                     <div class="inteco-single-article-head-right">
-                        <h1 class="inteco-single-article-title" style="color: white;">6 things you didn’t know about Stretch Ceilings</h1>
+                        <h1 class="inteco-single-article-title" style="color: white;">Best Business Opportunity in India 2021.</h1>
                     </div>
                 </header>
             </div>
@@ -36,30 +36,32 @@
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
                         <div class="inteco-single-article clearfix">
                             <div class="inteco-single-article-content">
-                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">6 things you didn’t know about Stretch Ceilings</h5>
-                                <img src="./img/light/6-things.webp" alt=""> <br><br>
-                                <h6>Low maintenance :</h6>
-                                <p>Stretch ceilings become the latest trend in the interior industry. Many architects prefer stretch ceilings to give rich look to your ambiance. Some people are still not aware of stretch ceilings. Here are some interesting things to know about stretch ceilings.</p>
-                                <p>Stretch ceilings require minimum effort to clean. The dust particles can be easily removed by dry cloth. There is no need to apply cleaning chemicals or detergents on the surface of the stretch ceiling. Dust condensation will never happen in stretch ceilings. The canvas of stretch ceilings will never get fade and crack. So there is no need to change the stretch ceiling over and over again. </p>
-                                <h6>Odourless environment:</h6>
-                                <p>
-                                Everyone thinks that if we install stretch ceilings, there will be odour around the space. It is not true. They are designed to be odourless. Due to its specific nature, they can be used to décor the interior of the kitchen.</p>
-                                <h6>Moisture-proof :</h6>
-                                <p>
-                                Do you know that stretch ceilings can withstand mild dew and great water resistance too? That’s why they are considered as the best option for high humidity rooms like spa, swimming pool, etc. It can protect the building from water leakage. The film of stretch ceilings can handle 10 litres of water per square feet.</p>
-                                <h6>Fire retardant :</h6>
-                                <p>
-                                Stretch ceilings are built with self-extinguishing waterproof film. It doesn’t catch fire easily. We can assure you that our stretch ceiling act as the great protector of the building.</p>
-                                <h6>Harmless environment:</h6>
-                                <p>
-                                Our stretch ceilings are anti-fungal and anti-bacterial in nature. The canvas of the stretch ceiling is easily recyclable. They are completely safe for the environment.</p>
-                                <h6>Customizable:</h6>
-                                <p>
-                                You can make your ceiling more colourful with printed stretch ceilings. They can be designed into any shape or sizes. These types of 3d form stretch ceilings are widely used in malls, showroom, etc…..</p>
-                                <!-- <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
+                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">Best Business Opportunity in India 2021.</h5>
+                                <p>Best Business Opportunity in India 2021. Join with us to explore our franchise business opportunity in Interior world.</p>
+                                <h6>Start Your Own Creative Business <br><br>FRANCHISE OFFER!</h6>
+                                <p>Franchising Opportunity Across India Lets Start Your Business!</p>
+                                <h6>Benefit of Franchise</h6>
+                                <ul>
+                                    <li>Low Investment / Low Operations Cost Business</li>
+                                    <li>Wide variety of products in Stretch Ceiling, Customized Wall Graphics and 3D Epoxy Flooring</li>
+                                    <li>End to End Training for Marketing, Business development and Execution</li>
+                                    <li>Life-long Technical Support</li>
+                                    <li>Leads sharing for your region from various sources including Indiamart (Star Supplier), Online, Architects, Interiors etc</li>
+                                    <li>Closed Deal Projects for your region</li>
+                                    <li>Technical team presence in first 3 Projects</li>
+                                    <li>Design and Image Support</li>
+                                    <li>Frequent Discount Programs for High Volume order on periodical basis</li>
+                                    <li>Introduction of New Products through our R&D Department</li>
+                                    <li>Labour personnel support during critical times</li>
+                                    <li>Projects can be taken across India</li>
+                                    <li>Maximum 3 Days delivery dispatch SLA</li>
+                                </ul>
+                                <h6>Need More Information Call Me :  +91 8925530872</h6>
+                                
+                                <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
                                     <a href="upload/pexels-photo-247290.html"><img class="alignnone size-full wp-image-4927 blog-post-img" src="img/light/img-bg-stretch-12.png" alt="" width="400" height="auto" /></a>
-                                </p> -->
-                                <strong class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, imterior, stretcceiling</strong>
+                                </p>
+                                <!-- <h6 class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, home, india, lighting, manufacturing</h6> -->
                                     <span class="gdlr-core-space-shortcode" style="margin-top: 30px ;"></span></p>
                             </div>
                         </div>

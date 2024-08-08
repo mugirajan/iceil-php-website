@@ -6,7 +6,7 @@
   include "./shared/navbar.php"
 ?>
 
-    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url('./img/light/6-things.webp');">
+    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url(img/light/header.jpg) ;">
         <div class="inteco-header-transparent-substitute"></div>
         <!-- <div class="inteco-blog-title-top-overlay"></div> -->
         <div class="inteco-blog-title-overlay" style="opacity: 0.37 ;"></div>
@@ -15,7 +15,7 @@
             <div class="inteco-blog-title-content inteco-item-pdlr" style="padding-top: 400px ;padding-bottom: 80px ;">
                 <header class="inteco-single-article-head clearfix">
                     <div class="inteco-single-article-head-right">
-                        <h1 class="inteco-single-article-title" style="color: white;">6 things you didn’t know about Stretch Ceilings</h1>
+                        <h1 class="inteco-single-article-title" style="color: white;">What is stretch ceiling?</h1>
                     </div>
                 </header>
             </div>
@@ -36,30 +36,24 @@
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
                         <div class="inteco-single-article clearfix">
                             <div class="inteco-single-article-content">
-                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">6 things you didn’t know about Stretch Ceilings</h5>
-                                <img src="./img/light/6-things.webp" alt=""> <br><br>
-                                <h6>Low maintenance :</h6>
-                                <p>Stretch ceilings become the latest trend in the interior industry. Many architects prefer stretch ceilings to give rich look to your ambiance. Some people are still not aware of stretch ceilings. Here are some interesting things to know about stretch ceilings.</p>
-                                <p>Stretch ceilings require minimum effort to clean. The dust particles can be easily removed by dry cloth. There is no need to apply cleaning chemicals or detergents on the surface of the stretch ceiling. Dust condensation will never happen in stretch ceilings. The canvas of stretch ceilings will never get fade and crack. So there is no need to change the stretch ceiling over and over again. </p>
-                                <h6>Odourless environment:</h6>
-                                <p>
-                                Everyone thinks that if we install stretch ceilings, there will be odour around the space. It is not true. They are designed to be odourless. Due to its specific nature, they can be used to décor the interior of the kitchen.</p>
-                                <h6>Moisture-proof :</h6>
-                                <p>
-                                Do you know that stretch ceilings can withstand mild dew and great water resistance too? That’s why they are considered as the best option for high humidity rooms like spa, swimming pool, etc. It can protect the building from water leakage. The film of stretch ceilings can handle 10 litres of water per square feet.</p>
-                                <h6>Fire retardant :</h6>
-                                <p>
-                                Stretch ceilings are built with self-extinguishing waterproof film. It doesn’t catch fire easily. We can assure you that our stretch ceiling act as the great protector of the building.</p>
-                                <h6>Harmless environment:</h6>
-                                <p>
-                                Our stretch ceilings are anti-fungal and anti-bacterial in nature. The canvas of the stretch ceiling is easily recyclable. They are completely safe for the environment.</p>
-                                <h6>Customizable:</h6>
-                                <p>
-                                You can make your ceiling more colourful with printed stretch ceilings. They can be designed into any shape or sizes. These types of 3d form stretch ceilings are widely used in malls, showroom, etc…..</p>
-                                <!-- <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
+                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">What is stretch ceiling?</h5>
+                                <p>Your possible solution to many problems. Do you know why stretch ceiling is considered as the best option for designing the space? The No.1 advantage stretch ceiling systems offer is a perfectly smooth ceiling, which may become a prominent and exciting element of your home’s interior design. Unlike an ordinary drop-ceiling, popcorn ceiling, or regular drywall ceiling, a stretch ceiling won’t get crumbly or discolored with time. <br><br>To get a better idea of what a stretched ceiling is, picture a beautiful glass ceiling made of a single piece of glass.<br><br>Like this already? <br><br>Read on then. We offer a wide selection of pleasant colors for your future stretch ceiling, so you can pick your favorite or whatever matches your interior best. You can choose the type of finish: glossy, matte, or satin.<br><br>Let’s go over the advantages a stretched ceiling offers in comparison to a drop-ceiling, popcorn ceiling, and regular drywall ceiling – and even to refreshing your existing ceiling job with a touch of paint here and there.</p>
+                                <h4>Pros of Stretch ceiling:</h4>
+                                <p>Easy to install – It’s a common concern that a stretch ceiling installation may take long or create a mess like other types of construction work. The good news is; with a stretch ceiling installation, this is not the case! The entire process takes just a few hours and typically leaves no debris or dust in the room.</p>
+                                <p>Versatile look– Combination of various types of lighting and a possibility to photo print pictures can change the visual perception of the room’s space, establish a special environment and unite the interior zones into a single composition.</p>
+                                <p>Need no specific requirements – Stretch ceiling installation requires no preparation of the existing ceiling surface. For example, if you have no regular drywall ceiling in the basement and want to cover all those pipes and cables, go ahead and have our friendly professionals install a stretch ceiling system – and save on the regular drywall ceiling installation, plaster and paint along the way.</p>
+                                <p>Flawless finish – Only stretch ceiling systems give a perfectly flat ceiling surface, just like a sheet of glass. This stretch ceiling won’t get discolored with time. You won’t have to paint the ceiling over and over again.</p>
+                                <p>Durable– Stretch ceilings never crack nor crumble. A stretched ceiling is resistant to mold mildew. Stretch ceiling is moisture-proof. Our ceiling will enhance your sound and Thermo- insulation, hide defects, and will last for many years without fading, peeling or cracking.</p>
+                                <p>Safe and secure – Stretch ceilings will protect your home or apartment interior from water damage. It can hold over 35 gallons of water, and once the water is removed the ceiling will go to its original shape. Stretch ceiling system is fire retardant, does not absorb smells. It is easily dismountable, washable, non-toxic, and non-allergic by its nature demagnetizes dust particles.</p>
+                                <p>Make the right choice and go with stretch ceiling systems – an attractive, affordable, and long-lasting solution for your home. </p>
+                                
+
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/mOnSgUUKhLU?si=tO1AqsDmO0c0P2Zj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                    
+                                <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
                                     <a href="upload/pexels-photo-247290.html"><img class="alignnone size-full wp-image-4927 blog-post-img" src="img/light/img-bg-stretch-12.png" alt="" width="400" height="auto" /></a>
-                                </p> -->
-                                <strong class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, imterior, stretcceiling</strong>
+                                </p>
+                                <h6 class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, home, india, lighting, manufacturing</h6>
                                     <span class="gdlr-core-space-shortcode" style="margin-top: 30px ;"></span></p>
                             </div>
                         </div>

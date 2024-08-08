@@ -6,7 +6,7 @@
   include "./shared/navbar.php"
 ?>
 
-    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url('./img/light/6-things.webp');">
+    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url(img/light/header.jpg) ;">
         <div class="inteco-header-transparent-substitute"></div>
         <!-- <div class="inteco-blog-title-top-overlay"></div> -->
         <div class="inteco-blog-title-overlay" style="opacity: 0.37 ;"></div>
@@ -15,7 +15,7 @@
             <div class="inteco-blog-title-content inteco-item-pdlr" style="padding-top: 400px ;padding-bottom: 80px ;">
                 <header class="inteco-single-article-head clearfix">
                     <div class="inteco-single-article-head-right">
-                        <h1 class="inteco-single-article-title" style="color: white;">6 things you didn’t know about Stretch Ceilings</h1>
+                        <h1 class="inteco-single-article-title" style="color: white;">What is the benefit of a Stretch Ceiling? </h1>
                     </div>
                 </header>
             </div>
@@ -36,30 +36,24 @@
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
                         <div class="inteco-single-article clearfix">
                             <div class="inteco-single-article-content">
-                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">6 things you didn’t know about Stretch Ceilings</h5>
-                                <img src="./img/light/6-things.webp" alt=""> <br><br>
-                                <h6>Low maintenance :</h6>
-                                <p>Stretch ceilings become the latest trend in the interior industry. Many architects prefer stretch ceilings to give rich look to your ambiance. Some people are still not aware of stretch ceilings. Here are some interesting things to know about stretch ceilings.</p>
-                                <p>Stretch ceilings require minimum effort to clean. The dust particles can be easily removed by dry cloth. There is no need to apply cleaning chemicals or detergents on the surface of the stretch ceiling. Dust condensation will never happen in stretch ceilings. The canvas of stretch ceilings will never get fade and crack. So there is no need to change the stretch ceiling over and over again. </p>
-                                <h6>Odourless environment:</h6>
-                                <p>
-                                Everyone thinks that if we install stretch ceilings, there will be odour around the space. It is not true. They are designed to be odourless. Due to its specific nature, they can be used to décor the interior of the kitchen.</p>
-                                <h6>Moisture-proof :</h6>
-                                <p>
-                                Do you know that stretch ceilings can withstand mild dew and great water resistance too? That’s why they are considered as the best option for high humidity rooms like spa, swimming pool, etc. It can protect the building from water leakage. The film of stretch ceilings can handle 10 litres of water per square feet.</p>
-                                <h6>Fire retardant :</h6>
-                                <p>
-                                Stretch ceilings are built with self-extinguishing waterproof film. It doesn’t catch fire easily. We can assure you that our stretch ceiling act as the great protector of the building.</p>
-                                <h6>Harmless environment:</h6>
-                                <p>
-                                Our stretch ceilings are anti-fungal and anti-bacterial in nature. The canvas of the stretch ceiling is easily recyclable. They are completely safe for the environment.</p>
-                                <h6>Customizable:</h6>
-                                <p>
-                                You can make your ceiling more colourful with printed stretch ceilings. They can be designed into any shape or sizes. These types of 3d form stretch ceilings are widely used in malls, showroom, etc…..</p>
-                                <!-- <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
-                                    <a href="upload/pexels-photo-247290.html"><img class="alignnone size-full wp-image-4927 blog-post-img" src="img/light/img-bg-stretch-12.png" alt="" width="400" height="auto" /></a>
-                                </p> -->
-                                <strong class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, imterior, stretcceiling</strong>
+                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">What is the benefit of a Stretch Ceiling? </h5>
+                                <p>Stretch ceilings, an ideal solution for many different applications. There are great choices for home, commercial and industrial projects as they can be used with low maintenance and little impact on the environment. In this article, we will look at what makes them so special, how to install them correctly, and why you should consider using one in your next project.</p>
+                               <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/12/TRANSLUCENT-CEILING-1.png?resize=768%2C433&ssl=1" alt=""><br><br>
+                                <h6>Benefits of Stretch Ceiling: </h6>
+                                <strong>High resistance to moisture</strong>
+                                <p>High durability and hygienic properties of a stretch ceiling allow you to use them in various spheres, such as hospitals and food industries. Stretch Ceilings are now mostly used in lab areas of the hospital to create soothing and refreshing experience for the patient. Main reason behind the usage of stretch Ceilings in hospital areas, their canvas is made out of non-toxic materials. <br><br>
+                                Stretch ceiling is a great choice for any environment that needs to be moisture-resistant. They can handle humid environments, as well as dry ones. It’s also a good choice when you’re looking for an easy way to renovate your home without having to worry about the cost and effort taken to install the ceiling. If you have a basement that gets wet from time to time, you don’t have to think whether the cold and humid temperature will ruin any expensive furniture down there. Stretch Ceiling can tackle bad weather without any damages. </p>
+                                <strong>Easy cleaning and maintenance </strong>
+                                <p>Stretch Ceiling can be cleaned by just wiping out the stretch ceiling with dry or wet cloth. Usually, the canvas used in the stretch ceiling is dust repellent, so there will be less chance for dust deposit. If the stretch ceilings are used in Kitchen area, there may be some stains that occurred due to cooking, this can be removed with small amount of ethyl alcohol solution in the combination of water.</p>
+
+                                <strong>Creates Aesthetic value to your interior </strong>
+                                <p>Stretch ceilings can be used in a variety of places and purposes. It can be used in the office, home or hospital to give an aesthetic view of an interior space. The stretch ceiling is also great for residential applications such as living rooms and bedrooms because it creates more light than traditional ceilings by letting natural light through the roofing material. In addition to this, it provides privacy from above while still allowing air movement through the room naturally without need for vents or fans installed on top of each section of the structure (which would take up valuable floor space). <br><br>
+                                The benefits of using stretch ceilings are numerous: they provide privacy while still allowing you access into your home; they’re easy to install because they require no metal framework whatsoever; they add value to property due to their unique appearance compared with other types such as metal/wood shake siding panels; there’s no need for expensive renovation work when installing these types since all materials come preinstalled inside so nothing needs to be assembled–all said together means less money spent overall but more importantly, time saved! </p>
+                                <h6>Conclusion: </h6>
+                                <p> Stretch ceilings have many advantages over traditional. Stretch ceilings can also be used for high-elevated rooms such as libraries and meeting rooms, or they can be installed in places where traditional ceiling materials would not reach the desired height due to obstructions like mechanical equipment or other obstacles. Stretch ceilings are also very useful when it comes to industrial applications because they can be installed quickly and easily without having any impact on the environment around them (unlike traditional glass panels). </p>
+                                
+                                <h6 class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: customized ceiling, interior, interior design, stretch ceiling, stretch ceiling manufacturer
+                                </h6>
                                     <span class="gdlr-core-space-shortcode" style="margin-top: 30px ;"></span></p>
                             </div>
                         </div>

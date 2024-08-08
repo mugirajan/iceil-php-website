@@ -6,7 +6,7 @@
   include "./shared/navbar.php"
 ?>
 
-    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url('./img/light/6-things.webp');">
+    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" style="background-image: url(img/light/header.jpg) ;">
         <div class="inteco-header-transparent-substitute"></div>
         <!-- <div class="inteco-blog-title-top-overlay"></div> -->
         <div class="inteco-blog-title-overlay" style="opacity: 0.37 ;"></div>
@@ -15,7 +15,7 @@
             <div class="inteco-blog-title-content inteco-item-pdlr" style="padding-top: 400px ;padding-bottom: 80px ;">
                 <header class="inteco-single-article-head clearfix">
                     <div class="inteco-single-article-head-right">
-                        <h1 class="inteco-single-article-title" style="color: white;">6 things you didn’t know about Stretch Ceilings</h1>
+                        <h1 class="inteco-single-article-title" style="color: white;">Leading Stretch Ceiling Manufacturer in India</h1>
                     </div>
                 </header>
             </div>
@@ -36,30 +36,48 @@
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
                         <div class="inteco-single-article clearfix">
                             <div class="inteco-single-article-content">
-                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">6 things you didn’t know about Stretch Ceilings</h5>
-                                <img src="./img/light/6-things.webp" alt=""> <br><br>
-                                <h6>Low maintenance :</h6>
-                                <p>Stretch ceilings become the latest trend in the interior industry. Many architects prefer stretch ceilings to give rich look to your ambiance. Some people are still not aware of stretch ceilings. Here are some interesting things to know about stretch ceilings.</p>
-                                <p>Stretch ceilings require minimum effort to clean. The dust particles can be easily removed by dry cloth. There is no need to apply cleaning chemicals or detergents on the surface of the stretch ceiling. Dust condensation will never happen in stretch ceilings. The canvas of stretch ceilings will never get fade and crack. So there is no need to change the stretch ceiling over and over again. </p>
-                                <h6>Odourless environment:</h6>
-                                <p>
-                                Everyone thinks that if we install stretch ceilings, there will be odour around the space. It is not true. They are designed to be odourless. Due to its specific nature, they can be used to décor the interior of the kitchen.</p>
-                                <h6>Moisture-proof :</h6>
-                                <p>
-                                Do you know that stretch ceilings can withstand mild dew and great water resistance too? That’s why they are considered as the best option for high humidity rooms like spa, swimming pool, etc. It can protect the building from water leakage. The film of stretch ceilings can handle 10 litres of water per square feet.</p>
-                                <h6>Fire retardant :</h6>
-                                <p>
-                                Stretch ceilings are built with self-extinguishing waterproof film. It doesn’t catch fire easily. We can assure you that our stretch ceiling act as the great protector of the building.</p>
-                                <h6>Harmless environment:</h6>
-                                <p>
-                                Our stretch ceilings are anti-fungal and anti-bacterial in nature. The canvas of the stretch ceiling is easily recyclable. They are completely safe for the environment.</p>
-                                <h6>Customizable:</h6>
-                                <p>
-                                You can make your ceiling more colourful with printed stretch ceilings. They can be designed into any shape or sizes. These types of 3d form stretch ceilings are widely used in malls, showroom, etc…..</p>
-                                <!-- <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
+                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">Leading Stretch Ceiling Manufacturer in India</h5>
+                                <p>Leading stretch ceiling manufacturer in India offering quality stretch ceiling solutions.</p>
+                                <h6>Lighting Solution for Stretch Ceilings:</h6>
+                                <p>It’s very important to use the right LED lighting solution for stretch ceiling as it will directly affect the longevity of stretch ceilings. Often incorrect lighting solutions are used by different applicators resulting in re-investment on the stretch ceiling products. <br><br>Generally translucent stretch ceiling has 70-80% of translucency and Printed Stretch ceiling has 50-60% translucency based on the colours in the print.</p>
+                                <h6>Incorrect use of LED Solutions will result in:</h6>
+                                <ul>
+                                        <li>Hotspots or dark areas, which are more visible in Translucent Ceilings</li>
+                                        <li>Low lifetime. Cheaper or incorrect LED Solution will result in colour shift and lumen reduction over a period of usage</li>
+                                        <li>Discolouration of stretch film caused by heat produced by the lighting solution.</li>
+                                        <li>Frequent servicing of LED solutions with Stretch film removal increases the risk of film damage</li>
+                                </ul>
+                                <h6>Good parameters to look for in a stretch lighting solution:</h6>
+                                <ul>
+                                        <li>LEDs with 170 Degree lighting angle to uniformly spread the light across the film</li>
+                                        <li>Energy efficient LED Solution (Atleast 100 Lumens per Watt). This will be cost effective with lowest energy consumption</li>
+                                        <li>Good CRI (Colour Rendering Index) > 80%</li>
+                                        <li>LED solutions with dimmer option so that the power consumption is directly proportional to the amount of brightness needed.</li>
+                                        <li>Distance between Lighting source and Film to be 75-150 MM. Ideal 150 MM</li>
+                                </ul>
+                                <h6>LUX Levels – By Application Area:</h6>
+                                <ul>
+                                        <li>In areas where we do tasks like reading, it is recommended to increase the LUX to 200.</li>
+                                        <li>In the office environment, where computer-based work is done, it is recommended to use 400-500 LUX.</li>
+                                        <li>For the retail environment, around 500 LUX is needed.</li>
+                                        <li>In the workshop area where detailed work is done the recommended level is 500-700 LUX</li>
+                                </ul>
+                                <h6>Iceil Lighting :</h6>
+                                <ul style="list-style-type: dot;">
+                                        <li>5 Inch Spacing between Rigid bar, 1 Rigid Bar is 10W</li>
+                                        <li>Colour Temperature – 3000K to 9000K Or RGB or Tuneable (3000 – 6500K)</li>
+                                        <li>On an Average 500 W for 100 SQFT. Power consumption can be decreased by adding a dimmer control (1 to 100%). Power consumption as per percentage used</li>
+                                        <li>170 Degree Lens to spread the light uniformly</li>
+                                        <li>12V / 24V SMPS with 3 / 5 Years Warranty (Epower Noiseless Drive), Rainproof Drives for Standard Lighting solution with 1 Years Warranty</li>
+                                        <li>Rigid Bar Length 1M (8 Dots)</li>
+                                        <li>Easy to Install</li>
+                                        <li>24V Rigid Bars (Please check advantages of 24V Lighting)</li>
+                                </ul>
+                                
+                                <p><img class="alignnone size-full wp-image-5376 blog-post-img" src="img/light/controllers3.jpg" alt="" width="300" height="auto" />
                                     <a href="upload/pexels-photo-247290.html"><img class="alignnone size-full wp-image-4927 blog-post-img" src="img/light/img-bg-stretch-12.png" alt="" width="400" height="auto" /></a>
-                                </p> -->
-                                <strong class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, imterior, stretcceiling</strong>
+                                </p>
+                                <h6 class="sing-blog" style="font-size: 20px; padding-bottom: 10px;">Tags: #stretch, ceiling, home, india, lighting, manufacturing</h6>
                                     <span class="gdlr-core-space-shortcode" style="margin-top: 30px ;"></span></p>
                             </div>
                         </div>
