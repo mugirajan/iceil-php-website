@@ -62,6 +62,21 @@ RewriteRule ^Project-Details?$ project-details.php
 RewriteRule ^Single-Project?$ single-projects-detail.php
 
 
+RewriteRule ^Stretch-ceiling-shapes?$ stretch-ceiling-shapes.php
+RewriteRule ^stretch-ceilings-lights-fittings?$ stretch-ceilings-lights-fittings.php
+
+RewriteRule ^european-vs-chinese-stretch-ceilings?$ european-vs-chinese-stretch-ceilings.php
+RewriteRule ^printed-ceiling-iceil-stretch-ceiling?$ printed-ceiling-iceil-stretch-ceiling.php
+
+
+RewriteRule ^how-to-fit-stretch-ceiling-system-into-my-space?$ how-to-fit-stretch-ceiling-system-into-my-space.php
+RewriteRule ^5-ways-stretch-ceilings-can-save-you-money?$ 5-ways-stretch-ceilings-can-save-you-money.php
+RewriteRule ^stretch-ceiling-best-for-entertainment-centre?$ stretch-ceiling-best-for-entertainment-centre.php
+RewriteRule ^different-types-of-stretch-ceiling?$ different-types-of-stretch-ceiling.php
+RewriteRule ^acoustics-stretch-ceiling?$ acoustics-stretch-ceiling.php
+RewriteRule ^lacquer-ceiling-in-india?$ lacquer-ceiling-in-india.php
+
+
 
 
 
