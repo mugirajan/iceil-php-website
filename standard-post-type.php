@@ -74,15 +74,7 @@
             </div>
         </div>
         <div class="sidebar-blog">
-            <!-- <h3 class="st-h3"> 
-				GFG Sticky sidebar 
-			</h3> 
-			<ul> 
-				<li class="li-blog">Home</li> 
-				<li class="li-blog">About us</li> 
-				<li class="li-blog">Contact us</li> 
-				<li class="li-blog">Our product</li> 
-			</ul>  -->
+	
             <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
 
                 <div id="recent-comments-3" class="widget widget_recent_comments inteco-widget">
