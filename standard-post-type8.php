@@ -15,7 +15,7 @@
             <div class="inteco-blog-title-content inteco-item-pdlr" style="padding-top: 400px ;padding-bottom: 80px ;">
                 <header class="inteco-single-article-head clearfix">
                     <div class="inteco-single-article-head-right">
-                        <h1 class="inteco-single-article-title" style="color: white;">WHICH CEILING IS BETTER: STRETCH OR GYPSUM?</h1>
+                        <h1 class="inteco-single-article-title" style="color: white;">Which Ceiling is Better: Stretch or Gypsum?</h1>
                     </div>
                 </header>
             </div>

@@ -36,7 +36,7 @@
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
                         <div class="inteco-single-article clearfix">
                             <div class="inteco-single-article-content">
-                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">WHICH CEILING IS BETTER: STRETCH OR GYPSUM?</h5>
+                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">Pros and cons of 3D Stretch Ceiling</h5>
                                 <p>3D stretch ceiling is one of the striking revolutions in the interior design world. Nowadays, we can see more 3-Dimensional structure in public place like malls, city hall etc. These can be done with the help of 3d Forms stretch ceiling. These 3-dimensional structures transform the space into most spectacular one. 3D stretch ceiling visually creates the impression of enlarged space. This article may help you to know more about 3D stretch ceiling.</p>
                                 <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/3d-form.jpg?resize=768%2C405&ssl=1" alt=""> <br><br>
                                 <h6>Pros of 3D stretch ceiling</h6>
