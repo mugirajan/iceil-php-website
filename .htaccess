@@ -55,6 +55,8 @@ RewriteRule ^how-to-fit-stretch-ceiling-system-into-my-space?$ how-to-fit-stretc
 RewriteRule ^5-ways-stretch-ceilings-can-save-you-money?$ 5-ways-stretch-ceilings-can-save-you-money.php
 RewriteRule ^stretch-ceiling-best-for-entertainment-centre?$ stretch-ceiling-best-for-entertainment-centre.php
 RewriteRule ^different-types-of-stretch-ceiling?$ different-types-of-stretch-ceiling.php
+RewriteRule ^acoustics-stretch-ceiling?$ acoustics-stretch-ceiling.php
+RewriteRule ^lacquer-ceiling-in-india?$ lacquer-ceiling-in-india.php
 
 
 

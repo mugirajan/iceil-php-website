@@ -626,7 +626,7 @@
                             Post category:business/businessidea/ceiling/Franchising/india/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Stretch ceiling acts as the perfect acoustic solution for your room. If you are exposed to high sound around your…</p>
-                        <button ><a href="SingleBlog">Read More</a></button>
+                        <button ><a href="acoustics-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
                         <img alt="Lacquer Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/high-gloss-celing.jpg?resize=768%2C482&ssl=1">
@@ -636,7 +636,7 @@
                             Post category:ceiling/business/businessidea/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Lacquer ceiling is considered as one of the best stretch ceiling which creates a glossy look to your interior. Due…</p>
-                        <button ><a href="SingleBlog">Read More</a></button>
+                        <button ><a href="lacquer-ceiling-in-india">Read More</a></button>
                     </li>
                 </ul>
                 <!-- Page 2 -->
