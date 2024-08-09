@@ -36,7 +36,7 @@
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
                         <div class="inteco-single-article clearfix">
                             <div class="inteco-single-article-content">
-                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">WHICH CEILING IS BETTER: STRETCH OR GYPSUM?</h5>
+                                <h5 class="sin-blog" style="font-size: 25px; padding-bottom: 10px;">Which cielling is better : stretch or gypsum?</h5>
                                 <p>All operations for leveling and cleaning the ceiling are complex and require a lot of investments. But the stretch or Gypsum structure does not require additional surface preparation.</p>
                                 <h6>FEATURES OF GYPSUM AND STRETCH CEILINGS</h6>
                                 <p>For the installation of a Gypsum Ceilings, a metal frame is first constructed, onto which elements and ceiling modules themselves are fastened-plasterboard sheets. At the last stage produce its putty and painting. <br><br>
@@ -115,60 +115,60 @@
                     </h3><span class="clear"></span>
                     <ul id="recentcomments">
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">What is the benefit of a Stretch Ceiling?
+                                href="What-is-the-benefit">What is the benefit of a Stretch Ceiling?
                             </a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Stretch Ceilings Much STRONGER than you can imagine</a></li>
+                                href="much-stronger">Stretch Ceilings Much STRONGER than you can imagine</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Why stretch ceiling are perfect for Wet / Humid rooms?</a></li>
+                                href="perfect-for-wet">Why stretch ceiling are perfect for Wet / Humid rooms?</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">High Gloss Lacquer stretch ceiling with linear lights</a></li>
+                                href="high-gloss-lacquer">High Gloss Lacquer stretch ceiling with linear lights</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Stretch Ceiling – Power Consumption</a></li>
+                                href="power-consumption">Stretch Ceiling – Power Consumption</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">How do you maintain Stretch Ceilings?</a></li>
+                                href="how-do-you-maintain">How do you maintain Stretch Ceilings?</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Perfect choice for restaurant</a></li>
+                                href="perfect-choice-for-restaurant">Perfect choice for restaurant</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Pros and cons of 3D Stretch Ceiling</a></li>
+                                href="3D-stretch-ceiling">Pros and cons of 3D Stretch Ceiling</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Stretch ceiling on a wall</a></li>
+                                href="stretch-ceiling-on-a-wall">Stretch ceiling on a wall</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Stretch ceiling shapes</a></li>
+                                href="Stretch-ceiling-shapes">Stretch ceiling shapes</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Work with lights and other fittings and fixtures?</a></li>
+                                href="stretch-ceilings-lights-fittings">Work with lights and other fittings and fixtures?</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">European Vs Chinese Stretch Ceilings</a></li>
+                                href="european-vs-chinese-stretch-ceilings">European Vs Chinese Stretch Ceilings</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Printed ceiling made easy</a></li>
+                                href="printed-ceiling-iceil-stretch-ceiling">Printed ceiling made easy</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">How to Fit Ceiling System into my Space</a></li>
+                                href="how-to-fit-stretch-ceiling-system-into-my-space">How to Fit Ceiling System into my Space</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">5 Ways Stretch Ceilings Can Save You Money</a></li>
+                                href="5-ways-stretch-ceilings-can-save-you-money">5 Ways Stretch Ceilings Can Save You Money</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Best for entertainment centre</a></li>
+                                href="stretch-ceiling-best-for-entertainment-centre">Best for entertainment centre</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Different types of Stretch Ceiling</a></li>
+                                href="different-types-of-stretch-ceiling">Different types of Stretch Ceiling</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Improve your room acoustics with stretch ceiling</a></li>
+                                href="acoustics-stretch-ceiling">Improve your room acoustics with stretch ceiling</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">High gloss Lacquer Ceiling</a></li>
+                                href="lacquer-ceiling-in-india">High gloss Lacquer Ceiling</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">6 things you didn’t know about Stretch Ceilings</a></li>
+                                href="about-Stretch-Ceilings">6 things you didn’t know about Stretch Ceilings</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Starry Galaxy Ceiling</a></li>
+                                href="Starry-Galaxy-Ceiling">Starry Galaxy Ceiling</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">What is a Translucent Stretch Ceiling?</a></li>
+                                href="Translucent-stretch-ceiling">What is a Translucent Stretch Ceiling?</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Why we are better than others?</a></li>
+                                href="Why-we-are-better">Why we are better than others?</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Leading Stretch Ceiling Manufacturer in India</a></li>
+                                href="Leading-Stretch-Ceiling">Leading Stretch Ceiling Manufacturer in India</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Best Business Opportunity in India 2021.</a></li>
+                                href="Best-Business-Opportunity">Best Business Opportunity in India 2021.</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">What is stretch ceiling?</a></li>
+                                href="What-is-stretch-ceiling">What is stretch ceiling?</a></li>
                         <li class="recentcomments"><span class="comment-author-link"></span><a
-                                href="#">Which Ceiling is better: STRETCH or GYPSUM?</a></li>
+                                href="improve-your-IT-workplace">How Stretch Ceilings Can Improve Your IT Workplace</a></li>
 
                     </ul>
                 </div>

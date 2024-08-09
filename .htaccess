@@ -8,25 +8,26 @@ RewriteRule ^stretch-ceiling-manufacturer-india?$ about-us-3.php
 RewriteRule ^Projects?$ projects.php
 RewriteRule ^Partners?$ about-our-team.php
 RewriteRule ^Blogs?$ blog-full-left-sidebar-with-frame.php
-RewriteRule ^SingleBlog?$ standard-post-type.php
-RewriteRule ^SingleBlog2?$ standard-post-type2.php
-RewriteRule ^SingleBlog3?$ standard-post-type3.php
-RewriteRule ^SingleBlog4?$ standard-post-type4.php
-RewriteRule ^SingleBlog5?$ standard-post-type5.php
-RewriteRule ^SingleBlog6?$ standard-post-type6.php
-RewriteRule ^SingleBlog7?$ standard-post-type7.php
-RewriteRule ^SingleBlog8?$ standard-post-type8.php
-RewriteRule ^SingleBlog11?$ standard-post-type11.php
-RewriteRule ^SingleBlog12?$ standard-post-type12.php
-RewriteRule ^SingleBlog13?$ standard-post-type13.php
-RewriteRule ^SingleBlog14?$ standard-post-type14.php
-RewriteRule ^SingleBlog15?$ standard-post-type15.php
-RewriteRule ^SingleBlog16?$ standard-post-type16.php
-RewriteRule ^SingleBlog17?$ standard-post-type17.php
-RewriteRule ^SingleBlog18?$ standard-post-type18.php
-RewriteRule ^SingleBlog19?$ standard-post-type19.php
-RewriteRule ^SingleBlog20?$ standard-post-type20.php
-RewriteRule ^SingleBlog21?$ standard-post-type21.php
+
+RewriteRule ^about-Stretch-Ceilings?$ about-Stretch-Ceilings.php
+RewriteRule ^Starry-Galaxy-Ceiling?$ Starry-Galaxy-Ceiling.php
+RewriteRule ^Translucent-stretch-ceiling?$ Translucent-stretch-ceiling.php
+RewriteRule ^Why-we-are-better?$ Why-we-are-better.php
+RewriteRule ^Leading-Stretch-Ceiling?$ Leading-Stretch-Ceiling.php
+RewriteRule ^Best-Business-Opportunity?$ Best-Business-Opportunity.php
+RewriteRule ^What-is-stretch-ceiling?$ What-is-stretch-ceiling.php
+RewriteRule ^Which-cielling-is-better?$ Which-cielling-is-better.php
+RewriteRule ^stretch-ceiling-on-a-wall?$ stretch-ceiling-on-a-wall.php
+RewriteRule ^3D-stretch-ceiling?$ 3D-stretch-ceiling.php
+RewriteRule ^perfect-choice-for-restaurant?$ perfect-choice-for-restaurant.php
+RewriteRule ^how-do-you-maintain?$ how-do-you-maintain.php
+RewriteRule ^power-consumption?$ power-consumption.php
+RewriteRule ^high-gloss-lacquer?$ high-gloss-lacquer.php
+RewriteRule ^perfect-for-wet?$ perfect-for-wet.php
+RewriteRule ^much-stronger?$ much-stronger.php
+RewriteRule ^What-is-the-benefit?$ What-is-the-benefit.php
+RewriteRule ^improve-your-IT-workplace?$ improve-your-IT-workplace.php
+
 RewriteRule ^ContactUs?$ contact-2.php
 RewriteRule ^Downloads?$ downloads.php
 
