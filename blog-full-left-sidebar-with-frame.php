@@ -465,7 +465,7 @@
                         <button ><a href="much-stronger">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/06/article.jpg?resize=768%2C384&ssl=1" alt="Stretch Ceiling">
+                        <img src="img/drive-3d/01.jpg" alt="Stretch Ceiling">
                         <h4>Why stretch ceiling are perfect for Wet / Humid rooms?</h4>
                         <span>Admin
                             Post published:28/06/2022
@@ -484,7 +484,7 @@
                         <button ><a href="high-gloss-lacquer">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/05/Stretch-ceiling_power-consumption.jpg?resize=768%2C587&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/Printed Stretch Ceiling/university/Hindustan (2).jpeg">
                         <h4>Stretch Ceiling – Power Consumption</h4>
                         <span>Admin
                             Post published:24/05/2022
@@ -494,7 +494,7 @@
                         <button ><a href="power-consumption">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/05/manitance-stretch-ceiling.jpg?resize=768%2C576&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/integrated-lighting-lobby-stretch-ceiling-.jpg">
                         <h4>How do you maintain Stretch Ceilings?</h4>
                         <span>Admin
                             Post published:04/05/2022
@@ -504,7 +504,7 @@
                         <button ><a href="how-do-you-maintain">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/stretch-restaurant.jpg?resize=768%2C595&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/27.jpg">
                         <h4>Stretch ceiling – Perfect choice for restaurant</h4>
                         <span>Admin
                             Post published:29/04/2022
@@ -514,7 +514,7 @@
                         <button ><a href="perfect-choice-for-restaurant">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/3d-form.jpg?resize=768%2C405&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/20.jpg">
                         <h4>Pros and cons of 3D Stretch Ceiling</h4>
                         <span>Admin
                             Post published:27/04/2022
@@ -525,7 +525,7 @@
                         <button ><a href="3D-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/WhatsApp-Image-2022-04-22-at-4.37.11-PM.jpeg?resize=768%2C575&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/19.jpg">
                         <h4>Stretch ceiling on a wall</h4>
                         <span>Admin
                             Post published:22/04/2022
@@ -539,7 +539,7 @@
         
                 <ul class="page">
                     <li>
-                        <img  alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/article_image.png?resize=768%2C502&ssl=1">
+                        <img  alt="Stretch Ceiling" src="img/drive-translucent/18.jpg">
                         <h4>Stretch ceiling shapes</h4>
                         <span>Admin
                             Post published:15/04/2022
@@ -549,7 +549,7 @@
                         <button ><a href="Stretch-ceiling-shapes">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/light.jpg?resize=768%2C512&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/14.jpg">
                         <h4>How do stretch ceilings work with lights and other fittings and fixtures?</h4>
                         <span>Admin
                             Post published:11/04/2022
@@ -559,7 +559,7 @@
                         <button ><a href="stretch-ceilings-lights-fittings">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://img.freepik.com/free-photo/art-exhibition-with-abstract-shapes_1122-1478.jpg?t=st=1714368006~exp=1714371606~hmac=1e8186b5f2286ca0b3d5f22157d3e94f2464abeaf39eea6594e18b6065916a43&w=740">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/08.jpg">
                         <h4>European Vs Chinese Stretch Ceilings</h4>
                         <span>Admin
                             Post published:08/04/2022
@@ -569,7 +569,7 @@
                         <button ><a href="european-vs-chinese-stretch-ceilings">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/dsftr.png?resize=768%2C681&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/10.jpg">
                         <h4>Printed ceiling made easy with Iceil stretch ceiling</h4>
                         <span>Admin
                             Post published:06/04/2022
@@ -579,7 +579,7 @@
                         <button ><a href="printed-ceiling-iceil-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/fit.jpg?resize=768%2C598&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/12.jpg">
                         <h4>How to Fit Stretch Ceiling System into my Space</h4>
                         <span>Admin
                             Post published:02/04/2022
@@ -589,7 +589,7 @@
                         <button ><a href="how-to-fit-stretch-ceiling-system-into-my-space">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/5-ways.jpg?w=736&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/07.jpg">
                         <h4>5 Ways Stretch Ceilings Can Save You Money</h4>
                         <span>Admin
                             Post published:29/03/2022
@@ -599,7 +599,7 @@
                         <button ><a href="5-ways-stretch-ceilings-can-save-you-money">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/pop.jpg?resize=768%2C512&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/shopping-center-stretch-ceiling.jpg">
                         <h4>Stretch ceiling – Best for entertainment centre</h4>
                         <span>Admin
                             Post published:26/03/2022
@@ -609,7 +609,7 @@
                         <button ><a href="stretch-ceiling-best-for-entertainment-centre">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/tpes-stretch.jpg?w=549&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/Stretch-Ceilings-Ltd_Lighting-Solutions_Octavia-House_1200x800.jpg">
                         <h4>Different types of Stretch Ceiling</h4>
                         <span>Admin
                             Post published:24/03/2022
@@ -619,7 +619,7 @@
                         <button ><a href="different-types-of-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Acoustics Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-11.00.40-AM.jpeg?resize=768%2C361&ssl=1">
+                        <img alt="Acoustics Stretch Ceiling" src="img/drive-translucent/TRANS 10 (1).jpg">
                         <h4>Improve your room acoustics with stretch ceiling</h4>
                         <span>Admin
                             Post published:16/03/2022
@@ -629,7 +629,7 @@
                         <button ><a href="acoustics-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Lacquer Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/high-gloss-celing.jpg?resize=768%2C482&ssl=1">
+                        <img alt="Lacquer Ceiling" src="img/drive-translucent/translucent-stretch-ceilings.jpg">
                         <h4>High gloss Lacquer Ceiling</h4>
                         <span>Admin
                             Post published:14/03/2022
@@ -643,7 +643,7 @@
         
                 <ul class="page">
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/6-things.jpg?resize=768%2C456&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/integrated-lighting-lobby-stretch-ceiling-.jpg">
                         <h4>6 things you didn’t know about Stretch Ceilings</h4> 
                         <span>Admin
                             Post published:11/03/2022
@@ -653,7 +653,7 @@
                         <button ><a href="about-Stretch-Ceilings.php">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling"src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/galaxy.jpg?w=500&ssl=1">
+                        <img alt="Stretch Ceiling"src="img/drive-translucent/09.jpg">
                         <h4>Starry Galaxy Ceiling made with Stretch Ceiling</h4> 
                         <span>Admin
                             Post published:10/03/2022
@@ -663,7 +663,7 @@
                         <button ><a href="Starry-Galaxy-Ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/trans.jpg?resize=768%2C512&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/01.webp">
                         <h4>What is a Translucent Stretch Ceiling?</h4>
                         <span>Admin
                             Post published:09/03/2022
@@ -673,7 +673,7 @@
                         <button ><a href="Translucent-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img alt="Stretch Ceiling" src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/02/blog.jpg?resize=768%2C360&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/03 (1).jpg">
                         <h4>Why we are better than other stretch ceiling manufacturers In India?</h4> 
                         <span>Admin
                             Post published:24/02/2022
@@ -683,7 +683,7 @@
                         <button ><a href="Why-we-are-better">Read More</a></button>
                     </li>
                     <li>
-                        <img src="" alt="Stretch Ceiling">
+                        <img src="img/drive-translucent/3d6.jpg" alt="Stretch Ceiling">
                         <h4>Leading Stretch Ceiling Manufacturer in India</h4> 
                         <span>Admin
                             Post published:12/11/2021
@@ -693,7 +693,7 @@
                         <button ><a href="Leading-Stretch-Ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img src="" alt="Stretch Ceiling">
+                        <img src="img/drive-translucent/02.jpg" alt="Stretch Ceiling">
                         <h4>Best Business Opportunity in India 2021.</h4> 
                         <span>Admin
                             Post published:26/10/2021
@@ -703,7 +703,7 @@
                         <button ><a href="Best-Business-Opportunity">Read More</a></button>
                     </li>
                     <li>
-                        <img src="" alt="Stretch Ceiling">
+                        <img src="img/drive-translucent/05.jpg" alt="Stretch Ceiling">
                         <h4>What is stretch ceiling?</h4> 
                         <span>Admin
                             Post published:07/11/2020
@@ -713,7 +713,7 @@
                         <button ><a href="What-is-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img src="" alt="STRETCH or GYPSUM">
+                        <img src="img/drive-translucent/06.jpg" alt="STRETCH or GYPSUM">
                         <h4>Which Ceiling is better: STRETCH or GYPSUM?</h4> 
                         <span>Admin
                             Post published:18/08/2020
