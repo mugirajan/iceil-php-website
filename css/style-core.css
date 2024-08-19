@@ -7539,10 +7539,32 @@ body {
 .wrapper-blog { 
 	display: flex; 
 } 
+@media(min-width:690px){
+	.wrapper-single-blog{
+		display: flex;
+	}
+	.pb-top{
+		padding-top: 100px;
+	}
+	.inteco-content-area {
+		padding-bottom: 40px;
+	}
+}
+@media(max-width:680px){
+	.wrapper-single-blog{
+		display: block;
+	}
+	.pb-top{
+		padding-top: 0px;
+	}
+	.inteco-content-area {
+		padding-bottom: 0px;
+	}
+}
 
 .main-blog { 
 	width: 65%; 
-	/* height: 550vh;  */
+	height: auto; 
 	min-height: 1000px; 
 	display: flex; 
 	flex-direction: column; 
@@ -7590,7 +7612,7 @@ body {
 @media screen and (max-width:1200px){
 	.main-blog { 
 		width: 65%; 
-		height: 650vh; 
+		height: auto; 
 		min-height: 1000px; 
 		display: flex; 
 		flex-direction: column; 
@@ -7605,7 +7627,7 @@ body {
 @media screen and (max-width:780px){
 	.main-blog { 
 		width: 65%; 
-		height: 650vh; 
+		height: auto; 
 		min-height: 1000px; 
 		display: flex; 
 		flex-direction: column; 

@@ -23,14 +23,11 @@
                         
     </div>
 
-    <div class="wrapper-blog">
+    <div class="wrapper-single-blog">
         
 
         <div class="main-blog single-main-post">
             
-            <div style=" width:15%l">
-                <button id="sidebar-toggle" style="margin:2rem 0">click</button>
-            </div>
             <div class="inteco-content-wrap inteco-item-pdlr clearfix">
                 <div class="inteco-content-area">
                     <article id="post-1268" class="post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-post-format tag-news">
@@ -73,12 +70,12 @@
                
             </div>
         </div>
-        <div class="sidebar-blog">
+        <div class="">
 	
             <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
 
                 <div id="recent-comments-3" class="widget widget_recent_comments inteco-widget">
-                    <h3 class="inteco-widget-title" style="padding-bottom: 10px;padding-top: 100px;font-size: 25px;">Our
+                    <h3 class="inteco-widget-title pb-top" style="padding-bottom: 10px;font-size: 25px;">Our
                         recommendations
                     </h3><span class="clear"></span>
                     <ul id="recentcomments">
