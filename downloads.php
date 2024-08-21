@@ -77,7 +77,8 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>Iceil Systems was started with a vision to bring Printed interiors for your home and commercial spaces through Stretch Ceiling, Customized WallPaper, and 3D Epoxy Flooring. We are backed by 10 years of industrial experience in digital printing & signage solutions. We are the leading Stretch Ceiling Manufacturer in India and we offer a wide variety of Stretch Ceilings combined with innovative lighting solutions. Our operations started in Chennai, India and we are looking for an aggressive Pan-India growth offering high-quality interiors through Franchises. Let’s together STYLE YOUR SPACE.</p>
+                                                <h6>ICEIL LIGHTING: India’s No. 1 Stretch Ceiling and Custom Lighting Manufacturer</h6>
+                                                <p>Iceil specializes in crafting bespoke lighting solutions for residential, commercial, and office spaces. As a leading custom lighting manufacturer, we offer a wide range of innovative products designed to meet each client’s unique needs. Download our brochure and technical specifications today.</p>
                                             </div>
                                         </div>
                                     </div>
