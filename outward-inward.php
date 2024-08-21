@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="outward linear lighting, inward linear lighting, downward linear lighting, flexible lighting solutions, bendable lighting fixtures, versatile lighting designs, residential lighting, commercial lighting, office lighting, adjustable lighting direction, functional lighting solutions, aesthetic lighting options">
-
+<title>Outward Inward download linear | Customized linear lighting </title>
+<meta name="description" content="Looking for custom linear lighting? Iceil offers Outward-Inward designs and decorative solutions. Contact us for customized lighting solutions!">
 </head>
 
 <?php

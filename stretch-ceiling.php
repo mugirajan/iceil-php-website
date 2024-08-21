@@ -1,7 +1,8 @@
 <?php
   include "./shared/header-top.php"
 ?>
-
+<title>Stretch Ceiling Manufacturer | Stretch Ceiling Supplier  | Iceil</title>
+<meta name="description" content="Choose Iceil, India’s leading stretch ceiling manufacturer and supplier. We provide high-quality, elegant stretch ceilings perfect for any interior.">
 </head>
 <?php
   include "./shared/navbar.php"

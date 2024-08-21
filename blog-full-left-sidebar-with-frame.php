@@ -1,7 +1,8 @@
 <?php
   include "./shared/header-top.php"
 ?>
-
+<title>Stretch Ceiling - Manufacturer & Supplier | Custom Architectural Lighting | Iceil Stretch Ceiling Blog</title>
+<meta name="description" content="Explore Iceil's stretch ceilings and custom lighting solutions. Discover expert tips and trends on our blog for innovative architectural design ideas.">
 </head>
 
 <body>

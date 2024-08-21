@@ -15,7 +15,8 @@
   Stretch Ceiling Uttarakhand, Stretch Ceiling West Bengal, Stretch Ceiling Andaman, Stretch Ceiling Jammu and Kashmir, Stretch Ceiling Ladakh,
   Stretch Ceiling Arunachal Pradesh ">
 </head>
-
+<title>Stretch ceiling Franchise | Franchise Opportunities | Iceil</title>
+<meta name="description" content="Explore franchise opportunities with Iceil's stretch ceiling solutions. Join a leading brand in innovative ceiling designs and expand your business potential.">
 <?php
   include "./shared/navbar.php"
 ?> 
@@ -47,7 +48,7 @@
                     <!--partner with us start-->
                     <section class="hero-team-section">
                         <div class="row">
-                            <div class="col-lg-6 div-of-hero">
+                            <div class="col-lg-8 col-sm-12 div-of-hero">
                                 <h3>Expand your possibilities through a defined relationship</h3>
                                 <p>At ICEIL, we believe in the power of collaboration and partnership to unlock new opportunities and drive mutual success. By joining forces with us, you can expand your possibilities and achieve your goals with confidence.</p>
                                 <div class="button-div-hero">
@@ -55,8 +56,8 @@
                                     <button class="inptBtndiv"><a href="#collaboration">Project collaboration</a></button>
                                 </div>
                             </div>
-                            <div class="col-lg-6">
-                            <img src="https://img.freepik.com/free-photo/two-businesspeople-shaking-hands-indoors_1423-209.jpg?w=740" alt="Hand Shaking">
+                            <div class="col-lg-4 col-sm-12">
+                            <img style="height:100%" src="https://img.freepik.com/free-photo/two-businesspeople-shaking-hands-indoors_1423-209.jpg?w=740" alt="Hand Shaking">
                             </div>
                         </div>
                     </section>
@@ -979,7 +980,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/32.png" alt="Udaipur" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/roseeco.png" alt="Udaipur" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -1186,7 +1187,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-8">
-                                <a href="https://www.youtube.com/playlist?list=PL2wd3eKmgLLPZxWACJPO3sG8UtAYTzPeA" target="_blank">
+                                <a href="https://www.youtube.com/@Iceilstretchceiling" target="_blank">
                                     <img style="width:100%" src="img/photoshop-franchise/franchise.jpg" alt="Video Poster" style="height: auto;">
                                 </a>
                             </div>
@@ -1208,8 +1209,7 @@
 
                                     <li>
                                     <i class="fa fa-phone"></i>
-                                    <a href="tel:918925517107"><b>89255 17107</b></a>,
-                                    <a href="tel:918925517108"><b>89255 17108</b></a>
+                                    <a href="tel:8925848069"><b>89258 48069</b></a>
                                     </li>
 
                                     <li>
@@ -1234,11 +1234,41 @@
                                         </div>
 
                                         <div class="col-sm-6">
-                                        <input class="form-control inptFld" type="tel" name="phone" id="phone" placeholder="Phone Number*"  required />
+                                        <input class="form-control inptFld" type="tel" name="phone" maxlength="14"  id="phone" placeholder="Phone Number*"  required />
                                         </div>
 
                                         <div class="col-sm-6">
-                                        <input class="form-control inptFld" type="text" name="state"  id="state" placeholder="State*"  required />
+                                            <select class="form-control inptFld" name="state"  id="state" required>
+                                                <option value="" disabled selected>Select state</option>
+                                                <option value="Andhra Pradesh">Andhra Pradesh</option>
+                                                <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                                                <option value="Assam">Assam</option>
+                                                <option value="Bihar">Bihar</option>
+                                                <option value="Chhattisgarh">Chhattisgarh</option>
+                                                <option value="Goa">Goa</option>
+                                                <option value="Gujarat">Gujarat</option>
+                                                <option value="Haryana">Haryana</option>
+                                                <option value="Himachal Pradesh">Himachal Pradesh</option>
+                                                <option value="Jharkhand">Jharkhand</option>
+                                                <option value="Karnataka">Karnataka</option>
+                                                <option value="Kerala">Kerala</option>
+                                                <option value="Madhya Pradesh">Madhya Pradesh</option>
+                                                <option value="Maharashtra">Maharashtra</option>
+                                                <option value="Manipur">Manipur</option>
+                                                <option value="Meghalaya">Meghalaya</option>
+                                                <option value="Mizoram">Mizoram</option>
+                                                <option value="Nagaland">Nagaland</option>
+                                                <option value="Odisha">Odisha</option>
+                                                <option value="Punjab">Punjab</option>
+                                                <option value="Rajasthan">Rajasthan</option>
+                                                <option value="Sikkim">Sikkim</option>
+                                                <option value="Tamil Nadu">Tamil Nadu</option>
+                                                <option value="Telangana">Telangana</option>
+                                                <option value="Tripura">Tripura</option>
+                                                <option value="Uttar Pradesh">Uttar Pradesh</option>
+                                                <option value="Uttarakhand">Uttarakhand</option>
+                                                <option value="West Bengal">West Bengal</option>
+                                            </select>
                                         </div>
 
                                         <div class="col-sm-6">

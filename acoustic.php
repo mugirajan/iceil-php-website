@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="acoustic stretch ceiling, sound-absorbing ceiling, noise reduction ceiling, perforated fabric ceiling, acoustic design, office acoustics, auditorium acoustics, soundproofing, speech intelligibility, acoustic panels, customizable acoustic ceilings">
-
+<title>Acoustic stretch ceilings | Acoustic Ceilings | Acoustic solutions</title>
+<meta name="description" content="Iceil Acoustic Stretch Ceilings blend sound-absorbing materials with stretchable perforated fabric for superior acoustic solutions.">
 </head>
 
 <?php

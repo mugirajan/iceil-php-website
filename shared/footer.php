@@ -44,7 +44,7 @@
                                         </div>
                                         <div class="col-lg-6 col-sm-12 form-group">
                                             <label for="tel">Enter Phone NUmber*</label>
-                                            <input type="tel" class="form-control" id="tel" name="tel" placeholder="Enter Your Number" required>
+                                            <input type="tel" class="form-control" id="tel" name="tel" pattern="\d{10}" maxlength="14"  placeholder="Enter Your Number" required>
                                         </div>
                                     </div>
                                     <div class="row">
@@ -186,7 +186,7 @@
                                     style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
                             </a>
                         </div>
-                        <div class="inteco-copyright-right inteco-item-pdlr">© Iceil Systems Pvt Ltd <a
+                        <div class="inteco-copyright-right inteco-item-pdlr">© Iceil Stretch Ceilings <a
                                 href="https://blackitechs.com/" target="_blank">Developed by Black I Technologies & Solutions</a>
                         </div>
                     </div>

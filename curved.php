@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="curved recessed linear lighting, gypsum ceiling lighting, flexible lighting designs, customizable lighting shapes, aesthetic lighting solutions, residential lighting, commercial lighting, office lighting, seamless integration lighting, dynamic lighting designs">
-
+<title>curved recessed linear lighting | customized lighting design</title>
+<meta name="description" content="Searching for curved recessed linear lighting? Iceil’s designers provide customized solutions tailored to your needs. Get in touch for custom lighting designs!">
 </head>
 
 <?php

@@ -42,7 +42,8 @@ margin-bottom:20px;
   Stretch Ceiling Uttarakhand, Stretch Ceiling West Bengal, Stretch Ceiling Andaman, Stretch Ceiling Jammu and Kashmir, Stretch Ceiling Ladakh,
   Stretch Ceiling Arunachal Pradesh,Stretch Ceiling ">
 </head>
-
+<title>Customized lighting solutions | Top Stretch ceiling manufacturing india | Iceil</title>
+<meta name="description" content="Discover customized lighting solutions and top stretch ceiling manufacturing with Iceil. Contact us for innovative designs and expert installation across India">
 <?php
   include "./shared/navbar.php"
 ?>
@@ -53,7 +54,7 @@ margin-bottom:20px;
                     
                     <!--banner start-->
                     <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                        style="height: 65vh;background-image:url(https://img.freepik.com/free-photo/businessman-using-laptop-mobile-phone_1421-526.jpg?t=st=1712043643~exp=1712047243~hmac=f0a0c55862fd0dc57ba245fa7dc01e7cbb5d5752da25b4c85873f24b378e1c46&w=740)">
+                        style="height: 65vh;background-image:url(images/blog-page/blog-1.jpg)">
                         <div class="inteco-header-transparent-substitute"></div>
                         <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                         <div class="inteco-blog-title-bottom-overlay"></div>
@@ -83,13 +84,13 @@ margin-bottom:20px;
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" style="padding-bottom: 25px ;">
                                                     <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 32px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;">Leave us your info </h3></div>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 32px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"> Ready to take the next step? </h3></div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 35px ;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;">
-                                                        <p>We value your feedback and inquiries. Please use the form below to get in touch with us. Fill in your details and message, and we'll get back to you as soon as possible</p>
+                                                        <p>Fill out our contact form today. Whether you have questions, feedback, or collaboration ideas, we're here to help. Let’s start the conversation and work together toward your goals. Reach out now!</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -124,7 +125,37 @@ margin-bottom:20px;
                                                             <div class="row">
                                                                 <div class="col-lg-6">
                                                                     <div class="form-group">
-                                                                        <input class="form-control" id="state" name="state" placeholder="state*" type="text"  required>
+                                                                        <select class="form-control" name="state"  id="state" required placeholder="state*">
+                                                                            <option value="" disabled selected>Select state*</option>
+                                                                            <option value="Andhra Pradesh">Andhra Pradesh</option>
+                                                                            <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                                                                            <option value="Assam">Assam</option>
+                                                                            <option value="Bihar">Bihar</option>
+                                                                            <option value="Chhattisgarh">Chhattisgarh</option>
+                                                                            <option value="Goa">Goa</option>
+                                                                            <option value="Gujarat">Gujarat</option>
+                                                                            <option value="Haryana">Haryana</option>
+                                                                            <option value="Himachal Pradesh">Himachal Pradesh</option>
+                                                                            <option value="Jharkhand">Jharkhand</option>
+                                                                            <option value="Karnataka">Karnataka</option>
+                                                                            <option value="Kerala">Kerala</option>
+                                                                            <option value="Madhya Pradesh">Madhya Pradesh</option>
+                                                                            <option value="Maharashtra">Maharashtra</option>
+                                                                            <option value="Manipur">Manipur</option>
+                                                                            <option value="Meghalaya">Meghalaya</option>
+                                                                            <option value="Mizoram">Mizoram</option>
+                                                                            <option value="Nagaland">Nagaland</option>
+                                                                            <option value="Odisha">Odisha</option>
+                                                                            <option value="Punjab">Punjab</option>
+                                                                            <option value="Rajasthan">Rajasthan</option>
+                                                                            <option value="Sikkim">Sikkim</option>
+                                                                            <option value="Tamil Nadu">Tamil Nadu</option>
+                                                                            <option value="Telangana">Telangana</option>
+                                                                            <option value="Tripura">Tripura</option>
+                                                                            <option value="Uttar Pradesh">Uttar Pradesh</option>
+                                                                            <option value="Uttarakhand">Uttarakhand</option>
+                                                                            <option value="West Bengal">West Bengal</option>
+                                                                        </select>
                                                                         <span class="alert-error"></span>
                                                                     </div>
                                                                 </div>
@@ -175,7 +206,7 @@ margin-bottom:20px;
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;">
                                                         <p>290A, 80 Feet TNHB Road, Sholinganallur,
-                                                            <br />Chennai – 600 119.</p>
+                                                            <br />Chennai – 600 119, Tamilnadu.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -222,7 +253,7 @@ margin-bottom:20px;
                                                             </div>
                                                         </li>
                                                         <li class=" gdlr-core-skin-divider gdlr-core-with-hover"><span class="gdlr-core-icon-list-icon-wrap"><i class="gdlr-core-icon-list-icon-hover fa fa-phone" style="font-size: 16px ;"  ></i><i class="gdlr-core-icon-list-icon fa fa-phone" style="font-size: 16px ;width: 16px ;" ></i></span>
-                                                            <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 16px ;">+91 89255 17107 / 17108 / 17109/ 17105 / 17106</span></div>
+                                                            <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 16px ;">89258 48069</span></div>
                                                         </li>
                                                     </ul>
                                                     

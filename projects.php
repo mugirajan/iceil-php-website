@@ -1,7 +1,11 @@
 <?php
   include "./shared/header-top.php"
 ?>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css'>
+
 <link rel="stylesheet" href="css/testimonial.css" type='text/css' media='all'>
+<title>Stretch Ceiling India | Custom Lighting Solutions | Iceil Projects </title>
+<meta name="description" content="Iceil Projects - India's leading stretch ceiling and custom lighting solutions provider. Transform your space with our innovative designs.">
 </head>
 <?php
   include "./shared/navbar.php"
@@ -12,23 +16,16 @@
                 <div class="gdlr-core-page-builder-body">
                     <div class="gdlr-core-pbf-wrapper " style="padding: 290px 0px 150px 0px;" id="gdlr-core-wrapper-1">
                         <div class="gdlr-core-pbf-background-wrap">
-                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(images/project-page/collage4.jpg) ;background-size: cover ;opacity: 0.4;background-position: center ;" data-parallax-speed="0.2"></div>
+                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(images/project-page/collage4.jpg) ;background-size: cover ;opacity: 0.6;background-position: center ;" data-parallax-speed="0.2"></div>
                         </div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js main-layout-banner">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                                 <div class=" gdlr-core-column-60 gdlr-core-column-first">
                                     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
                                         <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " style="max-width: 720px ;">
+                                            
                                             <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 20px ;">
-                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img alt="our project"  src="img/light/service-1icon-1.png" alt="our project" width="75" height="85" title="Project" /></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption banner-lay-project" style="font-size: 60px ;font-style: normal ;color: #0f0f0f ;margin-bottom: 0px ;">Projects</span></div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 18px ;font-style: normal ;color: #0f0f0f ;">Iceil aims to optimize energy efficiency and occupant comfort in ceiling-mounted systems through research, analysis, modeling, implementation, and dissemination of innovative strategies and technologies for sustainable building practices.</span></div>
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption banner-lay-project" style="font-size: 60px ;font-style: normal ;color: #0f0f0f ;margin-bottom: 0px ;">Our Projects</span></div>
                                             </div>
                                         </div>
                                     </div>
@@ -107,7 +104,7 @@
                                 <h3>GOA Airport</h3>
                             </div>
                             <div class="card-body-blog">
-                                <P>MOPA GOA Airport, 1800 SQFT space of Printed Stretch Ceiling.</P>
+                                <P>MOPA GOA Airport, 1800 SQFT space of vibrant Printed Stretch Ceiling.</P>
                             </div>
                         </a>
                         <a class="card-of-blog">
@@ -355,8 +352,8 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/28.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/28.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
@@ -648,15 +645,123 @@
                     <!---project end--->
                    
                     <!-- Testimonial start -->
-                     <section class="body-testi">
-                        <h4>Our Testimonials</h4><br><br>
-                        <div id="craouselContainer" class="swiper-container">
-                                <div class="swiper-wrapper" id="slideHolder">
-                                    <!-- Slides -->
-                                </div>
-                                <div class="swiper-pagination"></div>
+                    <div class="gtco-testimonials">
+                    <h4 class="text-center">Our Clients<span class="span-for-you">Testimonials</span></h4>
+                    <div class="owl-carousel owl-carousel1 owl-theme">
+                    <div>
+                      <div class="card text-center"><img class="card-img-top"
+                          src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png"
+                          alt="">
+                        <div class="card-body">
+                          <h5>Jennefar Raj<br />
+                            <span> Cluster Head , DLF Operations </span>
+                          </h5>
+                          <p class="card-text">“ I would like to take this opportunity to thank you and M/s ICEIL Systems team for the prompt committed production and delivery Schedule and as expected excellent work completion despite all the constraints due to site condition.  It has been tough task to produce and execute the work within the time period given by DLF, however your Production and Execution team shown their utmost professionalism on given challenges all around.  Your CTO and GM demonstrated their technical ability and flexibility during the execution.  Together we all have been able to complete the project on time.  ” </p>
                         </div>
-                    </section>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="card text-center"><img class="card-img-top"
+                          src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png"
+                          alt="">
+                        <div class="card-body">
+                          <h5>Divyesh Vekariya<br />
+                          </h5>
+                          <p class="card-text">“ The quality of product and service provided by Iceil team is fabulous. installation was clean and quick. They completed the ceiling and lighting work before given timeline, which helped us to manage a project well. We appreciate the service provided by Iceil Stretch ceiling. ” </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="card text-center"><img class="card-img-top"
+                          src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png"
+                          alt="">
+                        <div class="card-body">
+                          <h5>Akash R<br />
+                          </h5>
+                          <p class="card-text">“ I was looking for doing stretch ceiling for my corporate office in Chennai. Through one my closest friend came to know about Iceil Systems. Approached them and visited my office suggested ideas. There workmanship was wow. Technical team is fully professional and have great attitude. Detailed understanding of my requirement. Finally I got what was dreaming. Final outcome was fantastic. Thank God I approached them. For my future requirements will hire their services. Great work. Kudos to Iceil. ” </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="card text-center"><img class="card-img-top"
+                          src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png"
+                          alt="">
+                        <div class="card-body">
+                          <h5>Thenu V<br />
+                          </h5>
+                          <p class="card-text">“ Great work Iceil Systems. I am so happy for contacting you. I did stretch ceiling for my house from them and it's is marvelous. Hope there is another home in my relation circle and I will surely contact them. The company CEO Mr. Vivek ,he is so kind and he got a wonderful team they explained everything about it before I bought this product. ” </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="card text-center"><img class="card-img-top"
+                          src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png"
+                          alt="">
+                        <div class="card-body">
+                          <h5>Praveen N<br />
+                          </h5>
+                          <p class="card-text">“ I bought both wallpapers and Stretch ceiling products from them to my villa,
+                             I am so satisfied with their product and service. I also referred with other companies, and I know that “Iceil Systems” are entirely unique with their products and service. Happily looking forward to do more projects with them for my another villa. ” </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="card text-center"><img class="card-img-top"
+                          src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png"
+                          alt="">
+                        <div class="card-body">
+                          <h5>Prabhoo Narayana Moorthy<br />
+                          </h5>
+                          <p class="card-text">“ Very unique solutions with great capability. Trained staff, product available at every price and budget with clear explanation for customers. ” </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="card text-center"><img class="card-img-top"
+                          src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png"
+                          alt="">
+                        <div class="card-body">
+                          <h5>Anant Kumar Gupta<br />
+                          </h5>
+                          <p class="card-text">“ Recently had a stretch ceiling installed in my living room and added an Amoeba light in the dining area. It looks amazing! My family is really happy with the result. ” </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="card text-center"><img class="card-img-top"
+                          src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png"
+                          alt="">
+                        <div class="card-body">
+                          <h5>Mahesh Indi<br />
+                          </h5>
+                          <p class="card-text">“ Iceil is the best! Their stretch ceilings transformed my space beautifully. Professional service, top-notch quality, highly recommended! ” </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="card text-center"><img class="card-img-top"
+                          src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png"
+                          alt="">
+                        <div class="card-body">
+                          <h5>Kalystic designs<br />
+                          </h5>
+                          <p class="card-text">“ Very sound knowledge for installation and unique patterns. ” </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="card text-center"><img class="card-img-top"
+                          src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png"
+                          alt="">
+                        <div class="card-body">
+                          <h5>Ambalavanan S <br />
+                          </h5>
+                          <p class="card-text">“ Amazing and timely service. Everyone is stunned with the stretched ceiling in our new clinic ” </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                     <!-- Testimonial end -->
                 </div>
             </div>
@@ -667,6 +772,9 @@
         </div>
     </div>
     <script src="js/testimonial.js"></script>
+    <script src='https://code.jquery.com/jquery-3.6.0.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js'></script>
+
     <?php
         include "./shared/script.php"
     ?>

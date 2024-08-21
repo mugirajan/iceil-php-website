@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="Arc/Wave linear lighting, flexible lighting design, dynamic illumination, modern interior lighting, versatile lighting solutions, residential lighting, commercial lighting, office lighting, curved lighting fixtures, aesthetic lighting options">
-
+<title>Custom ARC Linear Lighting | ARC Lighting Design | iceil custom lighting solutions</title>
+<meta name="description" content="Iceil’s custom ARC linear lighting solutions offer unique designs to fit your needs. Contact us for personalized and stylish ARC lighting solutions!">
 </head>
 
 <?php

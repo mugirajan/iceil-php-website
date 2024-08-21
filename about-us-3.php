@@ -1,6 +1,8 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<title>Stretch Ceiling Manufacturer India| Stretch Ceiling Supplier</title>
+<meta name="description" content="Iceil Systems is India’s top stretch ceiling manufacturer and supplier. Contact us for premium stretch ceiling options and elevate your space">
 <style>
 
 .y-us-head {
@@ -125,8 +127,8 @@
                                                         <p> Founded in 2019, Iceil has been at the fore
                                                             front of transforming spaces through the 
                                                             artistry of stretch ceilings. 
-                                                            We are now the No. 1 Stretch Ceiling Manufacturer in India with a service network 
-                                                            presence across many cities in India. We offer a wide variety of Stretch Ceilings combined with innovative lighting solutions that 
+                                                            We are now the No. 1 Stretch ceiling and custom architectural lighting manufacturer in India with a service network 
+                                                            presence across many cities in India. We offer a wide variety of Stretch Ceilings and custom lighting solutions combined with innovative lighting solutions that 
                                                             can make your spaces lively. Iceil exclusively provides stretch ceilings of international 
                                                             quality, boasting a B-S1-D0 fire classification 
                                                             and an A+ VOC rating, ensuring unparalleled safety and excellence. 
@@ -272,8 +274,8 @@
                     <!---our vission mission start-->
                     <div class="container-for-card">
                         <a class="card1">
-                          <h3>Our Vission</h3>
-                          <p class="small">Aspire to be the No.1 manufacturer of stretch ceilings and architectural lighting solutions in India. Delivering a world class lighting experience</p>
+                          <h3>Our Vision</h3>
+                          <p class="small">Bringing stretch ceilings & Architectural Lighting solutions  to homes and commercial spaces throughout India.</p>
                           <div class="go-corner">
                             <div class="go-arrow">
                               →
@@ -284,7 +286,7 @@
                         <a class="card1">
                             <h3>Our Mission</h3>
                             <p class="small">
-                                Bringing stretch ceilings & Architectural Lighting solutions to homes and commercial spaces throughout India.</p>
+                            Aspire to be the No.1 manufacturer of stretch ceilings and architectural lighting solutions in India, delivering a world-class lighting experience.</p>
                                 <div class="go-corner">
                               <div class="go-arrow">
                                 →
@@ -295,9 +297,7 @@
                         <a class="card1">
                             <h3>Quality Policy</h3>
                             <p class="small">
-                                Quality Committed to ongoing enhance- Policy creativity to consistently improve
-                                ment, we foster innovation and
-                                the quality, reliability, and value of our products and services.</p>
+                            Committed to ongoing enhancement, we foster innovation and creativity to consistently improve the quality, reliability, and value of our products and services. We strive to attain the highest customer satisfaction by adhering to well-defined standards.</p>
                             <div class="go-corner" >
                               <div class="go-arrow">
                                 →
@@ -371,7 +371,7 @@
                                     <div class="y-us-head">
                                         <div class="y-us-title">
                                             <h2>Why choose us</h2>
-                                            <p>Biggest stretch ceiling network in India with an ISO 9001:2015. Certified factory in Chennai</p>
+                                            <p>Biggest stretch ceiling network in India with an ISO 9001:2015 Certified factory</p>
                                         </div>
                                     </div>
                                 </div>
@@ -758,7 +758,7 @@
                                                                     <div class="gdlr-core-pbf-element">
                                                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                                                             <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;text-transform: none ;">
-                                                                                <button class="read-more-btn" style="border-radius:0.5rem"><a style="color:white" href="Partners">Click here</a></button>
+                                                                                <button class="read-more-btn" style="border-radius:0.5rem"><a style="color:white" href="ContactUs">Click here</a></button>
                                                                             </div>
                                                                         </div>
                                                                     </div>

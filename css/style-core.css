@@ -4275,6 +4275,12 @@ ul.sf-menu>.menu-item-language li:last-child {
 	width: 100%;
 	display: block;
 }
+.wpcf7 select {
+	font-size: 15px;
+	padding: 0px 22px;
+	width: 100%;
+	display: block;
+}
 
 .wpcf7 input[type="button"],
 .wpcf7 input[type="submit"],
@@ -6266,6 +6272,7 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
   }
   
   .card1 {
+	height:50vh;
 	display: block;
 	position: relative;
 	background-color: #f2f8f9;
@@ -6302,8 +6309,8 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
 	width: 32px;
 	border-radius: 32px;
 	transform: scale(1);
-	transform-origin: 70% 50%;
-	transition: transform 0.25s ease-out;
+	transform-origin: 70% 30%;
+	transition: transform 0.30s ease-out;
   }
   .card1:hover:before {
 	transform: scale(21);
@@ -8321,7 +8328,12 @@ body {
 /*about us testi section end*/
 
 /*downloads start*/
-
+	.brochure-div{
+		justify-content: center;
+	}
+	.stretch-ceiling{
+		padding-bottom: 5rem !important;
+	}
 	.card-section-for-download{
 		width:90%;
 		margin:0 auto;
@@ -9525,6 +9537,7 @@ Component
 
 
 .statistics-section{
+	padding:0px;
 	/* background: var(--bg-clr); */
 	display: flex;
 	flex-direction: column;

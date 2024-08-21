@@ -24,6 +24,8 @@
     background-color: #000;
 }
 </style>
+<title>Iceil Brochure | Stretch ceiling catalogue | Iceil Products</title>
+<meta name="description" content="Iceil's brochure showcases our innovative stretch ceilings and products. Explore our catalogue for cutting-edge design and quality solutions for any space">
 </head>
 
 <?php
@@ -88,12 +90,12 @@
 
             <div class="card-section-for-download">
                 <h3 class="text-center">Iceil Brochure</h3><br>
-                <div class="row">
+                <div class="row brochure-div">
                     <!--brochure one-->
                     <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
-                        <h5>Corporate Brochure</h5>
-                        <a class="card" href="img/project-gallery/pics/01 (1).jpeg" download>
-                            <img src="img/project-gallery/pics/01 (1).jpeg" alt="Corporate Brochure">
+                        <h6>Corporate Brochure</h6>
+                        <a class="card" href="images/downloads/corporate brochure.jpg" download>
+                            <img src="images/downloads/corporate brochure.jpg" alt="Corporate Brochure">
                         </a><br>
                         <div class="input-button">
                             <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#downloadModal">Download</button>
@@ -101,7 +103,7 @@
                     </div>
                     <!--brochure 2-->
                     <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
-                        <h5>Lighting Brochure</h5>
+                        <h6>Lighting Brochure</h6>
                         <a class="card" href="img/project-gallery/pics/02a.jpg" download>
                             <img src="img/project-gallery/pics/02a.jpg" alt="Lighting Brochure">
                         </a><br>
@@ -111,12 +113,32 @@
                     </div>
                     <!--brochure 3-->
                     <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
-                        <h5>Technical Spec</h5>
+                        <h6>Technical Specification</h6>
                         <a class="card" href="img/project-gallery/pics/03.jpg" download>
-                            <img src="img/project-gallery/pics/03.jpg" alt="Technical Spec">
+                            <img src="img/project-gallery/pics/03.jpg" alt="Technical Specification">
                         </a><br>
                         <div class="input-button">
                             <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#download3Modal">Download</button>
+                        </div>
+                    </div>
+                    <!--brochure 4-->
+                    <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
+                        <h6>Project Gallery</h6>
+                        <a class="card" href="img/project-gallery/pics/03.jpg" download>
+                            <img src="img/project-gallery/pics/03.jpg" alt="Project Gallery">
+                        </a><br>
+                        <div class="input-button">
+                            <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#download4Modal">Download</button>
+                        </div>
+                    </div>
+                      <!--brochure 5-->
+                      <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
+                        <h6>Product Literature and Landscape</h6>
+                        <a class="card" href="img/project-gallery/pics/03.jpg" download>
+                            <img src="img/project-gallery/pics/03.jpg" alt="Product Literature and Landscape">
+                        </a><br>
+                        <div class="input-button">
+                            <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#download5Modal">Download</button>
                         </div>
                     </div>
                 </div>
@@ -140,6 +162,10 @@
                     <div class="form-group">
                         <label for="nameone">Enter Name*</label>
                         <input type="text" class="form-control" id="nameone" name="nameone" placeholder="Enter Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="telone">Enter Number*</label>
+                        <input type="tel" class="form-control" id="telone" name="telone" maxlength="14" placeholder="Enter Your Number" required>
                     </div>
                     <div class="form-group">
                         <label for="emailone">Enter Email*</label>
@@ -169,6 +195,10 @@
                     <div class="form-group">
                         <label for="nametwo">Enter Name*</label>
                         <input type="text" class="form-control" id="nametwo" name="nametwo" placeholder="Enter Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="teltwo">Enter Number*</label>
+                        <input type="tel" class="form-control" id="teltwo" name="teltwo" maxlength="14" placeholder="Enter Your Number" required>
                     </div>
                     <div class="form-group">
                         <label for="emailtwo">Enter Email*</label>
@@ -201,13 +231,83 @@
                         <input type="text" class="form-control" id="namethree" name="namethree" placeholder="Enter Your Name" required>
                     </div>
                     <div class="form-group">
+                        <label for="telthree">Enter Number*</label>
+                        <input type="tel" class="form-control" id="telthree" name="telthree" maxlength="14" placeholder="Enter Your Number" required>
+                    </div>
+                    <div class="form-group">
                         <label for="emailthree">Enter Email*</label>
                         <input type="email" class="form-control" id="emailthree" name="emailthree" placeholder="Enter Your Email" required>
                     </div>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <button type="submit" class="btn btn-primary">Send Technical Spec</button>
+                    <button type="submit" class="btn btn-primary">Send Technical Specification</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- Modal 4-->
+<div class="modal fade" id="download4Modal" tabindex="-1" role="dialog" aria-labelledby="download4ModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="download4ModalLabel">Fill the form to get Brochure</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="brochurefourForm">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="namefour">Enter Name*</label>
+                        <input type="text" class="form-control" id="namefour" name="namefour" placeholder="Enter Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="telfour">Enter Number*</label>
+                        <input type="tel" class="form-control" id="telfour" name="telfour" maxlength="14" placeholder="Enter Your Number" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="emailfour">Enter Email*</label>
+                        <input type="email" class="form-control" id="emailfour" name="emailfour" placeholder="Enter Your Email" required>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Send Project Gallery</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- Modal 5-->
+<div class="modal fade" id="download5Modal" tabindex="-1" role="dialog" aria-labelledby="download5ModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="download5ModalLabel">Fill the form to get Brochure</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="brochurefiveForm">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="namefive">Enter Name*</label>
+                        <input type="text" class="form-control" id="namefive" name="namefive" placeholder="Enter Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="telfive">Enter Number*</label>
+                        <input type="tel" class="form-control" id="telfive" name="telfive" maxlength="14" placeholder="Enter Your Number" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="emailfive">Enter Email*</label>
+                        <input type="email" class="form-control" id="emailfive" name="emailfive" placeholder="Enter Your Email" required>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Send Product Literature and Landscape</button>
                 </div>
             </form>
         </div>

@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="light box, multilevel framing structures, stretch film ceilings, printed film ceilings, unique ceiling designs, illuminated stretch forms, custom 3D ceilings, advanced fabrication technologies, space enhancement, ceiling and wall installations">
-
+<title>Stretch Ceiling Boxing | Wooden boxing & Aluminium Boxing | Iceil</title>
+<meta name="description" content="Explore premium Stretch Ceiling Boxing with options in Wooden and Aluminium Boxing by Iceil, the leading provider of innovative ceiling solutions in India">
 </head>
 
 <?php

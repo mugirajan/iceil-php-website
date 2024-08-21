@@ -2649,6 +2649,7 @@ form.contFrm {
     width: 100%;
     max-width: 198px;
     border-radius: 0.7rem;
+	margin-bottom: 0.5rem;
 }
 .inptBtndiv a{
 	color:white !important;

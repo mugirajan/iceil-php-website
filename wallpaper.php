@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="custom wall graphics, personalized wall art, premium fabric wall prints, seamless wall graphics, high-quality wall materials, elegant wall solutions, join-free wall installations, custom image prints, unique wall decor, stylish wall transformations, artistic wall designs, personalized interior decoration">
-
+<title>3D Wall Graphics stretch ceiling | 3D Wall Ideas | 3D Wallpaper</title>
+<meta name="description" content="Transform your space with Iceil's 3D wall graphics and stretch ceilings. Explore unique 3D wall ideas and wallpaper for a stunning, modern look">
 </head>
 
 <?php

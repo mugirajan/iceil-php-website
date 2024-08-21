@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="printed lacquer ceiling, customizable ceiling designs, printed designs on lacquer, personalized ceiling patterns, versatile ceiling customization, interior theme matching, unique ceiling solutions, modern lacquer stretch ceilings, bespoke ceiling designs, artistic ceiling options">
-
+<title>Printed Lacquer Ceiling | Lacquer Stretch Ceiling  | Printed Stretch Ceiling</title>
+<meta name="description" content="As India’s top stretch ceiling supplier, Iceil offers affordable, elegant printed and lacquer stretch ceilings. Decorate your space with our fresh and stylish designs">
 </head>
 
 <?php

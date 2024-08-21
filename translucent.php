@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="stretch lighting, no glare luminaires, translucent stretch ceilings, natural light diffusion, customizable ceiling designs, elegant lobby ceilings, acoustic comfort ceilings, RGB lighting for pubs, dynamic lighting effects, psychological color influence, mood-enhancing lighting, diffused lighting for gyms, versatile lighting solutions, translucent ceilings for meeting rooms, energy-efficient lighting, modern aesthetic ceilings, customizable lighting features, versatile stretch ceilings">
-
+<title>Translucent Stretch Ceiling | Iceil Stretch Ceilings | Translucent ceilings</title>
+<meta name="description" content="Enhance any space with Iceil's translucent stretch ceilings. Discover elegant, durable, and customizable solutions for stunning interiors.">
 </head>
 <?php
   include "./shared/navbar.php"

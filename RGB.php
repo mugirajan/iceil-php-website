@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="RGB dynamic stretch ceiling, addressable LEDs, programmable LED lighting, DMX controlled lighting, customizable RGB lighting effects, music-reactive lighting, automation-controlled lighting, flexible lighting design, vibrant club lighting, pub RGB lighting, immersive lighting experiences, dynamic ceiling lighting, customizable color displays, lighting for parties and gatherings">
-
+<title>RGB Dynamic Stretch Ceiling | RGB Lights | RGB LED Lighting</title>
+<meta name="description" content="Looking for RGB dynamic stretch ceilings and LED lighting? Iceil offers customizable colors and effects to create a unique, vibrant ambiance.">
 </head>
 <?php
   include "./shared/navbar.php"

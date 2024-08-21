@@ -10,7 +10,8 @@
 
 
 </style>
-
+<title>Stretch ceiling LED Lighting | Stretch Ceiling Lighting</title>
+<meta name="description" content="Discover elegant stretch ceiling LED lighting solutions that enhance your space with modern design and energy-efficient illumination. Perfect for any interior">
 </head>
 
 <?php

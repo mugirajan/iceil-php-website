@@ -1,7 +1,8 @@
 <?php
   include "./shared/header-top.php"
 ?>
-
+<title>Light boxes | 3D stretch Form | Iceil Fabric Light boxes </title>
+<meta name="description" content="Looking for light boxes, 3D stretch forms, or fabric light boxes? Contact Iceil Stretch Ceilings for stylish and functional lighting solutions.">
 </head>
 <?php
   include "./shared/navbar.php"

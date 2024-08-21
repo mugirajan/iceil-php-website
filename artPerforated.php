@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="Art Perforated Ceiling, dual-sheet ceiling design, ambient ceiling solution, stretch ceiling layers, artistic cut ceiling, customizable perforated ceiling, visual effect ceilings, lacquer stretch ceiling, translucent lighted ceiling, precise cutting ceiling, durable perforated sheets, ambient design ceilings">
-
+<title>Art Perforated Stretch Ceiling | Perforated Stretch Ceiling | Iceil</title>
+<meta name="description" content="Iceil Systems has the art perforated stretch ceilings you need! Contact us for top-quality and cost-effective solutions that bring style to any space">
 </head>
 
 <?php
