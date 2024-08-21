@@ -25,7 +25,7 @@
                                                     style="padding-bottom: 20px ;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
                                                         style="border-width: 0px;"><img
-                                                            src="img/light/service-icon1hero-3.png" alt="" width="78"
+                                                            src="img/light/service-icon1hero-3.png" alt="Stretch Ceiling" width="78"
                                                             height="78" title="service3-hero-icon" /></div>
                                                 </div>
                                             </div>
@@ -141,7 +141,7 @@
                                                     style="padding-bottom: 30px;">
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image"
                                                         style="margin-top: 10px;margin-right: 0px;margin-bottom: 32px;">
-                                                        <img src="upload/icon-time-1.png" alt="" width="45" height="45"
+                                                        <img src="upload/icon-time-1.png" alt="Standard Light" width="45" height="45"
                                                             title="icon-time-1" />
                                                     </div>
                                                     <div class="gdlr-core-column-service-content-wrapper">

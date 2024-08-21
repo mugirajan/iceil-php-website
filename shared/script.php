@@ -1,4 +1,10 @@
-<script type='text/javascript' src='js/jquery/jquery.js'></script>
+    <!-- <script type='text/javascript' src='js/jquery/jquery.js'></script> -->
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
     <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
     <script type='text/javascript' src='plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
     <script type='text/javascript'
@@ -32,12 +38,8 @@
     </script>
     <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
     <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
-    <script type='text/javascript' src='js/plugins.js'></script>
-    <script type='text/javascript' src='js/isotope.js'></script>
-    <!-- jquery js -->
-    <script src="js/plugins/jquery.min.js"></script>
     <!-- tween max js -->
-    <script src="js/plugins/tween-max.min.js"></script>
+    <!-- <script src="js/plugins/tween-max.min.js"></script> -->
     <!-- scroll magic js -->
     <script src="js/plugins/scroll-magic.js"></script>
     <!-- scroll magic gsap plugin js -->
@@ -62,21 +64,8 @@
     <script src="js/main.js"></script>
     <script src="js/mailer.js"></script>
     <script src="js/mailHelper.js"></script>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-    var popupform = document.getElementById("popupForm");
-    var emailIcon = document.getElementById("email-icon");
-    var closeBtn = document.querySelector(".close-btn");
-
-    emailIcon.addEventListener("click", function(event) {
-        event.preventDefault();
-        popupform.style.display = "block";
-    });
-
+    <script src="js/plugins.js"></script>
     
-});
-
-    </script>
     </body>
 
 </html>

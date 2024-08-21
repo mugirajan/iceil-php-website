@@ -14,7 +14,7 @@ if (isset($_POST["type"])) {
             $res = $sm->contactEnquiry($_POST);
             break;
 
-        case "popup-form":
+        case "popupForm":
             $res = $sm->contactEnquiry($_POST);
             break;
         
@@ -22,6 +22,19 @@ if (isset($_POST["type"])) {
             $res = $sm->franchiseEnquiry($_POST);
             break;
 
+        case "brochureForm":
+            $res = $sm->brochureRequest($_POST);
+            break;
+        
+        case "brochuretwoForm":
+            $res = $sm->brochuretwoRequest($_POST);
+            break;
+
+        case "brochurethreeForm":
+            $res = $sm->brochurethreeRequest($_POST);
+            break;
+
+            
         default:
             $res["success"] = false;
             $res["message"] = "Invalid request";

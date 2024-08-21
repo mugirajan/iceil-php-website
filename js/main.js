@@ -192,14 +192,14 @@
 		}
 	}
 
-	$(".mry-default-link").mouseenter(function (e) {
-		TweenMax.to(element, 0.3, {
-			scale: .6,
-		});
-		TweenMax.to(element, 0.3, {
-			opacity: '1'
-		});
-	});
+	// $(".mry-default-link").mouseenter(function (e) {
+	// 	TweenMax.to(element, 0.3, {
+	// 		scale: .6,
+	// 	});
+	// 	TweenMax.to(element, 0.3, {
+	// 		opacity: '1'
+	// 	});
+	// });
 
 	$(".mry-default-link").mouseleave(function (e) {
 		TweenMax.to(element, 0.3, {
@@ -552,41 +552,41 @@
 			}, 0);
 		}
 
-		$(".mry-default-link").mouseenter(function (e) {
-			TweenMax.to(element, 0.3, {
-				scale: .6,
-			});
-			TweenMax.to(element, 0.3, {
-				opacity: '1'
-			});
-		});
+		// $(".mry-default-link").mouseenter(function (e) {
+		// 	TweenMax.to(element, 0.3, {
+		// 		scale: .6,
+		// 	});
+		// 	TweenMax.to(element, 0.3, {
+		// 		opacity: '1'
+		// 	});
+		// });
 
-		$(".mry-default-link").mouseleave(function (e) {
-			TweenMax.to(element, 0.3, {
-				scale: 1
-			});
-			TweenMax.to(element, 0.3, {
-				opacity: '.5'
-			});
-		});
+		// $(".mry-default-link").mouseleave(function (e) {
+		// 	TweenMax.to(element, 0.3, {
+		// 		scale: 1
+		// 	});
+		// 	TweenMax.to(element, 0.3, {
+		// 		opacity: '.5'
+		// 	});
+		// });
 
-		$(".mry-magnetic-link").mouseenter(function (e) {
-			TweenMax.to(element, 0.3, {
-				scale: 1.4,
-			});
-			TweenMax.to(element, 0.3, {
-				opacity: '1'
-			});
-		});
+		// $(".mry-magnetic-link").mouseenter(function (e) {
+		// 	TweenMax.to(element, 0.3, {
+		// 		scale: 1.4,
+		// 	});
+		// 	TweenMax.to(element, 0.3, {
+		// 		opacity: '1'
+		// 	});
+		// });
 
-		$(".mry-magnetic-link").mouseleave(function (e) {
-			TweenMax.to(element, 0.3, {
-				scale: 1
-			});
-			TweenMax.to(element, 0.3, {
-				opacity: '.5'
-			});
-		});
+		// $(".mry-magnetic-link").mouseleave(function (e) {
+		// 	TweenMax.to(element, 0.3, {
+		// 		scale: 1
+		// 	});
+		// 	TweenMax.to(element, 0.3, {
+		// 		opacity: '.5'
+		// 	});
+		// });
 
 		var progressbar = $(".mry-slider-progress-bar");
 

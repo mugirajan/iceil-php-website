@@ -35,7 +35,7 @@
                     <!-- <a href="img/11a. VAIBHAV warranty certificate-.pdf" download target="_blank">Download PDF</a> -->
                   </div>
                   <div class="right">
-                    <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" alt="">
+                    <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" alt="Our Warranty Commitment">
                   </div>
                 </section>
             </main>

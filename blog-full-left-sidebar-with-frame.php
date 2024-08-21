@@ -11,114 +11,111 @@
             <div class="inteco-mobile-header-container inteco-container clearfix">
                 <div class="inteco-logo  inteco-item-pdlr">
                     <div class="inteco-logo-inner">
-                        <a class="" href="Home"><img src="img/light/Iceil-logo-white.png" alt="" width="200"
+                        <a class="" href="Home"><img src="img/light/Iceil-logo-white.png" alt="our logo" width="200"
                                 height="39" title="logo" /></a>
                     </div>
                 </div>
                 <div class="inteco-mobile-menu-right">
 
 
-                    <div class="inteco-overlay-menu inteco-mobile-menu" id="inteco-mobile-menu"><a
-                            class="inteco-overlay-menu-icon inteco-mobile-menu-button inteco-mobile-button-hamburger"
-                            href="#"><span></span></a>
-                        <div class="inteco-overlay-menu-content inteco-navigation-font">
-                            <div class="inteco-overlay-menu-close"></div>
-                            <div class="inteco-overlay-menu-row">
-                                <div class="inteco-overlay-menu-cell">
-                                    <ul id="menu-main-navigation" class="menu">
-                                        <li class="menu-item menu-item-home current-menu-item "><a
-                                                href="Home">Home</a>
+<div class="inteco-overlay-menu inteco-mobile-menu" id="inteco-mobile-menu"><a
+        class="inteco-overlay-menu-icon inteco-mobile-menu-button inteco-mobile-button-hamburger"
+        href="#"><span></span></a>
+    <div class="inteco-overlay-menu-content inteco-navigation-font">
+        <div class="inteco-overlay-menu-close"></div>
+        <div class="inteco-overlay-menu-row">
+            <div class="inteco-overlay-menu-cell">
+                <ul id="menu-main-navigation" class="menu">
+                    <li class="menu-item menu-item-home current-menu-item "><a
+                            href="Home">Home</a>
 
-                                        </li>
-                                        <li class="menu-item "><a href="WallGraphics">Wall Graphics</a>
+                    </li>
+                    <li class="menu-item "><a href="stretch-ceiling-manufacturer-india">Who we are</a>
 
-                                        </li>
-                                        <li class="menu-item "><a href="Partners">Partner With us</a>
+                    </li>
+                    <li class="menu-item "><a href="Projects">Our Projects</a>
 
-                                        </li>
-                                        <li class="menu-item "><a href="AboutUs">Who we are</a>
+                    </li>
+                    <li class="menu-item "><a href="Partners">Partner With us</a>
 
-                                        </li>
-                                        <li class="menu-item "><a href="ContactUs">Contact Us</a>
+                    </li>
+                    <li class="menu-item "><a
+                            href="Blogs">Blogs</a>
+                    </li>
+                    <li class="menu-item "><a href="ContactUs">Contact Us</a>
 
-                                        </li>
-                                        <li class="menu-item "><a
-                                                href="Blogs">Blogs</a>
+                    </li>
+                    <li class="menu-item "><a href="Downloads">Downloads</a>
 
-                                        </li>
-                                        <li class="menu-item "><a href="Downloads">Downloads</a>
+                    </li>
+                    
+                    <li class="menu-item menu-item-has-children"><a href="#"
+                            class="mry-default-link">Stretch Ceilings</a>
+                        <ul class="sub-menu">
+                            <li class="menu-item"><a href="Translucent-Stretch-Ceilings"
+                                    class="mry-anima-link mry-default-link">Translucent Stretch ceiling </a></li>
+                            <li class="menu-item"><a href="Printed-Stretch-Ceilings"
+                                    class="mry-anima-link mry-default-link">Printed Stretch Ceiling</a></li>
+                            <li class="menu-item"><a href="RGB"
+                                    class="mry-anima-link mry-default-link">RGB Dynamic Stretch Ceiling</a></li>
+                            <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings"
+                                    class="mry-anima-link mry-default-link">3D Forms Stretch Ceiling</a></li>
+                            <li class="menu-item"><a href="Acoustic"
+                                    class="mry-anima-link mry-default-link">Acoustic Stretch Ceiling</a></li>
+                            <li class="menu-item"><a href="Lacquer-Ceilings"
+                                    class="mry-anima-link mry-default-link">Lacquer Stretch Ceiling</a></li>
+                            <li class="menu-item"><a href="Printed-Lacquer-Ceilings"
+                                    class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
+                            <li class="menu-item"><a href="ArtPerforated"
+                                    class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
+                            <li class="menu-item"><a href="Mirror"
+                                    class="mry-anima-link mry-default-link">Mirror Stretch Ceiling</a></li>
+                            <li class="d-none menu-item"><a href="Fabric-Light-Boxes"
+                                    class="mry-anima-link mry-default-link">Signage LightBox</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item"><a href="Metal"
+                            class="mry-default-link">Metal Perforated Ceiling</a></li>
+                    <li class="menu-item menu-item-has-children"><a href="#"
+                            class="mry-default-link">Architectural  lighting</a>
+                        <ul class="sub-menu">
+                            <li class="menu-item"><a href="Geometrical"
+                                    class="mry-anima-link mry-default-link">Geometrical shape custom lighting</a>
+                            </li>
+                            <li class="menu-item"><a href="ARC"
+                                    class="mry-anima-link mry-default-link">Iceil ARC / WAVE Linear</a>
+                            </li>
+                            <li class="menu-item"><a href="Surface"
+                                    class="mry-anima-link mry-default-link">Iceil Surface / Suspended Linear</a>
+                            </li>
+                            <li class="menu-item"><a href="Curved"
+                                    class="mry-anima-link mry-default-link">Iceil Curved Recessed Linear</a>
+                            </li>
+                            <li class="menu-item"><a href="Outward-Inward"
+                                    class="mry-anima-link mry-default-link">Iceil Outward / Inward / Downward Linear</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu-item "><a href="3DWallGraphics">Custom Wall Graphics</a>
+                    </li>
+                    <li class="menu-item "><a href="Fabric-Light-Boxes">Signage lightbox</a></li>
+                    
+                    <li class="menu-item menu-item-has-children"><a href="#."
+                            class="mry-default-link">Architect Area & Technical Infos</a>
+                        <ul class="sub-menu">
+                            <li class="menu-item"><a href="StretchCeiling"
+                                    class="mry-anima-link mry-default-link">BOQ</a></li>
+                            <li class="menu-item"><a href="Boxing"
+                                    class="mry-anima-link mry-default-link">Boxing</a></li>
+                        </ul>
+                    </li>
 
-                                        </li>
-                                        <li class="menu-item "><a href="Projects">Projects</a>
-
-                                        </li>
-
-                                        <li class="menu-item menu-item-has-children"><a href="#."
-                                                class="mry-default-link">Architects</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item"><a href="StretchCeiling"
-                                                        class="mry-anima-link mry-default-link">Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="Warranty"
-                                                        class="mry-anima-link mry-default-link">Warranty</a></li>
-                                                <li class="menu-item"><a href="Boxing"
-                                                        class="mry-anima-link mry-default-link">Boxing</a></li>
-                                                <li class="menu-item"><a href="LED"
-                                                        class="mry-anima-link mry-default-link">LED</a></li>
-                                                <li class="menu-item"><a href="Stretch-Fabric"
-                                                        class="mry-anima-link mry-default-link">Stretch Fabric</a></li>
-                                                <li class="menu-item"><a href="Profiles"
-                                                        class="mry-anima-link mry-default-link">Profiles</a></li>
-                                                        <li class="menu-item"><a href="drives.php"
-                                                            class="mry-anima-link mry-default-link">Drive</a></li>
-                                                <li class="menu-item"><a href="Drive-Controllers"
-                                                        class="mry-anima-link mry-default-link">Remotes & Controllers</a>
-                                                </li>
-
-                                            </ul>
-                                        </li>
-
-                                        <li class="menu-item menu-item-has-children"><a href="#."
-                                                class="mry-default-link">Stretch Ceilings</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item"><a href="project-gallery.php"
-                                                        class="mry-anima-link mry-default-link">Project Gallery</a></li>
-                                                <li class="menu-item"><a href="completed-projects.php"
-                                                        class="mry-anima-link mry-default-link">Completed Projects</a>
-                                                </li>
-                                                <li class="menu-item"><a href="Translucent"
-                                                        class="mry-anima-link mry-default-link">Translucent</a></li>
-                                                <li class="menu-item"><a href="Printed"
-                                                        class="mry-anima-link mry-default-link">Printed</a></li>
-                                                <li class="menu-item"><a href="3DForms"
-                                                        class="mry-anima-link mry-default-link">3D Forms</a></li>
-                                                <li class="menu-item"><a href="LightBoxes"
-                                                        class="mry-anima-link mry-default-link">Light Boxes</a></li>
-                                                <li class="menu-item"><a href="Lacquer"
-                                                        class="mry-anima-link mry-default-link">Lacquer</a></li>
-                                                <li class="menu-item"><a href="Acoustic"
-                                                        class="mry-anima-link mry-default-link">Acoustic</a></li>
-                                            </ul>
-                                        </li>
-
-                                        <li class="menu-item menu-item-has-children"><a href="#"
-                                                class="mry-default-link">Architectural Lighting</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item"><a href="architectural-project.php"
-                                                        class="mry-anima-link mry-default-link">Project Gallery</a></li>
-                                                <li class="menu-item"><a href="architectural-completed.php"
-                                                        class="mry-anima-link mry-default-link">Completed Projects</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-
-
-
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
             </div>
         </div>
 
@@ -128,7 +125,7 @@
         <!-- preloader -->
         <div class="mry-preloader mry-active">
             <div class="mry-preloader-content pre-loader">
-                <img class=" mry-mb-20 " src="img/light/Iceil-final-logo-png.webp" alt="Mireya">
+                <img class=" mry-mb-20 " src="img/light/Iceil-final-logo-png.webp" alt="loader">
 
                 <div class="mry-loader-bar">
                     <div class="mry-loader"></div>
@@ -148,7 +145,7 @@
                     <div class="mry-logo-frame col-lg-6 col-md-6">
                         <div class="row">
                             <a href="Home" class="col-lg-5 col-md-4 mry-default-link mry-anima-link">
-                                <img class="mry-logo" src="img/light/Iceil-final-logo-png.webp" alt="Mireya">
+                                <img class="mry-logo" src="img/light/Iceil-final-logo-png.webp" alt="our logo">
                             </a>
                         </div>
                     </div>
@@ -166,136 +163,144 @@
                 </div>
                 <!-- top panel end -->
 
-        <!-- menu -->
-        <div class="mry-menu">
-            <div class="container">
-                <div class="row justify-content-between">
-                    <div class="col-md-4 menu-list">
-                        <nav id="mry-dynamic-menu">
-                            <ul>
-                                <li class="menu-item "><a href="Home" class="mry-default-link">Home</a></li>
+      <!-- menu -->
+      <div class="mry-menu">
+                    <div class="container">
+                        <div class="row justify-content-between navbar-caps">
+                            <div class="col-md-4 menu-list">
+                                <nav id="mry-dynamic-menu">
+                                    <ul>
+                                        <li class="menu-item "><a href="Home" class="mry-default-link">Home</a>
+                                        </li>
 
-                                <li class="menu-item"><a href="WallGraphics"
-                                        class="mry-anima-link mry-default-link">Wall Graphics</a></li>
+                                        <li class="menu-item"><a href="stretch-ceiling-manufacturer-india"
+                                                class="mry-anima-link mry-default-link">Who We Are</a></li>
+                                        <li class="menu-item"><a href="Projects"
+                                                class="mry-anima-link mry-default-link">Our Projects</a></li>
+                                        <li class="menu-item"><a href="Partners"
+                                                class="mry-anima-link mry-default-link">Partner with us</a></li>
 
-                                <li class="menu-item"><a href="Partners"
-                                        class="mry-anima-link mry-default-link">Partner with us</a></li>
+                                        <li class="menu-item"><a href="Blogs"
+                                                class="mry-anima-link mry-default-link">Blogs</a></li>
+                                        <li class="menu-item"><a href="ContactUs"
+                                                class="mry-anima-link mry-default-link">Contact Us</a></li>
 
-                                <li class="menu-item"><a href="AboutUs"
-                                        class="mry-anima-link mry-default-link">Who We Are</a></li>
+                                        <li class="menu-item"><a href="Downloads"
+                                                class="mry-anima-link mry-default-link">Downloads</a></li>
 
-                                <li class="menu-item"><a href="ContactUs"
-                                        class="mry-anima-link mry-default-link">Contact Us</a></li>
+                                        
 
-                                <li class="menu-item"><a href="Blogs"
-                                        class="mry-anima-link mry-default-link">Blogs</a></li>
-
-                                <li class="menu-item"><a href="Downloads"
-                                        class="mry-anima-link mry-default-link">Downloads</a></li>
-
-                                <li class="menu-item"><a href="Projects"
-                                        class="mry-anima-link mry-default-link">Projects</a></li>
-
-
-                            </ul>
-                        </nav>
-
-                    </div>
-                    <div class="col-md-4 menu-list">
-
-                        <nav id="mry-dynamic-menu">
-                            <ul>
-
-                                <li class="menu-item menu-item-has-children"><a href="#."
-                                        class="mry-default-link">Architects</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item"><a href="StretchCeiling"
-                                                class="mry-anima-link mry-default-link">Stretch Ceiling</a></li>
-                                        <li class="menu-item"><a href="Warranty"
-                                                class="mry-anima-link mry-default-link">Warranty</a></li>
-                                        <li class="menu-item"><a href="Boxing"
-                                                class="mry-anima-link mry-default-link">Boxing</a></li>
-                                        <li class="menu-item"><a href="LED"
-                                                class="mry-anima-link mry-default-link">LED</a></li>
-                                        <li class="menu-item"><a href="Stretch-Fabric"
-                                                class="mry-anima-link mry-default-link">Stretch Fabric</a></li>
-                                        <li class="menu-item"><a href="Profiles"
-                                                class="mry-anima-link mry-default-link">Profiles</a></li>
-                                                <li class="menu-item"><a href="drives.php"
-                                                    class="mry-anima-link mry-default-link">Drive</a></li>
-                                        <li class="menu-item"><a href="Drive-Controllers"
-                                                class="mry-anima-link mry-default-link">Remotes & Controllers</a></li>
 
                                     </ul>
-                                </li>
+                                </nav>
 
-                                <li class="menu-item menu-item-has-children"><a href="#."
-                                        class="mry-default-link">Stretch Ceilings</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item"><a href="project-gallery.php"
-                                                class="mry-anima-link mry-default-link">Project Gallery</a></li>
-                                        <li class="menu-item"><a href="completed-projects.php"
-                                                class="mry-anima-link mry-default-link">Completed Projects</a></li>
-                                        <li class="menu-item"><a href="Translucent"
-                                                class="mry-anima-link mry-default-link">Translucent</a></li>
-                                        <li class="menu-item"><a href="Printed"
-                                                class="mry-anima-link mry-default-link">Printed</a></li>
-                                        <li class="menu-item"><a href="3DForms"
-                                                class="mry-anima-link mry-default-link">3D Forms</a></li>
-                                        <li class="menu-item"><a href="LightBoxes"
-                                                class="mry-anima-link mry-default-link">Light Boxes</a></li>
-                                        <li class="menu-item"><a href="Lacquer"
-                                                class="mry-anima-link mry-default-link">Lacquer</a></li>
-                                        <li class="menu-item"><a href="Acoustic"
-                                                class="mry-anima-link mry-default-link">Acoustic</a></li>
+                            </div>
+                            <div class="col-md-4 menu-list">
+
+                                <nav id="mry-dynamic-menu">
+                                    <ul>
+                                        <li class="menu-item menu-item-has-children"><a href="#."
+                                                class="mry-default-link">Stretch Ceilings</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="Translucent-Stretch-Ceilings"
+                                                        class="mry-anima-link mry-default-link">Translucent Stretch ceiling </a></li>
+                                                <li class="menu-item"><a href="Printed-Stretch-Ceilings"
+                                                        class="mry-anima-link mry-default-link">Printed Stretch Ceiling</a></li>
+                                                <li class="menu-item"><a href="RGB"
+                                                        class="mry-anima-link mry-default-link">RGB Dynamic Stretch Ceiling</a></li>
+                                                <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings"
+                                                        class="mry-anima-link mry-default-link">3D Forms Stretch Ceiling</a></li>
+                                                <li class="menu-item"><a href="Acoustic"
+                                                        class="mry-anima-link mry-default-link">Acoustic Stretch Ceiling</a></li>
+                                                <li class="menu-item"><a href="Lacquer-Ceilings"
+                                                        class="mry-anima-link mry-default-link">Lacquer Stretch Ceiling</a></li>
+                                                <li class="menu-item"><a href="Printed-Lacquer-Ceilings"
+                                                        class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
+                                                <li class="menu-item"><a href="ArtPerforated"
+                                                        class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
+                                                <li class="menu-item"><a href="Mirror"
+                                                        class="mry-anima-link mry-default-link">Mirror Stretch Ceiling</a></li>
+                                                <li class="d-none menu-item"><a href="Fabric-Light-Boxes"
+                                                        class="mry-anima-link mry-default-link">Signage LightBox</a></li>
+                                                
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item"><a href="Metal"
+                                            class="mry-anima-link mry-default-link">Metal Perforated Ceiling</a> </li>
+                                        <li class="menu-item menu-item-has-children"><a href="#"
+                                                class="mry-default-link">Architectural  lighting</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="Geometrical"
+                                                        class="mry-anima-link mry-default-link">Geometrical shape custom lighting</a>
+                                                </li>
+                                                <li class="menu-item"><a href="ARC"
+                                                        class="mry-anima-link mry-default-link">Iceil ARC / WAVE Linear</a>
+                                                </li>
+                                                <li class="menu-item"><a href="Surface"
+                                                        class="mry-anima-link mry-default-link">Iceil Surface / Suspended Linear</a>
+                                                </li>
+                                                <li class="menu-item"><a href="Curved"
+                                                        class="mry-anima-link mry-default-link">Iceil Curved Recessed Linear</a>
+                                                </li>
+                                                <li class="menu-item"><a href="Outward-Inward"
+                                                        class="mry-anima-link mry-default-link">Iceil Outward / Inward / Downward Linear</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item"><a href="3DWallGraphics"
+                                                class="mry-anima-link mry-default-link">Custom Wall Graphics</a></li>
+                                        <li class="menu-item"><a href="Fabric-Light-Boxes"
+                                                class="mry-anima-link mry-default-link">Signage lightbox</a></li>
+                                        
+                                        <li class="menu-item menu-item-has-children"><a href="#."
+                                                class="mry-default-link">Architect Area & Technical Infos</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="StretchCeiling"
+                                                        class="mry-anima-link mry-default-link">BOQ</a></li>
+                                                <li class="menu-item"><a href="Boxing"
+                                                        class="mry-anima-link mry-default-link">Boxing</a></li>
+
+                                            </ul>
+                                        </li>
+                                        
+
+
                                     </ul>
-                                </li>
-
-                                <li class="menu-item menu-item-has-children"><a href="#"
-                                        class="mry-default-link">Architectural Lighting</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item"><a href="architectural-project.php"
-                                                class="mry-anima-link mry-default-link">Project Gallery</a></li>
-                                        <li class="menu-item"><a href="architectural-completed.php"
-                                                class="mry-anima-link mry-default-link">Completed Projects</a></li>
-                                    </ul>
-                                </li>
-
-
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="mry-info-box-frame">
-                            <div class="mry-info-box">
-                                <div class="mry-mb-20">
-                                    <div class="mry-label mry-mb-5">Country:</div>
-                                    <div class="mry-text">India</div>
-                                </div>
-                                <div class="mry-mb-20">
-                                    <div class="mry-label mry-mb-5">City:</div>
-                                    <div class="mry-text">Chennai</div>
-                                </div>
-                                <div class="mry-mb-20">
-                                    <div class="mry-label mry-mb-5">Adress:</div>
-                                    <div class="mry-text">290A, 80 Feet TNHB Road, Sholinganallur,
-                                        Chennai – 600 119</div>
-                                </div>
-                                <div class="mry-mb-20">
-                                    <div class="mry-label mry-mb-5">Email:</div>
-                                    <a class="mry-text" href="mailto:mireya.inbox@mail.com">info@iceilsystems.com</a>
-                                </div>
-                                <div class="mry-mb-20">
-                                    <div class="mry-label mry-mb-5">Phone:</div>
-                                    <a class="mry-text" href="#.">+91 89255 17107 / 17108 / 17109/ 17105 / 17106</a>
+                                </nav>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="mry-info-box-frame">
+                                    <div class="mry-info-box">
+                                        <div class="mry-mb-20">
+                                            <div class="mry-label mry-mb-5">Country:</div>
+                                            <div class="mry-text">India</div>
+                                        </div>
+                                        <div class="mry-mb-20">
+                                            <div class="mry-label mry-mb-5">City:</div>
+                                            <div class="mry-text">Chennai</div>
+                                        </div>
+                                        <div class="mry-mb-20">
+                                            <div class="mry-label mry-mb-5">Adress:</div>
+                                            <div class="mry-text">290A, 80 Feet TNHB Road, Sholinganallur,
+                                                Chennai – 600 119</div>
+                                        </div>
+                                        <div class="mry-mb-20">
+                                            <div class="mry-label mry-mb-5">Email:</div>
+                                            <a class="mry-text"
+                                                href="mailto:mireya.inbox@mail.com">info@iceilsystems.com</a>
+                                        </div>
+                                        <div class="mry-mb-20">
+                                            <div class="mry-label mry-mb-5">Phone:</div>
+                                            <a class="mry-text" href="#.">+91 89255 17107 / 17108 / 17109/ 17105 /
+                                                17106</a>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        <!-- menu end -->
+                <!-- menu end -->
 
         <div class="transition-fade">
             <div class="mry-content-frame" id="scroll">
@@ -430,86 +435,86 @@
             <section class="blog-page">
                 <ul class="page">
                     <li>
-                        <img src="images/blog-page/blog-1.jpg">
+                        <img src="images/blog-page/blog-1.jpg" alt="How Stretch Ceilings Can Improve Your IT Workplace">
                         <h4>How Stretch Ceilings Can Improve Your IT Workplace</h4>
                         <span>Admin-
                             Post published:08/05/2023
                             Post category:businessidea/ceiling/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>The IT industry is one of the most demanding and fast-paced fields in the world, and creating a comfortable work…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="improve-your-IT-workplace">Read More</a></button>
                     </li>
                     <li>
-                        <img src="images/blog-page/blog-2.jpg">
+                        <img src="images/blog-page/blog-2.jpg" alt="Stretch Ceiling">
                         <h4>What is the benefit of a Stretch Ceiling? </h4>
                         <span>Admin
                             Post published:17/12/2022
                             Post category:ceiling/businessidea/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Introduction: Stretch ceilings, an ideal solution for many different applications. There are great choices for home, commercial and industrial…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="What-is-the-benefit">Read More</a></button>
                     </li>
                     <li>
-                        <img src="images/blog-page/blog-3.jpg">
+                        <img src="images/blog-page/blog-3.jpg" alt="Stretch Ceiling">
                         <h4>Stretch Ceilings –Much STRONGER than you can imagine</h4>
                         <span>Admin
                             Post published:26/08/2022
                             Post category:businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Stretch ceiling, latest trend in customised lighting and ceiling solutions is being included in solutions across India by leading interior…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="much-stronger">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/06/article.jpg?resize=768%2C384&ssl=1">
+                        <img src="img/drive-3d/01.jpg" alt="Stretch Ceiling">
                         <h4>Why stretch ceiling are perfect for Wet / Humid rooms?</h4>
                         <span>Admin
                             Post published:28/06/2022
                             Post category:opportunity/businessidea/ceiling/Franchising/india/stretch
                             Post comments:0 Comments</span>
                         <p>While Constructing & Renovating wet rooms like bathrooms and swimming pools, one of the main concerns is that the solutions…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="perfect-for-wet">Read More</a></button>
                     </li>
                     <li>
-                        <img src="images/blog-page/blog-4.jpeg">
+                        <img src="images/blog-page/blog-4.jpeg" alt="Stretch Ceiling">
                         <h4>High Gloss Lacquer stretch ceiling with linear lights</h4>
                         <span>Admin
                             Post published:27/05/2022
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch Post comments:0 Comments</span>
                         <p>Stretch ceiling are greatly recommended for remodelling the interior of the residential/ business spaces. It helps to overcome the usual…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="high-gloss-lacquer">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/05/Stretch-ceiling_power-consumption.jpg?resize=768%2C587&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/Printed Stretch Ceiling/university/Hindustan (2).jpeg">
                         <h4>Stretch Ceiling – Power Consumption</h4>
                         <span>Admin
                             Post published:24/05/2022
                             Post category:ceiling/businessidea/Franchising/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Stretch ceiling is more popular nowadays as it's a customized lighting solution as well. Illuminating with stretch ceiling makes the…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="power-consumption">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/05/manitance-stretch-ceiling.jpg?resize=768%2C576&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/integrated-lighting-lobby-stretch-ceiling-.jpg">
                         <h4>How do you maintain Stretch Ceilings?</h4>
                         <span>Admin
                             Post published:04/05/2022
                             Post category:business/businessidea/ceiling/manufacturing/stretch
                             Post comments:0 Comments</span>
                         <p>Stretch ceiling is now one of the most popular buzzword in the interior industry.  In many Commercial and Residential Places,…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="how-do-you-maintain">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/stretch-restaurant.jpg?resize=768%2C595&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/27.jpg">
                         <h4>Stretch ceiling – Perfect choice for restaurant</h4>
                         <span>Admin
                             Post published:29/04/2022
                             Post category:business/businessidea/ceiling/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Stretch ceiling has become architects favourite choice for restaurant. Odourless nature of stretch ceiling makes them perfect for designing interiors…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="perfect-choice-for-restaurant">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/3d-form.jpg?resize=768%2C405&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/20.jpg">
                         <h4>Pros and cons of 3D Stretch Ceiling</h4>
                         <span>Admin
                             Post published:27/04/2022
@@ -517,205 +522,205 @@
                             Post comments:0 Comments
                             </span>
                         <p>3D stretch ceiling is one of the striking revolutions in the interior design world. Nowadays, we can see more 3-Dimensional…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="3D-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/WhatsApp-Image-2022-04-22-at-4.37.11-PM.jpeg?resize=768%2C575&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/19.jpg">
                         <h4>Stretch ceiling on a wall</h4>
                         <span>Admin
                             Post published:22/04/2022
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Stretch ceiling is the most innovative concept in the interior industry. Most builders recommend stretch ceiling to decorate offices, restaurant,…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="stretch-ceiling-on-a-wall.php">Read More</a></button>
                     </li>
                 </ul>
                 <!-- Page 1 -->
         
                 <ul class="page">
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/article_image.png?resize=768%2C502&ssl=1">
+                        <img  alt="Stretch Ceiling" src="img/drive-translucent/18.jpg">
                         <h4>Stretch ceiling shapes</h4>
                         <span>Admin
                             Post published:15/04/2022
                             Post category:ceiling/business/india/manufacturing/stretch
                             Post comments:0 Comments</span>
                         <p>Stretch ceilings can be shaped into any forms. More complex structures can be formed with the help of stretch ceiling…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="Stretch-ceiling-shapes">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/light.jpg?resize=768%2C512&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/14.jpg">
                         <h4>How do stretch ceilings work with lights and other fittings and fixtures?</h4>
                         <span>Admin
                             Post published:11/04/2022
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity
                             Post comments:0 Comments</span>
                         <p>In residential or commercial area stretch ceiling are mostly used nowadays. Some people don’t know how stretch ceiling will make…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="stretch-ceilings-lights-fittings">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://img.freepik.com/free-photo/art-exhibition-with-abstract-shapes_1122-1478.jpg?t=st=1714368006~exp=1714371606~hmac=1e8186b5f2286ca0b3d5f22157d3e94f2464abeaf39eea6594e18b6065916a43&w=740">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/08.jpg">
                         <h4>European Vs Chinese Stretch Ceilings</h4>
                         <span>Admin
                             Post published:08/04/2022
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>In the interior industry, stretch ceiling concepts are spreading all over India. Every stretch ceiling company in India will say…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="european-vs-chinese-stretch-ceilings">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/dsftr.png?resize=768%2C681&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/10.jpg">
                         <h4>Printed ceiling made easy with Iceil stretch ceiling</h4>
                         <span>Admin
                             Post published:06/04/2022
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Many customers prefer printed stretch ceilings for their unlimited designs. Some people like to décor the interior with some interesting…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="printed-ceiling-iceil-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/04/fit.jpg?resize=768%2C598&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/12.jpg">
                         <h4>How to Fit Stretch Ceiling System into my Space</h4>
                         <span>Admin
                             Post published:02/04/2022
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Stretch ceiling one of the best options for a false ceiling. Nowadays everyone like to decorate the interior with modern…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="how-to-fit-stretch-ceiling-system-into-my-space">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/5-ways.jpg?w=736&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/07.jpg">
                         <h4>5 Ways Stretch Ceilings Can Save You Money</h4>
                         <span>Admin
                             Post published:29/03/2022
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Stretch ceilings an innovation in interior design industry which creates elite look to your interior. It is widely spreading across…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="5-ways-stretch-ceilings-can-save-you-money">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/pop.jpg?resize=768%2C512&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/shopping-center-stretch-ceiling.jpg">
                         <h4>Stretch ceiling – Best for entertainment centre</h4>
                         <span>Admin
                             Post published:26/03/2022
                             Post category:Uncategorized
                             Post comments:0 Comments</span>
                         <p>Stretch ceiling will be perfect to decorate the leisure area. It is now popular among many architects and interior designer.…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="stretch-ceiling-best-for-entertainment-centre">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/tpes-stretch.jpg?w=549&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/Stretch-Ceilings-Ltd_Lighting-Solutions_Octavia-House_1200x800.jpg">
                         <h4>Different types of Stretch Ceiling</h4>
                         <span>Admin
                             Post published:24/03/2022
                             Post category:businessidea/business/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Thinking to style your interior with stretch ceilings? We at Iceil manufactures different types of stretch ceiling. Stretch ceiling comes…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="different-types-of-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-11.00.40-AM.jpeg?resize=768%2C361&ssl=1">
+                        <img alt="Acoustics Stretch Ceiling" src="img/drive-translucent/TRANS 10 (1).jpg">
                         <h4>Improve your room acoustics with stretch ceiling</h4>
                         <span>Admin
                             Post published:16/03/2022
                             Post category:business/businessidea/ceiling/Franchising/india/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Stretch ceiling acts as the perfect acoustic solution for your room. If you are exposed to high sound around your…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="acoustics-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/high-gloss-celing.jpg?resize=768%2C482&ssl=1">
+                        <img alt="Lacquer Ceiling" src="img/drive-translucent/translucent-stretch-ceilings.jpg">
                         <h4>High gloss Lacquer Ceiling</h4>
                         <span>Admin
                             Post published:14/03/2022
                             Post category:ceiling/business/businessidea/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>Lacquer ceiling is considered as one of the best stretch ceiling which creates a glossy look to your interior. Due…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="lacquer-ceiling-in-india">Read More</a></button>
                     </li>
                 </ul>
                 <!-- Page 2 -->
         
                 <ul class="page">
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/6-things.jpg?resize=768%2C456&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/integrated-lighting-lobby-stretch-ceiling-.jpg">
                         <h4>6 things you didn’t know about Stretch Ceilings</h4> 
                         <span>Admin
                             Post published:11/03/2022
                             Post category:business/businessidea/ceiling/Franchising/manufacturing/opportunity/Uncategorized
                             Post comments:0 Comments</span>
                         <p>Stretch ceilings become the latest trend in the interior industry. Many architects prefer stretch ceilings to give rich look to…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="about-Stretch-Ceilings.php">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/galaxy.jpg?w=500&ssl=1">
+                        <img alt="Stretch Ceiling"src="img/drive-translucent/09.jpg">
                         <h4>Starry Galaxy Ceiling made with Stretch Ceiling</h4> 
                         <span>Admin
                             Post published:10/03/2022
                             Post category:Uncategorized
                             Post comments:0 Comments</span>
                         <p>Galaxy ceiling is one of the unique creations in the stretch ceiling. In childhood, everyone had dreamt of sleeping under…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="Starry-Galaxy-Ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/03/trans.jpg?resize=768%2C512&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/01.webp">
                         <h4>What is a Translucent Stretch Ceiling?</h4>
                         <span>Admin
                             Post published:09/03/2022
                             Post category:Uncategorized
                             Post comments:0 Comments</span> 
                         <p>What is a Translucent Stretch Ceiling? Translucent stretch ceiling is considered as the future of the interior décor. These ceilings…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="Translucent-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img src="https://i0.wp.com/iceilsystems.com/wp-content/uploads/2022/02/blog.jpg?resize=768%2C360&ssl=1">
+                        <img alt="Stretch Ceiling" src="img/drive-translucent/03 (1).jpg">
                         <h4>Why we are better than other stretch ceiling manufacturers In India?</h4> 
                         <span>Admin
                             Post published:24/02/2022
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>In the interior designing world, stretch ceilings have become the latest trend. There are very few manufacturers who produce Stretch…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="Why-we-are-better">Read More</a></button>
                     </li>
                     <li>
-                        <img src="">
+                        <img src="img/drive-translucent/3d6.jpg" alt="Stretch Ceiling">
                         <h4>Leading Stretch Ceiling Manufacturer in India</h4> 
                         <span>Admin
                             Post published:12/11/2021
                             Post category:stretch/business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/Uncategorized
                             Post comments:0 Comments</span>
                         <p>Leading stretch ceiling manufacturer in India offering quality stretch ceiling solutions. Lighting Solution for Stretch Ceilings: It’s very important to…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="Leading-Stretch-Ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img src="">
+                        <img src="img/drive-translucent/02.jpg" alt="Stretch Ceiling">
                         <h4>Best Business Opportunity in India 2021.</h4> 
                         <span>Admin
                             Post published:26/10/2021
                             Post category:business/businessidea/Franchising/opportunity
                             Post comments:0 Comments</span>
                         <p>Best Business Opportunity in India 2021. Join with us to explore our franchise business opportunity in Interior world. Start Your…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="Best-Business-Opportunity">Read More</a></button>
                     </li>
                     <li>
-                        <img src="">
+                        <img src="img/drive-translucent/05.jpg" alt="Stretch Ceiling">
                         <h4>What is stretch ceiling?</h4> 
                         <span>Admin
                             Post published:07/11/2020
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:1 Comment</span>
                         <p>Your possible solution to many problems. Do you know why stretch ceiling is considered as the best option for designing…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="What-is-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
-                        <img src="">
+                        <img src="img/drive-translucent/06.jpg" alt="STRETCH or GYPSUM">
                         <h4>Which Ceiling is better: STRETCH or GYPSUM?</h4> 
                         <span>Admin
                             Post published:18/08/2020
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
                         <p>All operations for leveling and cleaning the ceiling are complex and require a lot of investments. But the stretch or…</p>
-                        <button ><a href="standard-post-type.php">Read More</a></button>
+                        <button ><a href="Which-cielling-is-better.php">Read More</a></button>
                     </li>
                 </ul>
                 <!-- Page 3 -->

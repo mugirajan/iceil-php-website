@@ -1,7 +1,70 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<style>
 
+.y-us-head {
+    text-align: center;
+}
+.y-us-title h2 {
+    color: #000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 32px;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+}
+.y-us-title > p {
+    color: #777777;
+    line-height: 22px;
+}
+.y-us-title-border {
+    background: #ffae11 none repeat scroll 0 0;
+    border-radius: 2px;
+    display: inline-block;
+    height: 3px;
+    position: relative;
+    width: 50px;
+}
+.image-div-why img{
+    width:40%;
+    margin:0 auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.image-div h4{
+    padding-top:10px;
+    font-size:15px !important;
+    text-align:center;
+}
+.row-of-why{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+}
+.image-div{
+    width:12.5%;
+}
+@media(min-width:800px){
+    .image-div{
+    width:12.5%;
+}
+}
+@media(min-width:600px) and (max-width:799px){
+    .image-div{
+         width:25%;
+    }
+}
+@media(max-width:599px){
+    .image-div{
+    width:100%;
+}
+}
+
+
+</style>
 </head>
 
 
@@ -210,7 +273,7 @@
                     <div class="container-for-card">
                         <a class="card1">
                           <h3>Our Vission</h3>
-                          <p class="small">Aspire to be the No.1 manufacturer of stretch ceilings and architectural lighting solutions in India.</p>
+                          <p class="small">Aspire to be the No.1 manufacturer of stretch ceilings and architectural lighting solutions in India. Delivering a world class lighting experience</p>
                           <div class="go-corner">
                             <div class="go-arrow">
                               →
@@ -233,7 +296,8 @@
                             <h3>Quality Policy</h3>
                             <p class="small">
                                 Quality Committed to ongoing enhance- Policy creativity to consistently improve
-                                ment, we foster innovation.</p>
+                                ment, we foster innovation and
+                                the quality, reliability, and value of our products and services.</p>
                             <div class="go-corner" >
                               <div class="go-arrow">
                                 →
@@ -256,7 +320,7 @@
 
                             <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
                                 <div class="member d-flex align-items-start">
-                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
+                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt="Vivek"></div>
                                 <div class="member-info">
                                     <h4>Vivek</h4>
                                     <span>Chief Executive Officer</span>
@@ -273,7 +337,7 @@
 
                             <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
                                 <div class="member d-flex align-items-start">
-                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt=""></div>
+                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt="Raj"></div>
                                 <div class="member-info">
                                     <h4>Raj</h4>
                                     <span>Product Manager</span>
@@ -300,113 +364,72 @@
                     <!-- Management Showcase Vivek and Raj end -->
 
                     <!--why choose us start-->
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
-                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #f7f7f7 ;"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-left"
-                                        data-sync-height="height1">
-                                        <div class="gdlr-core-pbf-background-wrap">
-                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                                style="background-image: url(img/light/service-detail2.jpg) ;background-size: cover ;background-position: center ;"
-                                                data-parallax-speed="0.2"></div>
-                                        </div>
-                                        <div
-                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                    <div class="y-us-section">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12">
+                                    <div class="y-us-head">
+                                        <div class="y-us-title">
+                                            <h2>Why choose us</h2>
+                                            <p>Biggest stretch ceiling network in India with an ISO 9001:2015. Certified factory in Chennai</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30" data-skin="team column svc  icon"
-                                    id="gdlr-core-column-1">
-                                    <div class=" gdlr-core-js " style="padding: 60px 0px 30px 0px;"
-                                        data-sync-height="height1">
-                                        <div
-                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 40px ;">
-                                                    <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title whychooseustitle "
-                                                            style="font-size: 25px ;letter-spacing: 0px ;text-transform: none ;color: #2b2b2b ;">
-                                                            Why Choose Us?</h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 15px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image"
-                                                        style="margin-top: 10px;margin-right: 30px;"><img
-                                                            src="upload/columsvc-icon-1.png" alt="" width="37"
-                                                            height="37" title="Accountability" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap"
-                                                            style="margin-bottom: 10px ;">
-                                                            <h3 class="about-title gdlr-core-column-service-title "
-                                                                style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">
-                                                                Accountability</h3>
-                                                        </div>
-                                                        <div class="gdlr-core-column-service-content"
-                                                            style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                            <p>We embrace accountability for our products and services,
-                                                                maintaining the utmost professional standards. We
-                                                                assess our perarmance against well defined metrics and
-                                                                targets to ensure excellence. </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 15px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image"
-                                                        style="margin-top: 10px;margin-right: 25px;"><img
-                                                            src="upload/columsvc-icon-2.png" alt="" width="46"
-                                                            height="46" title="Customer Centric" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap"
-                                                            style="margin-bottom: 10px ;">
-                                                            <h3 class="about-title gdlr-core-column-service-title"
-                                                                style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">
-                                                                Customer Centric:</h3>
-                                                        </div>
-                                                        <div class="gdlr-core-column-service-content"
-                                                            style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                            <p>Every customer holds a distinct value for us, and we
-                                                                believe in tailoring individualized solutions. Our
-                                                                commitment is to achieve the highest levels of customer
-                                                                satisfaction across all our products and services,
-                                                                recognizing and addressing the unique needs of each
-                                                                client.
-
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                                    style="padding-bottom: 25px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image"
-                                                        style="margin-top: 10px;margin-right: 27px;margin-bottom:  0;">
-                                                        <img src="upload/columsvc-icon-3.png" alt="" width="42"
-                                                            height="41" title="Renew and Improve" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap"
-                                                            style="margin-bottom: 10px ;">
-                                                            <h3 class="gdlr-core-column-service-title about-title"
-                                                                style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">
-                                                                Renew and Improve</h3>
-                                                        </div>
-                                                        <div class="gdlr-core-column-service-content"
-                                                            style="font-size: 18px ;font-weight: 400 ;text-transform: none ;">
-                                                            <p>We are continually seeking improvements in our approach. Overcoming seemingly insur mountable challenges is not just a key factor in our success but also a wellspring of inspiration.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                            </div>
+                            <div class="row-of-why">
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="images/logo/01.jpg" alt="ISO Certified">
+                                    </div>
+                                    <h4>ISO Certified</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="images/logo/02.jpg" alt="Reach Complaint">
+                                    </div>
+                                    <h4>Reach Complaint</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="images/logo/08.jpg" alt="10 Years Warranty">
+                                    </div>
+                                    <h4>10 Years Warranty</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="images/logo/03.jpg" alt="Complaint">
+                                    </div>
+                                    <h4>Complaint</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="images/logo/04.jpg" alt="VOC Certified">
+                                    </div>
+                                    <h4>VOC Certified</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="images/logo/05.jpg" alt="European Certified">
+                                    </div>
+                                    <h4>European Certified</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="images/logo/06.jpg" alt="Flame Retardant b-sl-d0">
+                                    </div>
+                                    <h4>Flame Retardant b-sl-d0</h4>
+                                </div>
+                                <div class="image-div">
+                                    <div class="image-div-why">
+                                        <img src="images/logo/07.jpg" alt="Recyclable">
+                                    </div>
+                                    <h4>Recyclable</h4>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12">
+                                    <div class="">
+                                        <img src="images/top5-projects/whoweare.jpg" alt="Competitive">
                                     </div>
                                 </div>
                             </div>
@@ -446,7 +469,7 @@
                      <!--category start-->
                      <div class="box-wrapper d-none">
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/Di8-wsMW4AEs98X.jpg" alt="">
+                            <img src="img/project-gallery/Di8-wsMW4AEs98X.jpg" alt="Lacquer Stretch Ceiling">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -455,12 +478,12 @@
                                 </div>
                                 <p class="card-content">Lacquer stretch ceiling provide a mirror effect on your ceiling with a high degree of light reflection. This provides an elite ambiance and and visually enlarged room space
                                 </p>
-                                <a href="Lacquer" class="read-more-btn">Read More</a>
+                                <a href="Lacquer-Ceilings" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/03.jpg">
+                            <img src="img/project-gallery/pics/03.jpg" alt="Translucent stretch ceiling">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -468,12 +491,12 @@
                                     <h4 class="card-main-title">Translucent stretch ceiling </h4>
                                 </div>
                                 <p class="card-content">Translucent stretch ceiling allows light to be evenly distributed with the stretch membrane offering 75% Translucency.</p>
-                                <a href="Translucent" class="read-more-btn">Read More</a>
+                                <a href="Translucent-Stretch-Ceilings" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/01 (1).jpeg">
+                            <img src="img/project-gallery/pics/01 (1).jpeg" alt="Acoustic Ceiling ">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -486,7 +509,7 @@
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/Stretch-Ceilings-Ltd_Project-Ashurst-Tunable-Light-Boxes_1200.jpg">
+                            <img src="img/project-gallery/pics/Stretch-Ceilings-Ltd_Project-Ashurst-Tunable-Light-Boxes_1200.jpg" alt="Stretch Ad - Sign box">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -499,7 +522,7 @@
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/Di8-wsMW4AEs98X.jpg" alt="">
+                            <img src="img/project-gallery/Di8-wsMW4AEs98X.jpg" alt="Printed Stretch Ceiling">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -508,12 +531,12 @@
                                 </div>
                                 <p class="card-content">Printed stretch ceiling provide a mirror effect on your ceiling with a high degree of light reflection. This provides an elite ambiance and visually enlarged room space</p>
                                 </p>
-                                <a href="Printed" class="read-more-btn">Read More</a>
+                                <a href="Printed-Stretch-Ceilings" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/Splunk.jpg">
+                            <img src="img/project-gallery/pics/Splunk.jpg" alt="Architectural lights">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -526,7 +549,7 @@
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/P0A0566 (1).jpg">
+                            <img src="img/project-gallery/pics/P0A0566 (1).jpg" alt="3D Form">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -535,12 +558,12 @@
                                 </div>
                                 <p class="card-content">ceilings are created by engineering multilevel framing structures and can be made to
                                     the required size, shape, and then can be fitted with the desired stretch film.</p>
-                                <a href="3DForms" class="read-more-btn">Read More</a>
+                                <a href="3D-Forms-Stretch-Ceilings" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
                         <figure class="shape-box shape-box_half">
-                            <img src="img/project-gallery/pics/04 (1).jpg">
+                            <img src="img/project-gallery/pics/04 (1).jpg" alt="Wall Graphics">
                             <div class="brk-abs-overlay z-index-0 bg-black opacity-60"></div>
                             <figcaption>
                                 <div class="show-cont">
@@ -548,7 +571,7 @@
                                     <h4 class="card-main-title">Wall Graphics</h4>
                                 </div>
                                 <p class="card-content">Custom wallpaper murals are an extremely unique and personalized product. Print image of your choice in your walls printed film.</p>
-                                <a href="WallGraphics" class="read-more-btn">Read More</a>
+                                <a href="3DWallGraphics" class="read-more-btn">Read More</a>
                             </figcaption>
                             <span class="after"></span>
                         </figure>
@@ -756,8 +779,8 @@
                     <main class="row main-carousel">
                         <div class="col-lg-3">
                             <div class="left-carousel-sec">
-                                <h4>Award-Winning<span class="span-for-you"> Stretch Ceiling</span></h4>
-                                <p style="font-size:20px;">Highlighted as one of our award-winning products.</p>
+                                <h4>Our <span class="span-for-you">Projects</span></h4>
+                                <p style="font-size:20px;">Iceil's top five projects showcase our expertise in stretch ceilings.</p>
                             </div>
                         </div>
                         <div class="col-lg-9 section-carousel">
@@ -777,28 +800,28 @@
                             <div class="carousel" style="height:0px !important;">
                               <div class="carousel__item carousel__item carousel__item--matcha">
                                 <div>
-                                  <img src="images/404-background.jpg">
+                                  <img src="images/top5-projects/1.jpeg" alt="our top 5 project">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--strawberry">
                                 <div>
-                                    <img src="images/404-background.jpg">
+                                    <img src="images/top5-projects/2.jpeg" alt="our top 5 project">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--vanilla">
                                 <div>
-                                    <img src="images/404-background.jpg">
+                                    <img src="images/top5-projects/3.jpg" alt="our top 5 project">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--mango">
                                 <div>
-                                    <img src="images/404-background.jpg">
+                                    <img src="images/top5-projects/4.png" alt="our top 5 project">
                         
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--chocolate">
                                 <div>
-                                    <img src="images/404-background.jpg">
+                                    <img src="images/top5-projects/5.jpeg" alt="our top 5 project">
 
                                   <!-- <div class="carousel__item__name">Chocolate</div> -->
                                 </div>

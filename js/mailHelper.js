@@ -96,11 +96,11 @@ $(document).ready(function () {
          //contact form end
 
         //popup form start
-        $("#popup-form").unbind("submit").bind("submit", function() {
+        $("#popupForm").unbind("submit").bind("submit", function() {
 
             let name = $("#name").val();
             let email = $("#email").val();
-            let phone = $("#phone").val();
+            let phone = $("#tel").val();
             let state = $("#state").val();
             let city = $("#city").val();
             let message = $("#message").val();
@@ -125,12 +125,12 @@ $(document).ready(function () {
             }	
 
             if(phone == "") {
-                $("#phone").after('<p class="text-danger"> Phone field is required</p>');
-                $('#phone').closest('.form-group').addClass('has-error');
+                $("#tel").after('<p class="text-danger"> Phone field is required</p>');
+                $('#tel').closest('.form-group').addClass('has-error');
                 isvalid = false
             }	else {
-                $("#phone").find('.text-danger').remove();
-                $("#phone").closest('.form-group').addClass('has-success');
+                $("#tel").find('.text-danger').remove();
+                $("#tel").closest('.form-group').addClass('has-success');
             }	
             if(state == "") {
                 $("#state").after('<p class="text-danger"> state field is required</p>');
@@ -158,7 +158,7 @@ $(document).ready(function () {
                     message: message,
                     state:state,
                     city:city,
-                    type: "popup-form"
+                    type: "popupForm"
                 }
 
                 $.ajax({
@@ -170,6 +170,7 @@ $(document).ready(function () {
                         if(params.success) {
                             showToast('Form submitted successfully!', 'success');
                             $("#popupForm")[0].reset();
+                            $("#exampleModal").modal('hide');
                         }
                         else {
                             showToast(`Error: ${params.message}`, 'error');
@@ -201,6 +202,7 @@ $(document).ready(function () {
             let phone = $("#phone").val();
             let state = $("#state").val();
             let city = $("#city").val();
+            let collaboration = $("#Collaboration").val();
             let message = $("#message").val();
             let isvalid = true;
 
@@ -245,6 +247,14 @@ $(document).ready(function () {
             }	else {
                 $("#city").find('.text-danger').remove();
                 $("#city").closest('.form-group').addClass('has-success');
+            }
+            if (collaboration == "") {
+                $("#Collaboration").after('<p class="text-danger">Collaboration field is required</p>');
+                $('#Collaboration').closest('.form-group').addClass('has-error');
+                isValid = false;
+            } else {
+                $("#Collaboration").siblings('.text-danger').remove();
+                $("#Collaboration").closest('.form-group').addClass('has-success');
             }	
 
             if(isvalid != false) {
@@ -256,6 +266,7 @@ $(document).ready(function () {
                     message: message,
                     state:state,
                     city:city,
+                    collaboration: collaboration,
                     type: "franchiseForm"
                 }
 
@@ -289,5 +300,205 @@ $(document).ready(function () {
         });
         //popup form end
 
+        //brochure form start
+        $("#brochureForm").unbind("submit").bind("submit", function() {
+
+            console.log("iopp");
+            $(".text-danger").remove();
+            let nameone = $("#nameone").val();
+            let emailone = $("#emailone").val();
+            let isvalid = true;
+
+            if(nameone == "") {
+                $("#nameone").after('<p class="text-danger"> Name field is required</p>');
+                $('#nameone').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#nameone").find('.text-danger').remove();
+                $("#nameone").closest('.form-group').addClass('has-success');
+            }	
+
+            if(emailone == "") {
+                $("#emailone").after('<p class="text-danger"> Email field is required</p>');
+                $('#emailone').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#emailone").find('.text-danger').remove();
+                $("#emailone").closest('.form-group').addClass('has-success');
+            }	
+
+
+            if(isvalid != false) {
+
+                let formData = {
+                    nameone: nameone,
+                    emailone: emailone,
+                    type: "brochureForm"
+                }
+
+                $.ajax({
+                    url: "./php/mailController.php",
+                    data: formData,
+                    type: "post",
+                    dataType: "json",
+                    success: function(params) {
+                        if(params.success) {
+                            
+                            showToast('Form submitted successfully!', 'success');
+                            $("#brochureForm")[0].reset();
+                            $("#downloadModal").modal('hide');
+                        }
+                        else {
+                            showToast(`Error: ${params.message}`, 'error');
+                            $("#brochureForm")[0].reset();
+                        }
+                    },
+                    error: function(params) {
+                        showToast('Please fill all the field');
+                        $("#brochureForm")[0].reset();
+                        console.log("ERROR: ", params);
+                    }
+                })
+            }
+            else {
+                console.log("Please fill out all the required fields...!","error")
+            }
+            return false;
+        });
+        //brochure form end
+
+        //brochure 2 form start
+        $("#brochuretwoForm").unbind("submit").bind("submit", function() {
+
+            $(".text-danger").remove();
+            let nametwo = $("#nametwo").val();
+            let emailtwo = $("#emailtwo").val();
+            let isvalid = true;
+
+            if(nametwo == "") {
+                $("#nametwo").after('<p class="text-danger"> Name field is required</p>');
+                $('#nametwo').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#nametwo").find('.text-danger').remove();
+                $("#nametwo").closest('.form-group').addClass('has-success');
+            }	
+
+            if(emailtwo == "") {
+                $("#emailtwo").after('<p class="text-danger"> Email field is required</p>');
+                $('#emailtwo').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#emailtwo").find('.text-danger').remove();
+                $("#emailtwo").closest('.form-group').addClass('has-success');
+            }	
+
+
+            if(isvalid != false) {
+
+                let formData = {
+                    nametwo: nametwo,
+                    emailtwo: emailtwo,
+                    type: "brochuretwoForm"
+                }
+
+                $.ajax({
+                    url: "./php/mailController.php",
+                    data: formData,
+                    type: "post",
+                    dataType: "json",
+                    success: function(params) {
+                        if(params.success) {
+                            
+                            showToast('Form submitted successfully!', 'success');
+                            $("#brochuretwoForm")[0].reset();
+                            $("#download2Modal").modal('hide');
+                        }
+                        else {
+                            showToast(`Error: ${params.message}`, 'error');
+                            $("#brochuretwoForm")[0].reset();
+                        }
+                    },
+                    error: function(params) {
+                        showToast('Please fill all the field');
+                        $("#brochuretwoForm")[0].reset();
+                        console.log("ERROR: ", params);
+                    }
+                })
+            }
+            else {
+                console.log("Please fill out all the required fields...!","error")
+            }
+            return false;
+        });
+        //brochure form end
+
+        //brochure 3 form start
+        $("#brochurethreeForm").unbind("submit").bind("submit", function() {
+
+            console.log("iopp");
+            $(".text-danger").remove();
+            let namethree = $("#namethree").val();
+            let emailthree = $("#emailthree").val();
+            let isvalid = true;
+
+            if(namethree == "") {
+                $("#namethree").after('<p class="text-danger"> Name field is required</p>');
+                $('#namethree').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#namethree").find('.text-danger').remove();
+                $("#namethree").closest('.form-group').addClass('has-success');
+            }	
+
+            if(emailthree == "") {
+                $("#emailthree").after('<p class="text-danger"> Email field is required</p>');
+                $('#emailthree').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#emailthree").find('.text-danger').remove();
+                $("#emailthree").closest('.form-group').addClass('has-success');
+            }	
+
+
+            if(isvalid != false) {
+
+                let formData = {
+                    namethree: namethree,
+                    emailthree: emailthree,
+                    type: "brochurethreeForm"
+                }
+
+                $.ajax({
+                    url: "./php/mailController.php",
+                    data: formData,
+                    type: "post",
+                    dataType: "json",
+                    success: function(params) {
+                        if(params.success) {
+                            
+                            showToast('Form submitted successfully!', 'success');
+                            $("#brochurethreeForm")[0].reset();
+                            $("#download3Modal").modal('hide');
+                        }
+                        else {
+                            showToast(`Error: ${params.message}`, 'error');
+                            $("#brochure3Form")[0].reset();
+                        }
+                    },
+                    error: function(params) {
+                        showToast('Please fill all the field');
+                        $("#brochurethreeForm")[0].reset();
+                        console.log("ERROR: ", params);
+                    }
+                })
+            }
+            else {
+                console.log("Please fill out all the required fields...!","error")
+            }
+            return false;
+        });
+        //brochure form end
+        
 });
 

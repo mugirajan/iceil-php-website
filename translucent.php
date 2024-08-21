@@ -1,6 +1,7 @@
 <?php
   include "./shared/header-top.php"
 ?>
+<meta name="keywords" content="stretch lighting, no glare luminaires, translucent stretch ceilings, natural light diffusion, customizable ceiling designs, elegant lobby ceilings, acoustic comfort ceilings, RGB lighting for pubs, dynamic lighting effects, psychological color influence, mood-enhancing lighting, diffused lighting for gyms, versatile lighting solutions, translucent ceilings for meeting rooms, energy-efficient lighting, modern aesthetic ceilings, customizable lighting features, versatile stretch ceilings">
 
 </head>
 <?php
@@ -18,7 +19,7 @@
                     <div class="inteco-blog-title-content inteco-item-pdlr" >
                         <div class="inteco-page-title-container-about-our">
                             <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                                <h1 class="inteco-page-title">Translucent</h1>
+                                <h1 class="inteco-page-title transulecent">Translucent</h1>
                             </div>
                         </div>
                     </div>
@@ -58,7 +59,8 @@
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
                                                 <p>
-                                                    Translucent Stretch Ceiling allows light to be evenly distributed with the stretch membrane offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 5M without joints creating a great ambience. The Translucent Stretch Ceiling of ICeil can be customized to offer different colors and dimming controls suiting your mood.</p>
+                                                Iceil Translucent Stretch Ceilings allow light to be evenly distributed with the stretch membrane offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 50 SQM without joints creating a great ambiance. The ceilings can be customized to offer different colors and dimming controls suiting your mood.
+                                                </p>
                                             </div>
                                             <!-- <div>
                                                 <h5>Application Areas:</h5>
@@ -83,7 +85,7 @@
             <!--intro end-->
 
             <!--card section start-->
-		    <section id="services" class="services bgcolor-gray section-common-space">
+		    <section id="services" class="d-none services bgcolor-gray section-common-space">
                 <div class="container">
                     <div class="text-center m-t-120">
                         <div class="row clear-problem">
@@ -148,8 +150,8 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>The visual impact of translucent stretch ceilings plays a crucial role in creating a memorable showroom experience.</p>
-                                                <p>Careful attention should be paid to the design, color, and texture of the ceiling to ensure it complements the overall aesthetic of the showroom and enhances the presentation of the vehicles.</p>
+                                                <p>Stretch lighting accelerates car sales compared to regular lighting due to its ability to eradicate shadows and reflections, thereby improving the vehicle's presentation.</p>
+                                                <p> Stretch Luminaires are NO GLARE Luminaires.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -161,7 +163,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-translucent/02.jpg" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-translucent/02.jpg" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -179,7 +181,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:80vh" src="img/drive-translucent/16.jpg" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:80vh" src="img/drive-translucent/16.jpg" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -248,7 +250,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="https://img.freepik.com/free-photo/bar-cafeteria-family-restaurant-interior-shooting_114579-1119.jpg?t=st=1711970912~exp=1711974512~hmac=d2c2e13ac9c6c043f0357b095636f95f35e6c30ed1f5db1d03bd37d49a18f922&w=740" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="https://img.freepik.com/free-photo/bar-cafeteria-family-restaurant-interior-shooting_114579-1119.jpg?t=st=1711970912~exp=1711974512~hmac=d2c2e13ac9c6c043f0357b095636f95f35e6c30ed1f5db1d03bd37d49a18f922&w=740" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -267,7 +269,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="img/drive-translucent/26.jpg" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="img/drive-translucent/26.jpg" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -292,7 +294,9 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>A translucent ceiling in a gym or health center offers numerous benefits. By allowing natural light to filter through, it creates a bright and inviting atmosphere, enhancing the overall mood and motivation of users. The modern and stylish aesthetic of translucent materials adds visual appeal, while the connection to the outdoors promotes a sense of well-being. Additionally, maximizing natural light can contribute to energy efficiency, reducing reliance on artificial lighting. With customization options available, such as colors and textures, translucent ceilings can be tailored to fit the specific design concept of the gym or health center, enhancing its overall ambiance and functionality.</p>
+                                                <p>The ambiance of the light shapes our mood, which in turn molds our productivity, and ultimately paves the path to success.
+                                                    Diffused lighting offered by Iceil Translucent Ceiling enhances safety, motivation, visibility, mood and overall satisfaction in gyms, elevating the workout experience for all gym-goers.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -324,7 +328,7 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>Translucent ceilings in meeting rooms enhance ambiance by allowing natural light, fostering a bright and productive atmosphere. With modern aesthetics, they create visually appealing spaces conducive to collaboration. The integration of customizable designs adds versatility, catering to various meeting room requirements while promoting a comfortable and inspiring environment.</p>
+                                                <p>Translucent ceilings in meeting rooms enhance ambiance by allowing natural light, fostering a bright and productive atmosphere. With modern aesthetics, they create visually appealing spaces conducive to collaboration. Tuneable solutions in meeting rooms are indispensable, offering unparalleled versatility and adaptability to accommodate diverse needs and preferences.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -336,7 +340,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-translucent/04.jpg" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-translucent/04.jpg" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -354,7 +358,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="img/drive-translucent/ICEIL_3000009.jpg" alt="" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="img/drive-translucent/ICEIL_3000009.jpg" alt="Translucent Stretch Ceiling" width="600" height="600" title="Translucent Stretch Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>

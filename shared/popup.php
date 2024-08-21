@@ -17,7 +17,7 @@
                             <div class="popup-content">
                                 <span class="d-none close-btn">&times;</span>
                                 <h4>Contact Us</h4>
-                                <form class="popup-form">
+                                <form class="popupForm">
                                     <label for="name">Name:</label>
                                     <input type="text" id="name" name="name" required>
                                     

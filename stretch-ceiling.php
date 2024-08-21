@@ -117,7 +117,7 @@
                                                     class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
                                                         style="border-width: 0px;max-width: 530px ;"><img
-                                                            src="img/light/slide-6.png" alt="" width="730" height="730"
+                                                            src="img/light/slide-6.png" alt="Stretch Ceiling" width="730" height="730"
                                                             title="Stretch Ceiling" /></div>
                                                 </div>
                                             </div>
@@ -153,7 +153,7 @@
                                                         style="border-width: 0px;max-width: 485px ;">
                                                         <a class="gdlr-core-lightgallery gdlr-core-js "
                                                             href="img/light/sky-transformed.png"><img
-                                                                src="img/light/sky-transformed.png" alt="" width="668"
+                                                                src="img/light/sky-transformed.png" alt="Stretch Ceiling" width="668"
                                                                 height="730" title="iStretch Ceiling" /><span
                                                                 class="gdlr-core-image-overlay "><i
                                                                     class="gdlr-core-image-overlay-icon gdlr-core-size-22 fa fa-search"></i></span></a>
@@ -304,7 +304,7 @@
                                                         style="border-width: 0px;">
                                                         <a class="gdlr-core-lightgallery gdlr-core-js "
                                                             href="upload/icon-1122.png"><img src="upload/icon-1122.png"
-                                                                alt="" width="45" height="45" title="Stretch Ceiling" /></a>
+                                                                alt="Stretch Ceiling" width="45" height="45" title="Stretch Ceiling" /></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -357,7 +357,7 @@
                                                         style="border-width: 0px;">
                                                         <a class="gdlr-core-lightgallery gdlr-core-js "
                                                             href="upload/icon-2-1.png"><img src="upload/icon-2-1.png"
-                                                                alt="" width="59" height="46" title="Stretch Ceiling" /></a>
+                                                                alt="Stretch Ceiling" width="59" height="46" title="Stretch Ceiling" /></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -408,7 +408,7 @@
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
                                                         style="border-width: 0px;">
                                                         <a class="gdlr-core-lightgallery gdlr-core-js "
-                                                            href="upload/icon-1.png"><img src="upload/icon-1.png" alt=""
+                                                            href="upload/icon-1.png"><img src="upload/icon-1.png" alt="Stretch Ceiling"
                                                                 width="49" height="48" title="Stretch Ceiling" /></a>
                                                     </div>
                                                 </div>
@@ -466,7 +466,7 @@
                                                     <a class="gdlr-core-lightgallery gdlr-core-js "
                                                         href="upload/gally-1.jpg"
                                                         data-lightbox-group="gdlr-core-img-group-1"><img
-                                                            src="img/light/stretchciel2.jpeg" alt="" width="399"
+                                                            src="img/light/stretchciel2.jpeg" alt="Stretch Ceiling" width="399"
                                                             height="552" title="Stretch Ceiling" /></a>
                                                 </div>
                                             </div>
@@ -476,7 +476,7 @@
                                                     <a class="gdlr-core-lightgallery gdlr-core-js "
                                                         href="upload/gally-2.jpg"
                                                         data-lightbox-group="gdlr-core-img-group-1"><img
-                                                            src="img/light/stretch4.jpeg" alt="" width="399"
+                                                            src="img/light/stretch4.jpeg" alt="Stretch Ceiling" width="399"
                                                             height="552" title="Stretch Ceiling" /></a>
                                                 </div>
                                             </div>
@@ -486,7 +486,7 @@
                                                     <a class="gdlr-core-lightgallery gdlr-core-js "
                                                         href="img/project-gallery/pics/pexels-mudassir-ali-1536434.jpg"
                                                         data-lightbox-group="gdlr-core-img-group-1"><img
-                                                            src="img/project-gallery/pics/pexels-mudassir-ali-1536434.jpg" style="height:80vh" alt="" width="399"
+                                                            src="img/project-gallery/pics/pexels-mudassir-ali-1536434.jpg" style="height:80vh" alt="Stretch Ceiling" width="399"
                                                             height="552" title="Stretch Ceiling" /></a>
                                                 </div>
                                             </div>
@@ -514,7 +514,7 @@
                                                     class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
                                                         style="border-width: 0px;"><img
-                                                            src="img/project-gallery/pics/01.jpg" alt="" width="573"
+                                                            src="img/project-gallery/pics/01.jpg" alt="Stretch Ceiling" width="573"
                                                             height="837" title="Stretch Ceiling" /></div>
                                                 </div>
                                             </div>
@@ -616,7 +616,7 @@
                                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                                     href="img/project-gallery/pics/01.jpg"
                                                                     data-lightbox-group="gdlr-core-img-group-2"><img
-                                                                        src="img/project-gallery/pics/01.jpg" alt=""
+                                                                        src="img/project-gallery/pics/01.jpg" alt="Stretch Ceiling"
                                                                         width="630" height="501"
                                                                         title="Stretch Ceiling" /><span
                                                                         class="gdlr-core-image-overlay "><i
@@ -630,7 +630,7 @@
                                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                                     href="img/light/img-bg-stretch-4.png"
                                                                     data-lightbox-group="gdlr-core-img-group-2"><img
-                                                                        src="img/light/img-bg-stretch-4.png" alt=""
+                                                                        src="img/light/img-bg-stretch-4.png" alt="Stretch Ceiling"
                                                                         width="630" height="501"
                                                                         title="Stretch Ceiling" /><span
                                                                         class="gdlr-core-image-overlay "><i
@@ -644,7 +644,7 @@
                                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                                     href="img/project-gallery/pics/03.jpg"
                                                                     data-lightbox-group="gdlr-core-img-group-2"><img
-                                                                        src="img/project-gallery/pics/03.jpg" alt=""
+                                                                        src="img/project-gallery/pics/03.jpg" alt="Stretch Ceiling"
                                                                         width="630" height="501"
                                                                         title="Stretch Ceiling" /><span
                                                                         class="gdlr-core-image-overlay "><i
@@ -658,7 +658,7 @@
                                                                 <a class="gdlr-core-lightgallery gdlr-core-js "
                                                                     href="img/light/img-bg-stretch2.png"
                                                                     data-lightbox-group="gdlr-core-img-group-2"><img
-                                                                        src="img/light/img-bg-stretch2.png" alt=""
+                                                                        src="img/light/img-bg-stretch2.png" alt="Stretch Ceiling"
                                                                         width="630" height="501"
                                                                         title="Stretch Ceiling" /><span
                                                                         class="gdlr-core-image-overlay "><i

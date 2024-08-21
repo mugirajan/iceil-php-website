@@ -9,15 +9,15 @@
             // Show the toast
             setTimeout(() => {
                 toast.classList.add('show');
-            }, 100); // Small delay to ensure the element is added before display
+            }, 100);
 
             // Remove the toast after it fades out
             setTimeout(() => {
                 toast.classList.remove('show');
                 setTimeout(() => {
                     toast.remove();
-                }, 500); // Delay to match the fade-out duration
-            }, 3000); // Show the toast for 3 seconds
+                }, 500); 
+            }, 3000); 
         }
 
     $(document).ready(function () {
@@ -49,7 +49,7 @@
         return false;
     });
 
-    $("#popup-form").unbind("submit").bind("submit", function() {
+    $("#popupForm").unbind("submit").bind("submit", function() {
         let form = new FormData(this);
         $.ajax({
             url: "./php/mailController.php",
@@ -59,14 +59,14 @@
             success:function(response) {
                 console.log("Success: ", response)
                 if(response.success) {
-                    $("#popup-form")[0].reset();
+                    $("#popupForm")[0].reset();
                 } else {
-                    $("#popup-form")[0].reset();
+                    $("#popupForm")[0].reset();
                 }
             },
             error: function(response) {
                 console.log("Error: ", response);
-                $("#popup-form")[0].reset();
+                $("#popupForm")[0].reset();
 
             }
         });
@@ -100,6 +100,94 @@
         return false;
     
     });
+    
+    //brochure one
+    $("#brochureForm").unbind("submit").bind("submit", function(event) {
+        event.preventDefault();
+
+        let form = new FormData(this);
+
+        $.ajax({
+            url: "./php/mailController.php",
+            type: "POST",
+            data: form,
+            processData: false,
+            contentType: false,
+            dataType: 'json',
+            success: function(response) {
+                console.log("Success: ", response);
+                if(response.success) {
+                    showToast('Form submitted successfully!', 'success');
+                    $("#brochureForm")[0].reset();
+                } else {
+                    showToast(`Error: ${response.message}`, 'error');
+                }
+            },
+            error: function(response) {
+                showToast('Failed to submit form. Please try again later.', 'error');
+                console.log("Error: ", response);
+            }
+        });
+    });
+
+    //brochure two
+    $("#brochuretwoForm").unbind("submit").bind("submit", function(event) {
+        event.preventDefault();
+
+        let form = new FormData(this);
+
+        $.ajax({
+            url: "./php/mailController.php",
+            type: "POST",
+            data: form,
+            processData: false,
+            contentType: false,
+            dataType: 'json',
+            success: function(response) {
+                console.log("Success: ", response);
+                if(response.success) {
+                    showToast('Form submitted successfully!', 'success');
+                    $("#brochuretwoForm")[0].reset();
+                } else {
+                    showToast(`Error: ${response.message}`, 'error');
+                }
+            },
+            error: function(response) {
+                showToast('Failed to submit form. Please try again later.', 'error');
+                console.log("Error: ", response);
+            }
+        });
+    });
+
+    //brochure three
+    $("#brochurethreeForm").unbind("submit").bind("submit", function(event) {
+        event.preventDefault();
+
+        let form = new FormData(this);
+
+        $.ajax({
+            url: "./php/mailController.php",
+            type: "POST",
+            data: form,
+            processData: false,
+            contentType: false,
+            dataType: 'json',
+            success: function(response) {
+                console.log("Success: ", response);
+                if(response.success) {
+                    showToast('Form submitted successfully!', 'success');
+                    $("#brochurethreeForm")[0].reset();
+                } else {
+                    showToast(`Error: ${response.message}`, 'error');
+                }
+            },
+            error: function(response) {
+                showToast('Failed to submit form. Please try again later.', 'error');
+                console.log("Error: ", response);
+            }
+        });
+    });
+
 });
 
 

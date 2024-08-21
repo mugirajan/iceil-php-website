@@ -76,7 +76,7 @@
             <section class="container"> 
                 <div class="row d-flex align-items-center">
                     <div class="col-lg-6 col-md-4 col-sm-12">
-                        <img src="img/drive-lightbox/123.1.jpg">   
+                        <img src="img/drive-lightbox/123.1.jpg" alt="light boxes">   
                     </div>
                     <div class="col-lg-6 col-md-8 col-sm-12">
                         <div class="div-list-light">

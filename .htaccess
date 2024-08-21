@@ -1,23 +1,55 @@
 RewriteEngine on
+RewriteRule ^robots\.txt$ /robots.php [L]
 
 
 
 RewriteRule ^Home?$ homepage-3.php
-RewriteRule ^AboutUs?$ about-us-3.php
+RewriteRule ^stretch-ceiling-manufacturer-india?$ about-us-3.php
 RewriteRule ^Projects?$ projects.php
 RewriteRule ^Partners?$ about-our-team.php
 RewriteRule ^Blogs?$ blog-full-left-sidebar-with-frame.php
+
+RewriteRule ^about-Stretch-Ceilings?$ about-Stretch-Ceilings.php
+RewriteRule ^Starry-Galaxy-Ceiling?$ Starry-Galaxy-Ceiling.php
+RewriteRule ^Translucent-stretch-ceiling?$ Translucent-stretch-ceiling.php
+RewriteRule ^Why-we-are-better?$ Why-we-are-better.php
+RewriteRule ^Leading-Stretch-Ceiling?$ Leading-Stretch-Ceiling.php
+RewriteRule ^Best-Business-Opportunity?$ Best-Business-Opportunity.php
+RewriteRule ^What-is-stretch-ceiling?$ What-is-stretch-ceiling.php
+RewriteRule ^Which-cielling-is-better?$ Which-cielling-is-better.php
+RewriteRule ^stretch-ceiling-on-a-wall?$ stretch-ceiling-on-a-wall.php
+RewriteRule ^3D-stretch-ceiling?$ 3D-stretch-ceiling.php
+RewriteRule ^perfect-choice-for-restaurant?$ perfect-choice-for-restaurant.php
+RewriteRule ^how-do-you-maintain?$ how-do-you-maintain.php
+RewriteRule ^power-consumption?$ power-consumption.php
+RewriteRule ^high-gloss-lacquer?$ high-gloss-lacquer.php
+RewriteRule ^perfect-for-wet?$ perfect-for-wet.php
+RewriteRule ^much-stronger?$ much-stronger.php
+RewriteRule ^What-is-the-benefit?$ What-is-the-benefit.php
+RewriteRule ^improve-your-IT-workplace?$ improve-your-IT-workplace.php
+
 RewriteRule ^ContactUs?$ contact-2.php
 RewriteRule ^Downloads?$ downloads.php
 
-RewriteRule ^WallGraphics?$ wallpaper.php
+RewriteRule ^3DWallGraphics?$ wallpaper.php
 
-RewriteRule ^Translucent?$ translucent.php
-RewriteRule ^Printed?$ printed.php
-RewriteRule ^3DForms?$ threed.php
-RewriteRule ^LightBoxes?$ light-boxes.php
-RewriteRule ^Lacquer?$ lacquer.php
+RewriteRule ^Translucent-Stretch-Ceilings?$ translucent.php
+RewriteRule ^Printed-Stretch-Ceilings?$ printed.php
+RewriteRule ^3D-Forms-Stretch-Ceilings?$ threed.php
+RewriteRule ^RGB?$ RGB.php
+RewriteRule ^Fabric-Light-Boxes?$ light-boxes.php
+RewriteRule ^Lacquer-Ceilings?$ lacquer.php
 RewriteRule ^Acoustic?$ acoustic.php
+RewriteRule ^Printed-Lacquer-Ceilings?$ PrintedLacquer.php
+RewriteRule ^ArtPerforated?$ artPerforated.php
+RewriteRule ^Mirror?$ mirror.php
+RewriteRule ^Metal?$ metal.php
+
+RewriteRule ^Geometrical?$ Geometrical.php
+RewriteRule ^ARC?$ ARC.php
+RewriteRule ^Curved?$ curved.php
+RewriteRule ^Surface?$ surface.php
+RewriteRule ^Outward-Inward?$ outward-inward.php
 
 RewriteRule ^StretchCeiling?$ stretch-ceiling.php
 RewriteRule ^Warranty?$ warranty.php
@@ -29,6 +61,24 @@ RewriteRule ^Profiles?$ profiles.php
 
 RewriteRule ^Project-Details?$ project-details.php
 RewriteRule ^Single-Project?$ single-projects-detail.php
+
+
+RewriteRule ^Stretch-ceiling-shapes?$ stretch-ceiling-shapes.php
+RewriteRule ^stretch-ceilings-lights-fittings?$ stretch-ceilings-lights-fittings.php
+
+RewriteRule ^european-vs-chinese-stretch-ceilings?$ european-vs-chinese-stretch-ceilings.php
+RewriteRule ^printed-ceiling-iceil-stretch-ceiling?$ printed-ceiling-iceil-stretch-ceiling.php
+
+
+RewriteRule ^how-to-fit-stretch-ceiling-system-into-my-space?$ how-to-fit-stretch-ceiling-system-into-my-space.php
+RewriteRule ^5-ways-stretch-ceilings-can-save-you-money?$ 5-ways-stretch-ceilings-can-save-you-money.php
+RewriteRule ^stretch-ceiling-best-for-entertainment-centre?$ stretch-ceiling-best-for-entertainment-centre.php
+RewriteRule ^different-types-of-stretch-ceiling?$ different-types-of-stretch-ceiling.php
+RewriteRule ^acoustics-stretch-ceiling?$ acoustics-stretch-ceiling.php
+RewriteRule ^lacquer-ceiling-in-india?$ lacquer-ceiling-in-india.php
+
+
+
 
 
 

@@ -1,7 +1,29 @@
 <?php
   include "./shared/header-top.php"
 ?>
-
+<style>
+    .modal-backdrop.show body{
+        position: fixed !important;
+        top: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        left: 0 !important;
+        z-index: 1040 !important;
+        background-color: #000 !important;
+    }
+    .modal-backdrop.show{
+        opacity: 0 !important;
+    }
+    .modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0 !important;
+    background-color: #000;
+}
+</style>
 </head>
 
 <?php
@@ -9,23 +31,23 @@
 ?> 
             
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-            style="height: 65vh;background-image:url(https://img.freepik.com/free-photo/cloud-computing-network-connection-perforated-paper_53876-14267.jpg?t=st=1711629805~exp=1711633405~hmac=b537633db63c05c723dada2fd2e6e12299eb629e49c9fffc85f8195ffe587eb9&w=740)">
-            <div class="inteco-header-transparent-substitute"></div>
-            <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
-            <div class="inteco-blog-title-bottom-overlay"></div>
-            <div class="inteco-blog-title-container inteco-container">
-                <div class="inteco-blog-title-content inteco-item-pdlr" >
-                    <div class="inteco-page-title-container-about-our">
-                        <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                            <h1 class="inteco-page-title">Downloads</h1>
+                style="height: 65vh;background-image:url(https://img.freepik.com/free-photo/cloud-computing-network-connection-perforated-paper_53876-14267.jpg?t=st=1711629805~exp=1711633405~hmac=b537633db63c05c723dada2fd2e6e12299eb629e49c9fffc85f8195ffe587eb9&w=740)">
+                <div class="inteco-header-transparent-substitute"></div>
+                <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
+                <div class="inteco-blog-title-bottom-overlay"></div>
+                <div class="inteco-blog-title-container inteco-container">
+                    <div class="inteco-blog-title-content inteco-item-pdlr" >
+                        <div class="inteco-page-title-container-about-our">
+                            <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
+                                <h1 class="inteco-page-title">Downloads</h1>
+                            </div>
                         </div>
                     </div>
-                </div>
             </div>
                         
                     </div>
             <div class=" download-padding"  id="gdlr-core-wrapper-1">
-                <div class="gdlr-core-pbf-background-wrap"></div>
+                
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                         <div class="col-lg-4 col-md-5 col-sm-12 gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
@@ -64,132 +86,142 @@
                 </div>
             </div>
 
-        <!--documentation-->
-        <div class="card-section-for-download">
-            <h4>Stretch Ceiling:-</h4>
+            <div class="card-section-for-download">
+                <h3 class="text-center">Iceil Brochure</h3><br>
                 <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                    <a class="card" href="img/project-gallery/pics/01 (1).jpeg" download>
-                        <img  src="img/project-gallery/pics/01 (1).jpeg" alt="Card Background">
-                        <div title="click to download" class="overlay">
-                        <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
-                        </div>
-                    </a><br>
-                    <h5 class="text-center">PVC</h5>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                    <a class="card" href="img/project-gallery/pics/02a.jpg" download>
-                        <img src="img/project-gallery/pics/02a.jpg" alt="Card Background">
-                        <div title="click to download" class="overlay">
-                            <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
-                        </div>
-                    </a><br>
-                    <h5 class="text-center">Translucent</h5>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                    <a  class="card" href="img/project-gallery/pics/03.jpg" download>
-                        <img src="img/project-gallery/pics/03.jpg" alt="Card Background">
-                        <div title="click to download" class="overlay">
-                        <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
-                        </div>
-                    </a><br>
-                    <h5 class="text-center">Acoustic</h5>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                    <a  class="card" href="img/project-gallery/pics/01.jpg" download>
-                        <img src="img/project-gallery/pics/01.jpg" alt="Card Background">
-                        <div title="click to download" class="overlay">
-                        <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
-                        </div>
-                    </a><br>
-                    <h5 class="text-center">Printed</h5>
-                </div>
-                </div><br>
-            <h4>Wall Graphics:-</h4>
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                        <a class="card" href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-40.png" download>
-                        <img  src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-40.png" alt="Card Background">
-                        <div title="click to download" class="overlay">
-                            <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
-                        </div>
+                    <!--brochure one-->
+                    <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
+                        <h5>Corporate Brochure</h5>
+                        <a class="card" href="img/project-gallery/pics/01 (1).jpeg" download>
+                            <img src="img/project-gallery/pics/01 (1).jpeg" alt="Corporate Brochure">
                         </a><br>
-                        <h5 class="text-center">Custom</h5>
+                        <div class="input-button">
+                            <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#downloadModal">Download</button>
+                        </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                        <a class="card" href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-39.png" download>
-                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-39.png" alt="Card Background">
-                            <div title="click to download" class="overlay">
-                            <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
-                            </div>
+                    <!--brochure 2-->
+                    <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
+                        <h5>Lighting Brochure</h5>
+                        <a class="card" href="img/project-gallery/pics/02a.jpg" download>
+                            <img src="img/project-gallery/pics/02a.jpg" alt="Lighting Brochure">
                         </a><br>
-                        <h5 class="text-center">Textured</h5>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                    <a  class="card" href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-35.png" download>
-                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-35.png" alt="Card Background">
-                        <div title="click to download" class="overlay">
-                            <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
+                        <div class="input-button">
+                            <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#download2Modal" >Download</button>
                         </div>
-                    </a><br>
-                    <h5 class="text-center">3D</h5>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                    <a  class="card" href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-29.png" download>
-                        <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-29.png" alt="Card Background">
-                        <div title="click to download" class="overlay">
-                            <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
-                        </div>
-                    </a><br>
-                    <h5 class="text-center">Interactive</h5>
-                    </div>
-                </div><br>
-            <h4>Architectural Lighting:-</h4>
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                        <a class="card" href="img/project-gallery/stretch-ceiling-installation-1208x800-1.jpg" download>
-                        <img  src="img/project-gallery/stretch-ceiling-installation-1208x800-1.jpg" alt="Card Background">
-                        <div title="click to download" class="overlay">
-                            <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
-                        </div>
+                    <!--brochure 3-->
+                    <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
+                        <h5>Technical Spec</h5>
+                        <a class="card" href="img/project-gallery/pics/03.jpg" download>
+                            <img src="img/project-gallery/pics/03.jpg" alt="Technical Spec">
                         </a><br>
-                        <h5 class="text-center">LED</h5>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                        <a class="card" href="img/project-gallery/pics/badminton-court-stretch-ceiling (1).jpg" download>
-                            <img src="img/project-gallery/pics/badminton-court-stretch-ceiling (1).jpg" alt="Card Background">
-                            <div title="click to download" class="overlay">
-                            <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
-                            </div>
-                        </a><br>
-                        <h5 class="text-center">Custom</h5>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                    <a  class="card" href="img/project-gallery/pics/07 (1).jpg" download>
-                        <img src="img/project-gallery/pics/07 (1).jpg" alt="Card Background">
-                        <div title="click to download" class="overlay">
-                            <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
+                        <div class="input-button">
+                            <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#download3Modal">Download</button>
                         </div>
-                    </a><br>
-                    <h5 class="text-center">Spotlights</h5>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6 stretch-ceiling">
-                    <a  class="card" href="img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg" download>
-                        <img src="img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg" alt="Card Background">
-                        <div title="click to download" class="overlay">
-                            <p title="click to download">Stretch ceilings can conceal uneven or damaged ceiling surfaces, wiring, pipes, and other structural elements, providing a smooth and uniform appearance</p>
-                        </div>
-                    </a><br>
-                    <h5 class="text-center">Wall Washers</h5>
                     </div>
                 </div>
-        </div>    
-        <?php
-                   include "./shared/footer.php"
-                ?>
+            </div>
+
+<!-- Brochure section end-->
+
+<div id="toast-container"></div>
+<!-- Modal One-->
+<div class="modal fade" id="downloadModal" tabindex="-1" role="dialog" aria-labelledby="downloadModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="downloadModalLabel">Fill the form to get Brochure</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="brochureForm">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="nameone">Enter Name*</label>
+                        <input type="text" class="form-control" id="nameone" name="nameone" placeholder="Enter Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="emailone">Enter Email*</label>
+                        <input type="email" class="form-control" id="emailone" name="emailone" placeholder="Enter Your Email" required>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Send Corporate Brochure</button>
+                </div>
+            </form>
         </div>
     </div>
+</div>
+<!-- Modal 2-->
+<div class="modal fade" id="download2Modal" tabindex="-1" role="dialog" aria-labelledby="download2ModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="download2ModalLabel">Fill the form to get Brochure</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="brochuretwoForm">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="nametwo">Enter Name*</label>
+                        <input type="text" class="form-control" id="nametwo" name="nametwo" placeholder="Enter Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="emailtwo">Enter Email*</label>
+                        <input type="email" class="form-control" id="emailtwo" name="emailtwo" placeholder="Enter Your Email" required>
+                    </div>
+                    <input type="hidden" id="pdfFiletwo" name="pdfFiletwo">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Send Lighting Brochure's PDF</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- Modal 3-->
+<div class="modal fade" id="download3Modal" tabindex="-1" role="dialog" aria-labelledby="download3ModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="download3ModalLabel">Fill the form to get Brochure</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="brochurethreeForm">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="namethree">Enter Name*</label>
+                        <input type="text" class="form-control" id="namethree" name="namethree" placeholder="Enter Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="emailthree">Enter Email*</label>
+                        <input type="email" class="form-control" id="emailthree" name="emailthree" placeholder="Enter Your Email" required>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Send Technical Spec</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Modal end-->
+
+            
+        <?php
+            include "./shared/footer.php"
+        ?>
+        </div>
+    </div>
+        
     
-    <?php
-        include "./shared/script.php"
-    ?>
+    <!-- JavaScript to set download link -->
