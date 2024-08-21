@@ -83,7 +83,6 @@
 												</div>
 												<a class="mry-btn mry-default-link mry-anima-link" href="Translucent-Stretch-Ceilings">Click here</a>
 												<a class="mry-btn-text mry-default-link mry-anima-link" href="Home">Visit Website</a>
-
 											</div>
 										</div>
 									</div>
