@@ -40,8 +40,8 @@
                     <div class="d-none clients-section">
                         <h4 class="text-center">Our Clients</h4>
                         <div class="container-fluid">
-                            <div class="">
-                                <div class="">
+                            <div class="w-100">
+                                <div class="w-100">
                                     <div class="clients-container">
                                         <ul class="clients clients-border d-flex">
                                             <li><img alt="our project"  class="img-responsive" alt="Clients" src="img/client-logo/archinova.png">
@@ -217,138 +217,138 @@
                         <div class="container-fluid">
                             <div class="row bulkimages">
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/1.jpg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/1.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/2.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/2.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/3.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/3.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/4.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/4.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/5.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/5.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/6.jpg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/6.jpg" width="100%"> 
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/7.jpg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/7.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/8.jpg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/8.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/9.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/9.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/10.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/10.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/11.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/11.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/12.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/12.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/13.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/13.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/14.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/14.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/15.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/15.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/16.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/16.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/17.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/17.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/18.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/18.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/19.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/19.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/20.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/20.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/21.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/21.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/22.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/22.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/23.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/23.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/24.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/24.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/25.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/25.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/26.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/26.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/27.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/27.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
@@ -357,283 +357,283 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/29.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/29.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/30.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/30.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/31.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/31.jpeg" width="100%"> 
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/32.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/32.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/33.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/33.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/34.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/34.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/35.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/35.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/36.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/36.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/37.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/37.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/1.png">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/ourprojectsmissingimages/1.png" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/39.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/39.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/40.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/40.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/41.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/41.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/42.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/42.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/43.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/43.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/44.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/44.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/45.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/45.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/2.png">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/ourprojectsmissingimages/2.png" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/47.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/47.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/48.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/48.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/49.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/49.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/50.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/50.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/51.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/51.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/52.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/52.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/53.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/53.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/54.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/54.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/55.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/55.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/56.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/56.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/57.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/57.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/58.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/58.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/59.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/59.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/60.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/60.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/61.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/61.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/62.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/62.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/63.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/63.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/64.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/64.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/65.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/65.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/66.jpg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/66.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/3.png">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/ourprojectsmissingimages/3.png" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/68.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/68.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/69.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/69.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/70.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/70.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/71.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/71.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/72.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/72.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/73.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/73.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/74.jpg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/74.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/75.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/75.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/76.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/76.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/77.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/77.jpeg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/78.jpeg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/78.jpeg"width="100%" >
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/79.jpg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/79.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/80.jpg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/80.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/our-projects/81.jpg">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/our-projects/81.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/4.png">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/ourprojectsmissingimages/4.png" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/5.png">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/ourprojectsmissingimages/5.png" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/6.png">
+                                    <div class="w-100">
+                                        <img alt="our project"  src="images/ourprojectsmissingimages/6.png" width="100%">
                                     </div>
                                 </div>
 

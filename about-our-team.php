@@ -929,7 +929,8 @@
                                                                     </a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">
-                                                                    D.No.8-18, Nirmala Grand Function Hall, Near, 22/2, Kambham Choultry St, Mangalavaripeta, Rajamahendravaram,
+                                                                    D.No.8-18, Nirmala Grand Function Hall,
+                                                                    Rajamahendravaram,
 
                                                                     Rajahmundry,
                                                                     
