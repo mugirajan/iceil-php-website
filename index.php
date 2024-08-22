@@ -597,7 +597,7 @@
 						  <div class="d-flex justify-content-end">
                             <div class="static-section-logo " >
                                 <div class="social-links link1">
-                                    <a target="_blank" href="https://wa.me/918925530871">
+                                    <a target="_blank" href="https://wa.me/918925848069">
                                         <i class="fab fa-whatsapp"></i>
                                     </a>
                                 </div>

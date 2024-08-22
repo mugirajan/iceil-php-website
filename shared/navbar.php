@@ -42,7 +42,8 @@
 
                                         </li>
                                         <li class="menu-item "><a href="Downloads">Downloads</a>
-
+                                        </li>
+                                        <li class="menu-item "><a href="Gallery">Video Gallery</a>
                                         </li>
                                         
                                         <li class="menu-item menu-item-has-children"><a href="#"
@@ -185,6 +186,8 @@
                                         <li class="menu-item"><a href="Downloads"
                                                 class="mry-anima-link mry-default-link">Downloads</a></li>
 
+                                        <li class="menu-item"><a href="Gallery"
+                                                class="mry-anima-link mry-default-link">Video Gallery</a></li>
                                         
 
 
