@@ -80,7 +80,7 @@ class sndMail
         try {
 
             $mail->clearAddresses(); // Clear previous recipient
-            $mail->addAddress("mugirajan95@gmail.com"); // Admin's email address
+            $mail->addAddress("info@iceilsystems.com"); // Admin's email address
             $mail->Subject = "New enquiry - " . $data['name'];
             $mail->Body = "
                 Contact details:
@@ -155,7 +155,7 @@ class sndMail
         try {
 
             $mail->clearAddresses(); // Clear previous recipient
-            $mail->addAddress("mugirajan95@gmail.com"); // Admin's email address
+            $mail->addAddress("info@iceilsystems.com"); // Admin's email address
             $mail->Subject = "New enquiry from Franchise- " . $data['name'];
             $mail->Body = "
                 Contact details:
@@ -222,7 +222,7 @@ class sndMail
         try {
 
             $mail->clearAddresses(); // Clear previous recipient
-            $mail->addAddress("mugirajan95@gmail.com"); // Admin's email address
+            $mail->addAddress("info@iceilsystems.com"); // Admin's email address
             $mail->Subject = "New enquiry - " . $data['nameone'];
             $mail->Body = "Name: {$data['nameone']}\nNumber: {$data['telone']}\nEmail: {$data['emailone']}";
 
@@ -280,7 +280,7 @@ class sndMail
         try {
 
             $mail->clearAddresses(); // Clear previous recipient
-            $mail->addAddress("mugirajan95@gmail.com"); // Admin's email address
+            $mail->addAddress("info@iceilsystems.com"); // Admin's email address
             $mail->Subject = "New enquiry - " . $data['nametwo'];
             $mail->Body = "Name: {$data['nametwo']}\nNumber: {$data['teltwo']}\nEmail: {$data['emailtwo']}";
 
@@ -338,7 +338,7 @@ class sndMail
         try {
 
             $mail->clearAddresses(); // Clear previous recipient
-            $mail->addAddress("mugirajan95@gmail.com"); // Admin's email address
+            $mail->addAddress("info@iceilsystems.com"); // Admin's email address
             $mail->Subject = "New enquiry - " . $data['namethree'];
             $mail->Body = "Name: {$data['namethree']}\nNumber: {$data['telthree']}\nEmail: {$data['emailthree']}";
 
@@ -397,7 +397,7 @@ class sndMail
         try {
 
             $mail->clearAddresses(); // Clear previous recipient
-            $mail->addAddress("mugirajan95@gmail.com"); // Admin's email address
+            $mail->addAddress("info@iceilsystems.com"); // Admin's email address
             $mail->Subject = "New enquiry - " . $data['namefour'];
             $mail->Body = "Name: {$data['namefour']}\nNumber: {$data['telfour']}\nEmail: {$data['emailfour']}";
 
@@ -456,7 +456,7 @@ class sndMail
         try {
 
             $mail->clearAddresses(); // Clear previous recipient
-            $mail->addAddress("mugirajan95@gmail.com"); // Admin's email address
+            $mail->addAddress("info@iceilsystems.com"); // Admin's email address
             $mail->Subject = "New enquiry - " . $data['namefive'];
             $mail->Body = "Name: {$data['namefive']}\nNumber: {$data['telfive']}\nEmail: {$data['emailfive']}";
 

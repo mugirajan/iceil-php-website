@@ -95,31 +95,33 @@
                                         <img class="alignnone size-full wp-image-5803" src="img/light/iceil-logo-white.png"
                                             alt="logo" width="130" height="34">
                                     </div>
-                                    <h3 class="inteco-widget-title-footer">Quick Links</h3><span class="clear"></span>
                                     <div class="menu-services-container">
                                         <ul id="menu-services" class="menu">
                                             <li class="menu-item"><a href="Home">Home</a></li>
                                             <li class="menu-item"><a href="stretch-ceiling-manufacturer-india">Who We Are</a></li>
-                                            <li class="menu-item"><a href="Partners">Partner with us</a></li>
+                                            <li class="menu-item"><a href="Project">Our Project</a></li>
+                                            <li class="menu-item"><a href="Partners">Partner With Us</a></li>
                                             <li class="menu-item"><a href="Blogs">Blogs</a>
                                             </li>
                                             <li class="menu-item"><a href="ContactUs">Contact Us</a></li>
+                                            <li class="menu-item"><a href="Downloads">Downloads</a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                             <div class="inteco-footer-column-foo inteco-item-pdlr col-lg-3 col-md-6 col-sm-12 inteco-column-15 flex-for-footer">
                                 <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
+                                <li class="menu-item"><a href="Gallery">Video Gallery</a></li>
+
                                     <h3 class="inteco-widget-title-footer">Stretch Ceilings</h3><span class="clear"></span>
                                     <div class="menu-quick-links-container">
                                         <ul id="menu-quick-links" class="menu">
-                                            <li class="menu-item"><a href="Translucent-Stretch-Ceilings">Translucent Stretch Ceiling </a></li>
-                                            <li class="menu-item"><a href="Printed-Stretch-Ceilings">Printed Stretch Ceiling</a></li>
-                                            <li class="menu-item"><a href="RGB">RGB Dynamic Stretch Ceiling</a></li>
-                                            <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings">3D Forms Stretch Ceiling</a></li>
-                                            <li class="menu-item"><a href="Acoustic">Acoustic Stretch Ceiling</a></li>
-                                            <li class="menu-item"><a href="Lacquer-Ceilings">Lacquer Stretch Ceiling</a></li>
-                                            <li class="menu-item"><a href="Printed-Lacquer-Ceilings">Printed Lacquer Ceiling</a></li>
+                                            <li class="menu-item"><a href="Translucent-Stretch-Ceilings">Translucent </a></li>
+                                            <li class="menu-item"><a href="Printed-Stretch-Ceilings">Printed</a></li>
+                                            <li class="menu-item"><a href="RGB">RGB Dynamic </a></li>
+                                            <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings">3D Forms</a></li>
+                                            <li class="menu-item"><a href="Acoustic">Acoustic </a></li>
+                                            <li class="menu-item"><a href="Lacquer-Ceilings">Lacquer</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -127,17 +129,17 @@
                             <div class="inteco-footer-column-foo inteco-item-pdlr col-lg-3 col-md-6 col-sm-12 inteco-column-15 flex-for-footer">
                                 <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
                                         <ul id="menu-quick-links" class="menu">
-                                            <li class="menu-item"><a href="ArtPerforated">Art Perforated Ceiling</a></li>
-                                            <li class="menu-item"><a href="Mirror">Mirror Stretch Ceiling</a></li>
-                                            <li class="menu-item"><a href="Metal" style="color:white;font-size:17px;font-weight:700;">Metal Perforated Ceiling</a></li>
-                                            <li class="menu-item"><a href="Fabric-Light-Boxes" style="color:white;font-size:17px;font-weight:700;">Signage lightbox</a></li>
-                                            <li class="menu-item"><a href="3DWallGraphics" style="color:white;font-size:17px;font-weight:700;">Custom wall graphics</a></li>
+                                        <li class="menu-item"><a href="Printed-Lacquer-Ceilings">Printed Lacquer</a></li>
+                                            <li class="menu-item"><a href="ArtPerforated">Art Perforated</a></li>
+                                            <li class="menu-item"><a href="Mirror">Mirror</a></li>
+                                            <li class="menu-item"><a href="Metal" style="color:white;font-size:17px;font-weight:700;">Metal Perforated</a></li>
+                                            <li class="menu-item"><a href="Fabric-Light-Boxes" style="color:white;font-size:17px;font-weight:700;">Signage Lightbox</a></li>
+                                            <li class="menu-item"><a href="3DWallGraphics" style="color:white;font-size:17px;font-weight:700;">Custom Wall Graphics</a></li>
                                         </ul>
-                                    <h3 class="inteco-widget-title-footer">Architectural customised lighting</h3><span class="clear"></span>
+                                    <h3 class="inteco-widget-title-footer">Architectural Customised Lighting</h3><span class="clear"></span>
                                     <div class="menu-quick-links-container">
                                         <ul id="menu-quick-links" class="menu">
-                                            <li class="menu-item"><a href="Geometrical">Geometrical shape custom lighting</a></li>
-                                            <li class="menu-item"><a href="ARC">Iceil ARC / WAVE Linear</a></li>
+                                            <li class="menu-item"><a href="Geometrical">Geometrical Shape Lighting</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -146,9 +148,10 @@
                                 <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
                                     <div class="menu-quick-links-container">
                                         <ul id="menu-quick-links" class="menu">
-                                            <li class="menu-item"><a href="Surface">Iceil Surface / Suspended Linear</a></li>
-                                            <li class="menu-item"><a href="Curved">Iceil Curved Recessed Linear</a></li>
-                                            <li class="menu-item"><a href="Outward-Inward">Iceil Outward / Inward / Downward Linear</a></li>
+                                            <li class="menu-item"><a href="ARC">Iceil ARC / WAVE Linear Lighting</a></li>
+                                            <li class="menu-item"><a href="Surface">Iceil Surface / Suspended Linear Lighting</a></li>
+                                            <li class="menu-item"><a href="Curved">Iceil Curved Recessed Linear Lighting</a></li>
+                                            <li class="menu-item"><a href="Outward-Inward">Iceil Outward / Inward / Downward Linear Lighting</a></li>
                                         </ul>
                                     </div>
                                     <h3 class="inteco-widget-title-footer">Architect Area & Technical Infos</h3><span class="clear"></span>

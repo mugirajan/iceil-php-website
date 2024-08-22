@@ -50,23 +50,23 @@
                                                 class="mry-default-link">Stretch Ceilings</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="Translucent-Stretch-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Translucent Stretch ceiling </a></li>
+                                                        class="mry-anima-link mry-default-link">Translucent</a></li>
                                                 <li class="menu-item"><a href="Printed-Stretch-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Printed Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Printed</a></li>
                                                 <li class="menu-item"><a href="RGB"
-                                                        class="mry-anima-link mry-default-link">RGB Dynamic Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">RGB Dynamic</a></li>
                                                 <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings"
-                                                        class="mry-anima-link mry-default-link">3D Forms Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">3D Forms</a></li>
                                                 <li class="menu-item"><a href="Acoustic"
-                                                        class="mry-anima-link mry-default-link">Acoustic Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Acoustic</a></li>
                                                 <li class="menu-item"><a href="Lacquer-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Lacquer Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Lacquer </a></li>
                                                 <li class="menu-item"><a href="Printed-Lacquer-Ceilings"
                                                         class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
                                                 <li class="menu-item"><a href="ArtPerforated"
                                                         class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
                                                 <li class="menu-item"><a href="Mirror"
-                                                        class="mry-anima-link mry-default-link">Mirror Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Mirror</a></li>
                                                 <li class="d-none menu-item"><a href="Fabric-Light-Boxes"
                                                         class="mry-anima-link mry-default-link">Signage LightBox</a></li>
                                             </ul>
@@ -74,22 +74,22 @@
                                         <li class="menu-item"><a href="Metal"
                                                 class="mry-default-link">Metal Perforated Ceiling</a></li>
                                         <li class="menu-item menu-item-has-children"><a href="#"
-                                                class="mry-default-link">Architectural  lighting</a>
+                                                class="mry-default-link">Architectural customised lighting</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="Geometrical"
-                                                        class="mry-anima-link mry-default-link">Geometrical shape custom lighting</a>
+                                                        class="mry-anima-link mry-default-link">Geometrical shape Lighting</a>
                                                 </li>
                                                 <li class="menu-item"><a href="ARC"
-                                                        class="mry-anima-link mry-default-link">Iceil ARC / WAVE Linear</a>
+                                                        class="mry-anima-link mry-default-link">Iceil ARC / WAVE Linear Lighting</a>
                                                 </li>
                                                 <li class="menu-item"><a href="Surface"
-                                                        class="mry-anima-link mry-default-link">Iceil Surface / Suspended Linear</a>
+                                                        class="mry-anima-link mry-default-link">Iceil Surface / Suspended Linear Lighting</a>
                                                 </li>
                                                 <li class="menu-item"><a href="Curved"
-                                                        class="mry-anima-link mry-default-link">Iceil Curved Recessed Linear</a>
+                                                        class="mry-anima-link mry-default-link">Iceil Curved Recessed Linear Lighting</a>
                                                 </li>
                                                 <li class="menu-item"><a href="Outward-Inward"
-                                                        class="mry-anima-link mry-default-link">Iceil Outward / Inward / Downward Linear</a>
+                                                        class="mry-anima-link mry-default-link">Iceil Outward / Inward / Downward Linear Lighting</a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -203,47 +203,47 @@
                                                 class="mry-default-link">Stretch Ceilings</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="Translucent-Stretch-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Translucent Stretch ceiling </a></li>
+                                                        class="mry-anima-link mry-default-link">Translucent</a></li>
                                                 <li class="menu-item"><a href="Printed-Stretch-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Printed Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Printed </a></li>
                                                 <li class="menu-item"><a href="RGB"
-                                                        class="mry-anima-link mry-default-link">RGB Dynamic Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">RGB Dynamic </a></li>
                                                 <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings"
-                                                        class="mry-anima-link mry-default-link">3D Forms Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">3D Forms </a></li>
                                                 <li class="menu-item"><a href="Acoustic"
-                                                        class="mry-anima-link mry-default-link">Acoustic Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Acoustic</a></li>
                                                 <li class="menu-item"><a href="Lacquer-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Lacquer Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Lacquer </a></li>
                                                 <li class="menu-item"><a href="Printed-Lacquer-Ceilings"
                                                         class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
                                                 <li class="menu-item"><a href="ArtPerforated"
                                                         class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
                                                 <li class="menu-item"><a href="Mirror"
-                                                        class="mry-anima-link mry-default-link">Mirror Stretch Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Mirror</a></li>
                                                 <li class="d-none menu-item"><a href="Fabric-Light-Boxes"
                                                         class="mry-anima-link mry-default-link">Signage LightBox</a></li>
                                                 
                                             </ul>
                                         </li>
                                         <li class="menu-item"><a href="Metal"
-                                            class="mry-anima-link mry-default-link">Metal Perforated Ceiling</a> </li>
+                                            class="mry-anima-link mry-default-link">Metal Perforated</a> </li>
                                         <li class="menu-item menu-item-has-children"><a href="#"
-                                                class="mry-default-link">Architectural  lighting</a>
+                                                class="mry-default-link">Architectural customised lighting</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="Geometrical"
-                                                        class="mry-anima-link mry-default-link">Geometrical shape custom lighting</a>
+                                                        class="mry-anima-link mry-default-link">Geometrical shape Lighting</a>
                                                 </li>
                                                 <li class="menu-item"><a href="ARC"
-                                                        class="mry-anima-link mry-default-link">Iceil ARC / WAVE Linear</a>
+                                                        class="mry-anima-link mry-default-link">Iceil ARC / WAVE Linear Lighting</a>
                                                 </li>
                                                 <li class="menu-item"><a href="Surface"
-                                                        class="mry-anima-link mry-default-link">Iceil Surface / Suspended Linear</a>
+                                                        class="mry-anima-link mry-default-link">Iceil Surface / Suspended Linear Lighting</a>
                                                 </li>
                                                 <li class="menu-item"><a href="Curved"
-                                                        class="mry-anima-link mry-default-link">Iceil Curved Recessed Linear</a>
+                                                        class="mry-anima-link mry-default-link">Iceil Curved Recessed Linear Lighting</a>
                                                 </li>
                                                 <li class="menu-item"><a href="Outward-Inward"
-                                                        class="mry-anima-link mry-default-link">Iceil Outward / Inward / Downward Linear</a>
+                                                        class="mry-anima-link mry-default-link">Iceil Outward / Inward / Downward Linear Lighting</a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -287,12 +287,12 @@
                                         <div class="mry-mb-20">
                                             <div class="mry-label mry-mb-5">Email:</div>
                                             <a class="mry-text"
-                                                href="mailto:mireya.inbox@mail.com">mugirajan95@gmail.com</a>
+                                                href="mailto:mireya.inbox@mail.com">info@iceilsystems.com</a>
                                         </div>
                                         <div class="mry-mb-20">
                                             <div class="mry-label mry-mb-5">Phone:</div>
-                                            <a class="mry-text" href="#.">+91 89255 17107 / 17108 / 17109/ 17105 /
-                                                17106</a>
+                                            <a class="mry-text" href="#.">+91 8925848069
+                                                </a>
                                         </div>
                                     </div>
                                 </div>
