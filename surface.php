@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="surface linear lighting, suspended linear lighting, bendable linear fixtures, versatile lighting configurations, flexible lighting solutions, residential lighting, commercial lighting, office lighting, tailored lighting options, efficient linear lighting, adaptable ceiling fixtures">
-
+<title>Surface/Suspended Linear Lighting | Architectural lighting solutions</title>
+<meta name="description" content="Need surface or suspended linear lighting? Iceil offers top architectural lighting solutions. Contact us for premium stretch ceilings and expert lighting designs!">
 </head>
 
 <?php

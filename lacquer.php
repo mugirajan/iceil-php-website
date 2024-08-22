@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="Residence lacquer stretch ceiling, Wash Room lacquer stretch ceiling, lacquer stretch ceiling, glossy ceiling finish, reflective ceiling, modern ceiling design, upscale ceiling solutions, high-end residential ceilings, commercial ceilings, hospitality ceilings, durable ceiling materials, easy-to-maintain ceilings, luminous ceilings, sophisticated ceiling aesthetics">
-
+<title>Iceil Lacquer Stretch Ceiling | Lacquer Ceiling | Stretch Ceiling</title>
+<meta name="description" content="Are you in search of Stretch Ceiling India? Contact Iceil Systems for top-quality lacquer stretch ceilings. We are the the best Stretch Ceiling Supplier">
 </head>
 
 <?php

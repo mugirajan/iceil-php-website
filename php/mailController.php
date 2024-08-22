@@ -34,6 +34,14 @@ if (isset($_POST["type"])) {
             $res = $sm->brochurethreeRequest($_POST);
             break;
 
+        case "brochurefourForm":
+            $res = $sm->brochurefourRequest($_POST);
+            break;
+
+        case "brochurefiveForm":
+            $res = $sm->brochurefiveRequest($_POST);
+            break;
+
             
         default:
             $res["success"] = false;

@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="3D form stretch ceiling, multilevel framing structures, flexible ceiling materials, stretch film ceilings, printed film ceilings, illuminated stretch ceilings, custom ceiling designs, innovative architectural ceilings, textured ceilings, unique ceiling shapes, sculptural ceiling elements, geometric patterns, creative ceiling designs, personalized ceiling motifs, versatile ceiling solutions">
-
+<title>3D Forms Stretch Ceiling | 3d Stretch Ceiling Manufacturer | Iceil</title>
+<meta name="description" content="3D Forms Stretch ceiling are created by multilevel framing structures using the latest technologies to provide unique looks to your space.">
 </head>
 <?php
   include "./shared/navbar.php"

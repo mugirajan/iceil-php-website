@@ -1,7 +1,8 @@
 <?php
   include "./shared/header-top.php"
 ?>
-
+<title>Stretch Ceiling - Manufacturer & Supplier | Drives  and Controllers</title>
+<meta name="description" content="Leading Stretch Ceiling Manufacturer & Supplier | Premium quality stretch ceilings, drives, and controllers for innovative and stylish interior solutions.">
 </head>
 
 <?php

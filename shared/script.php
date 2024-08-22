@@ -65,7 +65,7 @@
     <script src="js/mailer.js"></script>
     <script src="js/mailHelper.js"></script>
     <script src="js/plugins.js"></script>
-    
+    <script src="js/api.js"></script>
     </body>
 
 </html>

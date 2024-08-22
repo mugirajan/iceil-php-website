@@ -2786,17 +2786,18 @@ form.contFrm {
 }
 
 .inptBtndiv {
-	height: 40px;
-	border: 0;
-	background: #21252999;
-	font-size: 14px;
-	color: #fff;
-	margin: auto;
-	letter-spacing: 1px;
-	cursor: pointer;
-	width: 100%;
-	max-width: 198px;
-	border-radius: 0.7rem;
+    height: 40px;
+    border: 0;
+    background: #21252999;
+    font-size: 14px;
+    color: #fff;
+    margin: auto;
+    letter-spacing: 1px;
+    cursor: pointer;
+    width: 100%;
+    max-width: 198px;
+    border-radius: 0.7rem;
+	margin-bottom: 0.5rem;
 }
 
 .inptBtndiv a {
@@ -2955,9 +2956,10 @@ form.contFrm {
 
 /*franchise enquiry form end*/
 
-.video-testi-section {
-	width: 80%;
-	margin: 0 auto;
+.video-testi-section{
+	padding: 0px 0px 50px;
+	width:80%;
+	margin:0 auto;
 	display: flex;
 	justify-content: center;
 	align-items: center;

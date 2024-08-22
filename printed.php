@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="printed stretch ceilings, digital printing ceilings, custom art ceilings, designer art ceilings, modern ceiling designs, stretch fabric ceiling installation, art and interior design, versatile ceiling solutions, famous artist reproductions, personalized ceiling art, functional ceiling design">
-
+<title>Printed Stretch Ceiling | Stretch Ceiling | Printed Ceilings</title>
+<meta name="description" content="Iceil Systems for the best printed stretch ceiling as we top the list of the Stretch Ceiling Suppliers in India. Get in touch with us to get more unique ideas.">
 </head>
 <?php
   include "./shared/navbar.php"

@@ -7,6 +7,7 @@ $(document).ready(function () {
             let name = $("#name").val();
             let email = $("#email").val();
             let phone = $("#phone").val();
+            let country = $("#country").val();
             let state = $("#state").val();
             let city = $("#city").val();
             let message = $("#message").val();
@@ -62,6 +63,7 @@ $(document).ready(function () {
                     email: email,
                     phone: phone,
                     message: message,
+                    country:country,
                     state:state,
                     city:city,
                     type: "contactForm"
@@ -101,6 +103,7 @@ $(document).ready(function () {
             let name = $("#name").val();
             let email = $("#email").val();
             let phone = $("#tel").val();
+            let country = $("#country").val();
             let state = $("#state").val();
             let city = $("#city").val();
             let message = $("#message").val();
@@ -156,6 +159,7 @@ $(document).ready(function () {
                     email: email,
                     phone: phone,
                     message: message,
+                    country:country,
                     state:state,
                     city:city,
                     type: "popupForm"
@@ -202,6 +206,7 @@ $(document).ready(function () {
             let phone = $("#phone").val();
             let state = $("#state").val();
             let city = $("#city").val();
+            let country = $("#country").val();
             let collaboration = $("#Collaboration").val();
             let message = $("#message").val();
             let isvalid = true;
@@ -264,6 +269,7 @@ $(document).ready(function () {
                     email: email,
                     phone: phone,
                     message: message,
+                    country: country,
                     state:state,
                     city:city,
                     collaboration: collaboration,
@@ -306,6 +312,7 @@ $(document).ready(function () {
             console.log("iopp");
             $(".text-danger").remove();
             let nameone = $("#nameone").val();
+            let telone = $("#telone").val();
             let emailone = $("#emailone").val();
             let isvalid = true;
 
@@ -333,6 +340,7 @@ $(document).ready(function () {
                 let formData = {
                     nameone: nameone,
                     emailone: emailone,
+                    telone: telone,
                     type: "brochureForm"
                 }
 
@@ -372,6 +380,7 @@ $(document).ready(function () {
 
             $(".text-danger").remove();
             let nametwo = $("#nametwo").val();
+            let teltwo = $("#teltwo").val();
             let emailtwo = $("#emailtwo").val();
             let isvalid = true;
 
@@ -398,6 +407,7 @@ $(document).ready(function () {
 
                 let formData = {
                     nametwo: nametwo,
+                    teltwo: teltwo,
                     emailtwo: emailtwo,
                     type: "brochuretwoForm"
                 }
@@ -439,6 +449,7 @@ $(document).ready(function () {
             console.log("iopp");
             $(".text-danger").remove();
             let namethree = $("#namethree").val();
+            let telthree = $("#telthree").val();
             let emailthree = $("#emailthree").val();
             let isvalid = true;
 
@@ -465,6 +476,7 @@ $(document).ready(function () {
 
                 let formData = {
                     namethree: namethree,
+                    telthree: telthree,
                     emailthree: emailthree,
                     type: "brochurethreeForm"
                 }
@@ -489,6 +501,213 @@ $(document).ready(function () {
                     error: function(params) {
                         showToast('Please fill all the field');
                         $("#brochurethreeForm")[0].reset();
+                        console.log("ERROR: ", params);
+                    }
+                })
+            }
+            else {
+                console.log("Please fill out all the required fields...!","error")
+            }
+            return false;
+        });
+        //brochure form end
+
+        //brochure 4 form start
+        $("#brochurefourForm").unbind("submit").bind("submit", function() {
+
+            console.log("iopp");
+            $(".text-danger").remove();
+            let namefour = $("#namefour").val();
+            let telfour = $("#telfour").val();
+            let emailfour = $("#emailfour").val();
+            let isvalid = true;
+
+            if(namefour == "") {
+                $("#namefour").after('<p class="text-danger"> Name field is required</p>');
+                $('#namefour').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#namefour").find('.text-danger').remove();
+                $("#namefour").closest('.form-group').addClass('has-success');
+            }	
+
+            if(emailfour == "") {
+                $("#emailfour").after('<p class="text-danger"> Email field is required</p>');
+                $('#emailfour').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#emailfour").find('.text-danger').remove();
+                $("#emailfour").closest('.form-group').addClass('has-success');
+            }	
+
+
+            if(isvalid != false) {
+
+                let formData = {
+                    namefour: namefour,
+                    telfour: telfour,
+                    emailfour: emailfour,
+                    type: "brochurefourForm"
+                }
+
+                $.ajax({
+                    url: "./php/mailController.php",
+                    data: formData,
+                    type: "post",
+                    dataType: "json",
+                    success: function(params) {
+                        if(params.success) {
+                            
+                            showToast('Form submitted successfully!', 'success');
+                            $("#brochurefourForm")[0].reset();
+                            $("#download4Modal").modal('hide');
+                        }
+                        else {
+                            showToast(`Error: ${params.message}`, 'error');
+                            $("#brochure4Form")[0].reset();
+                        }
+                    },
+                    error: function(params) {
+                        showToast('Please fill all the field');
+                        $("#brochurefourForm")[0].reset();
+                        console.log("ERROR: ", params);
+                    }
+                })
+            }
+            else {
+                console.log("Please fill out all the required fields...!","error")
+            }
+            return false;
+        });
+        //brochure form end
+        
+        //brochure 4 form start
+        $("#brochurefourForm").unbind("submit").bind("submit", function() {
+
+            console.log("iopp");
+            $(".text-danger").remove();
+            let namefour = $("#namefour").val();
+            let telfour = $("#telfour").val();
+            let emailfour = $("#emailfour").val();
+            let isvalid = true;
+
+            if(namefour == "") {
+                $("#namefour").after('<p class="text-danger"> Name field is required</p>');
+                $('#namefour').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#namefour").find('.text-danger').remove();
+                $("#namefour").closest('.form-group').addClass('has-success');
+            }	
+
+            if(emailfour == "") {
+                $("#emailfour").after('<p class="text-danger"> Email field is required</p>');
+                $('#emailfour').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#emailfour").find('.text-danger').remove();
+                $("#emailfour").closest('.form-group').addClass('has-success');
+            }	
+
+
+            if(isvalid != false) {
+
+                let formData = {
+                    namefour: namefour,
+                    telfour: telfour,
+                    emailfour: emailfour,
+                    type: "brochurefourForm"
+                }
+
+                $.ajax({
+                    url: "./php/mailController.php",
+                    data: formData,
+                    type: "post",
+                    dataType: "json",
+                    success: function(params) {
+                        if(params.success) {
+                            
+                            showToast('Form submitted successfully!', 'success');
+                            $("#brochurefourForm")[0].reset();
+                            $("#download4Modal").modal('hide');
+                        }
+                        else {
+                            showToast(`Error: ${params.message}`, 'error');
+                            $("#brochure4Form")[0].reset();
+                        }
+                    },
+                    error: function(params) {
+                        showToast('Please fill all the field');
+                        $("#brochurefourForm")[0].reset();
+                        console.log("ERROR: ", params);
+                    }
+                })
+            }
+            else {
+                console.log("Please fill out all the required fields...!","error")
+            }
+            return false;
+        });
+        //brochure form end
+
+        //brochure 5 form start
+        $("#brochurefiveForm").unbind("submit").bind("submit", function() {
+
+            console.log("iopp");
+            $(".text-danger").remove();
+            let namefive = $("#namefive").val();
+            let telfive = $("#telfive").val();
+            let emailfive = $("#emailfive").val();
+            let isvalid = true;
+
+            if(namefour == "") {
+                $("#namefive").after('<p class="text-danger"> Name field is required</p>');
+                $('#namefive').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#namefive").find('.text-danger').remove();
+                $("#namefive").closest('.form-group').addClass('has-success');
+            }	
+
+            if(emailfour == "") {
+                $("#emailfive").after('<p class="text-danger"> Email field is required</p>');
+                $('#emailfive').closest('.form-group').addClass('has-error');
+                isvalid = false
+            }	else {
+                $("#emailfive").find('.text-danger').remove();
+                $("#emailfive").closest('.form-group').addClass('has-success');
+            }	
+
+
+            if(isvalid != false) {
+
+                let formData = {
+                    namefive: namefive,
+                    telfive: telfive,
+                    emailfive: emailfive,
+                    type: "brochurefiveForm"
+                }
+
+                $.ajax({
+                    url: "./php/mailController.php",
+                    data: formData,
+                    type: "post",
+                    dataType: "json",
+                    success: function(params) {
+                        if(params.success) {
+                            
+                            showToast('Form submitted successfully!', 'success');
+                            $("#brochurefiveForm")[0].reset();
+                            $("#download5Modal").modal('hide');
+                        }
+                        else {
+                            showToast(`Error: ${params.message}`, 'error');
+                            $("#brochure5Form")[0].reset();
+                        }
+                    },
+                    error: function(params) {
+                        showToast('Please fill all the field');
+                        $("#brochurefiveForm")[0].reset();
                         console.log("ERROR: ", params);
                     }
                 })

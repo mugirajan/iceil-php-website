@@ -7,6 +7,8 @@
     lacquer stretch ceiling, decorative lighting, Modern stretch ceiling, backlit ceiling, Stretch Ceiling India, Stretch Ceiling Chennai, Stretch Ceiling Manufacturer in India,
     Stretch Ceiling Supplier, Stretch Ceiling Supplier India, Sky Ceiling, Printed Stretch Ceiling, Translucent Stretch Ceiling, Stretch Ceiling Manufacturer, Sky stretch ceiling india">
 </head>
+<title>Stretch Ceiling Manufacturer | Custom Architectural Lighting | Iceil</title>
+<meta name="description" content="Iceil Systems: Leading stretch ceiling manufacturer & custom architectural lighting, enhancing spaces with innovative design & quality craftsmanship">
 
 <?php
   include "./shared/navbar.php"
@@ -466,9 +468,9 @@
                     </div>
 
                     <!--stats start-->
-                    <section class="statistics-section">
-                        <div class="statistics-container">
-                            <div class="statistics-card row">
+                    <section class="statistics-section statis-section">
+                        <div class="statistics-container statis-container">
+                            <div class="statistics-card  stats-card row">
                                 <div class="statistics-type col-lg-6 col-md-6 col-sm-12">
                                     <h4 style="color:white">Our statistics</h4>
                                     <p>Being the best Stretch ceiling Manufacturer in India, We supply and install Stretch Ceilings projects across India.</p>

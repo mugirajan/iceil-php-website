@@ -1,7 +1,8 @@
 <?php
   include "./shared/header-top.php"
 ?>
-
+<title>Stretch Ceiling - Manufacturer & Supplier | Custom Architectural Lighting | Iceil Stretch Ceiling Blog</title>
+<meta name="description" content="Explore Iceil's stretch ceilings and custom lighting solutions. Discover expert tips and trends on our blog for innovative architectural design ideas.">
 </head>
 
 <body>
@@ -287,7 +288,7 @@
                                         <div class="mry-mb-20">
                                             <div class="mry-label mry-mb-5">Email:</div>
                                             <a class="mry-text"
-                                                href="mailto:mireya.inbox@mail.com">info@iceilsystems.com</a>
+                                                href="mailto:mireya.inbox@mail.com">mugirajan95@gmail.com</a>
                                         </div>
                                         <div class="mry-mb-20">
                                             <div class="mry-label mry-mb-5">Phone:</div>

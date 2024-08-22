@@ -2,7 +2,8 @@
   include "./shared/header-top.php"
 ?>
 <meta name="keywords" content="metal perforated illuminated ceiling, perforated metal panels, embedded lighting elements, ambient lighting ceilings, unique ceiling designs, commercial lighting solutions, office lighting, retail store ceilings, hospitality venue lighting, architectural detailing ceilings, visual interest ceilings, intricate patterns ceilings">
-
+<title>Metal Perforated Ceiling | Perforated Metal Ceiling | Metal Solutions</title>
+<meta name="description" content="Need metal perforated ceilings? Iceil Stretch Ceilings provides a one-stop solution for elegant and practical perforated metal ceiling designs.">
 </head>
 
 <?php

@@ -1,7 +1,8 @@
 <?php
   include "./shared/header-top.php"
 ?>
-
+<title>Iceil Stretch Ceiling Warrenty |Stretch Ceiling Manufacturer </title>
+<meta name="description" content="Looking for certified stretch ceilings with a warranty? Iceil provides top-quality stretch ceilings and customized lighting solutions that offer elegance and durability.">
 </head>
 <?php
   include "./shared/navbar.php"

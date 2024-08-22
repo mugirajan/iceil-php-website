@@ -33,28 +33,43 @@
                            
                             <form id="popupForm">
                                 <div class="modal-body">
-                                    <div class="form-group">
-                                        <label for="name">Enter Name*</label>
-                                        <input type="text" class="form-control" id="name" name="name" placeholder="Enter Your Name" required>
-                                    </div>
                                     <div class="row">
+                                        <div class="col-lg-6 col-sm-12  form-group">
+                                            <label for="name">Enter Name*</label>
+                                            <input type="text" class="form-control" id="name" name="name" placeholder="Enter Your Name" required>
+                                        </div>
                                         <div class="col-lg-6 col-sm-12 form-group">
                                             <label for="email">Enter Email*</label>
                                             <input type="email" class="form-control" id="email" name="email" placeholder="Enter Your Email" required>
                                         </div>
+                                    </div>
+                                    <div class="row">
                                         <div class="col-lg-6 col-sm-12 form-group">
                                             <label for="tel">Enter Phone NUmber*</label>
-                                            <input type="tel" class="form-control" id="tel" name="tel" placeholder="Enter Your Number" required>
+                                            <input type="tel" class="form-control" id="tel" name="tel" pattern="\d{10}" maxlength="14"  placeholder="Enter Your Number" required>
+                                        </div>
+                                        <div class="col-lg-6 col-sm-12 form-group">
+                                            <label for="country">Enter Country*</label>
+                                            <select class="form-control country" name="country"  id="country" required placeholder="country*">
+                                                    <option value="">Select Country</option>
+                                            </select>
+                                            <!-- <input type="text" class="form-control" id="country" name="country" placeholder="Enter Your country" required> -->
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-6 col-sm-12 form-group">
                                             <label for="state">Enter State*</label>
-                                            <input type="text" class="form-control" id="state" name="state" placeholder="Enter Your State" required>
+                                            <select class="form-control state" name="state" id="state" required placeholder="state*">
+                                                    <option value="">Select State</option>
+                                            </select>
+                                            <!-- <input type="text" class="form-control" id="state" name="state" placeholder="Enter Your State" required> -->
                                         </div>
                                         <div class="col-lg-6 col-sm-12 form-group">
                                             <label for="city">Enter City*</label>
-                                            <input type="text" class="form-control" id="city" name="city" placeholder="Enter Your City" required>
+                                            <select  class="form-control city" name="city" id="city" required placeholder="city*" >
+                                                <option value="">Select City</option>
+                                            </select> 
+                                            <!-- <input type="text" class="form-control" id="city" name="city" placeholder="Enter Your City" required> -->
                                         </div>
                                     </div>
                                     <div class="form-group">
@@ -186,7 +201,7 @@
                                     style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
                             </a>
                         </div>
-                        <div class="inteco-copyright-right inteco-item-pdlr">© Iceil Systems Pvt Ltd <a
+                        <div class="inteco-copyright-right inteco-item-pdlr">© Iceil Stretch Ceilings <a
                                 href="https://blackitechs.com/" target="_blank">Developed by Black I Technologies & Solutions</a>
                         </div>
                     </div>

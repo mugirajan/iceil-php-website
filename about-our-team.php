@@ -15,7 +15,8 @@
   Stretch Ceiling Uttarakhand, Stretch Ceiling West Bengal, Stretch Ceiling Andaman, Stretch Ceiling Jammu and Kashmir, Stretch Ceiling Ladakh,
   Stretch Ceiling Arunachal Pradesh ">
 </head>
-
+<title>Stretch ceiling Franchise | Franchise Opportunities | Iceil</title>
+<meta name="description" content="Explore franchise opportunities with Iceil's stretch ceiling solutions. Join a leading brand in innovative ceiling designs and expand your business potential.">
 <?php
   include "./shared/navbar.php"
 ?> 
@@ -47,16 +48,16 @@
                     <!--partner with us start-->
                     <section class="hero-team-section">
                         <div class="row">
-                            <div class="col-lg-6 div-of-hero">
+                            <div class="col-lg-8 col-sm-12 div-of-hero">
                                 <h3>Expand your possibilities through a defined relationship</h3>
                                 <p>At ICEIL, we believe in the power of collaboration and partnership to unlock new opportunities and drive mutual success. By joining forces with us, you can expand your possibilities and achieve your goals with confidence.</p>
                                 <div class="button-div-hero">
-                                    <button class="inptBtndiv"><a href="#collaboration">Partner collaboration</a></button>
-                                    <button class="inptBtndiv"><a href="#collaboration">Project collaboration</a></button>
+                                    <button class="inptBtndiv" onclick="setCollaborationType('Partner Collaboration')">Partner collaboration</button>
+                                    <button class="inptBtndiv" onclick="setCollaborationType('Project Collaboration')">Project collaboration</button>
                                 </div>
                             </div>
-                            <div class="col-lg-6">
-                            <img src="https://img.freepik.com/free-photo/two-businesspeople-shaking-hands-indoors_1423-209.jpg?w=740" alt="Hand Shaking">
+                            <div class="col-lg-4 col-sm-12">
+                            <img style="height:100%" src="https://img.freepik.com/free-photo/two-businesspeople-shaking-hands-indoors_1423-209.jpg?w=740" alt="Hand Shaking">
                             </div>
                         </div>
                     </section>
@@ -928,7 +929,8 @@
                                                                     </a></h3>
                                                                 <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
                                                                     style="font-size: 15px ;font-style: normal ;">
-                                                                    D.No.8-18, Nirmala Grand Function Hall, Near, 22/2, Kambham Choultry St, Mangalavaripeta, Rajamahendravaram,
+                                                                    D.No.8-18, Nirmala Grand Function Hall,
+                                                                    Rajamahendravaram,
 
                                                                     Rajahmundry,
                                                                     
@@ -979,7 +981,7 @@
                                                         <div class="gdlr-core-personnel-list clearfix">
                                                             <div
                                                                 class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover image-for-partner">
-                                                                <a><img src="img/photoshop-franchise/32.png" alt="Udaipur" width="600" height="auto"
+                                                                <a><img src="img/photoshop-franchise/roseeco.png" alt="Udaipur" width="600" height="auto"
                                                                         title="address" /></a>
                                                             </div>
                                                             <div class="gdlr-core-personnel-list-content-wrap">
@@ -1142,38 +1144,7 @@
                     </div>
                     <!--partner with us end-->
 
-                   <!--stats start-->
-                    <section class="statistics-section" style="margin:0 !important;">
-                        <div class="statistics-container">
-                            <div class="statistics-card row">
-                                <div class="statistics-type col-lg-6 col-md-6 col-sm-12">
-                                    <h4 style="color:white">Our statistics</h4>
-                                    <p>Being the best Stretch ceiling Manufacturer in India, We supply and install Stretch Ceilings projects across India.</p>
-                                    <button class="read-more-btn"><a href="stretch-ceiling-manufacturer-india"
-                                        style="color: #ffffff;">Read More</a></button>
-                                </div>
-                                <div class="statistics-stats col-lg-6 col-md-6 col-sm-12">
-                                    <div class="statistics-clientrev">
-                                        <span>500+</span>
-                                        <p>Happy Clients</p>
-                                    </div>
-                                    <div class="statistics-adspend">
-                                        <span>20+</span>
-                                        <p>Products</p>
-                                    </div>
-                                    <div class="statistics-maus">
-                                        <span>1500+</span>
-                                        <p>Projects</p>
-                                    </div>
-                                    <div class="statistics-roi">
-                                        <span>35+</span>
-                                        <p>channal partners</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <!--stats end-->
+                  
 
                     <!--testi video start-->
                     
@@ -1186,7 +1157,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-8">
-                                <a href="https://www.youtube.com/playlist?list=PL2wd3eKmgLLPZxWACJPO3sG8UtAYTzPeA" target="_blank">
+                                <a href="https://www.youtube.com/@Iceilstretchceiling" target="_blank">
                                     <img style="width:100%" src="img/photoshop-franchise/franchise.jpg" alt="Video Poster" style="height: auto;">
                                 </a>
                             </div>
@@ -1208,13 +1179,12 @@
 
                                     <li>
                                     <i class="fa fa-phone"></i>
-                                    <a href="tel:918925517107"><b>89255 17107</b></a>,
-                                    <a href="tel:918925517108"><b>89255 17108</b></a>
+                                    <a href="tel:8925848069"><b>89258 48069</b></a>
                                     </li>
 
                                     <li>
                                     <i class="fas fa-envelope"></i>
-                                    <a href="mailto:info@iceilsystems.com"><b>info@iceilsystems.com</b></a>
+                                    <a href="mailto:mugirajan95@gmail.com"><b>mugirajan95@gmail.com</b></a>
                                     </li>
                                 </ul>
 
@@ -1225,7 +1195,7 @@
                                 <div id="toast-container"></div>
                                 <form id="franchiseForm"  class="contFrm" method="POST">
                                     <div class="row form-group">
-                                        <div class="col-sm-6">
+                                        <div class="col-sm-12">
                                         <input class="form-control inptFld" id="name" name="name" placeholder="Name*" type="text" required />
                                         </div>
 
@@ -1234,23 +1204,30 @@
                                         </div>
 
                                         <div class="col-sm-6">
-                                        <input class="form-control inptFld" type="tel" name="phone" id="phone" placeholder="Phone Number*"  required />
+                                        <input class="form-control inptFld" type="tel" name="phone" maxlength="14" pattern="[0-9]{10}" inputmode="numeric"  id="phone" placeholder="Phone Number*"  required />
                                         </div>
 
                                         <div class="col-sm-6">
-                                        <input class="form-control inptFld" type="text" name="state"  id="state" placeholder="State*"  required />
-                                        </div>
-
-                                        <div class="col-sm-6">
-                                        <input class="form-control inptFld" type="text" name="city" id="city" placeholder="City*"  required />
-                                        </div>
-
-                                        <div class="col-sm-6">
-                                            <select class="form-control inptFld" name="collaboration" id="Collaboration" required>
-                                                <option value="" disabled selected>Select Collaboration Type*</option>
-                                                <option value="Project Collaboration">Project Collaboration</option>
-                                                <option value="Partner Collaboration">Partner Collaboration</option>
+                                            <select class="form-control inptFld country" name="country"  id="country" required placeholder="country*">
+                                                <option value="">Select Country</option>
                                             </select>
+                                        </div>
+
+                                        <div class="col-sm-6">
+                                            <select class="form-control inptFld state" name="state" id="state" required placeholder="state*">
+                                                    <option value="">Select State</option>
+                                            </select>
+                                        </div>
+
+                                        <div class="col-sm-6">
+                                            <select  class="form-control inptFld city" name="city" id="city" required placeholder="city*" >
+                                                <option value="">Select City</option>
+                                            </select> 
+                                        </div>
+
+
+                                        <div class="col-sm-6">
+                                            <input type="text" class="form-control inptFld" name="collaboration" id="Collaboration" placeholder="Collaboration Type*" readonly>
                                         </div>
 
                                         <div class="col-12">
@@ -1307,6 +1284,13 @@ for (const track of tracks) {
         document.getElementById('videoIframe').src += "?autoplay=1";
     });
 </script>
+    <script>
+       function setCollaborationType(type) {
+            document.getElementById('Collaboration').value = type;
+
+            document.getElementById('collaboration').scrollIntoView({ behavior: 'smooth' });
+        }
+    </script>
     <?php
         include "./shared/script.php"
     ?>
