@@ -310,6 +310,7 @@ h6 {
 	.mry-label,
 	.mry-subtitle {
 		font-size: 10px;
+		color:black !important;
 	}
 }
 
@@ -399,7 +400,7 @@ h6 {
 	letter-spacing: 1.5px;
 }
 .mry-btn-text-white {
-	color: #fff !important;
+	color: #fff ;
 }
 
 .mry-btn:hover,
@@ -1191,7 +1192,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	}
 
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title h1 {
-		font-size: 25px !important;
+		font-size: 25px;
 	}
 }
 
@@ -1239,7 +1240,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title {
 		margin-left: -15px;
 		padding: 50px;
-		background-color: #f7f8fa;
+		background-color: white;
 		width: 111%;
 		max-width: 430px;
 	}
@@ -1247,7 +1248,8 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title h1 {
 		position: relative;
 		overflow: hidden;
-		font-size: 32px;
+		font-size: 26px;
+		color:black;
 		line-height: 38px;
 		font-weight: 900;
 		letter-spacing: -1px;
@@ -1313,8 +1315,8 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	z-index: 9;
 	bottom: 0;
 	left: 0;
-	height: 100px;
-	width: 100vw;
+	/* height: 100px;
+	width: 100vw; */
 }
 
 .mry-slider-progress-bar-frame {
@@ -1471,6 +1473,33 @@ html.is-animating .transition-fade .mry-loading-curtain {
 
 	.mry-project-slider-item .mry-main-title {
 		padding-bottom: 80px !important;
+	}
+}
+@media(max-width:600px){
+	.mry-main-title{
+		transform: translate3d(0%, 0%, 0px) !important;
+	}
+	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title {
+		background-color: white;
+		font-size: 21px !important;
+		line-height: 25px !important;
+	}
+	.mry-btn-text-white {
+		color: black!important;
+	}
+	.heading-land h1{
+		color:black !important;
+		font-size: 17px !important;
+		line-height: 25px !important;
+	}
+	.mry-subtitle{
+		font-size: 7px;
+		color: #0e0e0e;
+	}
+}
+@media(min-width:700px){
+	.mry-main-title{
+		transform: translate3d(0%, 175%, 0px);
 	}
 }
 
@@ -3022,9 +3051,7 @@ form.contFrm {
 
 
 /* mry customization */
-.mry-main-title {
-    transform: translate3d(0%, 175%, 0px) !important;
-}
+
 .inteco-body h1 {
 	color: #fff;
 }
