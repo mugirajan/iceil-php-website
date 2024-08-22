@@ -234,10 +234,10 @@
 	var progressbar = $(".mry-slider-progress-bar");
 
 	var swiper = new Swiper(".mry-main-slider", {
-		autoplay: {
-			delay: 10000,
-			disableOnInteraction: false
-		},
+		// autoplay: {
+		// 	delay: 10000,
+		// 	disableOnInteraction: false
+		// },
 		loop: true,
 		parallax: true,
 		mousewheel: true,
@@ -247,8 +247,8 @@
 		keyboard: true,
 		speed: 1200,
 		navigation: {
-			nextEl: '.mry-button-next',
-			prevEl: '.mry-button-prev',
+			nextEl: '.mry-button-next1',
+			prevEl: '.mry-button-prev1',
 		},
 		pagination: {
 			el: '.mry-slider-pagination',
@@ -590,45 +590,45 @@
 
 		var progressbar = $(".mry-slider-progress-bar");
 
-		var swiper = new Swiper(".mry-main-slider", {
-			autoplay: {
-				delay: 10000,
-				disableOnInteraction: false
-			},
-			spaceBetween: 0,
-			loop: true,
-			parallax: true,
-			mousewheel: true,
-			mousewheel: {
-				releaseOnEdges: true,
-			},
-			keyboard: true,
-			speed: 1200,
-			navigation: {
-				nextEl: '.mry-button-next',
-				prevEl: '.mry-button-prev',
-			},
-			pagination: {
-				el: '.mry-slider-pagination',
-				clickable: true,
-			},
-			on: {
-				init: function () {
-					progressbar.removeClass("animate");
-					progressbar.removeClass("active");
-					progressbar.eq(0).addClass("animate");
-					progressbar.eq(0).addClass("active");
-				},
-				slideChangeTransitionStart: function () {
-					progressbar.removeClass("animate");
-					progressbar.removeClass("active");
-					progressbar.eq(0).addClass("active");
-				},
-				slideChangeTransitionEnd: function () {
-					progressbar.eq(0).addClass("animate");
-				}
-			}
-		});
+		// var swiper = new Swiper(".mry-main-slider", {
+		// 	autoplay: {
+		// 		delay: 10000,
+		// 		disableOnInteraction: false
+		// 	},
+		// 	spaceBetween: 0,
+		// 	loop: true,
+		// 	parallax: true,
+		// 	mousewheel: true,
+		// 	mousewheel: {
+		// 		releaseOnEdges: true,
+		// 	},
+		// 	keyboard: true,
+		// 	speed: 1200,
+		// 	navigation: {
+		// 		nextEl: '.mry-button-next1',
+		// 		prevEl: '.mry-button-prev1',
+		// 	},
+		// 	pagination: {
+		// 		el: '.mry-slider-pagination',
+		// 		clickable: true,
+		// 	},
+		// 	on: {
+		// 		init: function () {
+		// 			progressbar.removeClass("animate");
+		// 			progressbar.removeClass("active");
+		// 			progressbar.eq(0).addClass("animate");
+		// 			progressbar.eq(0).addClass("active");
+		// 		},
+		// 		slideChangeTransitionStart: function () {
+		// 			progressbar.removeClass("animate");
+		// 			progressbar.removeClass("active");
+		// 			progressbar.eq(0).addClass("active");
+		// 		},
+		// 		slideChangeTransitionEnd: function () {
+		// 			progressbar.eq(0).addClass("animate");
+		// 		}
+		// 	}
+		// });
 
 		var swiper = new Swiper(".mry-team-slider", {
 			slidesPerView: 3,
