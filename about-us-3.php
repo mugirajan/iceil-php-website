@@ -361,7 +361,43 @@
                     </section>
                     <!-- End Team Section -->
 
-                    <!-- Management Showcase Vivek and Raj end -->
+                    <!--stats start-->
+                    <section class="statistics-section" style="margin:0 !important;">
+                        <div class="statistics-container row">
+                            <div class="col-lg-6 col-md-6 col-sm-12" style="padding-right:0px">
+                                <div class="statistics-card">
+                                    <div class="statistics-stats">
+                                        <div class="statistics-clientrev">
+                                            <span>500+</span>
+                                            <p>Happy Clients</p>
+                                        </div>
+                                        <div class="statistics-adspend">
+                                            <span>20+</span>
+                                            <p>Products</p>
+                                        </div>
+                                        <div class="statistics-maus">
+                                            <span>1500+</span>
+                                            <p>Projects</p>
+                                        </div>
+                                        <div class="statistics-roi">
+                                            <span>35+</span>
+                                            <p>channal partners</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="connect-withus-section col-lg-6 col-md-6 col-sm-12" style="padding-left:0px">
+                                <div class="connect-withus-div">
+                                    <h4>Connect With Us</h4>
+                                    <p>Ready to take the next step? Connect with us today by filling out the form on our Contact page. Whether you have questions, feedback, or want to discuss collaboration opportunities, we're here to help. Let's start the conversation and work together towards your goals. Reach out now and let's make things happen!</p>                           
+                                    <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;text-transform: none ;display:flex;justify-content:flex-end;">
+                                        <button class="read-more-btn" style="border-radius:0.5rem"><a style="color:white" href="ContactUs">Click here</a></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <!--stats end-->
 
                     <!--why choose us start-->
                     <div class="y-us-section">
@@ -711,7 +747,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="gdlr-core-pbf-wrapper " style="margin-top:50px;padding: 100px 0px 30px 0px;max-width: 1320px ;" id="gdlr-core-wrapper-6">
+                    <div class="d-none gdlr-core-pbf-wrapper " style="margin-top:50px;padding: 100px 0px 30px 0px;max-width: 1320px ;" id="gdlr-core-wrapper-6">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-wrapper-bg-overlay gdlr-core-pos-left " style="background-image: url(img/project-gallery/Stretch-Ceilings-Ltd_RFU-2104_1000x667.jpg) ;background-position:center;margin-right: -540px;margin-bottom: 110px;margin-left: -600px;"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">

@@ -284,7 +284,7 @@
                                         <div class="mry-mb-20">
                                             <div class="mry-label mry-mb-5">Email:</div>
                                             <a class="mry-text"
-                                                href="mailto:mireya.inbox@mail.com">info@iceilsystems.com</a>
+                                                href="mailto:mireya.inbox@mail.com">mugirajan95@gmail.com</a>
                                         </div>
                                         <div class="mry-mb-20">
                                             <div class="mry-label mry-mb-5">Phone:</div>

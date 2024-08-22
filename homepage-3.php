@@ -468,9 +468,9 @@
                     </div>
 
                     <!--stats start-->
-                    <section class="statistics-section">
-                        <div class="statistics-container">
-                            <div class="statistics-card row">
+                    <section class="statistics-section statis-section">
+                        <div class="statistics-container statis-container">
+                            <div class="statistics-card  stats-card row">
                                 <div class="statistics-type col-lg-6 col-md-6 col-sm-12">
                                     <h4 style="color:white">Our statistics</h4>
                                     <p>Being the best Stretch ceiling Manufacturer in India, We supply and install Stretch Ceilings projects across India.</p>

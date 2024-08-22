@@ -52,8 +52,8 @@
                                 <h3>Expand your possibilities through a defined relationship</h3>
                                 <p>At ICEIL, we believe in the power of collaboration and partnership to unlock new opportunities and drive mutual success. By joining forces with us, you can expand your possibilities and achieve your goals with confidence.</p>
                                 <div class="button-div-hero">
-                                    <button class="inptBtndiv"><a href="#collaboration">Partner collaboration</a></button>
-                                    <button class="inptBtndiv"><a href="#collaboration">Project collaboration</a></button>
+                                    <button class="inptBtndiv" onclick="setCollaborationType('Partner Collaboration')">Partner collaboration</button>
+                                    <button class="inptBtndiv" onclick="setCollaborationType('Project Collaboration')">Project collaboration</button>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-sm-12">
@@ -1144,38 +1144,7 @@
                     </div>
                     <!--partner with us end-->
 
-                   <!--stats start-->
-                    <section class="statistics-section" style="margin:0 !important;">
-                        <div class="statistics-container">
-                            <div class="statistics-card row">
-                                <div class="statistics-type col-lg-6 col-md-6 col-sm-12">
-                                    <h4 style="color:white">Our statistics</h4>
-                                    <p>Being the best Stretch ceiling Manufacturer in India, We supply and install Stretch Ceilings projects across India.</p>
-                                    <button class="read-more-btn"><a href="stretch-ceiling-manufacturer-india"
-                                        style="color: #ffffff;">Read More</a></button>
-                                </div>
-                                <div class="statistics-stats col-lg-6 col-md-6 col-sm-12">
-                                    <div class="statistics-clientrev">
-                                        <span>500+</span>
-                                        <p>Happy Clients</p>
-                                    </div>
-                                    <div class="statistics-adspend">
-                                        <span>20+</span>
-                                        <p>Products</p>
-                                    </div>
-                                    <div class="statistics-maus">
-                                        <span>1500+</span>
-                                        <p>Projects</p>
-                                    </div>
-                                    <div class="statistics-roi">
-                                        <span>35+</span>
-                                        <p>channal partners</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <!--stats end-->
+                  
 
                     <!--testi video start-->
                     
@@ -1215,7 +1184,7 @@
 
                                     <li>
                                     <i class="fas fa-envelope"></i>
-                                    <a href="mailto:info@iceilsystems.com"><b>info@iceilsystems.com</b></a>
+                                    <a href="mailto:mugirajan95@gmail.com"><b>mugirajan95@gmail.com</b></a>
                                     </li>
                                 </ul>
 
@@ -1226,7 +1195,7 @@
                                 <div id="toast-container"></div>
                                 <form id="franchiseForm"  class="contFrm" method="POST">
                                     <div class="row form-group">
-                                        <div class="col-sm-6">
+                                        <div class="col-sm-12">
                                         <input class="form-control inptFld" id="name" name="name" placeholder="Name*" type="text" required />
                                         </div>
 
@@ -1235,53 +1204,30 @@
                                         </div>
 
                                         <div class="col-sm-6">
-                                        <input class="form-control inptFld" type="tel" name="phone" maxlength="14"  id="phone" placeholder="Phone Number*"  required />
+                                        <input class="form-control inptFld" type="tel" name="phone" maxlength="14" pattern="[0-9]{10}" inputmode="numeric"  id="phone" placeholder="Phone Number*"  required />
                                         </div>
 
                                         <div class="col-sm-6">
-                                            <select class="form-control inptFld" name="state"  id="state" required>
-                                                <option value="" disabled selected>Select state</option>
-                                                <option value="Andhra Pradesh">Andhra Pradesh</option>
-                                                <option value="Arunachal Pradesh">Arunachal Pradesh</option>
-                                                <option value="Assam">Assam</option>
-                                                <option value="Bihar">Bihar</option>
-                                                <option value="Chhattisgarh">Chhattisgarh</option>
-                                                <option value="Goa">Goa</option>
-                                                <option value="Gujarat">Gujarat</option>
-                                                <option value="Haryana">Haryana</option>
-                                                <option value="Himachal Pradesh">Himachal Pradesh</option>
-                                                <option value="Jharkhand">Jharkhand</option>
-                                                <option value="Karnataka">Karnataka</option>
-                                                <option value="Kerala">Kerala</option>
-                                                <option value="Madhya Pradesh">Madhya Pradesh</option>
-                                                <option value="Maharashtra">Maharashtra</option>
-                                                <option value="Manipur">Manipur</option>
-                                                <option value="Meghalaya">Meghalaya</option>
-                                                <option value="Mizoram">Mizoram</option>
-                                                <option value="Nagaland">Nagaland</option>
-                                                <option value="Odisha">Odisha</option>
-                                                <option value="Punjab">Punjab</option>
-                                                <option value="Rajasthan">Rajasthan</option>
-                                                <option value="Sikkim">Sikkim</option>
-                                                <option value="Tamil Nadu">Tamil Nadu</option>
-                                                <option value="Telangana">Telangana</option>
-                                                <option value="Tripura">Tripura</option>
-                                                <option value="Uttar Pradesh">Uttar Pradesh</option>
-                                                <option value="Uttarakhand">Uttarakhand</option>
-                                                <option value="West Bengal">West Bengal</option>
+                                            <select class="form-control inptFld country" name="country"  id="country" required placeholder="country*">
+                                                <option value="">Select Country</option>
                                             </select>
                                         </div>
 
                                         <div class="col-sm-6">
-                                        <input class="form-control inptFld" type="text" name="city" id="city" placeholder="City*"  required />
+                                            <select class="form-control inptFld state" name="state" id="state" required placeholder="state*">
+                                                    <option value="">Select State</option>
+                                            </select>
                                         </div>
 
                                         <div class="col-sm-6">
-                                            <select class="form-control inptFld" name="collaboration" id="Collaboration" required>
-                                                <option value="" disabled selected>Select Collaboration Type*</option>
-                                                <option value="Project Collaboration">Project Collaboration</option>
-                                                <option value="Partner Collaboration">Partner Collaboration</option>
-                                            </select>
+                                            <select  class="form-control inptFld city" name="city" id="city" required placeholder="city*" >
+                                                <option value="">Select City</option>
+                                            </select> 
+                                        </div>
+
+
+                                        <div class="col-sm-6">
+                                            <input type="text" class="form-control inptFld" name="collaboration" id="Collaboration" placeholder="Collaboration Type*" readonly>
                                         </div>
 
                                         <div class="col-12">
@@ -1338,6 +1284,13 @@ for (const track of tracks) {
         document.getElementById('videoIframe').src += "?autoplay=1";
     });
 </script>
+    <script>
+       function setCollaborationType(type) {
+            document.getElementById('Collaboration').value = type;
+
+            document.getElementById('collaboration').scrollIntoView({ behavior: 'smooth' });
+        }
+    </script>
     <?php
         include "./shared/script.php"
     ?>

@@ -78,7 +78,7 @@ RewriteRule ^acoustics-stretch-ceiling?$ acoustics-stretch-ceiling.php
 RewriteRule ^lacquer-ceiling-in-india?$ lacquer-ceiling-in-india.php
 
 
-
+RewriteRule ^siteMap?$ sitemap.php
 
 
 

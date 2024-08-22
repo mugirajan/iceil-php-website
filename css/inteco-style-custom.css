@@ -264,7 +264,7 @@ body.inteco-boxed .inteco-body-wrapper, .gdlr-core-page-builder .gdlr-core-page-
 .inteco-body a{ color: #3d3d3d; } 
 .inteco-body a:hover{ color: #606060; } 
 .inteco-body *{ border-color: #e6e6e6; }.inteco-body .gdlr-core-portfolio-single-nav-wrap{ border-color: #e6e6e6; }.gdlr-core-columnize-item .gdlr-core-columnize-item-content{ column-rule-color: #e6e6e6; -moz-column-rule-color: #e6e6e6; -webkit-column-rule-color: #e6e6e6; } 
-.inteco-body input, .inteco-body textarea{ background-color: #f3f3f3; } 
+.inteco-body input, .inteco-body textarea, .inteco-body select{ background-color: #f3f3f3; } 
 .inteco-body input, .inteco-body textarea{ border-color: #e0e0e0; } 
 .inteco-body input, .inteco-body textarea{ color: #4e4e4e; } 
 .inteco-body ::-webkit-input-placeholder{  color: #5e5e5e; }.inteco-body ::-moz-placeholder{  color: #5e5e5e; }.inteco-body :-ms-input-placeholder{  color: #5e5e5e; }.inteco-body :-moz-placeholder{  color: #5e5e5e; } 

@@ -7,6 +7,7 @@ $(document).ready(function () {
             let name = $("#name").val();
             let email = $("#email").val();
             let phone = $("#phone").val();
+            let country = $("#country").val();
             let state = $("#state").val();
             let city = $("#city").val();
             let message = $("#message").val();
@@ -62,6 +63,7 @@ $(document).ready(function () {
                     email: email,
                     phone: phone,
                     message: message,
+                    country:country,
                     state:state,
                     city:city,
                     type: "contactForm"
@@ -101,6 +103,7 @@ $(document).ready(function () {
             let name = $("#name").val();
             let email = $("#email").val();
             let phone = $("#tel").val();
+            let country = $("#country").val();
             let state = $("#state").val();
             let city = $("#city").val();
             let message = $("#message").val();
@@ -156,6 +159,7 @@ $(document).ready(function () {
                     email: email,
                     phone: phone,
                     message: message,
+                    country:country,
                     state:state,
                     city:city,
                     type: "popupForm"
@@ -202,6 +206,7 @@ $(document).ready(function () {
             let phone = $("#phone").val();
             let state = $("#state").val();
             let city = $("#city").val();
+            let country = $("#country").val();
             let collaboration = $("#Collaboration").val();
             let message = $("#message").val();
             let isvalid = true;
@@ -264,6 +269,7 @@ $(document).ready(function () {
                     email: email,
                     phone: phone,
                     message: message,
+                    country: country,
                     state:state,
                     city:city,
                     collaboration: collaboration,

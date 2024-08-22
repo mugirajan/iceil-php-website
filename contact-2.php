@@ -101,68 +101,49 @@ margin-bottom:20px;
                                                         <div id="toast-container"></div>
                                                         <form id="contactForm" class="contact-form">
                                                             <div class="row">
-                                                                <div class="col-lg-12">
+                                                                <div class="col-lg-6">
                                                                     <div class="form-group">
                                                                         <input class="form-control" id="name" name="name" placeholder="Name*" type="text" required>
                                                                         <span class="alert-error"></span>
                                                                     </div>
                                                                 </div>
-                                                            </div>
-                                                            <div class="row">
                                                                 <div class="col-lg-6">
                                                                     <div class="form-group">
                                                                         <input class="form-control" id="email" name="email" placeholder="Email*" type="email"  required>
                                                                         <span class="alert-error"></span>
                                                                     </div>
                                                                 </div>
+                                                            </div>
+                                                            <div class="row">
                                                                 <div class="col-lg-6">
                                                                     <div class="form-group">
                                                                         <input class="form-control" id="phone" name="phone" placeholder="Phone*" type="text" required>
                                                                         <span class="alert-error"></span>
                                                                     </div>
                                                                 </div>
+                                                                <div class="col-lg-6">
+                                                                    <div class="form-group">
+                                                                        <select class="contactusselect form-control country" name="country"  id="country" required placeholder="country*">
+                                                                            <option value="">Select Country</option>
+                                                                        </select>
+                                                                        <span class="alert-error"></span>
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                             <div class="row">
                                                                 <div class="col-lg-6">
-                                                                    <div class="form-group">
-                                                                        <select class="form-control" name="state"  id="state" required placeholder="state*">
-                                                                            <option value="" disabled selected>Select state*</option>
-                                                                            <option value="Andhra Pradesh">Andhra Pradesh</option>
-                                                                            <option value="Arunachal Pradesh">Arunachal Pradesh</option>
-                                                                            <option value="Assam">Assam</option>
-                                                                            <option value="Bihar">Bihar</option>
-                                                                            <option value="Chhattisgarh">Chhattisgarh</option>
-                                                                            <option value="Goa">Goa</option>
-                                                                            <option value="Gujarat">Gujarat</option>
-                                                                            <option value="Haryana">Haryana</option>
-                                                                            <option value="Himachal Pradesh">Himachal Pradesh</option>
-                                                                            <option value="Jharkhand">Jharkhand</option>
-                                                                            <option value="Karnataka">Karnataka</option>
-                                                                            <option value="Kerala">Kerala</option>
-                                                                            <option value="Madhya Pradesh">Madhya Pradesh</option>
-                                                                            <option value="Maharashtra">Maharashtra</option>
-                                                                            <option value="Manipur">Manipur</option>
-                                                                            <option value="Meghalaya">Meghalaya</option>
-                                                                            <option value="Mizoram">Mizoram</option>
-                                                                            <option value="Nagaland">Nagaland</option>
-                                                                            <option value="Odisha">Odisha</option>
-                                                                            <option value="Punjab">Punjab</option>
-                                                                            <option value="Rajasthan">Rajasthan</option>
-                                                                            <option value="Sikkim">Sikkim</option>
-                                                                            <option value="Tamil Nadu">Tamil Nadu</option>
-                                                                            <option value="Telangana">Telangana</option>
-                                                                            <option value="Tripura">Tripura</option>
-                                                                            <option value="Uttar Pradesh">Uttar Pradesh</option>
-                                                                            <option value="Uttarakhand">Uttarakhand</option>
-                                                                            <option value="West Bengal">West Bengal</option>
+                                                                    <div class="form-group"> 
+                                                                        <select class="contactusselect form-control state" name="state"  id="state" required placeholder="state*">
+                                                                            <option value="">Select State</option>
                                                                         </select>
                                                                         <span class="alert-error"></span>
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-6">
                                                                     <div class="form-group">
-                                                                        <input class="form-control" id="city" name="city" placeholder="city*" type="text" required>
-                                                                        <span class="alert-error"></span>
+                                                                    <select  class="contactusselect form-control city" name="city" id="city" required placeholder="city*" >
+                                                                        <option value="">Select City</option>
+                                                                    </select>    
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -249,7 +230,7 @@ margin-bottom:20px;
                                                             </span>
                                                             <div class="gdlr-core-icon-list-content-wrap">
                                                                 <span class="gdlr-core-icon-list-content" style="font-size: 16px ;">
-                                                                    info@iceilsystems.com</span>
+                                                                    mugirajan95@gmail.com</span>
                                                             </div>
                                                         </li>
                                                         <li class=" gdlr-core-skin-divider gdlr-core-with-hover"><span class="gdlr-core-icon-list-icon-wrap"><i class="gdlr-core-icon-list-icon-hover fa fa-phone" style="font-size: 16px ;"  ></i><i class="gdlr-core-icon-list-icon fa fa-phone" style="font-size: 16px ;width: 16px ;" ></i></span>
@@ -633,7 +614,7 @@ margin-bottom:20px;
                 ?>
         </div>
     </div>
-    
+    <script src="js/api.js"></script>
     <?php
         include "./shared/script.php"
     ?>

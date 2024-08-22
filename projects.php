@@ -101,10 +101,10 @@
                                 <img alt="our project"  src="images/project-page/GOA Airport.jpg" width="288" />
                             </div>
                             <div class="card-header-blog">
-                                <h3>GOA Airport</h3>
+                                <h3>Goa Airport</h3>
                             </div>
                             <div class="card-body-blog">
-                                <P>MOPA GOA Airport, 1800 SQFT space of vibrant Printed Stretch Ceiling.</P>
+                                <P>MOPA Goa Airport, 1800 SQFT space of vibrant Printed Stretch Ceiling.</P>
                             </div>
                         </a>
                         <a class="card-of-blog">
@@ -112,7 +112,7 @@
                                 <img alt="our project"  src="images/project-page/kalaignar library.jpg" width="288" />
                             </div>
                                 <div class="card-header-blog">
-                                    <h3>kalaignar library</h3>
+                                    <h3>Kalaignar Library</h3>
                                 </div>
                                 <div class="card-body-blog">
                                     <P>Kalaignar Library in Madurai - 1500 SQFT of  Printed Stretch Ceiling in the Entrance and Walking Lobby</P>
@@ -123,7 +123,7 @@
                                 <img alt="our project"  src="images/project-page/kauvery hospital.jpg" width="288" />
                             </div>
                             <div class="card-header-blog">
-                                <h3>kauvery hospital</h3>
+                                <h3>Kauvery Hospital</h3>
                             </div>
                             <div class="card-body-blog">
                                 <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
@@ -134,7 +134,7 @@
                                 <img alt="our project"  src="images/project-page/Sun Beam School.jpg" width="288" />
                             </div>
                             <div class="card-header-blog">
-                                <h3>Sun Beam School</h3>
+                                <h3>Sunbeam School</h3>
                             </div>
                             <div class="card-body-blog">
                                 <P>Sunbeam School in Vellore, 800 SQFT Customized Architectural Lighting Solutions.</P>
@@ -145,7 +145,7 @@
                                 <img alt="our project"  src="images/project-page/DLF DownTown.jpg" width="288" />
                             </div>
                                 <div class="card-header-blog">
-                                    <h3>DLF DownTown</h3>
+                                    <h3>DLF Downtown</h3>
                                 </div>
                                 <div class="card-body-blog">
                                     <P>Total Area : 19,200 SQFT,  Translucent Stretch Ceiling on Lift Lobbies - 12,000 SQFT and Metal Perforated Ceiling in the Entrance Lobby - 7200 SQFT.                                    </P>

@@ -6222,7 +6222,7 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
 }
 
 .container-for-card {
-	margin-top:3rem;
+	/* margin-top:3rem; */
 	margin-bottom:3rem;
 	width: 100%;
 	height: 100%;
@@ -6272,7 +6272,7 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
   }
   
   .card1 {
-	height:50vh;
+	height:41vh;
 	display: block;
 	position: relative;
 	background-color: #f2f8f9;
@@ -6285,7 +6285,7 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
   }
   @media(min-width:800px){
 	.card1 {
-		width:25%;
+		width:31%;
 	}
   }
   @media(min-width:600px) and (max-width:800px){
@@ -6309,7 +6309,7 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
 	width: 32px;
 	border-radius: 32px;
 	transform: scale(1);
-	transform-origin: 70% 30%;
+	transform-origin: 80% 20%;
 	transition: transform 0.30s ease-out;
   }
   .card1:hover:before {
@@ -8847,7 +8847,7 @@ Component
 
 
 .main-carousel {
-	width: 100vw;
+	/* width: 100vw; */
 	display: grid;
 	place-items: center;
 	
@@ -8880,6 +8880,7 @@ Component
   }
   
   .section-carousel {
+	margin-top: 2rem;
 	width: 746px;
 	height: min-content;
 	display: flex;
@@ -8899,7 +8900,7 @@ Component
 	height: max-content;
 	gap: 2rem 0;
 	align-items: center;
-	margin-top:20px;
+	/* margin-top:20px; */
   }
   
   .carousel__header {
@@ -9535,10 +9536,15 @@ Component
 /*section like accordion end*/
 
 
-
+.connect-withus-div{
+	padding:35px;
+	-moz-box-shadow: 0 0 6px rgba(10, 10, 10, 0.08);
+	-webkit-box-shadow: 0 0 6px rgba(10, 10, 10, 0.08);
+	background-color: #ffffff;
+}
 .statistics-section{
-	padding:0px;
-	/* background: var(--bg-clr); */
+	padding: 20px 0px 65px;
+		/* background: var(--bg-clr); */
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -9569,17 +9575,34 @@ Component
   
   .statistics-card{
 	background-color:#2676bc;
-	margin: 1em 1em;
 	padding: 3em 7em;
-	display: flex;
+	/* display: flex; */
 	justify-content: space-between;
 	align-items: center;
 	position: relative;
   }
+  .stats-card::before {
+    content: '';
+    position: absolute;
+    z-index: -10;
+    width: 90%;
+    height: 110%;
+    left: 5%;
+    right: 0;
+    top: -5%;
+    bottom: 0;
+    background: #2676bcd1;
+}
+.statis-container{
+	width:80%;
+}
+.statis-section{
+	padding: 10px 0px 30px
+}
   @media(min-width:1025px){
 	.statistics-card{
-		padding: 0em 3em;
-		width:80%;
+		padding: 1.5em 3em;
+		width:100%;
 	}
 	.content-for-slider h3{
 		font-size:40px !important;
@@ -9634,6 +9657,9 @@ Component
 		width: calc(234px* 7) !important;
 	}
 	
+  }
+  .connect-withus-div p{
+	color: black;
   }
  
   
@@ -9692,18 +9718,7 @@ Component
   .statistics-clientrev, .statistics-adspend, .statistics-maus,.statistics-roi{
 	text-align:center;
   }
-  .statistics-card::before{
-	content: '';
-	position: absolute;
-	z-index: -10;
-	width: 90%;
-	height: 110%;
-	left: 5%;
-	right: 0;
-	top: -5%;
-	bottom: 0;
-	background: #2676bcd1;
-  }
+  
 
 
 /*stretch fabric start*/
@@ -11198,6 +11213,7 @@ box-shadow: 8px 8px 16px 2px #1b3e59
   }
 
   /*CONTACT US franchise section*/
+
 .clients-section{
 	width:90%;
 	margin:0 auto;
@@ -11212,6 +11228,14 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 	justify-content: center;
 	align-items: center;
 	width:15%;
+}
+.contactusselect{
+	height: calc(3.25rem + 2px) !important;
+	background-color: white !important;
+}
+.inptFld{
+	background-color: white !important;
+
 }
    /*CONTACT US franchise end*/
 
