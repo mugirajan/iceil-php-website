@@ -53,10 +53,7 @@ include "./shared/header-top.php"
 </style>
 </head>
 
-<?php
-include "./shared/navbar.php"
-?>
-
+<?php  include "./shared/navbar.php" ?>
 
 <!-- <canvas class="mry-dots"></canvas> -->
 
@@ -91,7 +88,7 @@ include "./shared/navbar.php"
 										<h1 class="">Geometric Shape Custom <br><span class="mry-border-text">lighting</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-5 d-flex align-self-center">
-										<div class="mry-text mry-mb-30">Iceil Geometric Shape Custom Lighting involves designing personalized lighting solutions using shapes like squares, triangles, circles, and others. These designs aim to enhance both the aesthetic appeal and practical functionality of indoor spaces, offering versatile and modern lighting options.
+										<div class="mry-text text-light-white mry-mb-30">Iceil Geometric Shape Custom Lighting involves designing personalized lighting solutions using shapes like squares, triangles, circles, and others. These designs aim to enhance both the aesthetic appeal and practical functionality of indoor spaces, offering versatile and modern lighting options.
 										</div>
 									</div>
 									<div class="col-2 d-flex flex-column align-self-center align-items-center">
