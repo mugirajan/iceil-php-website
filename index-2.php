@@ -231,7 +231,7 @@ include "./shared/header-top.php"
 								<div class="row">
 									<div class="col-5">
 										<div class="mry-subtitle mry-mb-10">Stretch Ceiling</div>
-										<h1 class=""> 3D Forms Stretch <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+										<h1 class=""> 3D Forms Stretch Ceiling <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-5 d-flex align-self-center">
 										<div class="mry-text mry-mb-30"> 
