@@ -1184,7 +1184,7 @@
 
                                     <li>
                                     <i class="fas fa-envelope"></i>
-                                    <a href="mailto:mugirajan95@gmail.com"><b>mugirajan95@gmail.com</b></a>
+                                    <a href="mailto:info@iceilsystems.com"><b>info@iceilsystems.com</b></a>
                                     </li>
                                 </ul>
 

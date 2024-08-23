@@ -315,13 +315,15 @@ h6 {
 	}
 
 	.mry-text {
-		font-size: 14px;
-		line-height: 20px;
+		font-size: 13px;
+		line-height: 18px;
+		font-weight: 500;
 	}
 
 	.mry-label,
 	.mry-subtitle {
 		font-size: 10px;
+		color:black !important;
 	}
 }
 
@@ -411,7 +413,7 @@ h6 {
 	letter-spacing: 1.5px;
 }
 .mry-btn-text-white {
-	color: #fff !important;
+	color: #fff ;
 }
 
 .mry-btn:hover,
@@ -1203,7 +1205,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	}
 
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title h1 {
-		font-size: 25px !important;
+		font-size: 25px;
 	}
 }
 
@@ -1250,8 +1252,8 @@ html.is-animating .transition-fade .mry-loading-curtain {
 
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title {
 		margin-left: -15px;
-		padding: 50px;
-		background-color: #f7f8fa;
+		padding: 25px;
+		background-color: white;
 		width: 111%;
 		max-width: 430px;
 	}
@@ -1259,7 +1261,8 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title h1 {
 		position: relative;
 		overflow: hidden;
-		font-size: 32px;
+		font-size: 26px;
+		color:black;
 		line-height: 38px;
 		font-weight: 900;
 		letter-spacing: -1px;
@@ -1270,7 +1273,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	}
 
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title .mry-mb-30 {
-		margin-bottom: 15px;
+		margin-bottom: 0px;
 	}
 
 	.mry-project-slider-item .mry-project-frame.mry-project-half .mry-cover-frame {
@@ -1325,8 +1328,8 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	z-index: 9;
 	bottom: 0;
 	left: 0;
-	height: 100px;
-	width: 100vw;
+	/* height: 100px;
+	width: 100vw; */
 }
 
 .mry-slider-progress-bar-frame {
@@ -1485,7 +1488,55 @@ html.is-animating .transition-fade .mry-loading-curtain {
 		padding-bottom: 80px !important;
 	}
 }
-
+@media(max-width:600px){
+	.mry-main-title{
+		transform: translate3d(0%, 0%, 0px);
+	}
+	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title {
+		background-color: white;
+		font-size: 21px !important;
+		line-height: 25px !important;
+	}
+	.mry-btn-text-white {
+		color: black!important;
+	}
+	.heading-land h1{
+		color:black !important;
+		font-size: 17px !important;
+		line-height: 25px !important;
+	}
+	.mry-subtitle{
+		font-size: 7px;
+		color: #0e0e0e;
+	}
+	.colbtn{
+		flex-direction: column !important;
+		flex-wrap:nowrap !important;
+	}
+}
+@media(min-width:1200px){
+	.mry-main-title{
+		transform: translate3d(0%, 150%, 0px) ;
+	}
+	.colbtn{
+		flex-direction: row;
+		flex-wrap:wrap;
+	}
+	.colbtn .mry-btn-text-white {
+		color:white !important;
+	}
+}
+@media(min-width:800px) and (max-width:1180px){
+	.mry-main-title{
+		transform: translate3d(0%, 90%, 0px) ;
+	}
+	.colbtn{
+		flex-direction: column;
+	}
+	.colbtn .mry-btn-text-white {
+		color:white !important;
+	}
+}
 /* Scroll Hint */
 
 .mry-scroll-hint-frame {
@@ -2523,10 +2574,11 @@ blockquote:after {
 @media(max-width: 500px) {
 
 	.mry-app .mry-top-panel {
-
-
-
 		display: none !important;
+	}
+	.static-section-logo {
+		bottom: 0rem !important;
+		right: -1px !important;
 	}
 }
 
@@ -3034,9 +3086,7 @@ form.contFrm {
 
 
 /* mry customization */
-.mry-main-title {
-    transform: translate3d(0%, 175%, 0px) !important;
-}
+
 .inteco-body h1 {
 	color: #fff;
 }

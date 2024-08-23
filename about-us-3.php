@@ -364,7 +364,7 @@
                     <!--stats start-->
                     <section class="statistics-section" style="margin:0 !important;">
                         <div class="statistics-container row">
-                            <div class="col-lg-6 col-md-6 col-sm-12" style="padding-right:0px">
+                            <div class="statcol-section col-lg-6 col-md-6 col-sm-12">
                                 <div class="statistics-card">
                                     <div class="statistics-stats">
                                         <div class="statistics-clientrev">
@@ -386,7 +386,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="connect-withus-section col-lg-6 col-md-6 col-sm-12" style="padding-left:0px">
+                            <div class="connect-withus-section col-lg-6 col-md-6 col-sm-12">
                                 <div class="connect-withus-div">
                                     <h4>Connect With Us</h4>
                                     <p>Ready to take the next step? Connect with us today by filling out the form on our Contact page. Whether you have questions, feedback, or want to discuss collaboration opportunities, we're here to help. Let's start the conversation and work together towards your goals. Reach out now and let's make things happen!</p>                           

@@ -646,7 +646,7 @@
                    
                     <!-- Testimonial start -->
                     <div class="gtco-testimonials">
-                    <h4 class="text-center">Our Clients<span class="span-for-you">Testimonials</span></h4>
+                    <h4 class="text-center">Our Clients<span class="span-for-you"> Testimonials</span></h4>
                     <div class="owl-carousel owl-carousel1 owl-theme">
                     <div>
                       <div class="card text-center"><img class="card-img-top"
@@ -757,6 +757,18 @@
                           <h5>Ambalavanan S <br />
                           </h5>
                           <p class="card-text">“ Amazing and timely service. Everyone is stunned with the stretched ceiling in our new clinic ” </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="card text-center"><img class="card-img-top"
+                          src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png"
+                          alt="">
+                        <div class="card-body">
+                          <h5>S. Tinakaran <br />
+                          <span> Tidal Park/CE</span>
+                          </h5>
+                          <p class="card-text">“ Excellent work executed with atmost professionalism. ” </p>
                         </div>
                       </div>
                     </div>

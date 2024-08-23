@@ -230,7 +230,7 @@ margin-bottom:20px;
                                                             </span>
                                                             <div class="gdlr-core-icon-list-content-wrap">
                                                                 <span class="gdlr-core-icon-list-content" style="font-size: 16px ;">
-                                                                    mugirajan95@gmail.com</span>
+                                                                    info@iceilsystems.com</span>
                                                             </div>
                                                         </li>
                                                         <li class=" gdlr-core-skin-divider gdlr-core-with-hover"><span class="gdlr-core-icon-list-icon-wrap"><i class="gdlr-core-icon-list-icon-hover fa fa-phone" style="font-size: 16px ;"  ></i><i class="gdlr-core-icon-list-icon fa fa-phone" style="font-size: 16px ;width: 16px ;" ></i></span>
