@@ -62,11 +62,13 @@
                                                 <li class="menu-item"><a href="Lacquer-Ceilings"
                                                         class="mry-anima-link mry-default-link">Lacquer </a></li>
                                                 <li class="menu-item"><a href="Printed-Lacquer-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Printed Lacquer</a></li>
                                                 <li class="menu-item"><a href="ArtPerforated"
-                                                        class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Art Perforated</a></li>
                                                 <li class="menu-item"><a href="Mirror"
                                                         class="mry-anima-link mry-default-link">Mirror</a></li>
+                                                <li class="menu-item"><a href="Moving"
+                                                        class="mry-anima-link mry-default-link">Moving</a></li>
                                                 <li class="d-none menu-item"><a href="Fabric-Light-Boxes"
                                                         class="mry-anima-link mry-default-link">Signage LightBox</a></li>
                                             </ul>
@@ -215,11 +217,13 @@
                                                 <li class="menu-item"><a href="Lacquer-Ceilings"
                                                         class="mry-anima-link mry-default-link">Lacquer </a></li>
                                                 <li class="menu-item"><a href="Printed-Lacquer-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Printed Lacquer</a></li>
                                                 <li class="menu-item"><a href="ArtPerforated"
-                                                        class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
+                                                        class="mry-anima-link mry-default-link">Art Perforated</a></li>
                                                 <li class="menu-item"><a href="Mirror"
                                                         class="mry-anima-link mry-default-link">Mirror</a></li>
+                                                <li class="menu-item"><a href="Moving"
+                                                        class="mry-anima-link mry-default-link">Moving</a></li>
                                                 <li class="d-none menu-item"><a href="Fabric-Light-Boxes"
                                                         class="mry-anima-link mry-default-link">Signage LightBox</a></li>
                                                 

@@ -132,6 +132,7 @@
                                         <li class="menu-item"><a href="Printed-Lacquer-Ceilings">Printed Lacquer</a></li>
                                             <li class="menu-item"><a href="ArtPerforated">Art Perforated</a></li>
                                             <li class="menu-item"><a href="Mirror">Mirror</a></li>
+                                            <li class="menu-item"><a href="Moving">Moving</a></li>
                                             <li class="menu-item"><a href="Metal" style="color:white;font-size:17px;font-weight:700;">Metal Perforated</a></li>
                                             <li class="menu-item"><a href="Fabric-Light-Boxes" style="color:white;font-size:17px;font-weight:700;">Signage Lightbox</a></li>
                                             <li class="menu-item"><a href="3DWallGraphics" style="color:white;font-size:17px;font-weight:700;">Custom Wall Graphics</a></li>

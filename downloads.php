@@ -105,8 +105,8 @@
                     <!--brochure 2-->
                     <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
                         <h6>Lighting Brochure</h6>
-                        <a class="card" href="img/project-gallery/pics/02a.jpg" download>
-                            <img src="img/project-gallery/pics/02a.jpg" alt="Lighting Brochure">
+                        <a class="card" href="images/downloads/Lighting brochure.jpg" download>
+                            <img src="images/downloads/Lighting brochure.jpg" alt="Lighting Brochure">
                         </a><br>
                         <div class="input-button">
                             <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#download2Modal" >Download</button>
@@ -115,8 +115,8 @@
                     <!--brochure 3-->
                     <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
                         <h6>Technical Specification</h6>
-                        <a class="card" href="img/project-gallery/pics/03.jpg" download>
-                            <img src="img/project-gallery/pics/03.jpg" alt="Technical Specification">
+                        <a class="card" href="images/downloads/technical spec.jpg" download>
+                            <img src="images/downloads/technical spec.jpg" alt="Technical Specification">
                         </a><br>
                         <div class="input-button">
                             <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#download3Modal">Download</button>
@@ -125,8 +125,8 @@
                     <!--brochure 4-->
                     <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
                         <h6>Project Gallery</h6>
-                        <a class="card" href="img/project-gallery/pics/03.jpg" download>
-                            <img src="img/project-gallery/pics/03.jpg" alt="Project Gallery">
+                        <a class="card" href="images/downloads/projectgallery.jpg" download>
+                            <img src="images/downloads/projectgallery.jpg" alt="Project Gallery">
                         </a><br>
                         <div class="input-button">
                             <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#download4Modal">Download</button>
@@ -135,8 +135,8 @@
                       <!--brochure 5-->
                       <div class="col-lg-4 col-md-6 col-sm-6 stretch-ceiling">
                         <h6>Product Literature and Landscape</h6>
-                        <a class="card" href="img/project-gallery/pics/03.jpg" download>
-                            <img src="img/project-gallery/pics/03.jpg" alt="Product Literature and Landscape">
+                        <a class="card" href="images/downloads/ProductLiteratureandLandscape.jpg" download>
+                            <img src="images/downloads/ProductLiteratureandLandscape.jpg" alt="Product Literature and Landscape">
                         </a><br>
                         <div class="input-button">
                             <button class="btn-download text-center btn btn-primary" data-toggle="modal" data-target="#download5Modal">Download</button>
