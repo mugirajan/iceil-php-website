@@ -6272,7 +6272,6 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
   }
   
   .card1 {
-	height:41vh;
 	display: block;
 	position: relative;
 	background-color: #f2f8f9;
@@ -6287,15 +6286,45 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
 	.card1 {
 		width:31%;
 	}
+	.card1 {
+		height:41vh;
+	}
+	.connect-withus-section{
+		padding-left:0px !important;
+	}
+	.statcol-section{
+		padding-right:0px !important;
+	}
+	.section-carousel{
+		margin-top: 4rem;
+	}
   }
   @media(min-width:600px) and (max-width:800px){
 	.card1 {
 		width:45%;
 	}
+	.card1 {
+		height:60vh;
+	}
+	.connect-withus-section{
+		padding-left:0px;
+	}
+	.statcol-section{
+		padding-right:0px;
+	}
+	.section-carousel{
+		margin-top: 0rem;
+	}
   }
   @media(max-width:500px){
 	.card1 {
 		width:100%;
+	}
+	.card1 {
+		height:70vh;
+	}
+	.section-carousel{
+		margin-top: 0rem;
 	}
   }
   .card1:before {
@@ -8334,6 +8363,11 @@ body {
 	.stretch-ceiling{
 		padding-bottom: 5rem !important;
 	}
+	@media (max-width:600px) {
+		.stretch-ceiling{
+			padding-bottom: 2rem !important;
+		}
+	}
 	.card-section-for-download{
 		width:90%;
 		margin:0 auto;
@@ -8342,6 +8376,7 @@ body {
 	}
     .card-section-for-download .card {
       /* margin:10px; */
+	  padding:0px;
       cursor:pointer;
       position: relative;
       height: 50vh;
@@ -8872,7 +8907,7 @@ Component
   @media(max-width:600px){
 	.section-carousel {
 		margin-bottom: 12rem;
-		padding: 5rem 0;
+		padding: 2rem 0;
 	}
 	.left-carousel-sec{
 		padding:4rem 10px 0px 0px;
@@ -8880,7 +8915,6 @@ Component
   }
   
   .section-carousel {
-	margin-top: 2rem;
 	width: 746px;
 	height: min-content;
 	display: flex;
@@ -9641,7 +9675,7 @@ Component
 		width:100%;
 	}
 	.statistics-stats span {
-		font-size:2em !important;
+		font-size:1.5em !important;
 	}
 	.statistics-stats {
 		margin-top:2em;
@@ -9690,7 +9724,7 @@ Component
   
   .statistics-stats p{
 	font-size: 0.7rem;
-	margin-left: 1em;
+	margin-left: 0em;
 	text-transform: uppercase;
 	color: var(--text-clr-light);
   }
@@ -10918,7 +10952,7 @@ box-shadow: 8px 8px 16px 2px #1b3e59
   .card {
     padding: 20px;
     max-width: 310px;
-    max-height: 310px;
+    /* max-height: 310px; */
   }
 }
 .right-para-acoustic{
@@ -11310,3 +11344,15 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 
 
 /*drives and controller end*/
+
+/*responsive*/
+@media(min-width:700px){
+.pad-banner{
+	padding-top:120px;
+}
+}
+@media(max-width:600px){
+	.pad-banner{
+		padding-top:20px;
+	}
+	}

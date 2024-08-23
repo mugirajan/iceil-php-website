@@ -17,6 +17,14 @@
     margin-top: 20px;
   }
 }
+@media (max-width: 600px) {
+  .gtco-testimonials {
+    padding:0px;
+  }
+  .gtco-testimonials .owl-stage-outer {
+    padding:0px;
+  }
+}
 
 .gtco-testimonials h2 {
   font-size: 40px;

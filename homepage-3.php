@@ -32,8 +32,8 @@
                                             <div
                                                 class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom">
                                                 <div class="gdlr-core-title-item-title-wrap ">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title "
-                                                        style="padding-top:120px;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">
+                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title pad-banner"
+                                                        style="letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">
                                                         No:1 Stretch Ceiling Manufacturer In India</h3>
                                                 </div>
                                                
@@ -366,106 +366,7 @@
                         </div>
                     </div>
 
-                    <div class="gdlr-core-pbf-wrapper " style="margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;">
-                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #1f1f1f ;"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-left"
-                                        data-sync-height="half-skill">
-                                        <div class="gdlr-core-pbf-background-wrap">
-                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                                                style="background-image: url(img/project-gallery/pics/stretch-ceilings-inside-nightbars.jpg) ;background-size: cover ;background-position: center ;"
-                                                data-parallax-speed="0.8"></div>
-                                        </div>
-                                        <div
-                                            class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js "
-                                        style="padding: 85px 45px 60px 45px;" data-sync-height="half-skill">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"
-                                            data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms"
-                                            data-gdlr-animation-offset="0.8">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title "
-                                                            style="font-size: 30px ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">
-                                                            Our Expertise .</h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div
-                                                    class="gdlr-core-skill-bar-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-size-small gdlr-core-type-round">
-                                                    <div class="gdlr-core-skill-bar">
-                                                        <div class="gdlr-core-skill-bar-head gdlr-core-title-font">
-                                                            <span class="gdlr-core-skill-bar-title"
-                                                                style="color: #ffffff ;">Interior Design</span>
-                                                            <span class="gdlr-core-skill-bar-right"
-                                                                style="color: #ffffff ;">85%</span>
-                                                        </div>
-                                                        <div class="gdlr-core-skill-bar-progress"
-                                                            style="background-color: #ffffff ;">
-                                                            <div class="gdlr-core-skill-bar-filled gdlr-core-js"
-                                                                data-width="85" style="background-color: #5db0b8 ;">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="gdlr-core-skill-bar">
-                                                        <div class="gdlr-core-skill-bar-head gdlr-core-title-font">
-                                                            <span class="gdlr-core-skill-bar-title"
-                                                                style="color: #ffffff ;">Wall Graphics</span>
-                                                            <span class="gdlr-core-skill-bar-right"
-                                                                style="color: #ffffff ;">85%</span>
-                                                        </div>
-                                                        <div class="gdlr-core-skill-bar-progress"
-                                                            style="background-color: #ffffff ;">
-                                                            <div class="gdlr-core-skill-bar-filled gdlr-core-js"
-                                                                data-width="85" style="background-color: #5db0b8 ;">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="gdlr-core-skill-bar">
-                                                        <div class="gdlr-core-skill-bar-head gdlr-core-title-font">
-                                                            <span class="gdlr-core-skill-bar-title"
-                                                                style="color: #ffffff ;">Lighting</span>
-                                                            <span class="gdlr-core-skill-bar-right"
-                                                                style="color: #ffffff ;">95%</span>
-                                                        </div>
-                                                        <div class="gdlr-core-skill-bar-progress"
-                                                            style="background-color: #ffffff ;">
-                                                            <div class="gdlr-core-skill-bar-filled gdlr-core-js"
-                                                                data-width="95" style="background-color: #5db0b8 ;">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="gdlr-core-skill-bar">
-                                                        <div class="gdlr-core-skill-bar-head gdlr-core-title-font">
-                                                            <span class="gdlr-core-skill-bar-title"
-                                                                style="color: #ffffff ;">Strech Ceiling</span>
-                                                            <span class="gdlr-core-skill-bar-right"
-                                                                style="color: #ffffff ;">95%</span>
-                                                        </div>
-                                                        <div class="gdlr-core-skill-bar-progress"
-                                                            style="background-color: #ffffff ;">
-                                                            <div class="gdlr-core-skill-bar-filled gdlr-core-js"
-                                                                data-width="95" style="background-color: #5db0b8 ;">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
-                            </div>
-                        </div>
-                    </div>
+                    
 
                     <!--stats start-->
                     <section class="statistics-section statis-section">
