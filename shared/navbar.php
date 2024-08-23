@@ -99,9 +99,9 @@
                                         </li>
                                         <li class="menu-item "><a href="Fabric-Light-Boxes">Signage lightbox</a></li>
                                       
-                                        <li class="menu-item menu-item-has-children"><a href="#."
+                                        <li class="menu-item "><a href="comming-soon"
                                                 class="mry-default-link">Architect Area & Technical Infos</a>
-                                            <ul class="sub-menu">
+                                            <ul class="d-none sub-menu">
                                                 <li class="menu-item"><a href="StretchCeiling"
                                                         class="mry-anima-link mry-default-link">BOQ</a></li>
                                                 <li class="menu-item"><a href="Boxing"
@@ -256,9 +256,9 @@
                                         <li class="menu-item"><a href="Fabric-Light-Boxes"
                                                 class="mry-anima-link mry-default-link">Signage lightbox</a></li>
                                         
-                                        <li class="menu-item menu-item-has-children"><a href="#."
+                                        <li class="menu-item"><a href="comming-soon"
                                                 class="mry-default-link">Architect Area & Technical Infos</a>
-                                            <ul class="sub-menu">
+                                            <ul class="d-none sub-menu">
                                                 <li class="menu-item"><a href="StretchCeiling"
                                                         class="mry-anima-link mry-default-link">BOQ</a></li>
                                                 <li class="menu-item"><a href="Boxing"
