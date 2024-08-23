@@ -300,4 +300,16 @@
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
+    <url>
+        <loc>https://iceilsystems-website.blackitechs.com/Moving</loc>
+        <lastmod>2024-08-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://iceilsystems-website.blackitechs.com/Gallery</loc>
+        <lastmod>2024-08-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
 </urlset>
