@@ -81,6 +81,7 @@ RewriteRule ^lacquer-ceiling-in-india?$ lacquer-ceiling-in-india.php
 RewriteRule ^siteMap?$ sitemap.php
 RewriteRule ^Gallery?$ gallery-page.php
 RewriteRule ^Moving?$ moving-ceiling.php
+RewriteRule ^comming-soon?$ comming-soon.php
 
 
 

@@ -1510,6 +1510,9 @@ html.is-animating .transition-fade .mry-loading-curtain {
 		flex-direction: row;
 		flex-wrap:wrap;
 	}
+	.colbtn .mry-btn-text-white {
+		color:white !important;
+	}
 }
 @media(min-width:800px) and (max-width:1180px){
 	.mry-main-title{
@@ -1517,6 +1520,9 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	}
 	.colbtn{
 		flex-direction: column;
+	}
+	.colbtn .mry-btn-text-white {
+		color:white !important;
 	}
 }
 /* Scroll Hint */
@@ -2556,10 +2562,11 @@ blockquote:after {
 @media(max-width: 500px) {
 
 	.mry-app .mry-top-panel {
-
-
-
 		display: none !important;
+	}
+	.static-section-logo {
+		bottom: 0rem !important;
+		right: -1px !important;
 	}
 }
 
