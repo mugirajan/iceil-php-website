@@ -86,12 +86,20 @@ body {
 	font-family: 'Josefin Sans', sans-serif;
 }
 
+.mry-text.text-light-white {
+	color: #fff;
+	font-weight: 400;
+}
 
 @media(min-width:800px) {
 	.mry-text {
 		/* width: 50%; */
 		font-size: 16px;
 		line-height: 22px;
+		color: #000;
+		font-weight: bold;
+	}
+	.mry-text.text-light-white {
 		color: #fff;
 		font-weight: 400;
 	}
@@ -103,6 +111,10 @@ body {
 		font-size: 16px;
 		line-height: 22px;
 		color: black;
+	}
+	.mry-text.text-light-white {
+		color: #fff;
+		font-weight: 400;
 	}
 
 	.mry-main-title-frame {
@@ -556,7 +568,7 @@ h6 {
 .mry-app .mry-top-panel {
 	padding: 0 45px 0px 20px;
 	position: fixed;
-	z-index: 5;
+	z-index: 99;
 	top: 0;
 	left: 0;
 	display: flex;
