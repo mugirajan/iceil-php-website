@@ -91,7 +91,7 @@ include "./shared/navbar.php"
 										<h1 class="">Geometric Shape <br><span class="mry-border-text">lighting</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30">Iceil Geometric Shape Custom Lighting involves designing personalized lighting solutions using shapes like squares, triangles, circles, and others. These designs aim to enhance both the aesthetic appeal and practical functionality of indoor spaces, offering versatile and modern lighting options.
+										<div class="mry-text mry-mb-30 text-light font-weight-normal">Iceil Geometric Shape Custom Lighting involves designing personalized lighting solutions using shapes like squares, triangles, circles, and others. These designs aim to enhance both the aesthetic appeal and practical functionality of indoor spaces, offering versatile and modern lighting options.
 										</div>
 									</div>
 									<div class="col-lg-2 col-sm-12 d-flex colbtn align-self-center align-items-center">
@@ -127,7 +127,7 @@ include "./shared/navbar.php"
 										<h1 class="">Translucent Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30">
+										<div class="mry-text mry-mb-30 text-light font-weight-normal">
 											Iceil Translucent Stretch Ceilings allow light to be evenly distributed with the stretch membrane offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 50 SQM without joints creating a great ambiance.
 										</div>
 									</div>
@@ -165,7 +165,7 @@ include "./shared/navbar.php"
 										<h1 class="">Printed Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30">
+										<div class="mry-text mry-mb-30 text-light font-weight-normal">
 											Iceil Printed Stretch Ceilings turn any room of your home or business into a work of designer art.The possibilities are endless, giving you the option of enhancing your ceiling with reproductions of famous artists masterwork, or your own art or photographs using modern digital printing techniques on a stretch fabric ceiling installation.
 										</div>	
 									</div>
@@ -202,7 +202,7 @@ include "./shared/navbar.php"
 										<h1 class="">RGB Dynamic Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30"> Iceil RGB Dynamic Stretch Ceiling combines innovative lighting technology with flexible design, allowing colorful lighting to be implemented through addressable, programmable LEDs and DMX controls.</div>
+										<div class="mry-text mry-mb-30 text-light font-weight-normal"> Iceil RGB Dynamic Stretch Ceiling combines innovative lighting technology with flexible design, allowing colorful lighting to be implemented through addressable, programmable LEDs and DMX controls.</div>
 									</div>
 									<div class="col-lg-2 col-sm-12 d-flex colbtn align-self-center align-items-center">
 										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="3D-Forms-Stretch-Ceilings">Click here</a>
@@ -234,10 +234,10 @@ include "./shared/navbar.php"
 								<div class="row">
 									<div class="col-lg-5 col-sm-12 heading-land">
 										<div class="mry-subtitle mry-mb-10">Stretch Ceiling</div>
-										<h1 class=""> 3D Forms Stretch <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+										<h1 class=""> 3D Forms Stretch Ceilings <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30"> 
+										<div class="mry-text mry-mb-30 text-light font-weight-normal"> 
 											Iceil 3D Form Stretch Ceiling are created by engineering multilevel framing structures using the latest fabrication technologies. Such a Structure can be made to the required size, shape, and then can be fitted with the desired stretch film or printed film.
 										</div>
 									</div>
@@ -274,7 +274,7 @@ include "./shared/navbar.php"
 										<h1 class="">Acoustic Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30"> Iceil Acoustic Stretch Ceiling combines sound-absorbing materials with a stretchable perforated fabric, effectively reducing noise levels while maintain- ing an aesthetically pleasing appearance.</div>
+										<div class="mry-text mry-mb-30 text-light font-weight-normal"> Iceil Acoustic Stretch Ceiling combines sound-absorbing materials with a stretchable perforated fabric, effectively reducing noise levels while maintain- ing an aesthetically pleasing appearance.</div>
 									</div>
 									<div class="col-lg-2 col-sm-12 d-flex colbtn align-self-center align-items-center">
 										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="Acoustic">Click here</a>
@@ -309,7 +309,7 @@ include "./shared/navbar.php"
 										<h1 class="">Lacquer Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30"> Iceil Lacquer Stretch Ceiling is a sophisticated ceiling finish characterized by its glossy and reflective surface. Its reflective properties enhance the brightness of the room by bouncing light, while its smooth texture adds a touch of modern elegance.</div>
+										<div class="mry-text mry-mb-30 text-light font-weight-normal"> Iceil Lacquer Stretch Ceiling is a sophisticated ceiling finish characterized by its glossy and reflective surface. Its reflective properties enhance the brightness of the room by bouncing light, while its smooth texture adds a touch of modern elegance.</div>
 									</div>
 									<div class="col-lg-2 col-sm-12 d-flex colbtn align-self-center align-items-center">
 										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="Lacquer-Ceilings">Click here</a>
@@ -344,7 +344,7 @@ include "./shared/navbar.php"
 										<h1 class="">Printed Lacquer<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30">
+										<div class="mry-text mry-mb-30 text-light font-weight-normal">
 											Iceil Printed Lacquer Ceiling allows printing virtually any design or pattern onto Lacquer Stretch Ceiling. This versatility enables the customization of ceilings to match specific aesthetic preferences or complement interior themes, offering endless possibilities for creating unique and personalized spaces.
 										</div>
 									</div>
@@ -381,7 +381,7 @@ include "./shared/navbar.php"
 										<h1 class=""> Art Perforated <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30"> Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining two stretch ceiling layer to create an eye-catching visual effect.</div>
+										<div class="mry-text mry-mb-30 text-light font-weight-normal"> Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining two stretch ceiling layer to create an eye-catching visual effect.</div>
 									</div>
 									<div class="col-lg-2 col-sm-12 d-flex colbtn align-self-center align-items-center">
 										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="StretchCeiling">Click here</a>
@@ -416,7 +416,7 @@ include "./shared/navbar.php"
 										<h1 class="">Mirror Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30"> 
+										<div class="mry-text mry-mb-30 text-light font-weight-normal"> 
 											Iceil Mirror Stretch Ceiling enhances interior design with reflective surfaces, vi- sually enlarging spaces and creating a sleek, modern aesthetic controls.
 										</div>
 									</div>
@@ -454,7 +454,7 @@ include "./shared/navbar.php"
 										<h1 class="">Metal <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30"> 
+										<div class="mry-text mry-mb-30 text-light font-weight-normal"> 
 											Iceil Metal Perforated illuminated ceiling integrates perforated metal panels with embedded lighting elements, offering a unique blend of functionality and aesthetics.
 										</div>
 									</div>
@@ -491,7 +491,7 @@ include "./shared/navbar.php"
 										<h1 class="">Signage Light <br><span class="mry-border-text">Box</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30"> 
+										<div class="mry-text mry-mb-30 text-light font-weight-normal"> 
 											Iceil fabric signage light box offers a lightweight, durable, and vibrant solution for advertising. It features high-quality fabric stretched over a frame, providing easy installation and portability.
 										</div>
 									</div>
@@ -528,7 +528,7 @@ include "./shared/navbar.php"
 										<h1 class="">Wall <br><span class="mry-border-text">Graphics</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30">Iceil Custom Wall Graphics provide a uniquely personalized touch to your space, showcasing an image of your choice printed on premium fabric seam- lessly pasted onto your wall.
+										<div class="mry-text mry-mb-30 text-light font-weight-normal">Iceil Custom Wall Graphics provide a uniquely personalized touch to your space, showcasing an image of your choice printed on premium fabric seam- lessly pasted onto your wall.
 										</div>
 									</div>
 									<div class="col-lg-2 col-sm-12 d-flex colbtn align-self-center align-items-center">
@@ -564,7 +564,7 @@ include "./shared/navbar.php"
 										<h1 class="">Architectural <br><span class="mry-border-text">lighting</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30">
+										<div class="mry-text mry-mb-30 text-light font-weight-normal">
 											Iceil Architectural lights are constructed with lighting in combination with a suitable aluminium frame and a Polycarbonate diffusers / stretch fabric. We can customize this to any shape and size.
 										</div>
 									</div>
@@ -601,7 +601,7 @@ include "./shared/navbar.php"
 										<h1 class="">Iceil ARC<br><span class="mry-border-text">WAVE Linear</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30">Iceil Arc/Wave linear lighting features designs that bend on both sides, offering flexible and dynamic illumination options. .
+										<div class="mry-text mry-mb-30 text-light font-weight-normal">Iceil Arc/Wave linear lighting features designs that bend on both sides, offering flexible and dynamic illumination options. .
 										</div>
 									</div>
 									<div class="col-lg-2 col-sm-12 d-flex colbtn align-self-center align-items-center">
@@ -637,7 +637,7 @@ include "./shared/navbar.php"
 										<h1 class=""> Iceil Surface / <br><span class="mry-border-text">Suspended Linear</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30">
+										<div class="mry-text mry-mb-30 text-light font-weight-normal">
 											Iceil surface / suspended linear lighting offers bendable solutions to create versatile linear configurations.
 										</div>
 									</div>
@@ -674,7 +674,7 @@ include "./shared/navbar.php"
 										<h1 class=""> Iceil Curved Recessed <br><span class="mry-border-text">Linear</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30">
+										<div class="mry-text mry-mb-30 text-light font-weight-normal">
 											Iceil curved recessed linear lighting seamlessly integrates into gypsum ceilings and offers the flexibility to be bent into various shapes.
 										</div>
 									</div>
@@ -711,7 +711,7 @@ include "./shared/navbar.php"
 										<h1 class="">Iceil Outward / Inward / <br><span class="mry-border-text">Downward Linear</span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30">
+										<div class="mry-text mry-mb-30 text-light font-weight-normal">
 											Iceil outward / inward /downward linear lighting solutions are completely flexible, featuring bendable designs that allow for lighting in any direc- tion-upward, downward, inward, and outward.
 										</div>
 									</div>
@@ -738,7 +738,7 @@ include "./shared/navbar.php"
 	<div class="d-flex justify-content-end">
 		<div class="static-section-logo ">
 			<div class="social-links link1">
-				<a target="_blank" href="https://wa.me/918925530871">
+				<a target="_blank" href="https://wa.me/918925848069">
 					<i class="fab fa-whatsapp"></i>
 				</a>
 			</div>

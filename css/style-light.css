@@ -1516,7 +1516,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 }
 @media(min-width:1200px){
 	.mry-main-title{
-		transform: translate3d(0%, 150%, 0px) ;
+		transform: translate3d(0%, 180%, 0px) ;
 	}
 	.colbtn{
 		flex-direction: row;
@@ -3107,6 +3107,7 @@ form.contFrm {
 	height: 40px;
 	text-align: center;
 	display: flex;
+	background: #fff;
 	align-items: center;
 	justify-content: center;
 	border-radius: 50%;
