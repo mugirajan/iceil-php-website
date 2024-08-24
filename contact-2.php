@@ -54,7 +54,7 @@ margin-bottom:20px;
                     
                     <!--banner start-->
                     <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                        style="height: 65vh;background-image:url(images/blog-page/blog-1.jpg)">
+                        style="height: 65vh;background-image:url(images/contact.avif)">
                         <div class="inteco-header-transparent-substitute"></div>
                         <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                         <div class="inteco-blog-title-bottom-overlay"></div>
@@ -187,7 +187,7 @@ margin-bottom:20px;
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;">
                                                         <p>290A, 80 Feet TNHB Road, Sholinganallur,
-                                                            <br />Chennai – 600 119, Tamilnadu.</p>
+                                                            <br />Chennai – 600 119, Tamilnadu, India.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -211,7 +211,7 @@ margin-bottom:20px;
                                                                 <i class="fab fa-instagram"
                                                                     style="font-size: 17px ;color: black ;margin-right: 12px ;"></i>
                                                             </a>
-                                                            <a href="https://www.youtube.com/@ICeilSystems" target="_blank">
+                                                            <a href="https://www.youtube.com/@Iceilstretchceiling" target="_blank">
                                                                 <i class="fab fa-youtube"
                                                                     style="font-size: 17px ;color: black ;margin-right: 12px ;"></i>
                                                             </a>
@@ -234,7 +234,7 @@ margin-bottom:20px;
                                                             </div>
                                                         </li>
                                                         <li class=" gdlr-core-skin-divider gdlr-core-with-hover"><span class="gdlr-core-icon-list-icon-wrap"><i class="gdlr-core-icon-list-icon-hover fa fa-phone" style="font-size: 16px ;"  ></i><i class="gdlr-core-icon-list-icon fa fa-phone" style="font-size: 16px ;width: 16px ;" ></i></span>
-                                                            <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 16px ;">89258 48069</span></div>
+                                                            <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 16px ;">+918925848069</span></div>
                                                         </li>
                                                     </ul>
                                                     

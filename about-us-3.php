@@ -74,22 +74,11 @@
   include "./shared/navbar.php"
 ?>
             <!--banner start-->
-            <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height: 65vh;background-image:url(img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg)">
-                <div class="inteco-header-transparent-substitute"></div>
-                <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
-                <div class="inteco-blog-title-bottom-overlay"></div>
-                <div class="inteco-blog-title-container inteco-container">
-                    <div class="inteco-blog-title-content inteco-item-pdlr" >
-                        <div class="inteco-page-title-container-about-our">
-                            <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                                <h1 class="inteco-page-title">Who We Are</h1>
-                            </div>
-                        </div>
-                    </div>
+            <section class="" style="padding:0px;">
+                <div class="">
+                    <img src="images/banner/aboutus.jpg">
                 </div>
-                        
-            </div>
+            </secion>
             
             
             <div class="inteco-page-wrapper" id="inteco-page-wrapper">
@@ -380,7 +369,7 @@
                                             <p>Projects</p>
                                         </div>
                                         <div class="statistics-roi">
-                                            <span>35+</span>
+                                            <span>37+</span>
                                             <p>channal partners</p>
                                         </div>
                                     </div>

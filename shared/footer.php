@@ -153,10 +153,10 @@
                                             <li class="menu-item"><a href="Surface">Iceil Surface / Suspended Linear Lighting</a></li>
                                             <li class="menu-item"><a href="Curved">Iceil Curved Recessed Linear Lighting</a></li>
                                             <li class="menu-item"><a href="Outward-Inward">Iceil Outward / Inward / Downward Linear Lighting</a></li>
-                                            <li class="menu-item"><a href="commming-soon">Architect Area & Technical Infos</a></li>
+                                            <!-- <li class="menu-item"><a href="commming-soon">Architect Area & Technical Infos</a></li> -->
                                         </ul>
                                     </div>
-                                    <h3 class="d-noneinteco-widget-title-footer"><a href="comming-soon" style="color:white;font-size:17px;font-weight:700;">Architect Area & Technical Infos</a></h3><span class="clear"></span>
+                                    <h3 class="inteco-widget-title-footer"><a href="comming-soon" style="color:white;font-size:17px;font-weight:700;">Architect Area & Technical Infos</a></h3><span class="clear"></span>
                                     <div class="d-none menu-quick-links-container">
                                         <ul id="menu-quick-links" class="menu">
                                             <li class="menu-item"><a href="Warranty">Boxing</a></li>
@@ -201,7 +201,7 @@
                                 <i class="fab fa-instagram"
                                     style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
                             </a>
-                            <a href="https://www.youtube.com/@ICeilSystems" target="_blank">
+                            <a href="https://www.youtube.com/@Iceilstretchceiling" target="_blank">
                                 <i class="fab fa-youtube"
                                     style="font-size: 17px ;color: #2676bc ;margin-right: 12px ;"></i>
                             </a>

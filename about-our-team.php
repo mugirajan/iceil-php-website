@@ -1157,7 +1157,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-8">
-                                <a href="https://www.youtube.com/@Iceilstretchceiling" target="_blank">
+                                <a href="https://www.youtube.com/playlist?list=PL2wd3eKmgLLPZxWACJPO3sG8UtAYTzPeA" target="_blank">
                                     <img style="width:100%" src="img/photoshop-franchise/franchise.jpg" alt="Video Poster" style="height: auto;">
                                 </a>
                             </div>
@@ -1179,7 +1179,7 @@
 
                                     <li>
                                     <i class="fa fa-phone"></i>
-                                    <a href="tel:8925848069"><b>89258 48069</b></a>
+                                    <a href="tel:8925848069"><b>+918925848069</b></a>
                                     </li>
 
                                     <li>
