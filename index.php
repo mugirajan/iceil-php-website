@@ -124,7 +124,7 @@ include "./shared/navbar.php"
 								<div class="row">
 									<div class="col-lg-4 col-sm-12 heading-land">
 										<div class="mry-subtitle mry-mb-10">Stretch Ceiling </div>
-										<h1 class="">Translucent Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+										<h1 class="">Translucent<br><span class="mry-border-text"></span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
 										<div class="mry-text mry-mb-30 text-light font-weight-normal">
@@ -199,7 +199,7 @@ include "./shared/navbar.php"
 								<div class="row">
 									<div class="col-lg-4 col-sm-12 heading-land">
 										<div class="mry-subtitle mry-mb-10">Stretch Ceiling</div>
-										<h1 class="">RGB Dynamic Stretch<br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+										<h1 class="">RGB Dynamic<br><span class="mry-border-text"></span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
 										<div class="mry-text mry-mb-30 text-light font-weight-normal"> Iceil RGB Dynamic Stretch Ceiling combines innovative lighting technology with flexible design, allowing colorful lighting to be implemented through addressable, programmable LEDs and DMX controls.</div>
@@ -234,7 +234,7 @@ include "./shared/navbar.php"
 								<div class="row">
 									<div class="col-lg-4 col-sm-12 heading-land">
 										<div class="mry-subtitle mry-mb-10">Stretch Ceiling</div>
-										<h1 class=""> 3D Forms Stretch Ceilings <br><span class="mry-border-text">Ceiling</span><span class="mry-animation-el"></span></h1>
+										<h1 class=""> 3D Forms <br><span class="mry-border-text"></span><span class="mry-animation-el"></span></h1>
 									</div>
 									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
 										<div class="mry-text mry-mb-30 text-light font-weight-normal"> 

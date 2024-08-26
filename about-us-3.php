@@ -431,7 +431,7 @@
                                     <h4>Connect With Us</h4>
                                     <p>Ready to take the next step? Connect with us today by filling out the form on our Contact page. Whether you have questions, feedback, or want to discuss collaboration opportunities, we're here to help. Let's start the conversation and work together towards your goals. Reach out now and let's make things happen!</p>                           
                                     <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;text-transform: none ;display:flex;justify-content:flex-end;">
-                                        <button class="read-more-btn" style="border-radius:0.5rem"><a style="color:white" href="ContactUs">Click here</a></button>
+                                        <button class="read-more-btn" style="border-radius:0.5rem"><a style="color:white" href="stretch-ceiling-chennai">Click here</a></button>
                                     </div>
                                 </div>
                             </div>
@@ -834,7 +834,7 @@
                                                                     <div class="gdlr-core-pbf-element">
                                                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                                                             <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;text-transform: none ;">
-                                                                                <button class="read-more-btn" style="border-radius:0.5rem"><a style="color:white" href="ContactUs">Click here</a></button>
+                                                                                <button class="read-more-btn" style="border-radius:0.5rem"><a style="color:white" href="stretch-ceiling-chennai">Click here</a></button>
                                                                             </div>
                                                                         </div>
                                                                     </div>

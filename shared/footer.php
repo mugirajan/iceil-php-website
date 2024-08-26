@@ -103,8 +103,8 @@
                                             <li class="menu-item"><a href="Partners">Partner With Us</a></li>
                                             <li class="menu-item"><a href="Blogs">Blogs</a>
                                             </li>
-                                            <li class="menu-item"><a href="ContactUs">Contact Us</a></li>
-                                            <li class="menu-item"><a href="Downloads">Downloads</a></li>
+                                            <li class="menu-item"><a href="stretch-ceiling-chennai">Contact Us</a></li>
+                                            <li class="menu-item"><a href="stretch-ceiling-india">Downloads</a></li>
                                         </ul>
                                     </div>
                                 </div>

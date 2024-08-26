@@ -370,7 +370,7 @@
                     <!--stats end-->
 
                     <!--audi start-->
-                    <div class="gdlr-core-pbf-wrapper height-car-for-home" style="padding: 226px 0px 30px 0px;" id="gdlr-core-wrapper-1">
+                    <div class="d-none gdlr-core-pbf-wrapper height-car-for-home" style="padding: 226px 0px 30px 0px;" id="gdlr-core-wrapper-1">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="height:100vh;background-image: url(img/home-image/home.jpeg) ;background-size: cover ;background-position: top center ;" data-parallax-speed="0.1"></div>
                         </div>
@@ -410,7 +410,7 @@
 
                     <!-- partial:index.partial.html -->
                    
-                    <div class="inteco-single-related-post-wrap inteco-item-rvpdlr" style="width:80%;margin:0 auto;">
+                    <div class="d-none inteco-single-related-post-wrap inteco-item-rvpdlr" style="width:80%;margin:0 auto;">
                         <h3 class="inteco-single-related-post-title inteco-item-mglr" style="padding-bottom:20px">Blogs</h3>
                        
                         <div class="gdlr-core-blog-item-holder clearfix row ">
@@ -534,7 +534,7 @@
                                 <p>Ready to turn your vision into reality? Contact us today to schedule a consultation and discover how we can bring your project to life with our expertise and dedication to excellence.</p>
                             </div>
                             <div class="col-lg-3 cta-btn-container text-center">
-                                <a class="cta-btn align-middle" href="ContactUs">Contact Us <i class="fas fa-arrow-right"></i></a>
+                                <a class="cta-btn align-middle" href="stretch-ceiling-chennai">Contact Us <i class="fas fa-arrow-right"></i></a>
                             </div>
                             </div>
 

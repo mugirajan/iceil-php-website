@@ -38,10 +38,10 @@
                                         <li class="menu-item "><a
                                                 href="Blogs">Blogs</a>
                                         </li>
-                                        <li class="menu-item "><a href="ContactUs">Contact Us</a>
+                                        <li class="menu-item "><a href="stretch-ceiling-chennai">Contact Us</a>
 
                                         </li>
-                                        <li class="menu-item "><a href="Downloads">Downloads</a>
+                                        <li class="menu-item "><a href="stretch-ceiling-india">Downloads</a>
                                         </li>
                                         <li class="menu-item "><a href="Gallery">Video Gallery</a>
                                         </li>
@@ -182,10 +182,10 @@
 
                                         <li class="menu-item"><a href="Blogs"
                                                 class="mry-anima-link mry-default-link">Blogs</a></li>
-                                        <li class="menu-item"><a href="ContactUs"
+                                        <li class="menu-item"><a href="stretch-ceiling-chennai"
                                                 class="mry-anima-link mry-default-link">Contact Us</a></li>
 
-                                        <li class="menu-item"><a href="Downloads"
+                                        <li class="menu-item"><a href="stretch-ceiling-india"
                                                 class="mry-anima-link mry-default-link">Downloads</a></li>
 
                                         <li class="menu-item"><a href="Gallery"

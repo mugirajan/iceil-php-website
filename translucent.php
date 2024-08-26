@@ -4,29 +4,60 @@
 <meta name="keywords" content="stretch lighting, no glare luminaires, translucent stretch ceilings, natural light diffusion, customizable ceiling designs, elegant lobby ceilings, acoustic comfort ceilings, RGB lighting for pubs, dynamic lighting effects, psychological color influence, mood-enhancing lighting, diffused lighting for gyms, versatile lighting solutions, translucent ceilings for meeting rooms, energy-efficient lighting, modern aesthetic ceilings, customizable lighting features, versatile stretch ceilings">
 <title>Translucent Stretch Ceiling | Iceil Stretch Ceilings | Translucent ceilings</title>
 <meta name="description" content="Enhance any space with Iceil's translucent stretch ceilings. Discover elegant, durable, and customizable solutions for stunning interiors.">
+<link rel="stylesheet" href="css/translucent.css">
+
 </head>
 <?php
   include "./shared/navbar.php"
 ?>
 
-            
+
             <!--banner start-->
-            <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height: 65vh;background-image:url(img/drive-translucent/3d6.jpg);background-position:top center;">
-                <div class="inteco-header-transparent-substitute"></div>
-                <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
-                <div class="inteco-blog-title-bottom-overlay"></div>
-                <div class="inteco-blog-title-container inteco-container">
-                    <div class="inteco-blog-title-content inteco-item-pdlr" >
-                        <div class="inteco-page-title-container-about-our">
-                            <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                                <h1 class="inteco-page-title transulecent">Translucent</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                        
-            </div>
+            <!-- Slideshow container -->
+<div class="slideshow-container">
+
+<!-- Full-width images with number and caption text -->
+<div class="mySlides">
+  <div class="numbertext">1 / 3</div>
+  <img src="images/banner-translucent/DIMMER.jpg" style="width:100%" alt="Taxi 1">
+  <div class="text">Caption Text One</div>
+</div>
+
+<div class="mySlides">
+  <div class="numbertext">2 / 3</div>
+  <img src="images/banner-translucent/RGB W DMX.jpg" style="width:100%" alt="Taxi 2">
+  <div class="text">Caption Text Two</div>
+</div>
+
+<div class="mySlides">
+  <div class="numbertext">3 / 3</div>
+  <img src="images/banner-translucent/RGB WW.jpg" style="width:100%" alt="Taxi 3">
+  <div class="text">Caption Text Three</div>
+</div>
+
+<div class="mySlides">
+  <div class="numbertext">3 / 3</div>
+  <img src="images/banner-translucent/RGB.jpg" style="width:100%" alt="Taxi 3">
+  <div class="text">Caption Text Three</div>
+</div>
+
+<div class="mySlides">
+  <div class="numbertext">3 / 3</div>
+  <img src="images/banner-translucent/TUNABLE.jpg" style="width:100%" alt="Taxi 3">
+  <div class="text">Caption Text Three</div>
+</div>
+<!-- Next and previous buttons -->
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+<span class="dot" onclick="currentSlide(1)"></span>
+<span class="dot" onclick="currentSlide(2)"></span>
+<span class="dot" onclick="currentSlide(3)"></span>
+</div>
              <!--banner end-->
             
              <!--intro start-->
@@ -474,7 +505,7 @@
                 ?>
         </div>
     </div>
-    
+    <script src="js/trans.js">
     <?php
         include "./shared/script.php"
     ?>

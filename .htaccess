@@ -28,8 +28,8 @@ RewriteRule ^much-stronger?$ much-stronger.php
 RewriteRule ^What-is-the-benefit?$ What-is-the-benefit.php
 RewriteRule ^improve-your-IT-workplace?$ improve-your-IT-workplace.php
 
-RewriteRule ^ContactUs?$ contact-2.php
-RewriteRule ^Downloads?$ downloads.php
+RewriteRule ^stretch-ceiling-chennai?$ contact-2.php
+RewriteRule ^stretch-ceiling-india?$ downloads.php
 
 RewriteRule ^3DWallGraphics?$ wallpaper.php
 
