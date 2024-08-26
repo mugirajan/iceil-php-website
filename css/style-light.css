@@ -1519,7 +1519,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 		transform: translate3d(0%, 180%, 0px) ;
 	}
 	.colbtn{
-		flex-direction: row;
+		flex-direction: column;
 		flex-wrap:wrap;
 	}
 	.colbtn .mry-btn-text-white {
