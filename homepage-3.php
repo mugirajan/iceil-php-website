@@ -9,7 +9,9 @@
 </head>
 <title>Stretch Ceiling Manufacturer | Custom Architectural Lighting | Iceil</title>
 <meta name="description" content="Iceil Systems: Leading stretch ceiling manufacturer & custom architectural lighting, enhancing spaces with innovative design & quality craftsmanship">
-
+<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+<link rel="stylesheet" href="css/homeslider.css">
 <?php
   include "./shared/navbar.php"
 ?>
@@ -67,42 +69,44 @@
                     <!--link to all the pages-->
                     <div class="gdlr-core-pbf-wrapper " style="margin: 0px 0px 0px 0px;padding: 60px 0px 50px 0px;">
                         <div class="gdlr-core-pbf-background-wrap"></div>
-                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="text-align: center;font-size: 39px ;font-weight: 900 ;letter-spacing: 0px ;text-transform: none ;color: #232323 ;">What We Do?</h3><br>
+                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="text-align: center;font-size: 39px ;font-weight: 900 ;letter-spacing: 0px ;text-transform: none ;color: #232323 ;">Our Products</h3><br>
                         <div class="whatwedosection">
                             <div class=" whatwedodiv">
                                 <div class="whatwedo-image">
                                     <div>
-                                        <img src="img/drive-homepage/33.jpg" alt="Translucent">
+                                        <a href="Translucent-Stretch-Ceilings">
+                                            <img src="img/drive-homepage/33.jpg" alt="Translucent">
+                                        </a>
                                     </div>
-                                    <h3>Translucent</h3>
-                                    <p></p>
+                                    <h3>Translucent Stretch Ceiling</h3>
+                                    <p>Translucent stretch ceiling allows light to be evenly distributed with the stretch membrane offering 75% Translucency.</p>
                                 </div>
                             </div>
                             <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
+                                <a href="Printed-Stretch-Ceilings" class="whatwedo-image">
                                     <div>
                                         <img src="img/drive-Printed-Stretch-Ceiling/PRINTED-STRETCH-CEILING-water (1).png" alt="Printed">
                                     </div>
-                                    <h3>Printed</h3>
-                                    <p></p>
-                                </div>
+                                    <h3>Printed Stretch Ceiling</h3>
+                                    <p>The printed stretch ceiling transforms your resi- dence or office space into a piece of designer art. With no limits on what can be printed, the possibilities are endless. Perfect for both resi- dential and commercial spaces, printed stretch ceilings offer a creative and stylish solution to elevate any interior.</p>
+                                </a>
                             </div>
                             <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
+                                <a href="3D-Forms-Stretch-Ceilings" class="whatwedo-image">
                                     <div>
                                         <img src="img/drive-homepage/74.jpg" alt="3D Form">
                                     </div>
                                     <h3>3D Form</h3>
-                                    <p></p>
-                                </div>
+                                    <p>3D form ceiling are created by engineering multilevel framing structures and can be made to the required size, shape, and then can be fitted with the desired stretch film or printed film.</p>
+                                </a>
                             </div>
                             <div class=" whatwedodiv">
                                 <div class="whatwedo-image">
                                     <div>
-                                        <img src="img/drive-homepage/123.1.jpg" alt="Light Boxes">
+                                        <img src="img/drive-lightbox/123.jpg" alt="Light Boxes">
                                     </div>
-                                    <h3>Light Boxes</h3>
-                                    <p></p>
+                                    <h3>Signage Light Box</h3>
+                                    <p>Stretch Ad-Sign Boxes are used for internal dis- plays that are suitable for Retail, Corporate, and Commercial Signage Solutions.</p>
                                 </div>
                             </div>
                             <div class=" whatwedodiv">
@@ -111,7 +115,7 @@
                                         <img src="img/drive-laquer/images.jpeg" alt="Lacquer">
                                     </div>
                                     <h3>Lacquer</h3>
-                                    <p></p>
+                                    <p>Lacquer stretch ceilings offer a luxurious mirror effect on your ceiling, boasting exceptional light reflection properties. This creates an upscale ambiance enhanced by a customizable color palette, visually expanding the room space.</p>
                                 </div>
                             </div>
                             <div class="whatwedodiv">
@@ -120,7 +124,7 @@
                                         <img src="img/drive-homepage/106.jpg" alt="Acoustic">
                                     </div>
                                     <h3>Acoustic</h3>
-                                    <p></p>
+                                    <p>Iceil micro-perforated stretch ceiling absorbs the sounds and reduces noise pollution in public or private spaces. This limits the effect of reverberation for a better sound comfort.</p>
                                 </div>
                             </div>
                             <div class=" whatwedodiv">
@@ -128,8 +132,8 @@
                                     <div>
                                         <img src="img/drive-homepage/46.jpg" alt="Architectural Lighting">
                                     </div>
-                                    <h3>Architectural Lighting</h3>
-                                    <p></p>
+                                    <h3>Architectural Custom Lighting</h3>
+                                    <p>ICeil Architectural lights are constructed with lighting in combination with a suitable alumini- um frame and a Polycarbonate diffusers / stretch fabric. We can customize this to any shape and size.</p>
                                 </div>
                             </div>
                             <div class=" whatwedodiv">
@@ -138,7 +142,7 @@
                                         <img alt="Wall Graphics" src="https://img.freepik.com/premium-photo/3d-abstract-colorful-tree-with-leaves-hanging-branches-illustration-background-generative-ai_884023-4218.jpg?w=740">
                                     </div>
                                     <h3>Wall Graphics</h3>
-                                    <p></p>
+                                    <p>Custom wall graphics provide a uniquely per- sonalized touch to your space, showcasing an image of your choice printed on premium fabric seamlessly pasted onto your wall. At Iceil, we deliver a flawless, join-free solution using high-quality materials, elevating your environ- ment with elegance and transforming your space into a reflection of your style.</p>
                                 </div>
                             </div>
                             <div class=" whatwedodiv">
@@ -146,8 +150,8 @@
                                     <div>
                                         <img src="img/drive-homepage/ceiling.jpg" alt="Strech Ceiling">
                                     </div>
-                                    <h3>Strech Ceiling</h3>
-                                    <p></p>
+                                    <h3>Mirror Ceiling</h3>
+                                    <p>Mirror stretch ceilings not only enhance interior design by incorporating reflective surfaces but also visually expand spaces, creating a sleek and modern aesthetic. Achieving a mirror effect of 92-95% underscores its high reflectivity, re- sembling traditional mirrors closely.</p>
                                 </div>
                             </div>
                             <div class="whatwedodiv">
@@ -155,15 +159,59 @@
                                     <div>
                                         <img src="img/printed-latest/university/Hindustan (2).jpeg" alt="LED" >
                                     </div>
-                                    <h3>LED</h3>
-                                    <p></p>
+                                    <h3>Metal Perforated </h3>
+                                    <p>Metal perforated illuminated ceilings integrate lighting within panels, enhancing ambiance and providing efficient lighting distribution, acoustic benefits, and a contemporary look suitable for diverse applications. They combine functionality with aesthetics, offering a versatile solution for modern interior designs.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!--link to all the pages end-->
 
-                    
+                    <!--client-carousel start-->
+                        <h3 class="text-center gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 39px ;font-weight: 900 ;letter-spacing: 0px ;text-transform: none ;color: #232323 ;">Our Clients</h3></div>
+                        <div class="logos">
+                            <div class="logo_items">
+                                <img src="img/client-logo/archinova.png">
+                                <img src="img/client-logo/cbre.png">
+                                <img src="img/client-logo/dlf.png">
+                                <img src="img/client-logo/ecotone.png">
+                                <img src="img/client-logo/godrej.png">
+                                <img src="img/client-logo/hunter.png">
+                                <img src="img/client-logo/keechery.png">
+                                <img src="img/client-logo/light scape.png">
+                                <img src="img/client-logo/lr infra.png">
+                                <img src="img/client-logo/lumino.png">
+                                <img src="img/client-logo/nexus.png">
+                                <img src="img/client-logo/radical.png">
+                                <img src="img/client-logo/signify.png">
+                                <img src="img/client-logo/sun infra.png">
+                                <img src="img/client-logo/touch stone.png">
+                                <img src="img/client-logo/ultra confidential.png">
+                                <img src="img/client-logo/vaibhav.png">
+                            </div>
+                            <div class="logo_items">
+                                <img src="img/client-logo/archinova.png">
+                                <img src="img/client-logo/cbre.png">
+                                <img src="img/client-logo/dlf.png">
+                                <img src="img/client-logo/ecotone.png">
+                                <img src="img/client-logo/godrej.png">
+                                <img src="img/client-logo/hunter.png">
+                                <img src="img/client-logo/keechery.png">
+                                <img src="img/client-logo/light scape.png">
+                                <img src="img/client-logo/lr infra.png">
+                                <img src="img/client-logo/lumino.png">
+                                <img src="img/client-logo/nexus.png">
+                                <img src="img/client-logo/radical.png">
+                                <img src="img/client-logo/signify.png">
+                                <img src="img/client-logo/sun infra.png">
+                                <img src="img/client-logo/touch stone.png">
+                                <img src="img/client-logo/ultra confidential.png">
+                                <img src="img/client-logo/vaibhav.png">
+                            </div>
+                        </div>
+                    <!--client-carousel end-->
+
+
                     <div class="d-none gdlr-core-pbf-wrapper " style="margin: 0px 0px 0px 0px;padding: 78px 0px 55px 0px;">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
@@ -564,6 +612,7 @@
             jQuery(sliderID).show().html(errorMessage);
         }
     </script>
+     <script src="js/homeslider.js"></script>
 <?php
   include "./shared/script.php"
 ?>

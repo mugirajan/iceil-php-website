@@ -1338,6 +1338,7 @@ transform: scale(1);
 }
 
 .page {
+	flex-wrap: wrap;
     width: 100%;
     margin: 0 auto;
     padding: 0;
@@ -1348,12 +1349,17 @@ transform: scale(1);
 } */
 
 .page li {
+	width:31%;
     list-style: none;
     margin: 10px auto;
     /* padding: 12px;
     background: white; */
     border-radius: 10px;
     /* text-align: center; */
+}
+.page li img{
+	height:50vh;
+	width:100%;
 }
 .page li button{
 	border:none;

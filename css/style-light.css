@@ -809,7 +809,7 @@ h6 {
 }
 
 .mry-menu nav ul .menu-item .sub-menu.mry-active {
-	max-height: 400px;
+	max-height: 430px;
 }
 
 .mry-menu nav ul .menu-item .sub-menu .menu-item a {
@@ -3120,3 +3120,4 @@ form.contFrm {
 	height: 20px;
 	color: #0d0d0d;
 }
+
