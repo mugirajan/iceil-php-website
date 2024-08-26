@@ -332,105 +332,10 @@
         </div>
 
     <div class="wrapper-blog">
-        <!-- <button id="sidebar-toggle">Toggle Sidebar</button> -->
-        <div class="sidebar-blog">
-            <!-- <h3 class="st-h3"> 
-				GFG Sticky sidebar 
-			</h3> 
-			<ul> 
-				<li class="li-blog">Home</li> 
-				<li class="li-blog">About us</li> 
-				<li class="li-blog">Contact us</li> 
-				<li class="li-blog">Our product</li> 
-			</ul>  -->
-            <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
-
-                <div id="recent-comments-3" class="widget widget_recent_comments inteco-widget">
-                    <h3 class="inteco-widget-title" style="padding-bottom: 10px;padding-top: 100px;font-size: 21px;">Our
-                        recommendations
-                    </h3><span class="clear"></span>
-                    <div class="tagcloud"><a href="#" class="tag-cloud-link tag-link-25 tag-link-position-1"
-                        style="font-size: 8pt;" aria-label="Architecture (1 item)">Stretch-Fabric</a>
-                    <a href="#" class="tag-cloud-link tag-link-19 tag-link-position-2" style="font-size: 8pt;"
-                        aria-label="Article (1 item)">Light Boxing</a>
-                    <a href="#" class="tag-cloud-link tag-link-21 tag-link-position-3" style="font-size: 12.2pt;"
-                        aria-label="Exterior (2 items)">stretch-ceiling</a>
-                        
-                        
-                       
-                        
-                </div>
-                    <h3 class="inteco-widget-title" style="padding-bottom: 10px;padding-top: 10px;font-size: 20px;">
-                        Categories
-                    </h3><span class="clear"></span>
-                    <ul id="recentcomments">
-                        <li class="recentcomments"><span class="comment-author-link">Stretch Ceiling</span> on <a
-                                href="#">Translucent
-                            </a></li>
-                        <li class="recentcomments"><span class="comment-author-link">Stretch Ceiling</span> on <a
-                                href="#">Printed</a></li>
-                        <li class="recentcomments"><span class="comment-author-link">Stretch Ceiling</span> on <a
-                                href="#">3-d Forms</a></li>
-                        <li class="recentcomments"><span class="comment-author-link">Stretch Ceiling</span> on <a
-                                href="#">Light Box</a></li>
-                        <li class="recentcomments"><span class="comment-author-link">Stretch Ceiling</span> on <a
-                                href="#">Lacquer</a></li>
-                        <li class="recentcomments"><span class="comment-author-link">Stretch Ceiling</span> on <a
-                                href="#">Acoustic</a></li>
-                        <li class="recentcomments"><span class="comment-author-link">Architects</span> on <a
-                                href="#">Stretch Fabric</a></li>
-                        <li class="recentcomments"><span class="comment-author-link">Architects</span> on <a
-                                href="#">Boxing</a></li>
-                        <li class="recentcomments"><span class="comment-author-link">Architects</span> on <a
-                                href="#">Led</a></li>
-                        <li class="recentcomments"><span class="comment-author-link">Architects</span> on <a
-                                href="#">Profiles</a></li>
-
-
-                    </ul>
-                </div>
-                <div id="tag_cloud-1" class="widget widget_tag_cloud inteco-widget">
-                    <h3 class="inteco-widget-title" style="padding-bottom: 10px;padding-top: 10px;font-size: 20px;">Tags
-                    </h3><span class="clear"></span>
-                    <div class="tagcloud"><a href="#" class="tag-cloud-link tag-link-25 tag-link-position-1"
-                            style="font-size: 8pt;" aria-label="Architecture (1 item)">Architecture</a>
-                        <a href="#" class="tag-cloud-link tag-link-19 tag-link-position-2" style="font-size: 8pt;"
-                            aria-label="Article (1 item)">Ceiling</a>
-                        <a href="#" class="tag-cloud-link tag-link-21 tag-link-position-3" style="font-size: 12.2pt;"
-                            aria-label="Exterior (2 items)">stretch-ceiling/a>
-                            <a href="#" class="tag-cloud-link tag-link-111 tag-link-position-4"
-                                style="font-size: 12.2pt;" aria-label="Fashion (2 items)">Manufacturing</a>
-                            <a href="#" class="tag-cloud-link tag-link-20 tag-link-position-5" style="font-size: 8pt;"
-                                aria-label="Interior (1 item)">Residential</a>
-                            <a href="#" class="tag-cloud-link tag-link-109 tag-link-position-6" style="font-size: 8pt;"
-                                aria-label="Landscape (1 item)">Printed-Ceiling</a>
-                            <a href="#" class="tag-cloud-link tag-link-110 tag-link-position-7" style="font-size: 8pt;"
-                                aria-label="Lighting (1 item)">Lighting</a>
-                            <a href="#" class="tag-cloud-link tag-link-114 tag-link-position-8" style="font-size: 8pt;"
-                                aria-label="Nature (1 item)">Nature</a>
-                            <a href="#" class="tag-cloud-link tag-link-24 tag-link-position-9"
-                                style="font-size: 12.2pt;" aria-label="News (2 items)">News</a>
-                            <a href="#" class="tag-cloud-link tag-link-112 tag-link-position-10" style="font-size: 8pt;"
-                                aria-label="Portrait (1 item)">Portrait</a>
-                            <a href="#" class="tag-cloud-link tag-link-26 tag-link-position-11" style="font-size: 22pt;"
-                                aria-label="Post Format (7 items)">Post Format</a>
-                            <a href="#" class="tag-cloud-link tag-link-113 tag-link-position-12" style="font-size: 8pt;"
-                                aria-label="Shooting (1 item)">Shooting</a>
-                            <a href="#" class="tag-cloud-link tag-link-28 tag-link-position-13" style="font-size: 15pt;"
-                                aria-label="Technique (3 items)">Technique</a>
-                            <a href="#" class="tag-cloud-link tag-link-29 tag-link-position-14" style="font-size: 8pt;"
-                                aria-label="Tips (1 item)">Tips</a>
-                            <a href="#" class="tag-cloud-link tag-link-22 tag-link-position-15"
-                                style="font-size: 12.2pt;" aria-label="Updates (2 items)">Updates</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+      
 
         <div class="main-blog " style="background-color:#2676bc0d">
-            <div style="display: flex;justify-content: flex-end; width:15%l">
-                <button id="sidebar-toggle" style="margin:2rem 0">click</button>
-            </div>
+           
             <div class="body-blog">
                 
             <section class="blog-page">

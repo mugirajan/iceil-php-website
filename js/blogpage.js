@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function showPage(pageNumber) {
         pages.forEach((page, index) => {
             if (index === pageNumber) {
-                page.style.display = "block";
+                page.style.display = "flex";
             } else {
                 page.style.display = "none";
             }
