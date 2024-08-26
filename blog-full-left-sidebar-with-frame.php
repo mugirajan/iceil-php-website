@@ -357,7 +357,7 @@
                             Post published:17/12/2022
                             Post category:ceiling/businessidea/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
-                        <p>Introduction: Stretch ceilings, an ideal solution for many different applications. There are great choices for home, commercial and industrial…</p>
+                        <p>Introduction: Stretch ceilings, an ideal solution for many different applications. There are great…</p>
                         <button ><a href="What-is-the-benefit">Read More</a></button>
                     </li>
                     <li>
@@ -367,7 +367,7 @@
                             Post published:26/08/2022
                             Post category:businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
-                        <p>Stretch ceiling, latest trend in customised lighting and ceiling solutions is being included in solutions across India by leading interior…</p>
+                        <p>Stretch ceiling, latest trend in customised lighting and ceiling solutions is being included in solutions across …</p>
                         <button ><a href="much-stronger">Read More</a></button>
                     </li>
                     <li>
@@ -377,7 +377,7 @@
                             Post published:28/06/2022
                             Post category:opportunity/businessidea/ceiling/Franchising/india/stretch
                             Post comments:0 Comments</span>
-                        <p>While Constructing & Renovating wet rooms like bathrooms and swimming pools, one of the main concerns is that the solutions…</p>
+                        <p>While Constructing & Renovating wet rooms like bathrooms and swimming pools, one of the main concerns is that…</p>
                         <button ><a href="perfect-for-wet">Read More</a></button>
                     </li>
                     <li>
@@ -386,7 +386,7 @@
                         <span>Admin
                             Post published:27/05/2022
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch Post comments:0 Comments</span>
-                        <p>Stretch ceiling are greatly recommended for remodelling the interior of the residential/ business spaces. It helps to overcome the usual…</p>
+                        <p>Stretch ceiling are greatly recommended for remodelling the interior of the residential/ business spaces…</p>
                         <button ><a href="high-gloss-lacquer">Read More</a></button>
                     </li>
                     <li>
@@ -396,7 +396,7 @@
                             Post published:24/05/2022
                             Post category:ceiling/businessidea/Franchising/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
-                        <p>Stretch ceiling is more popular nowadays as it's a customized lighting solution as well. Illuminating with stretch ceiling makes the…</p>
+                        <p>Stretch ceiling is more popular nowadays as it's a customized lighting solution as well. Illuminating with …</p>
                         <button ><a href="power-consumption">Read More</a></button>
                     </li>
                     <li>
@@ -406,7 +406,7 @@
                             Post published:04/05/2022
                             Post category:business/businessidea/ceiling/manufacturing/stretch
                             Post comments:0 Comments</span>
-                        <p>Stretch ceiling is now one of the most popular buzzword in the interior industry.  In many Commercial and Residential Places,…</p>
+                        <p>Stretch ceiling is now one of the most popular buzzword in the interior industry.  In many Commercial…</p>
                         <button ><a href="how-do-you-maintain">Read More</a></button>
                     </li>
                     <li>
@@ -416,7 +416,7 @@
                             Post published:29/04/2022
                             Post category:business/businessidea/ceiling/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
-                        <p>Stretch ceiling has become architects favourite choice for restaurant. Odourless nature of stretch ceiling makes them perfect for designing interiors…</p>
+                        <p>Stretch ceiling has become architects favourite choice for restaurant. Odourless nature of stretch ceiling makes…</p>
                         <button ><a href="perfect-choice-for-restaurant">Read More</a></button>
                     </li>
                     <li>
@@ -427,7 +427,7 @@
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments
                             </span>
-                        <p>3D stretch ceiling is one of the striking revolutions in the interior design world. Nowadays, we can see more 3-Dimensional…</p>
+                        <p>3D stretch ceiling is one of the striking revolutions in the interior design world. Nowadays, we can see more …</p>
                         <button ><a href="3D-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
@@ -437,16 +437,16 @@
                             Post published:22/04/2022
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
-                        <p>Stretch ceiling is the most innovative concept in the interior industry. Most builders recommend stretch ceiling to decorate offices, restaurant,…</p>
+                        <p>Stretch ceiling is the most innovative concept in the interior industry. Most builders recommend stretch ceiling to…</p>
                         <button ><a href="stretch-ceiling-on-a-wall.php">Read More</a></button>
                     </li>
                 </ul>
                 <!-- Page 1 -->
         
-                <ul class="page">
+                <ul class="page pagin">
                     <li>
                         <img  alt="Stretch Ceiling" src="img/drive-translucent/18.jpg">
-                        <h4>Stretch ceiling shapes</h4>
+                        <h4>Stretch ceiling shapes</h4><br>
                         <span>Admin
                             Post published:15/04/2022
                             Post category:ceiling/business/india/manufacturing/stretch
@@ -456,12 +456,12 @@
                     </li>
                     <li>
                         <img alt="Stretch Ceiling" src="img/drive-translucent/14.jpg">
-                        <h4>How do stretch ceilings work with lights and other fittings and fixtures?</h4>
+                        <h4>How do stretch ceilings work with lights and other fittings?</h4>
                         <span>Admin
                             Post published:11/04/2022
                             Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity
                             Post comments:0 Comments</span>
-                        <p>In residential or commercial area stretch ceiling are mostly used nowadays. Some people don’t know how stretch ceiling will make…</p>
+                        <p>In residential or commercial area stretch ceiling are mostly used nowadays…</p>
                         <button ><a href="stretch-ceilings-lights-fittings">Read More</a></button>
                     </li>
                     <li>
@@ -516,12 +516,12 @@
                     </li>
                     <li>
                         <img alt="Stretch Ceiling" src="img/drive-translucent/Stretch-Ceilings-Ltd_Lighting-Solutions_Octavia-House_1200x800.jpg">
-                        <h4>Different types of Stretch Ceiling</h4>
+                        <h4>Different types of Stretch<br> Ceiling</h4>
                         <span>Admin
                             Post published:24/03/2022
                             Post category:businessidea/business/ceiling/Franchising/india/manufacturing/opportunity/stretch
                             Post comments:0 Comments</span>
-                        <p>Thinking to style your interior with stretch ceilings? We at Iceil manufactures different types of stretch ceiling. Stretch ceiling comes…</p>
+                        <p>Thinking to style your interior with stretch ceilings?…</p>
                         <button ><a href="different-types-of-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>
@@ -531,7 +531,7 @@
                             Post published:16/03/2022
                             Post category:business/businessidea/ceiling/Franchising/india/opportunity/stretch
                             Post comments:0 Comments</span>
-                        <p>Stretch ceiling acts as the perfect acoustic solution for your room. If you are exposed to high sound around your…</p>
+                        <p>Stretch ceiling acts as the perfect acoustic solution…</p>
                         <button ><a href="acoustics-stretch-ceiling">Read More</a></button>
                     </li>
                     <li>

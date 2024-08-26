@@ -1335,13 +1335,17 @@ transform: scale(1);
     align-items: center;
     justify-content: flex-end;
 }
+
 .pagination button{
 	border:none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	background-color:#2676bc7a;
 	border-radius:50%;
-	font-size:2rem;
-	height:100%;
-	width:70%;
+	font-size: 2rem;
+	height: 90%;
+	width: 90%;
 }
 
 .pages {
