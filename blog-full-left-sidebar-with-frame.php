@@ -5,659 +5,355 @@
 <meta name="description" content="Explore Iceil's stretch ceilings and custom lighting solutions. Discover expert tips and trends on our blog for innovative architectural design ideas.">
 </head>
 
-<body>
-    <div class="inteco-mobile-header-wrap">
-        <div class="inteco-mobile-header inteco-header-background inteco-style-slide inteco-sticky-mobile-navigation mobile-navigation   "
-            id="inteco-mobile-header">
-            <div class="inteco-mobile-header-container inteco-container clearfix">
-                <div class="inteco-logo  inteco-item-pdlr">
-                    <div class="inteco-logo-inner">
-                        <a class="" href="Home"><img src="img/light/Iceil-logo-white.png" alt="our logo" width="200"
-                                height="39" title="logo" /></a>
-                    </div>
-                </div>
-                <div class="inteco-mobile-menu-right">
+<?php
+  include "./shared/navbar.php"
+?>
 
-
-<div class="inteco-overlay-menu inteco-mobile-menu" id="inteco-mobile-menu"><a
-        class="inteco-overlay-menu-icon inteco-mobile-menu-button inteco-mobile-button-hamburger"
-        href="#"><span></span></a>
-    <div class="inteco-overlay-menu-content inteco-navigation-font">
-        <div class="inteco-overlay-menu-close"></div>
-        <div class="inteco-overlay-menu-row">
-            <div class="inteco-overlay-menu-cell">
-                <ul id="menu-main-navigation" class="menu">
-                    <li class="menu-item menu-item-home current-menu-item "><a
-                            href="Home">Home</a>
-
-                    </li>
-                    <li class="menu-item "><a href="stretch-ceiling-manufacturer-india">Who we are</a>
-
-                    </li>
-                    <li class="menu-item "><a href="Projects">Our Projects</a>
-
-                    </li>
-                    <li class="menu-item "><a href="Partners">Partner With us</a>
-
-                    </li>
-                    <li class="menu-item "><a
-                            href="Blogs">Blogs</a>
-                    </li>
-                    <li class="menu-item "><a href="ContactUs">Contact Us</a>
-
-                    </li>
-                    <li class="menu-item "><a href="Downloads">Downloads</a>
-
-                    </li>
-                    
-                    <li class="menu-item menu-item-has-children"><a href="#"
-                            class="mry-default-link">Stretch Ceilings</a>
-                        <ul class="sub-menu">
-                            <li class="menu-item"><a href="Translucent-Stretch-Ceilings"
-                                    class="mry-anima-link mry-default-link">Translucent Stretch ceiling </a></li>
-                            <li class="menu-item"><a href="Printed-Stretch-Ceilings"
-                                    class="mry-anima-link mry-default-link">Printed Stretch Ceiling</a></li>
-                            <li class="menu-item"><a href="RGB"
-                                    class="mry-anima-link mry-default-link">RGB Dynamic Stretch Ceiling</a></li>
-                            <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings"
-                                    class="mry-anima-link mry-default-link">3D Forms Stretch Ceiling</a></li>
-                            <li class="menu-item"><a href="Acoustic"
-                                    class="mry-anima-link mry-default-link">Acoustic Stretch Ceiling</a></li>
-                            <li class="menu-item"><a href="Lacquer-Ceilings"
-                                    class="mry-anima-link mry-default-link">Lacquer Stretch Ceiling</a></li>
-                            <li class="menu-item"><a href="Printed-Lacquer-Ceilings"
-                                    class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
-                            <li class="menu-item"><a href="ArtPerforated"
-                                    class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
-                            <li class="menu-item"><a href="Mirror"
-                                    class="mry-anima-link mry-default-link">Mirror Stretch Ceiling</a></li>
-                            <li class="d-none menu-item"><a href="Fabric-Light-Boxes"
-                                    class="mry-anima-link mry-default-link">Signage LightBox</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item"><a href="Metal"
-                            class="mry-default-link">Metal Perforated Ceiling</a></li>
-                    <li class="menu-item menu-item-has-children"><a href="#"
-                            class="mry-default-link">Architectural  lighting</a>
-                        <ul class="sub-menu">
-                            <li class="menu-item"><a href="Geometrical"
-                                    class="mry-anima-link mry-default-link">Geometrical shape custom lighting</a>
-                            </li>
-                            <li class="menu-item"><a href="ARC"
-                                    class="mry-anima-link mry-default-link">Iceil ARC / WAVE Linear</a>
-                            </li>
-                            <li class="menu-item"><a href="Surface"
-                                    class="mry-anima-link mry-default-link">Iceil Surface / Suspended Linear</a>
-                            </li>
-                            <li class="menu-item"><a href="Curved"
-                                    class="mry-anima-link mry-default-link">Iceil Curved Recessed Linear</a>
-                            </li>
-                            <li class="menu-item"><a href="Outward-Inward"
-                                    class="mry-anima-link mry-default-link">Iceil Outward / Inward / Downward Linear</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="menu-item "><a href="3DWallGraphics">Custom Wall Graphics</a>
-                    </li>
-                    <li class="menu-item "><a href="Fabric-Light-Boxes">Signage lightbox</a></li>
-                    
-                    <li class="menu-item menu-item-has-children"><a href="#."
-                            class="mry-default-link">Architect Area & Technical Infos</a>
-                        <ul class="sub-menu">
-                            <li class="menu-item"><a href="StretchCeiling"
-                                    class="mry-anima-link mry-default-link">BOQ</a></li>
-                            <li class="menu-item"><a href="Boxing"
-                                    class="mry-anima-link mry-default-link">Boxing</a></li>
-                        </ul>
-                    </li>
-
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-            </div>
-        </div>
-
-    </div>
-    <div class="mry-app">
-
-        <!-- preloader -->
-        <div class="mry-preloader mry-active">
-            <div class="mry-preloader-content pre-loader">
-                <img class=" mry-mb-20 " src="img/light/Iceil-final-logo-png.webp" alt="loader">
-
-                <div class="mry-loader-bar">
-                    <div class="mry-loader"></div>
-                </div>
-                <div class="mry-label">Please wait</div>
-            </div>
-        </div>
-        <!-- preloader end -->
-
-        <!-- cursor -->
-
-        <!-- cursor end -->
-
-       
-                <!-- top panel -->
-                <div class="mry-top-panel row d-flex justify-content-between">
-                    <div class="mry-logo-frame col-lg-6 col-md-6">
-                        <div class="row">
-                            <a href="Home" class="col-lg-5 col-md-4 mry-default-link mry-anima-link">
-                                <img class="mry-logo" src="img/light/Iceil-final-logo-png.webp" alt="our logo">
-                            </a>
+            <!--banner-->
+            <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image"
+                style="height: 65vh;background-image:url(img/light/header.jpg)">
+                <div class="inteco-header-transparent-substitute"></div>
+                <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
+                <div class="inteco-blog-title-bottom-overlay"></div>
+                <div class="inteco-blog-title-container inteco-container">
+                    <div class="inteco-blog-title-content inteco-item-pdlr">
+                        <div class="inteco-page-title-container-about-our">
+                            <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
+                                <h1 class="inteco-page-title Curved">Blogs
+                                </h1>
+                            </div>
                         </div>
                     </div>
-                    <div class="mry-menu-button-frame col-lg-6 col-md-6 justify-content-end">
-                        <div class="row">
-                        <div class="mry-label"></div>
+                </div>
                         
-                            <div class="col-lg-12 mry-menu-btn mry-magnetic-link">
-                                <div class="mry-burger mry-magnetic-object">
-                                    <span></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- top panel end -->
-
-      <!-- menu -->
-      <div class="mry-menu">
-                    <div class="container">
-                        <div class="row justify-content-between navbar-caps">
-                            <div class="col-md-4 menu-list">
-                                <nav id="mry-dynamic-menu">
-                                    <ul>
-                                        <li class="menu-item "><a href="Home" class="mry-default-link">Home</a>
-                                        </li>
-
-                                        <li class="menu-item"><a href="stretch-ceiling-manufacturer-india"
-                                                class="mry-anima-link mry-default-link">Who We Are</a></li>
-                                        <li class="menu-item"><a href="Projects"
-                                                class="mry-anima-link mry-default-link">Our Projects</a></li>
-                                        <li class="menu-item"><a href="Partners"
-                                                class="mry-anima-link mry-default-link">Partner with us</a></li>
-
-                                        <li class="menu-item"><a href="Blogs"
-                                                class="mry-anima-link mry-default-link">Blogs</a></li>
-                                        <li class="menu-item"><a href="ContactUs"
-                                                class="mry-anima-link mry-default-link">Contact Us</a></li>
-
-                                        <li class="menu-item"><a href="Downloads"
-                                                class="mry-anima-link mry-default-link">Downloads</a></li>
-
-                                        
-
-
-                                    </ul>
-                                </nav>
-
-                            </div>
-                            <div class="col-md-4 menu-list">
-
-                                <nav id="mry-dynamic-menu">
-                                    <ul>
-                                        <li class="menu-item menu-item-has-children"><a href="#."
-                                                class="mry-default-link">Stretch Ceilings</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item"><a href="Translucent-Stretch-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Translucent Stretch ceiling </a></li>
-                                                <li class="menu-item"><a href="Printed-Stretch-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Printed Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="RGB"
-                                                        class="mry-anima-link mry-default-link">RGB Dynamic Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="3D-Forms-Stretch-Ceilings"
-                                                        class="mry-anima-link mry-default-link">3D Forms Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="Acoustic"
-                                                        class="mry-anima-link mry-default-link">Acoustic Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="Lacquer-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Lacquer Stretch Ceiling</a></li>
-                                                <li class="menu-item"><a href="Printed-Lacquer-Ceilings"
-                                                        class="mry-anima-link mry-default-link">Printed Lacquer Ceiling</a></li>
-                                                <li class="menu-item"><a href="ArtPerforated"
-                                                        class="mry-anima-link mry-default-link">Art Perforated Ceiling</a></li>
-                                                <li class="menu-item"><a href="Mirror"
-                                                        class="mry-anima-link mry-default-link">Mirror Stretch Ceiling</a></li>
-                                                <li class="d-none menu-item"><a href="Fabric-Light-Boxes"
-                                                        class="mry-anima-link mry-default-link">Signage LightBox</a></li>
-                                                
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item"><a href="Metal"
-                                            class="mry-anima-link mry-default-link">Metal Perforated Ceiling</a> </li>
-                                        <li class="menu-item menu-item-has-children"><a href="#"
-                                                class="mry-default-link">Architectural  lighting</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item"><a href="Geometrical"
-                                                        class="mry-anima-link mry-default-link">Geometrical shape custom lighting</a>
-                                                </li>
-                                                <li class="menu-item"><a href="ARC"
-                                                        class="mry-anima-link mry-default-link">Iceil ARC / WAVE Linear</a>
-                                                </li>
-                                                <li class="menu-item"><a href="Surface"
-                                                        class="mry-anima-link mry-default-link">Iceil Surface / Suspended Linear</a>
-                                                </li>
-                                                <li class="menu-item"><a href="Curved"
-                                                        class="mry-anima-link mry-default-link">Iceil Curved Recessed Linear</a>
-                                                </li>
-                                                <li class="menu-item"><a href="Outward-Inward"
-                                                        class="mry-anima-link mry-default-link">Iceil Outward / Inward / Downward Linear</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item"><a href="3DWallGraphics"
-                                                class="mry-anima-link mry-default-link">Custom Wall Graphics</a></li>
-                                        <li class="menu-item"><a href="Fabric-Light-Boxes"
-                                                class="mry-anima-link mry-default-link">Signage lightbox</a></li>
-                                        
-                                        <li class="menu-item menu-item-has-children"><a href="#."
-                                                class="mry-default-link">Architect Area & Technical Infos</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item"><a href="StretchCeiling"
-                                                        class="mry-anima-link mry-default-link">BOQ</a></li>
-                                                <li class="menu-item"><a href="Boxing"
-                                                        class="mry-anima-link mry-default-link">Boxing</a></li>
-
-                                            </ul>
-                                        </li>
-                                        
-
-
-                                    </ul>
-                                </nav>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mry-info-box-frame">
-                                    <div class="mry-info-box">
-                                        <div class="mry-mb-20">
-                                            <div class="mry-label mry-mb-5">Country:</div>
-                                            <div class="mry-text">India</div>
-                                        </div>
-                                        <div class="mry-mb-20">
-                                            <div class="mry-label mry-mb-5">City:</div>
-                                            <div class="mry-text">Chennai</div>
-                                        </div>
-                                        <div class="mry-mb-20">
-                                            <div class="mry-label mry-mb-5">Adress:</div>
-                                            <div class="mry-text">290A, 80 Feet TNHB Road, Sholinganallur,
-                                                Chennai – 600 119</div>
-                                        </div>
-                                        <div class="mry-mb-20">
-                                            <div class="mry-label mry-mb-5">Email:</div>
-                                            <a class="mry-text"
-                                                href="mailto:mireya.inbox@mail.com">info@iceilsystems.com</a>
-                                        </div>
-                                        <div class="mry-mb-20">
-                                            <div class="mry-label mry-mb-5">Phone:</div>
-                                            <a class="mry-text" href="#.">+91 8925848069
-                                                </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- menu end -->
-
-        <div class="transition-fade">
-            <div class="mry-content-frame" id="scroll">
-                <!-- <canvas class="mry-dots"></canvas> -->
-
             </div>
-        </div>
 
-    </div>
-
-    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image"
-        style="background-image: url(img/light/header.jpg) ;">
-        <div class="inteco-header-transparent-substitute"></div>
-        <!-- <div class="inteco-blog-title-top-overlay"></div> -->
-        <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
-        <div class="inteco-blog-title-bottom-overlay"></div>
-        <div class="inteco-blog-title-container inteco-container">
-            <div class="inteco-blog-title-content inteco-item-pdlr" style="padding-top: 400px ;padding-bottom: 80px ;">
-                <header class="inteco-single-article-head clearfix">
-                    <div class="inteco-single-article-head-right">
-                        <h1 class="inteco-single-article-title" style="color: white; padding-left:40px">Blogs</h1>
-
-                    </div>
-                </header>
-            </div>
-        </div>
-                        
-        </div>
-
+           
     <div class="wrapper-blog">
       
 
-        <div class="main-blog " style="background-color:#2676bc0d">
-           
-            <div class="body-blog">
-                
-            <section class="blog-page">
-                <ul class="page pagin">
-                    <li>
-                        <img src="images/blog-page/blog-1.jpg" alt="How Stretch Ceilings Can Improve Your IT Workplace">
-                        <h4>How Stretch Ceilings Can Improve Your IT Workplace</h4>
-                        <span>Admin-
-                            Post published:08/05/2023
-                            Post category:businessidea/ceiling/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>The IT industry is one of the most demanding and fast-paced fields in the world, and creating a comfortable work…</p>
-                        <button ><a href="improve-your-IT-workplace">Read More</a></button>
-                    </li>
-                    <li>
-                        <img src="images/blog-page/blog-2.jpg" alt="Stretch Ceiling">
-                        <h4>What is the benefit of a Stretch Ceiling? </h4>
-                        <span>Admin
-                            Post published:17/12/2022
-                            Post category:ceiling/businessidea/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>Introduction: Stretch ceilings, an ideal solution for many different applications. There are great…</p>
-                        <button ><a href="What-is-the-benefit">Read More</a></button>
-                    </li>
-                    <li>
-                        <img src="images/blog-page/blog-3.jpg" alt="Stretch Ceiling">
-                        <h4>Stretch Ceilings –Much STRONGER than you can imagine</h4>
-                        <span>Admin
-                            Post published:26/08/2022
-                            Post category:businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>Stretch ceiling, latest trend in customised lighting and ceiling solutions is being included in solutions across …</p>
-                        <button ><a href="much-stronger">Read More</a></button>
-                    </li>
-                    <li>
-                        <img src="img/drive-3d/01.jpg" alt="Stretch Ceiling">
-                        <h4>Why stretch ceiling are perfect for Wet / Humid rooms?</h4>
-                        <span>Admin
-                            Post published:28/06/2022
-                            Post category:opportunity/businessidea/ceiling/Franchising/india/stretch
-                            Post comments:0 Comments</span>
-                        <p>While Constructing & Renovating wet rooms like bathrooms and swimming pools, one of the main concerns is that…</p>
-                        <button ><a href="perfect-for-wet">Read More</a></button>
-                    </li>
-                    <li>
-                        <img src="images/blog-page/blog-4.jpeg" alt="Stretch Ceiling">
-                        <h4>High Gloss Lacquer stretch ceiling with linear lights</h4>
-                        <span>Admin
-                            Post published:27/05/2022
-                            Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch Post comments:0 Comments</span>
-                        <p>Stretch ceiling are greatly recommended for remodelling the interior of the residential/ business spaces…</p>
-                        <button ><a href="high-gloss-lacquer">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/Printed Stretch Ceiling/university/Hindustan (2).jpeg">
-                        <h4>Stretch Ceiling – Power Consumption</h4>
-                        <span>Admin
-                            Post published:24/05/2022
-                            Post category:ceiling/businessidea/Franchising/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>Stretch ceiling is more popular nowadays as it's a customized lighting solution as well. Illuminating with …</p>
-                        <button ><a href="power-consumption">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/integrated-lighting-lobby-stretch-ceiling-.jpg">
-                        <h4>How do you maintain Stretch Ceilings?</h4>
-                        <span>Admin
-                            Post published:04/05/2022
-                            Post category:business/businessidea/ceiling/manufacturing/stretch
-                            Post comments:0 Comments</span>
-                        <p>Stretch ceiling is now one of the most popular buzzword in the interior industry.  In many Commercial…</p>
-                        <button ><a href="how-do-you-maintain">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/27.jpg">
-                        <h4>Stretch ceiling – Perfect choice for restaurant</h4>
-                        <span>Admin
-                            Post published:29/04/2022
-                            Post category:business/businessidea/ceiling/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>Stretch ceiling has become architects favourite choice for restaurant. Odourless nature of stretch ceiling makes…</p>
-                        <button ><a href="perfect-choice-for-restaurant">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/20.jpg">
-                        <h4>Pros and cons of 3D Stretch Ceiling</h4>
-                        <span>Admin
-                            Post published:27/04/2022
-                            Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments
-                            </span>
-                        <p>3D stretch ceiling is one of the striking revolutions in the interior design world. Nowadays, we can see more …</p>
-                        <button ><a href="3D-stretch-ceiling">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/19.jpg">
-                        <h4>Stretch ceiling on a wall</h4>
-                        <span>Admin
-                            Post published:22/04/2022
-                            Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>Stretch ceiling is the most innovative concept in the interior industry. Most builders recommend stretch ceiling to…</p>
-                        <button ><a href="stretch-ceiling-on-a-wall.php">Read More</a></button>
-                    </li>
-                </ul>
-                <!-- Page 1 -->
-        
-                <ul class="page pagin">
-                    <li>
-                        <img  alt="Stretch Ceiling" src="img/drive-translucent/18.jpg">
-                        <h4>Stretch ceiling shapes</h4><br>
-                        <span>Admin
-                            Post published:15/04/2022
-                            Post category:ceiling/business/india/manufacturing/stretch
-                            Post comments:0 Comments</span>
-                        <p>Stretch ceilings can be shaped into any forms. More complex structures can be formed with the help of stretch ceiling…</p>
-                        <button ><a href="Stretch-ceiling-shapes">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/14.jpg">
-                        <h4>How do stretch ceilings work with lights and other fittings?</h4>
-                        <span>Admin
-                            Post published:11/04/2022
-                            Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity
-                            Post comments:0 Comments</span>
-                        <p>In residential or commercial area stretch ceiling are mostly used nowadays…</p>
-                        <button ><a href="stretch-ceilings-lights-fittings">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/08.jpg">
-                        <h4>European Vs Chinese Stretch Ceilings</h4>
-                        <span>Admin
-                            Post published:08/04/2022
-                            Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>In the interior industry, stretch ceiling concepts are spreading all over India. Every stretch ceiling company in India will say…</p>
-                        <button ><a href="european-vs-chinese-stretch-ceilings">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/10.jpg">
-                        <h4>Printed ceiling made easy with Iceil stretch ceiling</h4>
-                        <span>Admin
-                            Post published:06/04/2022
-                            Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>Many customers prefer printed stretch ceilings for their unlimited designs. Some people like to décor the interior with some interesting…</p>
-                        <button ><a href="printed-ceiling-iceil-stretch-ceiling">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/12.jpg">
-                        <h4>How to Fit Stretch Ceiling System into my Space</h4>
-                        <span>Admin
-                            Post published:02/04/2022
-                            Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>Stretch ceiling one of the best options for a false ceiling. Nowadays everyone like to decorate the interior with modern…</p>
-                        <button ><a href="how-to-fit-stretch-ceiling-system-into-my-space">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/07.jpg">
-                        <h4>5 Ways Stretch Ceilings Can Save You Money</h4>
-                        <span>Admin
-                            Post published:29/03/2022
-                            Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>Stretch ceilings an innovation in interior design industry which creates elite look to your interior. It is widely spreading across…</p>
-                        <button ><a href="5-ways-stretch-ceilings-can-save-you-money">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/shopping-center-stretch-ceiling.jpg">
-                        <h4>Stretch ceiling – Best for entertainment centre</h4>
-                        <span>Admin
-                            Post published:26/03/2022
-                            Post category:Uncategorized
-                            Post comments:0 Comments</span>
-                        <p>Stretch ceiling will be perfect to decorate the leisure area. It is now popular among many architects and interior designer.…</p>
-                        <button ><a href="stretch-ceiling-best-for-entertainment-centre">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/Stretch-Ceilings-Ltd_Lighting-Solutions_Octavia-House_1200x800.jpg">
-                        <h4>Different types of Stretch<br> Ceiling</h4>
-                        <span>Admin
-                            Post published:24/03/2022
-                            Post category:businessidea/business/ceiling/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>Thinking to style your interior with stretch ceilings?…</p>
-                        <button ><a href="different-types-of-stretch-ceiling">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Acoustics Stretch Ceiling" src="img/drive-translucent/TRANS 10 (1).jpg">
-                        <h4>Improve your room acoustics with stretch ceiling</h4>
-                        <span>Admin
-                            Post published:16/03/2022
-                            Post category:business/businessidea/ceiling/Franchising/india/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>Stretch ceiling acts as the perfect acoustic solution…</p>
-                        <button ><a href="acoustics-stretch-ceiling">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Lacquer Ceiling" src="img/drive-translucent/translucent-stretch-ceilings.jpg">
-                        <h4>High gloss Lacquer Ceiling</h4>
-                        <span>Admin
-                            Post published:14/03/2022
-                            Post category:ceiling/business/businessidea/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>Lacquer ceiling is considered as one of the best stretch ceiling which creates a glossy look to your interior. Due…</p>
-                        <button ><a href="lacquer-ceiling-in-india">Read More</a></button>
-                    </li>
-                </ul>
-                <!-- Page 2 -->
-        
-                <ul class="page">
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/integrated-lighting-lobby-stretch-ceiling-.jpg">
-                        <h4>6 things you didn’t know about Stretch Ceilings</h4> 
-                        <span>Admin
-                            Post published:11/03/2022
-                            Post category:business/businessidea/ceiling/Franchising/manufacturing/opportunity/Uncategorized
-                            Post comments:0 Comments</span>
-                        <p>Stretch ceilings become the latest trend in the interior industry. Many architects prefer stretch ceilings to give rich look to…</p>
-                        <button ><a href="about-Stretch-Ceilings.php">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling"src="img/drive-translucent/09.jpg">
-                        <h4>Starry Galaxy Ceiling made with Stretch Ceiling</h4> 
-                        <span>Admin
-                            Post published:10/03/2022
-                            Post category:Uncategorized
-                            Post comments:0 Comments</span>
-                        <p>Galaxy ceiling is one of the unique creations in the stretch ceiling. In childhood, everyone had dreamt of sleeping under…</p>
-                        <button ><a href="Starry-Galaxy-Ceiling">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/01.webp">
-                        <h4>What is a Translucent Stretch Ceiling?</h4>
-                        <span>Admin
-                            Post published:09/03/2022
-                            Post category:Uncategorized
-                            Post comments:0 Comments</span> 
-                        <p>What is a Translucent Stretch Ceiling? Translucent stretch ceiling is considered as the future of the interior décor. These ceilings…</p>
-                        <button ><a href="Translucent-stretch-ceiling">Read More</a></button>
-                    </li>
-                    <li>
-                        <img alt="Stretch Ceiling" src="img/drive-translucent/03 (1).jpg">
-                        <h4>Why we are better than other stretch ceiling manufacturers In India?</h4> 
-                        <span>Admin
-                            Post published:24/02/2022
-                            Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>In the interior designing world, stretch ceilings have become the latest trend. There are very few manufacturers who produce Stretch…</p>
-                        <button ><a href="Why-we-are-better">Read More</a></button>
-                    </li>
-                    <li>
-                        <img src="img/drive-translucent/3d6.jpg" alt="Stretch Ceiling">
-                        <h4>Leading Stretch Ceiling Manufacturer in India</h4> 
-                        <span>Admin
-                            Post published:12/11/2021
-                            Post category:stretch/business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/Uncategorized
-                            Post comments:0 Comments</span>
-                        <p>Leading stretch ceiling manufacturer in India offering quality stretch ceiling solutions. Lighting Solution for Stretch Ceilings: It’s very important to…</p>
-                        <button ><a href="Leading-Stretch-Ceiling">Read More</a></button>
-                    </li>
-                    <li>
-                        <img src="img/drive-translucent/02.jpg" alt="Stretch Ceiling">
-                        <h4>Best Business Opportunity in India 2021.</h4> 
-                        <span>Admin
-                            Post published:26/10/2021
-                            Post category:business/businessidea/Franchising/opportunity
-                            Post comments:0 Comments</span>
-                        <p>Best Business Opportunity in India 2021. Join with us to explore our franchise business opportunity in Interior world. Start Your…</p>
-                        <button ><a href="Best-Business-Opportunity">Read More</a></button>
-                    </li>
-                    <li>
-                        <img src="img/drive-translucent/05.jpg" alt="Stretch Ceiling">
-                        <h4>What is stretch ceiling?</h4> 
-                        <span>Admin
-                            Post published:07/11/2020
-                            Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:1 Comment</span>
-                        <p>Your possible solution to many problems. Do you know why stretch ceiling is considered as the best option for designing…</p>
-                        <button ><a href="What-is-stretch-ceiling">Read More</a></button>
-                    </li>
-                    <li>
-                        <img src="img/drive-translucent/06.jpg" alt="STRETCH or GYPSUM">
-                        <h4>Which Ceiling is better: STRETCH or GYPSUM?</h4> 
-                        <span>Admin
-                            Post published:18/08/2020
-                            Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
-                            Post comments:0 Comments</span>
-                        <p>All operations for leveling and cleaning the ceiling are complex and require a lot of investments. But the stretch or…</p>
-                        <button ><a href="Which-cielling-is-better.php">Read More</a></button>
-                    </li>
-                </ul>
-                <!-- Page 3 -->
-        
-            </section>
-            <div class="pagination">
-                <button class="arrow" id="prevPage" disabled>← <span class="nav-text"></span></button>
-                <div class="pages">
-                    <div class="page-number active">1</div>
-                    <div class="page-number">2</div>
-                    <div class="page-number">3</div>
-                </div>
-                <button class="arrow" id="nextPage"><span class="nav-text"></span> →</button>
-            </div>
-        </div>
-        </div>
-    </div>
-    <?php
+      <div class="main-blog " style="background-color:#2676bc0d">
+         
+          <div class="body-blog">
+              
+          <section class="blog-page">
+              <ul class="pagin">
+                  <li>
+                      <img src="images/blog-page/blog-1.jpg" alt="How Stretch Ceilings Can Improve Your IT Workplace">
+                      <h4>How Stretch Ceilings Can Improve Your IT Workplace</h4>
+                      <span>Admin-
+                          Post published:08/05/2023
+                          Post category:businessidea/ceiling/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>The IT industry is one of the most demanding and fast-paced fields in the world, and creating a comfortable work…</p>
+                      <button ><a href="improve-your-IT-workplace">Read More</a></button>
+                  </li>
+                  <li>
+                      <img src="images/blog-page/blog-2.jpg" alt="Stretch Ceiling">
+                      <h4>What is the benefit of a Stretch Ceiling? </h4>
+                      <span>Admin
+                          Post published:17/12/2022
+                          Post category:ceiling/businessidea/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>Introduction: Stretch ceilings, an ideal solution for many different applications. There are great…</p>
+                      <button ><a href="What-is-the-benefit">Read More</a></button>
+                  </li>
+                  <li>
+                      <img src="images/blog-page/blog-3.jpg" alt="Stretch Ceiling">
+                      <h4>Stretch Ceilings –Much STRONGER than you can imagine</h4>
+                      <span>Admin
+                          Post published:26/08/2022
+                          Post category:businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>Stretch ceiling, latest trend in customised lighting and ceiling solutions is being included in solutions across …</p>
+                      <button ><a href="much-stronger">Read More</a></button>
+                  </li>
+                  <li>
+                      <img src="img/drive-3d/01.jpg" alt="Stretch Ceiling">
+                      <h4>Why stretch ceiling are perfect for Wet / Humid rooms?</h4>
+                      <span>Admin
+                          Post published:28/06/2022
+                          Post category:opportunity/businessidea/ceiling/Franchising/india/stretch
+                          Post comments:0 Comments</span>
+                      <p>While Constructing & Renovating wet rooms like bathrooms and swimming pools, one of the main concerns is that…</p>
+                      <button ><a href="perfect-for-wet">Read More</a></button>
+                  </li>
+                  <li>
+                      <img src="images/blog-page/blog-4.jpeg" alt="Stretch Ceiling">
+                      <h4>High Gloss Lacquer stretch ceiling with linear lights</h4>
+                      <span>Admin
+                          Post published:27/05/2022
+                          Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch Post comments:0 Comments</span>
+                      <p>Stretch ceiling are greatly recommended …</p>
+                      <button ><a href="high-gloss-lacquer">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/Printed Stretch Ceiling/university/Hindustan (2).jpeg">
+                      <h4>Stretch Ceiling – Power<br> Consumption</h4>
+                      <span>Admin
+                          Post published:24/05/2022
+                          Post category:ceiling/businessidea/Franchising/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>Stretch ceiling is more popular nowadays as it's a customized lighting solution as well. Illuminating with …</p>
+                      <button ><a href="power-consumption">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/integrated-lighting-lobby-stretch-ceiling-.jpg">
+                      <h4>How do you maintain Stretch Ceilings?</h4>
+                      <span>Admin
+                          Post published:04/05/2022
+                          Post category:business/businessidea/ceiling/manufacturing/stretch
+                          Post comments:0 Comments</span>
+                      <p>Stretch ceiling is now one of the most popular buzzword in the interior industry.  In many Commercial…</p>
+                      <button ><a href="how-do-you-maintain">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/27.jpg">
+                      <h4>Stretch ceiling – Perfect choice for restaurant</h4>
+                      <span>Admin
+                          Post published:29/04/2022
+                          Post category:business/businessidea/ceiling/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>Stretch ceiling has become architects favourite choice for restaurant. Odourless nature of stretch ceiling makes…</p>
+                      <button ><a href="perfect-choice-for-restaurant">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/20.jpg">
+                      <h4>Pros and cons of 3D Stretch Ceiling</h4>
+                      <span>Admin
+                          Post published:27/04/2022
+                          Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments
+                          </span>
+                      <p>3D stretch ceiling is one of the striking revolutions in the interior design world. Nowadays, we can see more …</p>
+                      <button ><a href="3D-stretch-ceiling">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/19.jpg">
+                      <h4>Stretch ceiling on a wall</h4>
+                      <span>Admin
+                          Post published:22/04/2022
+                          Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>Stretch ceiling is the most innovative concept in the interior industry. Most builders recommend stretch ceiling to…</p>
+                      <button ><a href="stretch-ceiling-on-a-wall.php">Read More</a></button>
+                  </li>
+              </ul>
+              <!-- Page 1 -->
+      
+              <ul class="page pagin">
+                  <li>
+                      <img  alt="Stretch Ceiling" src="img/drive-translucent/18.jpg">
+                      <h4>Stretch ceiling <br>shapes</h4>
+                      <span>Admin
+                          Post published:15/04/2022
+                          Post category:ceiling/business/india/manufacturing/stretch
+                          Post comments:0 Comments</span>
+                      <p>Stretch ceilings can be shaped into any forms. More complex structures can be formed with the help of stretch ceiling…</p>
+                      <button ><a href="Stretch-ceiling-shapes">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/14.jpg">
+                      <h4>How do stretch ceilings work with lights and other fittings?</h4>
+                      <span>Admin
+                          Post published:11/04/2022
+                          Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity
+                          Post comments:0 Comments</span>
+                      <p>In residential or commercial area stretch ceiling are mostly used nowadays…</p>
+                      <button ><a href="stretch-ceilings-lights-fittings">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/08.jpg">
+                      <h4>European Vs Chinese <br>Stretch Ceilings</h4>
+                      <span>Admin
+                          Post published:08/04/2022
+                          Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>In the interior industry, …</p>
+                      <button ><a href="european-vs-chinese-stretch-ceilings">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/10.jpg">
+                      <h4>Printed ceiling made easy with Iceil stretch ceiling</h4>
+                      <span>Admin
+                          Post published:06/04/2022
+                          Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>Many customers prefer printed stretch ceilings for their unlimited designs. Some people like to décor the interior with some interesting…</p>
+                      <button ><a href="printed-ceiling-iceil-stretch-ceiling">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/12.jpg">
+                      <h4>How to Fit Stretch Ceiling System into my Space</h4>
+                      <span>Admin
+                          Post published:02/04/2022
+                          Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>Stretch ceiling one of the best options for a false ceiling. Nowadays everyone like to decorate the interior with modern…</p>
+                      <button ><a href="how-to-fit-stretch-ceiling-system-into-my-space">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/07.jpg">
+                      <h4>5 Ways Stretch Ceilings Can Save You Money</h4>
+                      <span>Admin
+                          Post published:29/03/2022
+                          Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>Stretch ceilings an innovation in interior design industry which creates elite look to your interior. It is widely spreading across…</p>
+                      <button ><a href="5-ways-stretch-ceilings-can-save-you-money">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/shopping-center-stretch-ceiling.jpg">
+                      <h4>Stretch ceiling – Best for entertainment centre</h4>
+                      <span>Admin
+                          Post published:26/03/2022
+                          Post category:Uncategorized
+                          Post comments:0 Comments</span>
+                      <p>Stretch ceiling will be perfect to decorate the leisure area. It is now popular among many architects and…</p>
+                      <button ><a href="stretch-ceiling-best-for-entertainment-centre">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/Stretch-Ceilings-Ltd_Lighting-Solutions_Octavia-House_1200x800.jpg">
+                      <h4>Different types of Stretch<br> Ceiling</h4>
+                      <span>Admin
+                          Post published:24/03/2022
+                          Post category:businessidea/business/ceiling/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>…</p>
+                      <button ><a href="different-types-of-stretch-ceiling">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Acoustics Stretch Ceiling" src="img/drive-translucent/TRANS 10 (1).jpg">
+                      <h4>Improve your room acoustics with stretch ceiling</h4>
+                      <span>Admin
+                          Post published:16/03/2022
+                          Post category:business/businessidea/ceiling/Franchising/india/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>Stretch ceiling acts as the perfect acoustic solution…</p>
+                      <button ><a href="acoustics-stretch-ceiling">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Lacquer Ceiling" src="img/drive-translucent/translucent-stretch-ceilings.jpg">
+                      <h4>High gloss Lacquer Ceiling</h4>
+                      <span>Admin
+                          Post published:14/03/2022
+                          Post category:ceiling/business/businessidea/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>Lacquer ceiling is considered as one of the best stretch ceiling which creates a glossy look to your interior. Due…</p>
+                      <button ><a href="lacquer-ceiling-in-india">Read More</a></button>
+                  </li>
+              </ul>
+              <!-- Page 2 -->
+      
+              <ul class="page pagin">
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/integrated-lighting-lobby-stretch-ceiling-.jpg">
+                      <h4>6 things you didn’t know about Stretch Ceilings</h4> 
+                      <span>Admin
+                          Post published:11/03/2022
+                          Post category:business/businessidea/ceiling/Franchising/manufacturing/opportunity/Uncategorized
+                          Post comments:0 Comments</span>
+                      <p>Stretch ceilings become the latest trend in the …</p>
+                      <button ><a href="about-Stretch-Ceilings.php">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling"src="img/drive-translucent/09.jpg">
+                      <h4>Starry Galaxy Ceiling made with Stretch Ceiling</h4> 
+                      <span>Admin
+                          Post published:10/03/2022
+                          Post category:Uncategorized
+                          Post comments:0 Comments</span>
+                      <p>Galaxy ceiling is one of the unique creations in the stretch ceiling. In childhood, everyone had dreamt of sleeping under…</p>
+                      <button ><a href="Starry-Galaxy-Ceiling">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/01.webp">
+                      <h4>What is a Translucent Stretch Ceiling?</h4>
+                      <span>Admin
+                          Post published:09/03/2022
+                          Post category:Uncategorized
+                          Post comments:0 Comments</span> 
+                      <p>What is a Translucent Stretch Ceiling? Translucent stretch ceiling is considered as the future of the interior décor. These ceilings…</p>
+                      <button ><a href="Translucent-stretch-ceiling">Read More</a></button>
+                  </li>
+                  <li>
+                      <img alt="Stretch Ceiling" src="img/drive-translucent/03 (1).jpg">
+                      <h4>Why we are better than other stretch ceiling manufacturers?</h4> 
+                      <span>Admin
+                          Post published:24/02/2022
+                          Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>In the interior designing world, stretch ceilings have become the latest trend…</p>
+                      <button ><a href="Why-we-are-better">Read More</a></button>
+                  </li>
+                  <li>
+                      <img src="img/drive-translucent/3d6.jpg" alt="Stretch Ceiling">
+                      <h4>Leading Stretch Ceiling Manufacturer in India</h4> 
+                      <span>Admin
+                          Post published:12/11/2021
+                          Post category:stretch/business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/Uncategorized
+                          Post comments:0 Comments</span>
+                      <p>Leading stretch ceiling manufacturer in India offering quality stretch ceiling solutions. Lighting Solution …</p>
+                      <button ><a href="Leading-Stretch-Ceiling">Read More</a></button>
+                  </li>
+                  <li>
+                      <img src="img/drive-translucent/02.jpg" alt="Stretch Ceiling">
+                      <h4>Best Business Opportunity in India 2021.</h4> 
+                      <span>Admin
+                          Post published:26/10/2021
+                          Post category:business/businessidea/Franchising/opportunity
+                          Post comments:0 Comments</span>
+                      <p>Best Business Opportunity in India 2021. Join with us to explore our franchise business opportunity in Interior world. Start Your…</p>
+                      <button ><a href="Best-Business-Opportunity">Read More</a></button>
+                  </li>
+                  <li>
+                      <img src="img/drive-translucent/05.jpg" alt="Stretch Ceiling">
+                      <h4>What is stretch<br> ceiling?</h4> 
+                      <span>Admin
+                          Post published:07/11/2020
+                          Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:1 Comment</span>
+                      <p>Your possible solution to many problems. Do you know why stretch ceiling is considered as the best option for designing…</p>
+                      <button ><a href="What-is-stretch-ceiling">Read More</a></button>
+                  </li>
+                  <li>
+                      <img src="img/drive-translucent/06.jpg" alt="STRETCH or GYPSUM">
+                      <h4>Which Ceiling is better: STRETCH or GYPSUM?</h4> 
+                      <span>Admin
+                          Post published:18/08/2020
+                          Post category:business/businessidea/ceiling/Franchising/india/manufacturing/opportunity/stretch
+                          Post comments:0 Comments</span>
+                      <p>All operations for leveling and cleaning the ceiling are complex and require a lot of investments. But the stretch or…</p>
+                      <button ><a href="Which-cielling-is-better.php">Read More</a></button>
+                  </li>
+              </ul>
+              <!-- Page 3 -->
+      
+          </section>
+          <div class="pagination">
+              <button class="arrow" id="prevPage" disabled>← <span class="nav-text"></span></button>
+              <div class="pages">
+                  <div class="page-number active">1</div>
+                  <div class="page-number">2</div>
+                  <div class="page-number">3</div>
+              </div>
+              <button class="arrow" id="nextPage"><span class="nav-text"></span> →</button>
+          </div>
+      </div>
+      </div>
+  </div>
+
+                <?php
                    include "./shared/footer.php"
                 ?>
-        </div>
-    </div>
-    <script>
+      <script>
         $(document).ready(function() {
             $('#sidebar-toggle').click(function() {
                 $('.sidebar-blog').toggle();
             });
         });
     </script>
-    <script src="js/blogpage.js"></script> 
+    <script src="js/blogpage.js"></script>   
     <?php
         include "./shared/script.php"
     ?>
-

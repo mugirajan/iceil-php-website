@@ -130,7 +130,7 @@
                             <div class=" whatwedodiv">
                                 <div class="whatwedo-image">
                                     <div>
-                                        <img src="img/drive-homepage/46.jpg" alt="Architectural Lighting">
+                                        <img src="images/our-projects/42.jpeg" alt="Architectural Lighting">
                                     </div>
                                     <h3>Architectural Custom Lighting</h3>
                                     <p>ICeil Architectural lights are constructed with lighting in combination with a suitable alumini- um frame and a Polycarbonate diffusers / stretch fabric. We can customize this to any shape and size.</p>
@@ -148,7 +148,7 @@
                             <div class=" whatwedodiv">
                                 <div class="whatwedo-image">
                                     <div>
-                                        <img src="img/drive-homepage/ceiling.jpg" alt="Strech Ceiling">
+                                        <img src="images/our-projects/81.jpg" alt="Strech Ceiling">
                                     </div>
                                     <h3>Mirror Ceiling</h3>
                                     <p>Mirror stretch ceilings not only enhance interior design by incorporating reflective surfaces but also visually expand spaces, creating a sleek and modern aesthetic. Achieving a mirror effect of 92-95% underscores its high reflectivity, re- sembling traditional mirrors closely.</p>
@@ -157,7 +157,7 @@
                             <div class="whatwedodiv">
                                 <div class="whatwedo-image">
                                     <div>
-                                        <img src="img/printed-latest/university/Hindustan (2).jpeg" alt="LED" >
+                                        <img src="images/our-projects/75.jpeg" alt="LED" >
                                     </div>
                                     <h3>Metal Perforated </h3>
                                     <p>Metal perforated illuminated ceilings integrate lighting within panels, enhancing ambiance and providing efficient lighting distribution, acoustic benefits, and a contemporary look suitable for diverse applications. They combine functionality with aesthetics, offering a versatile solution for modern interior designs.</p>
@@ -189,25 +189,7 @@
                                 <img src="img/client-logo/ultra confidential.png">
                                 <img src="img/client-logo/vaibhav.png">
                             </div>
-                            <div class="logo_items">
-                                <img src="img/client-logo/archinova.png">
-                                <img src="img/client-logo/cbre.png">
-                                <img src="img/client-logo/dlf.png">
-                                <img src="img/client-logo/ecotone.png">
-                                <img src="img/client-logo/godrej.png">
-                                <img src="img/client-logo/hunter.png">
-                                <img src="img/client-logo/keechery.png">
-                                <img src="img/client-logo/light scape.png">
-                                <img src="img/client-logo/lr infra.png">
-                                <img src="img/client-logo/lumino.png">
-                                <img src="img/client-logo/nexus.png">
-                                <img src="img/client-logo/radical.png">
-                                <img src="img/client-logo/signify.png">
-                                <img src="img/client-logo/sun infra.png">
-                                <img src="img/client-logo/touch stone.png">
-                                <img src="img/client-logo/ultra confidential.png">
-                                <img src="img/client-logo/vaibhav.png">
-                            </div>
+                          
                         </div>
                     <!--client-carousel end-->
 
@@ -436,9 +418,9 @@
                                 <div class="gdlr-core-blog-grid gdlr-core-style-2 gdlr-core-js  gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background  gdlr-core-outer-frame-element" style="box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -moz-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -webkit-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); ">
                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                         <a href="Blogs">
-                                            <img style="height:30vh" src="img/light/01aa.jpg" alt="blog-post" width="700" height="250" title="blog" />
+                                            <img style="height:30vh" src="img/drive-translucent/translucent-stretch-ceilings.jpg" alt="blog-post" width="700" height="250" title="blog" />
                                             <div class="gdlr-core-sticky-banner gdlr-core-title-font">
-                                                <i class="fa fa-bolt"></i>Sticky Post
+                                                <i class="fa fa-bolt"></i>Translucent
                                             </div>
                                         </a>
                                         <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-comment-number">
@@ -470,9 +452,9 @@
                                 <div class="gdlr-core-blog-grid gdlr-core-style-2 gdlr-core-js  gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background  gdlr-core-outer-frame-element" style="box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -moz-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -webkit-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); ">
                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                         <a href="Blogs">
-                                            <img style="height:30vh" src="img/light/stretchciel3.jpg" alt="blogPost" width="700" height="250" title="blog" />
+                                            <img style="height:30vh" src="img/drive-Printed-Stretch-Ceiling/WhatsApp Image 2024-04-13 at 13.46.13.jpeg" alt="blogPost" width="700" height="250" title="blog" />
                                             <div class="gdlr-core-sticky-banner gdlr-core-title-font">
-                                                <i class="fa fa-bolt"></i>Sticky Post
+                                                <i class="fa fa-bolt"></i>Printed
                                             </div>
                                         </a>
                                         <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-comment-number">
@@ -508,9 +490,9 @@
                                 <div class="gdlr-core-blog-grid gdlr-core-style-2 gdlr-core-js  gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background  gdlr-core-outer-frame-element" style="box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -moz-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); -webkit-box-shadow: 0 0 60px rgba(0, 0, 0,0.1); ">
                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                         <a href="Blogs">
-                                            <img style="height:30vh" src="img/project-gallery/pics/428092019_813168130822226_4011589194055811125_n.jpg" alt="blog" width="700" height="250" title="blog" />
+                                            <img style="height:30vh" src="img/drive-3d/01.jpg" alt="blog" width="700" height="250" title="blog" />
                                             <div class="gdlr-core-sticky-banner gdlr-core-title-font">
-                                                <i class="fa fa-bolt"></i>Sticky Post
+                                                <i class="fa fa-bolt"></i>3D Form
                                             </div>
                                         </a>
                                         <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-comment-number">

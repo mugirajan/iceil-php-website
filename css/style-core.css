@@ -7651,7 +7651,7 @@ body {
 }
 @media screen and (max-width:1200px){
 	.main-blog { 
-		width: 65%; 
+		width: 100%; 
 		height: auto; 
 		min-height: 1000px; 
 		display: flex; 
@@ -7666,7 +7666,7 @@ body {
 }
 @media screen and (max-width:780px){
 	.main-blog { 
-		width: 65%; 
+		width: 100%; 
 		height: auto; 
 		min-height: 1000px; 
 		display: flex; 

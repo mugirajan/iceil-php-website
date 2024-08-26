@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const pages = document.querySelectorAll(".page");
+    const pages = document.querySelectorAll(".pagin");
     const pageNumbers = document.querySelectorAll(".page-number");
     const prevButton = document.getElementById("prevPage");
     const nextButton = document.getElementById("nextPage");

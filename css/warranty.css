@@ -1296,13 +1296,13 @@ transform: scale(1);
     justify-content: center;
 }
 
-.page {
+.pagin{
 	flex-wrap: wrap;
     width: 100%;
     margin: 0 auto;
     padding: 0;
 }
-/* .page img{
+/* .paginimg{
 	height:70vh;
 	width:100%;
 } */
@@ -1316,16 +1316,31 @@ transform: scale(1);
     border-radius: 10px;
     /* text-align: center; */
 }
-.page li img{
+
+@media(max-width:599px){
+	.pagin li {
+		width:100%;
+	}
+}
+@media(max-width:800px) and (min-width:600px){
+	.pagin li {
+		width:47%;
+	}
+}
+.pagin li img{
 	height:50vh;
 	width:100%;
 }
-.page li button{
+.pagin li button{
 	border:none;
 	background-color:#2676bc7a;
 	font-size:1rem;
 	padding:0.2rem 1.5rem;
 	border-radius:0.5rem;
+}
+.pagin h4{
+	font-size: 22px;
+	padding: 20px 0px 0px 0px;
 }
 
 .pagination {

@@ -16,24 +16,27 @@
                 <div class="gdlr-core-page-builder-body">
                     <div class="gdlr-core-pbf-wrapper " style="padding: 290px 0px 150px 0px;" id="gdlr-core-wrapper-1">
                         <div class="gdlr-core-pbf-background-wrap">
-                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(images/project-page/collage4.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.2"></div>
+                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(images/project-page/collage4.jpg); background-size: cover; background-position: center;" data-parallax-speed="0.2"></div>
                         </div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js main-layout-banner">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                                 <div class=" gdlr-core-column-60 gdlr-core-column-first">
                                     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " style="max-width: 720px ;">
-                                            
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js" style="max-width: 720px;">
                                             <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption banner-lay-project" style="font-size: 60px ;font-style: normal ;color: black;margin-bottom: 0px ;">Our Projects</span></div>
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px;">
+                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption banner-lay-project" style="font-size: 60px; font-style: normal; color: black; margin-bottom: 0px;">
+                                                        <h2 style="background-color: white; padding: 10px 20px; display: inline-block;border-radius:1rem;">Our Projects</h2>
+                                                    </span>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
                     </div>
+
                     <!---banner end--->
 
                     <!---client team--->
