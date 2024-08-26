@@ -111,8 +111,9 @@
                             </div>
                             <div class="inteco-footer-column-foo inteco-item-pdlr col-lg-3 col-md-6 col-sm-12 inteco-column-15 flex-for-footer">
                                 <div id="nav_menu-1" class="widget widget_nav_menu inteco-widget">
-                                <li class="menu-item"><a href="Gallery">Video Gallery</a></li>
-
+                                        <ul id="menu-services" class="menu">
+                                            <li class="menu-item"><a href="Gallery">Video Gallery</a></li>
+                                        </ul>
                                     <h3 class="inteco-widget-title-footer">Stretch Ceilings</h3><span class="clear"></span>
                                     <div class="menu-quick-links-container">
                                         <ul id="menu-quick-links" class="menu">

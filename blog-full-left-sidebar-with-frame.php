@@ -339,7 +339,7 @@
             <div class="body-blog">
                 
             <section class="blog-page">
-                <ul class="page">
+                <ul class="page pagin">
                     <li>
                         <img src="images/blog-page/blog-1.jpg" alt="How Stretch Ceilings Can Improve Your IT Workplace">
                         <h4>How Stretch Ceilings Can Improve Your IT Workplace</h4>
