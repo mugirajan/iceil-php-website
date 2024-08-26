@@ -84,7 +84,7 @@
             <div class="inteco-page-wrapper" id="inteco-page-wrapper">
                 <div class="gdlr-core-page-builder-body">
                     <!--our story start-->
-                    <div class="" style="padding: 50px 0px 50px 0px;" id="gdlr-core-wrapper-1">
+                    <div class="" style="padding: 50px 0px 25px 0px;" id="gdlr-core-wrapper-1">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -263,8 +263,10 @@
                     <!---our vission mission start-->
                     <div class="container-for-card">
                         <a class="card1">
-                          <h3>Our Vision</h3>
-                          <p class="small">Bringing stretch ceilings & Architectural Lighting solutions  to homes and commercial spaces throughout India.</p>
+                          <h3> Our Vision </h3>
+                          <p class="small">
+                          Bringing stretch ceilings & Architectural Lighting solutions  to homes and commercial spaces throughout India.
+                          </p>
                           <div class="go-corner">
                             <div class="go-arrow">
                               →
@@ -273,10 +275,11 @@
                         </a>
 
                         <a class="card1">
-                            <h3>Our Mission</h3>
+                            <h3> Our Mission </h3>
                             <p class="small">
-                            Aspire to be the No.1 manufacturer of stretch ceilings and architectural lighting solutions in India, delivering a world-class lighting experience.</p>
-                                <div class="go-corner">
+                            Aspire to be the No.1 manufacturer of stretch ceilings and architectural lighting solutions in India, delivering a world-class lighting experience.
+                            </p>
+                            <div class="go-corner">
                               <div class="go-arrow">
                                 →
                               </div>
@@ -286,7 +289,60 @@
                         <a class="card1">
                             <h3>Quality Policy</h3>
                             <p class="small">
-                            Committed to ongoing enhancement, we foster innovation and creativity to consistently improve the quality, reliability, and value of our products and services. We strive to attain the highest customer satisfaction by adhering to well-defined standards.</p>
+                            Committed to ongoing enhancement, we foster innovation and creativity to consistently improve the quality, reliability, and value of our products and services. We strive to attain the highest customer satisfaction by adhering to well-defined standards.
+                            </p>
+                            <div class="go-corner" >
+                              <div class="go-arrow">
+                                →
+                              </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!--ourvission mission end--> 
+
+                    <!--- Our Core Values Mission Start -->
+                    <div class="container-for-card">
+                        <a class="card2">
+                          <h3> Accountability </h3>
+                          <p class="small">
+                          We embrace accountability for our products and services, maintaining the utmost professional standards. We assess our performance against well-defined metrics and targets to ensure excellence.
+                          </p>
+                          <div class="go-corner">
+                            <div class="go-arrow">
+                              →
+                            </div>
+                          </div>
+                        </a>
+
+                        <a class="card2">
+                          <h3> Customer Centric </h3>
+                          <p class="small">
+                          Every customer holds a distinct value for us, and we believe in tailoring individualized solutions. Our commitment is to achieve the highest levels of customer satisfaction across all our products and services, recognizing and addressing the unique needs of each client.
+                          </p>
+                          <div class="go-corner">
+                            <div class="go-arrow">
+                              →
+                            </div>
+                          </div>
+                        </a>
+
+                        <a class="card2">
+                            <h3> Cost Effective </h3>
+                            <p class="small">
+                            Ensuring that a wide range of individuals and businesses can afford exquisite interior spaces without compromising quality is our goal.
+                            </p>
+                            <div class="go-corner">
+                              <div class="go-arrow">
+                                →
+                              </div>
+                            </div>
+                        </a>
+
+                        <a class="card2">
+                            <h3> Renew and Improve </h3>
+                            <p class="small">
+                            We are continually seeking improvements in our approach. Overcoming seemingly insurmountable challenges is not just a key factor in our success but also a wellspring of inspiration.
+                            </p>
                             <div class="go-corner" >
                               <div class="go-arrow">
                                 →
@@ -307,45 +363,40 @@
 
                             <div class="row">
 
-                            <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
-                                <div class="member d-flex align-items-start">
-                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt="Vivek"></div>
-                                <div class="member-info">
-                                    <h4>Vivek</h4>
-                                    <span>Chief Executive Officer</span>
-                                    <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
-                                    <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
+                                    <div class="member d-flex align-items-start">
+                                    <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt="Vivek"></div>
+                                    <div class="member-info">
+                                        <h4>Vivek</h4>
+                                        <span>Chief Executive Officer</span>
+                                        <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                                        <div class="social">
+                                        <a href=""><i class="ri-twitter-fill"></i></a>
+                                        <a href=""><i class="ri-facebook-fill"></i></a>
+                                        <a href=""><i class="ri-instagram-fill"></i></a>
+                                        <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                        </div>
+                                    </div>
                                     </div>
                                 </div>
-                                </div>
-                            </div>
 
-                            <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
-                                <div class="member d-flex align-items-start">
-                                <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt="Raj"></div>
-                                <div class="member-info">
-                                    <h4>Raj</h4>
-                                    <span>Product Manager</span>
-                                    <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
-                                    <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
+                                    <div class="member d-flex align-items-start">
+                                    <div class="pic"><img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" class="img-fluid" alt="Raj"></div>
+                                    <div class="member-info">
+                                        <h4>Raj</h4>
+                                        <span>Product Manager</span>
+                                        <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                                        <div class="social">
+                                        <a href=""><i class="ri-twitter-fill"></i></a>
+                                        <a href=""><i class="ri-facebook-fill"></i></a>
+                                        <a href=""><i class="ri-instagram-fill"></i></a>
+                                        <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                        </div>
+                                    </div>
                                     </div>
                                 </div>
-                                </div>
                             </div>
-
-
-                            
-
-                            </div>
-
                         </div>
                     </section>
                     <!-- End Team Section -->
