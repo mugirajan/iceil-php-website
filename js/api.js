@@ -108,3 +108,19 @@ $(document).ready(function() {
 });
 
 
+let lastScrollTop = 0;
+const navbar = document.querySelector('.mry-top-panel');
+
+window.addEventListener('scroll', function() {
+    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+    if (scrollTop > lastScrollTop) {
+        // Scrolling down - hide the navbar
+        navbar.style.top = '-100px'; // Adjust this value if necessary
+    } else {
+        // Scrolling up - show the navbar
+        navbar.style.top = '0';
+    }
+
+    lastScrollTop = scrollTop;
+});

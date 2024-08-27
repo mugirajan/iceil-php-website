@@ -575,6 +575,7 @@ h6 {
 	align-items: center;
 	height: 100px;
 	width: 100%;
+	transition: top 0.8s ease-in-out;
 }
 
 .mry-app .mry-top-panel .mry-logo-frame {
