@@ -206,7 +206,7 @@
                             <div class=" whatwedodiv">
                                 <div class="whatwedo-image">
                                     <div>
-                                        <img src="images/our-projects/81.jpg" alt="Strech Ceiling">
+                                        <img src="img/home-image/Mirror Stretch Ceiling 1.jpeg" alt="Strech Ceiling">
                                     </div>
                                     <h3>Mirror Ceiling</h3>
                                     <p>Mirror stretch ceilings not only enhance interior design by incorporating reflective surfaces but also visually expand spaces, creating a sleek and modern aesthetic. Achieving a mirror effect of 92-95% underscores its high reflectivity, re- sembling traditional mirrors closely.</p>
