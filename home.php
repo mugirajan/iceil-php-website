@@ -130,15 +130,13 @@
                         <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="text-align: center;font-size: 39px ;font-weight: 900 ;letter-spacing: 0px ;text-transform: none ;color: #232323 ;">Our Products</h3><br>
                         <div class="whatwedosection">
                             <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
+                                <a href="Translucent-Stretch-Ceilings" class="whatwedo-image">
                                     <div>
-                                        <a href="Translucent-Stretch-Ceilings">
-                                            <img src="img/drive-homepage/33.jpg" alt="Translucent">
-                                        </a>
+                                        <img src="img/drive-homepage/33.jpg" alt="Translucent">
                                     </div>
                                     <h3>Translucent Stretch Ceiling</h3>
                                     <p>Translucent stretch ceiling allows light to be evenly distributed with the stretch membrane offering 75% Translucency.</p>
-                                </div>
+                                </a>
                             </div>
                             <div class=" whatwedodiv">
                                 <a href="Printed-Stretch-Ceilings" class="whatwedo-image">
@@ -159,67 +157,67 @@
                                 </a>
                             </div>
                             <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
+                                <a href="Fabric-Light-Boxes" class="whatwedo-image">
                                     <div>
                                         <img src="img/drive-lightbox/123.jpg" alt="Light Boxes">
                                     </div>
                                     <h3>Signage Light Box</h3>
                                     <p>Stretch Ad-Sign Boxes are used for internal dis- plays that are suitable for Retail, Corporate, and Commercial Signage Solutions.</p>
-                                </div>
+                                </a>
                             </div>
                             <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
+                                <a href="Lacquer-Ceilings" class="whatwedo-image">
                                     <div>
                                         <img src="img/drive-laquer/images.jpeg" alt="Lacquer">
                                     </div>
                                     <h3>Lacquer</h3>
                                     <p>Lacquer stretch ceilings offer a luxurious mirror effect on your ceiling, boasting exceptional light reflection properties. This creates an upscale ambiance enhanced by a customizable color palette, visually expanding the room space.</p>
-                                </div>
+                                </a>
                             </div>
                             <div class="whatwedodiv">
-                                <div class="whatwedo-image">
+                                <a href="Acoustic" class="whatwedo-image">
                                     <div>
                                         <img src="img/drive-homepage/106.jpg" alt="Acoustic">
                                     </div>
                                     <h3>Acoustic</h3>
                                     <p>Iceil micro-perforated stretch ceiling absorbs the sounds and reduces noise pollution in public or private spaces. This limits the effect of reverberation for a better sound comfort.</p>
-                                </div>
+                                </a>
                             </div>
                             <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
+                                <a href="comming-soon" class="whatwedo-image">
                                     <div>
                                         <img src="img/home-image/150.jpg" alt="Architectural Lighting">
                                     </div>
                                     <h3>Architectural Custom Lighting</h3>
                                     <p>ICeil Architectural lights are constructed with lighting in combination with a suitable alumini- um frame and a Polycarbonate diffusers / stretch fabric. We can customize this to any shape and size.</p>
-                                </div>
+                                </a>
                             </div>
                             <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
+                                <a href="3DWallGraphics" class="whatwedo-image">
                                     <div>
                                         <img alt="Wall Graphics" src="https://img.freepik.com/premium-photo/3d-abstract-colorful-tree-with-leaves-hanging-branches-illustration-background-generative-ai_884023-4218.jpg?w=740">
                                     </div>
                                     <h3>Wall Graphics</h3>
                                     <p>Custom wall graphics provide a uniquely per- sonalized touch to your space, showcasing an image of your choice printed on premium fabric seamlessly pasted onto your wall. At Iceil, we deliver a flawless, join-free solution using high-quality materials, elevating your environ- ment with elegance and transforming your space into a reflection of your style.</p>
-                                </div>
+                                </a>
                             </div>
                             <div class=" whatwedodiv">
-                                <div class="whatwedo-image">
+                                <a href="Mirror" class="whatwedo-image">
                                     <div>
                                         <img src="img/home-image/Mirror Stretch Ceiling 1.jpeg" alt="Strech Ceiling">
                                     </div>
                                     <h3>Mirror Ceiling</h3>
                                     <p>Mirror stretch ceilings not only enhance interior design by incorporating reflective surfaces but also visually expand spaces, creating a sleek and modern aesthetic. Achieving a mirror effect of 92-95% underscores its high reflectivity, re- sembling traditional mirrors closely.</p>
-                                </div>
+                                </a>
                             </div>
                             <div class="whatwedodiv">
-                                <div class="whatwedo-image">
+                                <a href="Metal" class="whatwedo-image">
                                     <div>
                                         <img src="images/our-projects/75.jpeg" alt="LED" >
                                     </div>
                                     <h3>Metal Perforated </h3>
                                     <p>Metal perforated illuminated ceilings integrate lighting within panels, enhancing ambiance and providing efficient lighting distribution, acoustic benefits, and a contemporary look suitable for diverse applications. They combine functionality with aesthetics, offering a versatile solution for modern interior designs.</p>
-                                </div>
+                                </a>
                             </div>
                         </div>
                     </div>
