@@ -678,7 +678,7 @@ include "./shared/navbar.php"
 											Iceil curved recessed linear lighting seamlessly integrates into gypsum ceilings and offers the flexibility to be bent into various shapes.
 										</div>
 									</div>
-									<div class="col-lg- col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
+									<div class="col-lg-2 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
 										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
 										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
 									</div>
@@ -738,6 +738,19 @@ include "./shared/navbar.php"
 						<img class="mry-project-cover" src="images/landing/iceil-landing/DIMMER.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 						<div class="mry-cover-overlay mry-gradient-overlay"></div>
 					</div>
+					<div class="mry-main-title-frame">
+						<div class="container-fluid">
+							<div class="mry-main-title"  data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+								data-swiper-parallax-duration="1000">
+								<div class="row">
+									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
+										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
+										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 			<!-- project end -->
@@ -752,6 +765,19 @@ include "./shared/navbar.php"
 					<div class="mry-cover-frame">
 						<img class="mry-project-cover" src="images/landing/iceil-landing/RGB W DMX.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 						<div class="mry-cover-overlay mry-gradient-overlay"></div>
+					</div>
+					<div class="mry-main-title-frame">
+						<div class="container-fluid">
+							<div class="mry-main-title"  data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+								data-swiper-parallax-duration="1000">
+								<div class="row">
+									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
+										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
+										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -768,6 +794,19 @@ include "./shared/navbar.php"
 						<img class="mry-project-cover" src="images/landing/iceil-landing/RGB WW.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 						<div class="mry-cover-overlay mry-gradient-overlay"></div>
 					</div>
+					<div class="mry-main-title-frame">
+						<div class="container-fluid">
+							<div class="mry-main-title"  data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+								data-swiper-parallax-duration="1000">
+								<div class="row">
+									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
+										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
+										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 			<!-- project end -->
@@ -783,6 +822,19 @@ include "./shared/navbar.php"
 						<img class="mry-project-cover" src="images/landing/iceil-landing/RGB.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 						<div class="mry-cover-overlay mry-gradient-overlay"></div>
 					</div>
+					<div class="mry-main-title-frame">
+						<div class="container-fluid">
+							<div class="mry-main-title"  data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+								data-swiper-parallax-duration="1000">
+								<div class="row">
+									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
+										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
+										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 			<!-- project end -->
@@ -797,6 +849,19 @@ include "./shared/navbar.php"
 					<div class="mry-cover-frame">
 						<img class="mry-project-cover" src="images/landing/iceil-landing/TUNABLE.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 						<div class="mry-cover-overlay mry-gradient-overlay"></div>
+					</div>
+					<div class="mry-main-title-frame">
+						<div class="container-fluid">
+							<div class="mry-main-title"  data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+								data-swiper-parallax-duration="1000">
+								<div class="row">
+									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
+										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
+										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
