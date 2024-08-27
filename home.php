@@ -188,7 +188,7 @@
                             <div class=" whatwedodiv">
                                 <div class="whatwedo-image">
                                     <div>
-                                        <img src="images/our-projects/42.jpeg" alt="Architectural Lighting">
+                                        <img src="img/home-image/150.jpg" alt="Architectural Lighting">
                                     </div>
                                     <h3>Architectural Custom Lighting</h3>
                                     <p>ICeil Architectural lights are constructed with lighting in combination with a suitable alumini- um frame and a Polycarbonate diffusers / stretch fabric. We can customize this to any shape and size.</p>
