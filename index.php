@@ -744,7 +744,7 @@ include "./shared/navbar.php"
 								data-swiper-parallax-duration="1000">
 								<div class="row">
 									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
-										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
+										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="Translucent-Stretch-Ceilings">Click here</a>
 										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
 									</div>
 								</div>
@@ -772,7 +772,7 @@ include "./shared/navbar.php"
 								data-swiper-parallax-duration="1000">
 								<div class="row">
 									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
-										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
+										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="Translucent-Stretch-Ceilings">Click here</a>
 										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
 									</div>
 								</div>
@@ -800,7 +800,7 @@ include "./shared/navbar.php"
 								data-swiper-parallax-duration="1000">
 								<div class="row">
 									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
-										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
+										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="Translucent-Stretch-Ceilings">Click here</a>
 										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
 									</div>
 								</div>
@@ -828,7 +828,7 @@ include "./shared/navbar.php"
 								data-swiper-parallax-duration="1000">
 								<div class="row">
 									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
-										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
+										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="Translucent-Stretch-Ceilings">Click here</a>
 										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
 									</div>
 								</div>
@@ -856,7 +856,7 @@ include "./shared/navbar.php"
 								data-swiper-parallax-duration="1000">
 								<div class="row">
 									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
-										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
+										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="Translucent-Stretch-Ceilings">Click here</a>
 										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
 									</div>
 								</div>
