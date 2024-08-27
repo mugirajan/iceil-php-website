@@ -727,9 +727,84 @@ include "./shared/navbar.php"
 			</div>
 			<!-- project end -->
 
-		</div> <!---end--->
-	</div>
+		</div> 
+		<!-- dimmer -->
+		<div class="swiper-slide">
 
+			<!-- project -->
+			<div class="mry-project-slider-item">
+				<div class="mry-project-frame">
+					<div class="mry-cover-frame">
+						<img class="mry-project-cover" src="images/landing/iceil-landing/DIMMER.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+						<div class="mry-cover-overlay mry-gradient-overlay"></div>
+					</div>
+				</div>
+			</div>
+			<!-- project end -->
+
+		</div> 
+		<!-- RGB W DMX -->
+		<div class="swiper-slide">
+
+			<!-- project -->
+			<div class="mry-project-slider-item">
+				<div class="mry-project-frame">
+					<div class="mry-cover-frame">
+						<img class="mry-project-cover" src="images/landing/iceil-landing/RGB W DMX.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+						<div class="mry-cover-overlay mry-gradient-overlay"></div>
+					</div>
+				</div>
+			</div>
+			<!-- project end -->
+
+		</div> 
+		<!-- RGB WW -->
+		<div class="swiper-slide">
+
+			<!-- project -->
+			<div class="mry-project-slider-item">
+				<div class="mry-project-frame">
+					<div class="mry-cover-frame">
+						<img class="mry-project-cover" src="images/landing/iceil-landing/RGB WW.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+						<div class="mry-cover-overlay mry-gradient-overlay"></div>
+					</div>
+				</div>
+			</div>
+			<!-- project end -->
+
+		</div> 
+		<!-- RGB -->
+		<div class="swiper-slide">
+
+			<!-- project -->
+			<div class="mry-project-slider-item">
+				<div class="mry-project-frame">
+					<div class="mry-cover-frame">
+						<img class="mry-project-cover" src="images/landing/iceil-landing/RGB.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+						<div class="mry-cover-overlay mry-gradient-overlay"></div>
+					</div>
+				</div>
+			</div>
+			<!-- project end -->
+
+		</div> 
+		<!-- TUNABLE -->
+		<div class="swiper-slide">
+
+			<!-- project -->
+			<div class="mry-project-slider-item">
+				<div class="mry-project-frame">
+					<div class="mry-cover-frame">
+						<img class="mry-project-cover" src="images/landing/iceil-landing/TUNABLE.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+						<div class="mry-cover-overlay mry-gradient-overlay"></div>
+					</div>
+				</div>
+			</div>
+			<!-- project end -->
+
+		</div> 
+		<!---end--->
+	</div>
 </div>
 
 
