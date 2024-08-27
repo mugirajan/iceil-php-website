@@ -301,6 +301,7 @@
                     <!--ourvission mission end--> 
 
                     <!--- Our Core Values Mission Start -->
+                    <h3 class="text-center">Core Values</h3>
                     <div class="container-for-card">
                         <a class="card2">
                           <h3> Accountability </h3>
