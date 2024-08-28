@@ -647,7 +647,7 @@
                    
                     <!-- Testimonial start -->
                     <div class="gtco-testimonials">
-                    <h4 class="text-center">Our Clients<span class="span-for-you"> Testimonials</span></h4>
+                    <h4 class="text-center">Our Client's<span class="span-for-you"> Testimonials</span></h4>
                     <div class="owl-carousel owl-carousel1 owl-theme">
                     <div>
                       <div class="card text-center"><img class="card-img-top"
