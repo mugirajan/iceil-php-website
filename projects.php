@@ -636,11 +636,9 @@
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/6.png" width="100%">
+                                        <img alt="our project"  src="images/our-projects/rechange.jpeg" width="100%">
                                     </div>
                                 </div>
-
-
 
                             </div>
                         </div>
