@@ -20,68 +20,11 @@
                 <div class="">
 
                     <!--banner start-->
-                    <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image"
-                        style="background-image: url(img/project-gallery/pics/02a.jpg) ;background-size: cover ;background-position: center ;"
-                        data-parallax-speed="0.1">
-                        <div class="inteco-header-transparent-substitute"></div>
-                        <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
-                        <div class="inteco-blog-title-bottom-overlay"></div>
-                        <div class="inteco-blog-title-container inteco-container">
-                            <div class="inteco-blog-title-content inteco-item-pdlr">
-                                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div
-                                                class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom">
-                                                <div class="gdlr-core-title-item-title-wrap ">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title "
-                                                        style="padding-top:120px;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">
-                                                        No:1 Stretch Ceiling Manufacturer In India</h3>
-                                                </div>
-                                               
-                                            </div>
-                                        </div>
-                                        <div class=" gdlr-core-column-60 gdlr-core-column-first">
-                                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js "
-                                                    style="max-width: 710px ;">
-                                                    <div class="gdlr-core-pbf-element">
-                                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top"
-                                                            style="padding-bottom: 13px ;">
-                                                            <span
-                                                                class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption"
-                                                                style="font-size: 18px ;font-style: normal ;color: #ffffff ;">We
-                                                                are backed by 10 years of industrial experience in
-                                                                digital
-                                                                printing & signage solutions. We are the leading Stretch
-                                                                Ceiling
-                                                                Manufacturer in India and we offer a wide variety of
-                                                                Stretch
-                                                                Ceilings combined with innovative lighting
-                                                                solutions.</span>
-                                                        </div>
-                                                    </div>
-                                                    <div class="gdlr-core-pbf-element">
-                                                        <div
-                                                            class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                                            <a class="gdlr-core-button  gdlr-core-button-bottom-border-on-text gdlr-core-button-no-border"
-                                                                href="stretch-ceiling-manufacturer-india"
-                                                                style="font-size: 20px ;letter-spacing: 0px ;color: #ffffff ;padding: 0px 0px 0px 0px;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;">
-                                                                <span class="gdlr-core-border-on-text"
-                                                                    style="border-bottom-width: 12px ;border-color: #2676bc ;margin-top: -16px ;"></span>
-                                                                <span class="gdlr-core-content">More About Us</span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                    
+                    <div class="">
+                        <div class="">
+                            <img src="images/banner/home.jpg">
                         </div>
-                        
-
                     </div>
                     <!--banner end-->
                     <!--who we are start-->
