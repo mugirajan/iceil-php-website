@@ -7,7 +7,7 @@
             <div class="inteco-mobile-header-container inteco-container clearfix">
                 <div class="inteco-logo  inteco-item-pdlr">
                     <div class="inteco-logo-inner">
-                        <a class="" href="Home"><img src="img/light/Iceil-logo-white.png" alt="our logo" width="200"
+                        <a class="" href="Home"><img src="img/light/iceil-logo-white.png" alt="our logo" width="200"
                                 height="39" title="logo" /></a>
                     </div>
                 </div>
@@ -291,7 +291,7 @@
                                         <div class="mry-mb-20">
                                             <div class="mry-label mry-mb-5">Email:</div>
                                             <a class="mry-text"
-                                                href="mailto:mireya.inbox@mail.com">info@iceilsystems.com</a>
+                                                href="mailto:info@iceilsystems.com">info@iceilsystems.com</a>
                                         </div>
                                         <div class="mry-mb-20">
                                             <div class="mry-label mry-mb-5">Phone:</div>
