@@ -1,6 +1,8 @@
 <?php
 include "./shared/header-top.php"
 ?>
+<title>ICeil</title>
+<meta name="description" content="Iceil Acoustic Stretch Ceiling combines sound-absorbing materials with a stretchable perforated fabric, effectively reducing noise levels while maintain- ing an ...">
 <style>
 	@media(max-width:800px) {
 		.mry-menu-button-frame .mry-menu-btn {

@@ -7,8 +7,8 @@
     lacquer stretch ceiling, decorative lighting, Modern stretch ceiling, backlit ceiling, Stretch Ceiling India, Stretch Ceiling Chennai, Stretch Ceiling Manufacturer in India,
     Stretch Ceiling Supplier, Stretch Ceiling Supplier India, Sky Ceiling, Printed Stretch Ceiling, Translucent Stretch Ceiling, Stretch Ceiling Manufacturer, Sky stretch ceiling india">
 </head>
-<title>Stretch Ceiling Manufacturer | Custom Architectural Lighting | Iceil</title>
-<meta name="description" content="Iceil Systems: Leading stretch ceiling manufacturer & custom architectural lighting, enhancing spaces with innovative design & quality craftsmanship">
+<title>Stretch Ceiling Manufacturer | Custom Architectural Lighting | Iceil | Explore New Heights in the World of Stretch Ceiling</title>
+<meta name="description" content="At ICeil, We design and build ceiling, wall, and floor concepts that stretch the boundary of artistic taste innovations in interior spaces. Iceil Systems: Leading stretch ceiling manufacturer & custom architectural lighting, enhancing spaces with innovative design & quality craftsmanship">
 <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 <link rel="stylesheet" href="css/homeslider.css">
@@ -20,7 +20,6 @@
                 <div class="">
 
                     <!--banner start-->
-                    
                     <div class="">
                         <div class="">
                             <img src="images/banner/home.jpg">
@@ -167,26 +166,79 @@
                     <!--link to all the pages end-->
 
                     <!--client-carousel start-->
-                        <h3 class="text-center gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 39px ;font-weight: 900 ;letter-spacing: 0px ;text-transform: none ;color: #232323 ;">Our Clients</h3></div>
+                        <h3 class="text-center gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 39px ;font-weight: 900 ;letter-spacing: 0px ;text-transform: none ;color: #232323 ;">Our Clientele</h3></div>
                         <div class="logos">
                             <div class="logo_items">
-                                <img src="img/client-logo/archinova.png">
-                                <img src="img/client-logo/cbre.png">
-                                <img src="img/client-logo/dlf.png">
-                                <img src="img/client-logo/ecotone.png">
-                                <img src="img/client-logo/godrej.png">
-                                <img src="img/client-logo/hunter.png">
-                                <img src="img/client-logo/keechery.png">
-                                <img src="img/client-logo/light scape.png">
-                                <img src="img/client-logo/lr infra.png">
-                                <img src="img/client-logo/lumino.png">
-                                <img src="img/client-logo/nexus.png">
-                                <img src="img/client-logo/radical.png">
-                                <img src="img/client-logo/signify.png">
-                                <img src="img/client-logo/sun infra.png">
-                                <img src="img/client-logo/touch stone.png">
-                                <img src="img/client-logo/ultra confidential.png">
-                                <img src="img/client-logo/vaibhav.png">
+                                <img src="images/Clients-Logo/1.png">
+                                <img src="images/Clients-Logo/2.png">
+                                <img src="images/Clients-Logo/3.png">
+                                <img src="images/Clients-Logo/4.png">
+                                <img src="images/Clients-Logo/5.png">
+                                <img src="images/Clients-Logo/6.png">
+                                <img src="images/Clients-Logo/7.png">
+                                <img src="images/Clients-Logo/8.png">
+                                <img src="images/Clients-Logo/9.png">
+                                <img src="images/Clients-Logo/10.png">
+                                <img src="images/Clients-Logo/11.png">
+                                <img src="images/Clients-Logo/12.png">
+                                <img src="images/Clients-Logo/13.png">
+                                <img src="images/Clients-Logo/14.png">
+                                <img src="images/Clients-Logo/15.png">
+                                <img src="images/Clients-Logo/16.png">
+                                <img src="images/Clients-Logo/17.png">
+                                <img src="images/Clients-Logo/18.png">
+                                <img src="images/Clients-Logo/19.png">
+                                <img src="images/Clients-Logo/20.png">
+                                <img src="images/Clients-Logo/21.png">
+                                <img src="images/Clients-Logo/22.png">
+                                <img src="images/Clients-Logo/23.png">
+                                <img src="images/Clients-Logo/24.png">
+                                <img src="images/Clients-Logo/25.png">
+                                <img src="images/Clients-Logo/26.png">
+                                <img src="images/Clients-Logo/27.png">
+                                <img src="images/Clients-Logo/28.png">
+                                <img src="images/Clients-Logo/29.png">
+                                <img src="images/Clients-Logo/30.png">
+                                <img src="images/Clients-Logo/31.png">
+                                <img src="images/Clients-Logo/32.png">
+                                <img src="images/Clients-Logo/33.png">
+                                <img src="images/Clients-Logo/34.png">
+                                <img src="images/Clients-Logo/35.png">
+                                <img src="images/Clients-Logo/36.png">
+                                <img src="images/Clients-Logo/37.png">
+                                <img src="images/Clients-Logo/38.png">
+                                <img src="images/Clients-Logo/39.png">
+                                <img src="images/Clients-Logo/40.png">
+                                <img src="images/Clients-Logo/41.png">
+                                <img src="images/Clients-Logo/42.png">
+                                <img src="images/Clients-Logo/43.png">
+                                <img src="images/Clients-Logo/44.png">
+                                <img src="images/Clients-Logo/45.png">
+                                <img src="images/Clients-Logo/46.png">
+                                <img src="images/Clients-Logo/47.png">
+                                <img src="images/Clients-Logo/48.png">
+                                <img src="images/Clients-Logo/49.png">
+                                <img src="images/Clients-Logo/50.png">
+                                <img src="images/Clients-Logo/51.png">
+                                <img src="images/Clients-Logo/52.png">
+                                <img src="images/Clients-Logo/53.png">
+                                <img src="images/Clients-Logo/54.png">
+                                <img src="images/Clients-Logo/55.png">
+                                <img src="images/Clients-Logo/56.png">
+                                <img src="images/Clients-Logo/57.png">
+                                <img src="images/Clients-Logo/58.png">
+                                <img src="images/Clients-Logo/59.png">
+                                <img src="images/Clients-Logo/60.png">
+                                <img src="images/Clients-Logo/61.png">
+                                <img src="images/Clients-Logo/62.png">
+                                <img src="images/Clients-Logo/63.png">
+                                <img src="images/Clients-Logo/64.png">
+                                <img src="images/Clients-Logo/65.png">
+                                <img src="images/Clients-Logo/66.png">
+                                <img src="images/Clients-Logo/67.png">
+                                <img src="images/Clients-Logo/68.png">
+                                <img src="images/Clients-Logo/69.png">
+                                <img src="images/Clients-Logo/70.png">
                             </div>
                           
                         </div>

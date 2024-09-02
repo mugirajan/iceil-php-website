@@ -10,7 +10,7 @@ RewriteRule ^Partners?$ partners.php
 RewriteRule ^Blogs?$ blog.php
 
 RewriteRule ^about-Stretch-Ceilings?$ about-Stretch-Ceilings.php
-RewriteRule ^Starry-Galaxy-Ceiling?$ Starry-Galaxy-Ceiling.php
+RewriteRule ^galaxy-stretch-ceiling?$ Starry-Galaxy-Ceiling.php
 RewriteRule ^Translucent-stretch-ceiling?$ Translucent-stretch-ceiling.php
 RewriteRule ^Why-we-are-better?$ Why-we-are-better.php
 RewriteRule ^Leading-Stretch-Ceiling?$ Leading-Stretch-Ceiling.php
@@ -35,7 +35,7 @@ RewriteRule ^3DWallGraphics?$ wallpaper.php
 
 RewriteRule ^Translucent-Stretch-Ceilings?$ translucent.php
 RewriteRule ^Printed-Stretch-Ceilings?$ printed.php
-RewriteRule ^3D-Forms-Stretch-Ceilings?$ threed.php
+RewriteRule ^3D-Forms-Stretch-Ceilings?$ 3D-Wall-Graphics.php
 RewriteRule ^RGB?$ RGB.php
 RewriteRule ^Fabric-Light-Boxes?$ light-boxes.php
 RewriteRule ^Lacquer-Ceilings?$ lacquer.php

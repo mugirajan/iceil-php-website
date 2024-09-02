@@ -24,8 +24,8 @@
     background-color: #000;
 }
 </style>
-<title>Iceil Brochure | Stretch ceiling catalogue | Iceil Products</title>
-<meta name="description" content="Iceil's brochure showcases our innovative stretch ceilings and products. Explore our catalogue for cutting-edge design and quality solutions for any space">
+<title>Iceil Brochure | Stretch ceiling catalogue | Iceil Products | Stretch Ceiling Manufracture</title>
+<meta name="description" content="We are the only stretch ceiling manufacturer in India with a 5M UV Printer in India giving us the ability to offer Printed ceilings up to 16 FT without joint. Iceil's brochure showcases our innovative stretch ceilings and products. Explore our catalogue for cutting-edge design and quality solutions for any space">
 </head>
 
 <?php

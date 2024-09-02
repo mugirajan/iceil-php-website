@@ -42,8 +42,8 @@ margin-bottom:20px;
   Stretch Ceiling Uttarakhand, Stretch Ceiling West Bengal, Stretch Ceiling Andaman, Stretch Ceiling Jammu and Kashmir, Stretch Ceiling Ladakh,
   Stretch Ceiling Arunachal Pradesh,Stretch Ceiling ">
 </head>
-<title>Customized lighting solutions | Top Stretch ceiling manufacturing india | Iceil</title>
-<meta name="description" content="Discover customized lighting solutions and top stretch ceiling manufacturing with Iceil. Contact us for innovative designs and expert installation across India">
+<title>Stretch Ceiling Manufacturer India | Customized lighting solutions | Top Stretch ceiling manufacturing india | Iceil | Stretch Ceiling Chennai</title>
+<meta name="description" content="Iceil Systems NO: 1 STRETCH CEILING MANUFACTURER IN INDIA Login MENU Home About Products Stretch Ceiling Translucent Printed Lacquer Printed Lacquer Ceiling. Ceiling Manufracture in Chennai. Branch: Chennai. No: 10, 2nd Floor, AE Block, 7th Street Anna Nagar, Chennai, Tamil Nadu – 600040. T: +91 95667 77189. Discover customized lighting solutions and top stretch ceiling manufacturing with Iceil. Contact us for innovative designs and expert installation across India">
 <?php
   include "./shared/navbar.php"
 ?>

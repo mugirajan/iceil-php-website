@@ -37,6 +37,10 @@
     display: inline-block;
     animation: 35s slides infinite linear;
   }
+  .logo_items img{
+    margin-right:4rem;
+    padding: 5px;
+  }
   
   .logos:hover .logo_items {
     animation-play-state: paused;

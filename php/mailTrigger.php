@@ -54,7 +54,7 @@ class sndMail
             - Our Lighting Solutions are the best in comparison with our competitors
             - ISO 9001:2015 TUV Nord Certified factory in Chennai, India
             - 3 Days SLA for projects across India
-            - 31+ Partners across India to handle installation support and services
+            - 37+ Partners across India to handle installation support and services
             - 2000+ Project Executions Across India
             - In-House 5 Meter UV Printing Technology
             - Customized Lighting through Aluminum extruded profiles with any shape and size - In-house Production
@@ -128,7 +128,7 @@ class sndMail
             Our Lighting Solutions are the best in comparison with our competitors
             ISO 9001:2015 TUV Nord Certified factory in Chennai, India
             3 Days SLA for projects across  India
-            31+ Partners across India to handle installation support and services
+            37+ Partners across India to handle installation support and services
             2000+ Project Executions Across India
             In-House 5 Meter UV Printing Technology
             Customized Lighting through Aluminum extruded profiles with any shape and size - In-house Production
@@ -198,7 +198,7 @@ class sndMail
                 Our Lighting Solutions are the best in comparison with our competitors
                 ISO 9001:2015 TUV Nord Certified factory in Chennai, India
                 3 Days SLA for projects across  India
-                31+ Partners across India to handle installation support and services
+                37+ Partners across India to handle installation support and services
                 2000+ Project Executions Across India
                 In-House 5 Meter UV Printing Technology
                 Customized Lighting through Aluminum extruded profiles with any shape and size - In-house Production
@@ -256,7 +256,7 @@ class sndMail
                 Our Lighting Solutions are the best in comparison with our competitors
                 ISO 9001:2015 TUV Nord Certified factory in Chennai, India
                 3 Days SLA for projects across  India
-                31+ Partners across India to handle installation support and services
+                37+ Partners across India to handle installation support and services
                 2000+ Project Executions Across India
                 In-House 5 Meter UV Printing Technology
                 Customized Lighting through Aluminum extruded profiles with any shape and size - In-house Production
@@ -314,7 +314,7 @@ class sndMail
                 Our Lighting Solutions are the best in comparison with our competitors
                 ISO 9001:2015 TUV Nord Certified factory in Chennai, India
                 3 Days SLA for projects across  India
-                31+ Partners across India to handle installation support and services
+                37+ Partners across India to handle installation support and services
                 2000+ Project Executions Across India
                 In-House 5 Meter UV Printing Technology
                 Customized Lighting through Aluminum extruded profiles with any shape and size - In-house Production
@@ -373,7 +373,7 @@ class sndMail
                 Our Lighting Solutions are the best in comparison with our competitors
                 ISO 9001:2015 TUV Nord Certified factory in Chennai, India
                 3 Days SLA for projects across  India
-                31+ Partners across India to handle installation support and services
+                37+ Partners across India to handle installation support and services
                 2000+ Project Executions Across India
                 In-House 5 Meter UV Printing Technology
                 Customized Lighting through Aluminum extruded profiles with any shape and size - In-house Production
@@ -432,7 +432,7 @@ class sndMail
                 Our Lighting Solutions are the best in comparison with our competitors
                 ISO 9001:2015 TUV Nord Certified factory in Chennai, India
                 3 Days SLA for projects across  India
-                31+ Partners across India to handle installation support and services
+                37+ Partners across India to handle installation support and services
                 2000+ Project Executions Across India
                 In-House 5 Meter UV Printing Technology
                 Customized Lighting through Aluminum extruded profiles with any shape and size - In-house Production
