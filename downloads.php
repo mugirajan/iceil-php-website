@@ -32,20 +32,13 @@
   include "./shared/navbar.php"
 ?> 
             
-            <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-                style="height: 65vh;background-image:url(https://img.freepik.com/free-photo/cloud-computing-network-connection-perforated-paper_53876-14267.jpg?t=st=1711629805~exp=1711633405~hmac=b537633db63c05c723dada2fd2e6e12299eb629e49c9fffc85f8195ffe587eb9&w=740)">
-                <div class="inteco-header-transparent-substitute"></div>
-                <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
-                <div class="inteco-blog-title-bottom-overlay"></div>
-                <div class="inteco-blog-title-container inteco-container">
-                    <div class="inteco-blog-title-content inteco-item-pdlr" >
-                        <div class="inteco-page-title-container-about-our">
-                            <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                                <h1 class="inteco-page-title">Downloads</h1>
-                            </div>
-                        </div>
-                    </div>
+             <!--banner start-->
+           <div class="">
+                <div class="">
+                    <img src="images/banner/download-banner.jpg">
+                </div>
             </div>
+            <!--banner end-->
                         
                     </div>
             <div class=" download-padding"  id="gdlr-core-wrapper-1">
