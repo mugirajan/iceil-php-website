@@ -9384,9 +9384,10 @@ Component
   grid-auto-flow: dense;
   align-items: start;
   .card-of-blog {
+	height: 425px;
     margin: 0 auto;
     max-width: 320px;
-    height: fit-content;
+    /* height: fit-content; */
     box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
     border-radius: 8px;
     
