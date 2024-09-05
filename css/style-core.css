@@ -11362,4 +11362,26 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 	.pad-banner{
 		padding-top:20px;
 	}
-	}
+}
+
+.advantage-section{
+	background-color:#7f7f7f ;
+	padding: 50px 0px;
+}
+.advantage-sub-div{
+	width:80%;
+	margin:0 auto;
+}
+.right-side-advantage{
+	display: flex;
+	justify-content: flex-end;
+}
+.rightdivadvantage{
+	width:80%;
+}
+.rightdivadvantage img{
+	width:100%;
+}
+.advantage-sub-div h2{
+	font-size: 35px !important;
+}
