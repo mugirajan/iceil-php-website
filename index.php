@@ -73,41 +73,6 @@ include "./shared/navbar.php"
 
 <div class="swiper-container-fluid mry-main-slider">
 	<div class="swiper-wrapper">
-		<!-- Geometric -->
-		<div class="swiper-slide">
-
-			<!-- project -->
-			<div class="mry-project-slider-item">
-				<div class="mry-project-frame">
-					<div class="mry-cover-frame">
-						<img class="mry-project-cover" src="images/landing/iceil-landing/14.jpg" alt="Architectural customised lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
-						<div class="mry-cover-overlay mry-gradient-overlay"></div>
-					</div>
-					<div class="mry-main-title-frame">
-						<div class="container-fluid">
-							<div class="mry-main-title"  data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
-								data-swiper-parallax-duration="1000">
-								<div class="row">
-									<div class="col-lg-4 col-sm-12 heading-land">
-										<div class="mry-subtitle mry-mb-10">Architectural customised lighting</div>
-										<h1 class="">Geometric Shape <br><span class="mry-border-text">lighting</span><span class="mry-animation-el"></span></h1>
-									</div>
-									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
-										<div class="mry-text mry-mb-30 text-light font-weight-normal">Iceil Geometric Shape Custom Lighting involves designing personalized lighting solutions using shapes like squares, triangles, circles, and others. These designs aim to enhance both the aesthetic appeal and practical functionality of indoor spaces, offering versatile and modern lighting options.
-										</div>
-									</div>
-									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
-										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
-										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- project end -->
-		</div>
 		<!-- Translucent -->
 		<div class="swiper-slide">
 
@@ -362,6 +327,41 @@ include "./shared/navbar.php"
 			</div>
 			<!-- project end -->
 
+		</div>
+		<!-- Geometric -->
+		<div class="swiper-slide">
+
+			<!-- project -->
+			<div class="mry-project-slider-item">
+				<div class="mry-project-frame">
+					<div class="mry-cover-frame">
+						<img class="mry-project-cover" src="images/landing/iceil-landing/14.jpg" alt="Architectural customised lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+						<div class="mry-cover-overlay mry-gradient-overlay"></div>
+					</div>
+					<div class="mry-main-title-frame">
+						<div class="container-fluid">
+							<div class="mry-main-title"  data-swiper-parallax-scale=".7" data-swiper-parallax-opacity="0"
+								data-swiper-parallax-duration="1000">
+								<div class="row">
+									<div class="col-lg-4 col-sm-12 heading-land">
+										<div class="mry-subtitle mry-mb-10">Architectural customised lighting</div>
+										<h1 class="">Geometric Shape <br><span class="mry-border-text">lighting</span><span class="mry-animation-el"></span></h1>
+									</div>
+									<div class="col-lg-5 col-sm-12 heading-land d-flex align-self-center">
+										<div class="mry-text mry-mb-30 text-light font-weight-normal">Iceil Geometric Shape Custom Lighting involves designing personalized lighting solutions using shapes like squares, triangles, circles, and others. These designs aim to enhance both the aesthetic appeal and practical functionality of indoor spaces, offering versatile and modern lighting options.
+										</div>
+									</div>
+									<div class="col-lg-3 col-sm-12 d-flex colbtn align-self-center align-items-center justify-content-center">
+										<a class="mry-btn mry-default-link mry-anima-link mry-btn-fill-white" href="architectural-completed.php">Click here</a>
+										<a class="mry-btn-text mry-default-link mry-anima-link mry-btn-text-white" href="Home">Visit Website</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- project end -->
 		</div>
 		<!-- Art -->
 		<div class="swiper-slide">

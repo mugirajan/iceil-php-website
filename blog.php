@@ -9,24 +9,13 @@
   include "./shared/navbar.php"
 ?>
 
-            <!--banner-->
-            <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image"
-                style="height: 65vh;background-image:url(img/light/header.jpg)">
-                <div class="inteco-header-transparent-substitute"></div>
-                <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
-                <div class="inteco-blog-title-bottom-overlay"></div>
-                <div class="inteco-blog-title-container inteco-container">
-                    <div class="inteco-blog-title-content inteco-item-pdlr">
-                        <div class="inteco-page-title-container-about-our">
-                            <div class="about-our-h1 inteco-page-title-content inteco-item-pdlr">
-                                <h1 class="inteco-page-title Curved">Blogs
-                                </h1>
-                            </div>
-                        </div>
-                    </div>
+           <!--banner start-->
+           <div class="">
+                <div class="">
+                    <img src="images/banner/blog-banner.jpg">
                 </div>
-                        
             </div>
+            <!--banner end-->
 
            
     <div class="wrapper-blog">
@@ -39,7 +28,7 @@
           <section class="blog-page">
               <ul class="pagin">
                   <li>
-                      <img src="images/blog-page/blog-1.jpg" alt="How Stretch Ceilings Can Improve Your IT Workplace">
+                      <img src="img/blog/b1.jpg" alt="How Stretch Ceilings Can Improve Your IT Workplace">
                       <h4>How Stretch Ceilings Can Improve Your IT Workplace</h4>
                       <span>Admin-
                           Post published:08/05/2023
@@ -49,7 +38,7 @@
                       <button ><a href="improve-your-IT-workplace">Read More</a></button>
                   </li>
                   <li>
-                      <img src="images/blog-page/blog-2.jpg" alt="Stretch Ceiling">
+                      <img src="img/blog/b2.jpg" alt="Stretch Ceiling">
                       <h4>What is the benefit of a Stretch Ceiling? </h4>
                       <span>Admin
                           Post published:17/12/2022
@@ -59,7 +48,7 @@
                       <button ><a href="What-is-the-benefit">Read More</a></button>
                   </li>
                   <li>
-                      <img src="images/blog-page/blog-3.jpg" alt="Stretch Ceiling">
+                      <img src="img/blog/b3.jpg" alt="Stretch Ceiling">
                       <h4>Stretch Ceilings –Much STRONGER than you can imagine</h4>
                       <span>Admin
                           Post published:26/08/2022
@@ -69,7 +58,7 @@
                       <button ><a href="much-stronger">Read More</a></button>
                   </li>
                   <li>
-                      <img src="img/drive-3d/01.jpg" alt="Stretch Ceiling">
+                      <img src="img/blog/b4.jpg" alt="Stretch Ceiling">
                       <h4>Why stretch ceiling are perfect for Wet / Humid rooms?</h4>
                       <span>Admin
                           Post published:28/06/2022
@@ -79,7 +68,7 @@
                       <button ><a href="perfect-for-wet">Read More</a></button>
                   </li>
                   <li>
-                      <img src="images/blog-page/blog-4.jpeg" alt="Stretch Ceiling">
+                      <img src="img/blog/b5.jpg" alt="Stretch Ceiling">
                       <h4>High Gloss Lacquer stretch ceiling with linear lights</h4>
                       <span>Admin
                           Post published:27/05/2022
@@ -88,7 +77,7 @@
                       <button ><a href="high-gloss-lacquer">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/Printed Stretch Ceiling/university/Hindustan (2).jpeg">
+                      <img alt="Stretch Ceiling" src="img/blog/b6.jpg">
                       <h4>Stretch Ceiling – Power<br> Consumption</h4>
                       <span>Admin
                           Post published:24/05/2022
@@ -98,7 +87,7 @@
                       <button ><a href="power-consumption">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/integrated-lighting-lobby-stretch-ceiling-.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b7.jpg">
                       <h4>How do you maintain Stretch Ceilings?</h4>
                       <span>Admin
                           Post published:04/05/2022
@@ -108,7 +97,7 @@
                       <button ><a href="how-do-you-maintain">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/27.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b8.jpg">
                       <h4>Stretch ceiling – Perfect choice for restaurant</h4>
                       <span>Admin
                           Post published:29/04/2022
@@ -118,7 +107,7 @@
                       <button ><a href="perfect-choice-for-restaurant">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/20.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b9.jpg">
                       <h4>Pros and cons of 3D Stretch Ceiling</h4>
                       <span>Admin
                           Post published:27/04/2022
@@ -129,7 +118,7 @@
                       <button ><a href="3D-stretch-ceiling">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/19.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b10.jpg">
                       <h4>Stretch ceiling on a wall</h4>
                       <span>Admin
                           Post published:22/04/2022
@@ -143,7 +132,7 @@
       
               <ul class="page pagin">
                   <li>
-                      <img  alt="Stretch Ceiling" src="img/drive-translucent/18.jpg">
+                      <img  alt="Stretch Ceiling" src="img/blog/b11.jpg">
                       <h4>Stretch ceiling <br>shapes</h4>
                       <span>Admin
                           Post published:15/04/2022
@@ -153,7 +142,7 @@
                       <button ><a href="Stretch-ceiling-shapes">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/14.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b12.jpg">
                       <h4>How do stretch ceilings work with lights and other fittings?</h4>
                       <span>Admin
                           Post published:11/04/2022
@@ -163,7 +152,7 @@
                       <button ><a href="stretch-ceilings-lights-fittings">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/08.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b13.jpg">
                       <h4>European Vs Chinese <br>Stretch Ceilings</h4>
                       <span>Admin
                           Post published:08/04/2022
@@ -173,7 +162,7 @@
                       <button ><a href="european-vs-chinese-stretch-ceilings">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/10.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b14.jpg">
                       <h4>Printed ceiling made easy with Iceil stretch ceiling</h4>
                       <span>Admin
                           Post published:06/04/2022
@@ -183,7 +172,7 @@
                       <button ><a href="printed-ceiling-iceil-stretch-ceiling">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/12.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b15.jpg">
                       <h4>How to Fit Stretch Ceiling System into my Space</h4>
                       <span>Admin
                           Post published:02/04/2022
@@ -193,7 +182,7 @@
                       <button ><a href="how-to-fit-stretch-ceiling-system-into-my-space">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/07.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b16.jpg">
                       <h4>5 Ways Stretch Ceilings Can Save You Money</h4>
                       <span>Admin
                           Post published:29/03/2022
@@ -203,7 +192,7 @@
                       <button ><a href="5-ways-stretch-ceilings-can-save-you-money">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/shopping-center-stretch-ceiling.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b17.jpg">
                       <h4>Stretch ceiling – Best for entertainment centre</h4>
                       <span>Admin
                           Post published:26/03/2022
@@ -213,7 +202,7 @@
                       <button ><a href="stretch-ceiling-best-for-entertainment-centre">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/Stretch-Ceilings-Ltd_Lighting-Solutions_Octavia-House_1200x800.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b18.jpg">
                       <h4>Different types of Stretch<br> Ceiling</h4>
                       <span>Admin
                           Post published:24/03/2022
@@ -223,7 +212,7 @@
                       <button ><a href="different-types-of-stretch-ceiling">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Acoustics Stretch Ceiling" src="img/drive-translucent/TRANS 10 (1).jpg">
+                      <img alt="Acoustics Stretch Ceiling" src="img/blog/b19.jpg">
                       <h4>Improve your room acoustics with stretch ceiling</h4>
                       <span>Admin
                           Post published:16/03/2022
@@ -233,7 +222,7 @@
                       <button ><a href="acoustics-stretch-ceiling">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Lacquer Ceiling" src="img/drive-translucent/translucent-stretch-ceilings.jpg">
+                      <img alt="Lacquer Ceiling" src="img/blog/b20.jpg">
                       <h4>High gloss Lacquer Ceiling</h4>
                       <span>Admin
                           Post published:14/03/2022
@@ -247,7 +236,7 @@
       
               <ul class="page pagin">
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/integrated-lighting-lobby-stretch-ceiling-.jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b21.jpg">
                       <h4>6 things you didn’t know about Stretch Ceilings</h4> 
                       <span>Admin
                           Post published:11/03/2022
@@ -257,7 +246,7 @@
                       <button ><a href="about-Stretch-Ceilings.php">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling"src="img/drive-translucent/09.jpg">
+                      <img alt="Stretch Ceiling"src="img/blog/b22.jpg">
                       <h4>Starry Galaxy Ceiling made with Stretch Ceiling</h4> 
                       <span>Admin
                           Post published:10/03/2022
@@ -267,7 +256,7 @@
                       <button ><a href="Starry-Galaxy-Ceiling">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/01.webp">
+                      <img alt="Stretch Ceiling" src="img/blog/b23.jpg">
                       <h4>What is a Translucent Stretch Ceiling?</h4>
                       <span>Admin
                           Post published:09/03/2022
@@ -277,7 +266,7 @@
                       <button ><a href="Translucent-stretch-ceiling">Read More</a></button>
                   </li>
                   <li>
-                      <img alt="Stretch Ceiling" src="img/drive-translucent/03 (1).jpg">
+                      <img alt="Stretch Ceiling" src="img/blog/b24.jpg">
                       <h4>Why we are better than other stretch ceiling manufacturers?</h4> 
                       <span>Admin
                           Post published:24/02/2022
@@ -287,7 +276,7 @@
                       <button ><a href="Why-we-are-better">Read More</a></button>
                   </li>
                   <li>
-                      <img src="img/drive-translucent/3d6.jpg" alt="Stretch Ceiling">
+                      <img src="img/blog/b25.jpg" alt="Stretch Ceiling">
                       <h4>Leading Stretch Ceiling Manufacturer in India</h4> 
                       <span>Admin
                           Post published:12/11/2021
@@ -297,7 +286,7 @@
                       <button ><a href="Leading-Stretch-Ceiling">Read More</a></button>
                   </li>
                   <li>
-                      <img src="img/drive-translucent/02.jpg" alt="Stretch Ceiling">
+                      <img src="img/blog/b26.jpg" alt="Stretch Ceiling">
                       <h4>Best Business Opportunity in India 2021.</h4> 
                       <span>Admin
                           Post published:26/10/2021
@@ -307,7 +296,7 @@
                       <button ><a href="Best-Business-Opportunity">Read More</a></button>
                   </li>
                   <li>
-                      <img src="img/drive-translucent/05.jpg" alt="Stretch Ceiling">
+                      <img src="img/blog/b27.jpg" alt="Stretch Ceiling">
                       <h4>What is stretch<br> ceiling?</h4> 
                       <span>Admin
                           Post published:07/11/2020
@@ -317,7 +306,7 @@
                       <button ><a href="What-is-stretch-ceiling">Read More</a></button>
                   </li>
                   <li>
-                      <img src="img/drive-translucent/06.jpg" alt="STRETCH or GYPSUM">
+                      <img src="img/blog/b28.jpg" alt="STRETCH or GYPSUM">
                       <h4>Which Ceiling is better: STRETCH or GYPSUM?</h4> 
                       <span>Admin
                           Post published:18/08/2020

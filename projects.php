@@ -189,7 +189,7 @@
                         </a>
                         <a class="card-of-blog">
                             <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/World Skill Center.jpeg" width="288" />
+                                <img alt="our project"  src="images/project-page/world skill centre (1a).jpg" width="288" />
                             </div>
                             <div class="card-header-blog">
                                 <h3>World Skill Center</h3>
