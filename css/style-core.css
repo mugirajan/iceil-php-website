@@ -11353,6 +11353,17 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 /*drives and controller end*/
 
 /*responsive*/
+.triangle-section{
+	background-color: gray;
+}
+.triangle-section h2{
+	font-size: 35px !important;
+	color: white !important;
+}
+.sub-triangle-section{
+	width: 80%;
+	margin:0 auto;
+}
 @media(min-width:700px){
 .pad-banner{
 	padding-top:120px;
@@ -11364,24 +11375,37 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 	}
 }
 
-.advantage-section{
-	background-color:#7f7f7f ;
-	padding: 50px 0px;
+.triangle-section {
+    padding: 20px;
 }
-.advantage-sub-div{
-	width:80%;
-	margin:0 auto;
+
+.left-triangle .triangle-grid {
+    margin-top: 20px;
 }
-.right-side-advantage{
-	display: flex;
-	justify-content: flex-end;
+
+.right-triangle .triangle-grid {
+    margin-top: 20px;
 }
-.rightdivadvantage{
-	width:80%;
+
+.triangle-grid .row {
+    margin-bottom: 10px;
 }
-.rightdivadvantage img{
-	width:100%;
+
+.triangle-grid img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
-.advantage-sub-div h2{
-	font-size: 35px !important;
+
+
+
+/* Add spacing for the right triangle alignment */
+.right-triangle .row {
+    text-align: right;
+}
+
+@media (max-width: 576px) {
+    .triangle-grid img {
+        width: 80%; /* Make images slightly smaller on very small screens */
+    }
 }

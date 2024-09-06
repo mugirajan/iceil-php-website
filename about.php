@@ -514,148 +514,95 @@
                     </div>
                     <!--why choose us end-->
 
-                    <!--competative and advantage starts-->
-                    <div class="advantage-section">
-                        <div class="advantage-sub-div">
+                    <!-- Competitve Section -->
+                    <div class="triangle-section">
+                        <div class="sub-triangle-section">
                             <div class="row">
-                                <div class="col-md-6 col-sm-12 col-xs-12">
-                                        <h2 class="text-center text-white">Competitive</h2>
-                                    <div class="row">
-                                        <div class="col-md-12 col-sm-12 col-xs-12">
-                                            <div class="row">
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/1.png">
-                                                    </div>
-                                                </div>
+                                <!-- Left Side (Left-Angle Triangle) Column -->
+                                <div class="col-md-6 col-sm-12 left-triangle">
+                                    <h2 class="text-center">Competitve</h2>
+                                    <div class="triangle-grid">
+                                        <div class="row">
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/1.png" alt="1">
                                             </div>
                                         </div>
-                                        <div class="col-md-12 col-sm-12 col-xs-12">
-                                            <div class="row">
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/2.png">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/3.png">
-                                                    </div>
-                                                </div>
+                                        <div class="row">
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/2.png" alt="1">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/3.png" alt="2">
                                             </div>
                                         </div>
-                                        <div class="col-md-12 col-sm-12 col-xs-12">
-                                            <div class="row">
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/4.png">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/5.png">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/6.png">
-                                                    </div>
-                                                </div>
+                                        <div class="row">
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/4.png" alt="1">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/5.png" alt="2">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/6.png" alt="3">
                                             </div>
                                         </div>
-                                        <div class="col-md-12 col-sm-12 col-xs-12">
-                                            <div class="row">
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/7.png">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/8.png">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/9.png">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/10.png">
-                                                    </div>
-                                                </div>
+                                        <div class="row">
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/7.png" alt="1">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/8.png" alt="2">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/9.png" alt="3">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/10.png" alt="4">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6 col-sm-12 col-xs-12">
-                                    <h2 class="text-center text-white">Advantages</h2>
-                                <div class="row">
-                                        <div class="col-md-12 col-sm-12 col-xs-12">
-                                            <div class="row right-side-advantage">
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/11.png">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/11.png">
-                                                    </div>                                                
-                                                 </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/11.png">
-                                                    </div>                                                
-                                                </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/11.png">
-                                                    </div>                                                
-                                                </div>
+                                
+                                <!-- Right Side (Right-Angle Triangle) Column -->
+                                <div class="col-md-6 col-sm-12 right-triangle">
+                                    <h2 class="text-center">Advantages</h2>
+                                    <div class="triangle-grid">
+                                        <div class="row justify-content-end">
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/11.png" alt="1">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/12.png" alt="2">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/13.png" alt="3">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/14.png" alt="4">
                                             </div>
                                         </div>
-                                        <div class="col-md-12 col-sm-12 col-xs-12">
-                                            <div class="row right-side-advantage">
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/12.png">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/13.png">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/14.png">
-                                                    </div>
-                                                </div>
+                                        <div class="row justify-content-end">
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/15.png" alt="2">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/16.png" alt="3">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/17.png" alt="4">
                                             </div>
                                         </div>
-                                        <div class="col-md-12 col-sm-12 col-xs-12">
-                                            <div class="row right-side-advantage">
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/15.png">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/16.png">
-                                                    </div>
-                                                </div>
+                                        <div class="row justify-content-end">
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/18.png" alt="3">
+                                            </div>
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/19.png" alt="4">
                                             </div>
                                         </div>
-                                        <div class="col-md-12 col-sm-12 col-xs-12">
-                                            <div class="row right-side-advantage">
-                                                <div class="col-md-3 col-lg-3 col-sm-6">
-                                                    <div class="rightdivadvantage">
-                                                        <img src="images/Competative-Advantages/17.png">
-                                                    </div>
-                                                </div>
+                                        <div class="row justify-content-end">
+                                            <div class="col-3">
+                                                <img src="images/Competative-Advantages/20.png" alt="4">
                                             </div>
                                         </div>
                                     </div>
@@ -663,8 +610,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--competative and advantage end-->
-                    
+
                     <!--commitment start-->
                     <div class="gdlr-core-pbf-wrapper d-none" style="padding: 68px 0px 0px 0px;">
                         <div class="gdlr-core-pbf-background-wrap"></div>
