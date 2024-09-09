@@ -167,8 +167,9 @@
 
                     <!--client-carousel start-->
                         <h3 class="text-center gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 39px ;font-weight: 900 ;letter-spacing: 0px ;text-transform: none ;color: #232323 ;">Our Clientele</h3></div>
-                        <div class="logos">
-                            <div class="logo_items">
+                        <div class="client-slider">
+                        <div class="slider-container">
+                            <div class="slider">
                                 <img src="images/Clients-Logo/1.png">
                                 <img src="images/Clients-Logo/2.png">
                                 <img src="images/Clients-Logo/3.png">
@@ -242,6 +243,7 @@
                             </div>
                           
                         </div>
+</div>
                     <!--client-carousel end-->
 
 

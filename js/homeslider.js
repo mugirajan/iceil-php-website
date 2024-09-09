@@ -1,22 +1,19 @@
-$(document).ready(function(){
-    $('.client-logos').slick({
-        slidesToShow: 6,
-        slidesToScroll: 1,
-        autoplay: true,
-        autoplaySpeed: 1500,
-        arrows: false,
-        dots: false,
-        pauseOnHover: false,
-        responsive: [{
-            breakpoint: 768,
-            settings: {
-                slidesToShow: 4
-            }
-        }, {
-            breakpoint: 520,
-            settings: {
-                slidesToShow: 3
-            }
-        }]
-    });
+document.addEventListener('DOMContentLoaded', function() {
+    const slider = document.querySelector('.slider');
+    const slides = document.querySelectorAll('.slider img');
+    let currentIndex = 0;
+    const totalSlides = slides.length;
+
+    function updateSlider() {
+        const offset = -currentIndex * 100;
+        slider.style.transform = `translateX(${offset}%)`;
+    }
+
+    function autoSlide() {
+        currentIndex = (currentIndex + 1) % totalSlides;  // Loop back to the first slide
+        updateSlider();
+    }
+
+    // Start the automatic slider with a 3-second interval
+    setInterval(autoSlide, 1000);
 });
