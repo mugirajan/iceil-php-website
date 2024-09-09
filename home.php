@@ -126,7 +126,7 @@
                                 </a>
                             </div>
                             <div class=" whatwedodiv">
-                                <a href="comming-soon" class="whatwedo-image">
+                                <a href="coming-soon" class="whatwedo-image">
                                     <div>
                                         <img src="img/home-image/150.jpg" alt="Architectural Lighting">
                                     </div>

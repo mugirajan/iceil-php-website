@@ -751,6 +751,7 @@ h6 {
 
 .mry-menu nav ul .menu-item .sub-menu.mry-active {
 	max-height: 430px;
+	overflow: scroll;
 }
 
 .mry-menu nav ul .menu-item .sub-menu .menu-item a {

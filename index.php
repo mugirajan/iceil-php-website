@@ -663,7 +663,7 @@ include "./shared/navbar.php"
 			<div class="mry-project-slider-item">
 				<div class="mry-project-frame">
 					<div class="mry-cover-frame">
-						<img class="mry-project-cover" src="images/landing/iceil-landing/17.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
+						<img class="mry-project-cover" src="images/landing/iceil-landing/linear.jpg" alt="Profile Shape Lighting" data-swiper-parallax="500" data-swiper-parallax-scale="1.4">
 						<div class="mry-cover-overlay mry-gradient-overlay"></div>
 					</div>
 					<div class="mry-main-title-frame">

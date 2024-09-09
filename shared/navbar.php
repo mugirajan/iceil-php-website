@@ -99,13 +99,35 @@
                                         </li>
                                         <li class="menu-item "><a href="Fabric-Light-Boxes">Signage lightbox</a></li>
                                       
-                                        <li class="menu-item "><a href="comming-soon"
+                                        <li class="menu-item menu-item-has-children"><a href="#"
                                                 class="mry-default-link">Architect Area & Technical Infos</a>
-                                            <ul class="d-none sub-menu">
-                                                <li class="menu-item"><a href="StretchCeiling"
-                                                        class="mry-anima-link mry-default-link">BOQ</a></li>
-                                                <li class="menu-item"><a href="Boxing"
+                                            <ul class=" sub-menu">
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Stretch Ceiling Advantages</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Installation Pre-Conditions</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Installation Steps</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
                                                         class="mry-anima-link mry-default-link">Boxing</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Diffuser Specifications</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">LED Solutions</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Profile Section</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Drivers & Controllers</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Colours and Finishes</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Complex Projects</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Certifications</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Product Warranty</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">BOQ Request</a></li>
                                             </ul>
                                         </li>
 
@@ -256,14 +278,35 @@
                                         <li class="menu-item"><a href="Fabric-Light-Boxes"
                                                 class="mry-anima-link mry-default-link">Signage lightbox</a></li>
                                         
-                                        <li class="menu-item"><a href="comming-soon"
+                                        <li class="menu-item menu-item-has-children"><a href="#"
                                                 class="mry-default-link">Architect Area & Technical Infos</a>
-                                            <ul class="d-none sub-menu">
-                                                <li class="menu-item"><a href="StretchCeiling"
-                                                        class="mry-anima-link mry-default-link">BOQ</a></li>
-                                                <li class="menu-item"><a href="Boxing"
+                                                <ul class=" sub-menu">
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Stretch Ceiling Advantages</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Installation Pre-Conditions</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Installation Steps</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
                                                         class="mry-anima-link mry-default-link">Boxing</a></li>
-
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Diffuser Specifications</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">LED Solutions</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Profile Section</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Drivers & Controllers</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Colours and Finishes</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Complex Projects</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Certifications</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">Product Warranty</a></li>
+                                                <li class="menu-item"><a href="coming-soon"
+                                                        class="mry-anima-link mry-default-link">BOQ Request</a></li>
                                             </ul>
                                         </li>
                                         

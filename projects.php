@@ -99,7 +99,7 @@
                     <section class="blog-like-card">
                         <h4 class="text-center">Our Latest <span class="span-for-you">Projects</span></h4>
                         <div class="cards-of-blog-like">
-                        <a class="card-of-blog">
+                        <a class="card-of-blog first-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/GOA Airport.jpg" width="288" />
                             </div>
@@ -110,7 +110,7 @@
                                 <P>MOPA Goa Airport, 1800 SQFT space of vibrant Printed Stretch Ceiling.</P>
                             </div>
                         </a>
-                        <a class="card-of-blog">
+                        <a class="card-of-blog first-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/kalaignar library.jpg" width="288" />
                             </div>
@@ -121,7 +121,7 @@
                                     <P>Kalaignar Library in Madurai - 1500 SQFT of  Printed Stretch Ceiling in the Entrance and Walking Lobby</P>
                                 </div>
                         </a>
-                        <a class="card-of-blog">
+                        <a class="card-of-blog first-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/kauvery hospital.jpg" width="288" />
                             </div>
@@ -132,7 +132,7 @@
                                 <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
                             </div>
                         </a>
-                        <a class="card-of-blog">
+                        <a class="card-of-blog first-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/Sun Beam School.jpg" width="288" />
                             </div>
@@ -143,7 +143,7 @@
                                 <P>Sunbeam School in Vellore, 800 SQFT Customized Architectural Lighting Solutions.</P>
                             </div>
                         </a>
-                        <a class="card-of-blog">
+                        <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/DLF DownTown.jpg" width="288" />
                             </div>
@@ -154,7 +154,7 @@
                                     <P>Total Area : 19,200 SQFT,  Translucent Stretch Ceiling on Lift Lobbies - 12,000 SQFT and Metal Perforated Ceiling in the Entrance Lobby - 7200 SQFT.                                    </P>
                                 </div>
                         </a>
-                        <a class="card-of-blog">
+                        <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/Trimble.jpg" width="288" />
                             </div>
@@ -165,7 +165,7 @@
                                 <P>Trimble, Lakshmi Tech Park, Chennai - 1800 SQFT Translucent and Printed Stretch Ceiling including Reception Lobby, Meeting Room and Kids Play Area.                        </P>
                             </div>
                         </a>
-                        <a class="card-of-blog">
+                        <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/GRT Radisson Blu.jpeg" width="288" />
                             </div>
@@ -176,7 +176,7 @@
                                 <P>GRT Radisson Blu Hotel in Chennai - 1500 SQFT.  3D Form Pyramid Stretch Ceiling in Banquet Hall  and Printed Stretch Ceiling in Gym and Restobar Areas.</P>
                             </div>
                         </a>
-                        <a class="card-of-blog">
+                        <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/Maharishi Vidya Mandir School.jpg" width="288" />
                             </div>

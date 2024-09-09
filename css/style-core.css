@@ -9384,10 +9384,9 @@ Component
   grid-auto-flow: dense;
   align-items: start;
   .card-of-blog {
-	height: 425px;
+	/* height: 425px; */
     margin: 0 auto;
     max-width: 320px;
-    /* height: fit-content; */
     box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
     border-radius: 8px;
     
@@ -9456,6 +9455,47 @@ Component
 .card-partner-height img{
 	height:30vh;
 }
+@media(max-width:920px){
+.first-row-card{
+	height:400px;
+}
+.second-row-card{
+	height:425px;
+}
+}
+@media(max-width:1150px) and (min-width:921px){
+	.first-row-card{
+		height:425px;
+	}
+	.second-row-card{
+		height:425px;
+	}
+}
+@media(min-width:1151px){
+	.first-row-card{
+		height: 382px;
+	}
+	.second-row-card{
+		height:425px;
+	}
+}
+@media(max-width:900px) and (min-width:600px){
+	.first-row-card{
+		height: 336px;
+	}
+	.second-row-card{
+		height:425px;
+	}
+}
+@media(max-width:599px){
+	.first-row-card{
+		height: fit-content;
+	}
+	.second-row-card{
+		height: fit-content;
+	}
+}
+/*project page end*/
 /*gallery*/
 
 .container-gallery {

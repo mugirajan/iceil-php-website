@@ -520,7 +520,7 @@
                             <div class="row">
                                 <!-- Left Side (Left-Angle Triangle) Column -->
                                 <div class="col-md-6 col-sm-12 left-triangle">
-                                    <h2 class="text-center">Competitve</h2>
+                                    <h2 class="text-center">Competitive</h2>
                                     <div class="triangle-grid">
                                         <div class="row">
                                             <div class="col-3">
