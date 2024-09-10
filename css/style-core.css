@@ -9462,13 +9462,19 @@ Component
 .second-row-card{
 	height:425px;
 }
+.third-row-card{
+	height:380px;
+}
 }
 @media(max-width:1150px) and (min-width:921px){
 	.first-row-card{
 		height:425px;
 	}
 	.second-row-card{
-		height:425px;
+		height:495px;
+	}
+	.third-row-card{
+		height:450px;
 	}
 }
 @media(min-width:1151px){
@@ -9478,13 +9484,19 @@ Component
 	.second-row-card{
 		height:425px;
 	}
+	.third-row-card{
+		height:380px;
+	}
 }
 @media(max-width:900px) and (min-width:600px){
 	.first-row-card{
 		height: 336px;
 	}
 	.second-row-card{
-		height:425px;
+		height:376px;
+	}
+	.third-row-card{
+		height:380px;
 	}
 }
 @media(max-width:599px){
@@ -9493,6 +9505,9 @@ Component
 	}
 	.second-row-card{
 		height: fit-content;
+	}
+	.third-row-card{
+		height:fit-content;
 	}
 }
 /*project page end*/

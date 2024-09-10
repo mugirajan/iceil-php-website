@@ -187,7 +187,7 @@
                                 <P>Maharishi Vidya Mandir School, Chennai , 1000 SQFT RGBWW Tunable lighting solutions in classrooms.                                </P>
                             </div>
                         </a>
-                        <a class="card-of-blog">
+                        <a class="card-of-blog third-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/world skill centre (1a).jpg" width="288" />
                             </div>
@@ -198,7 +198,7 @@
                                 <P>World Skill Center - Bhubaneswar - 2250 SQFT. Translucent Hexagon Panels - 1700 SQFT, Printed Stretch Ceiling in Board Room.</P>
                             </div>
                         </a>
-                        <a class="card-of-blog">
+                        <a class="card-of-blog third-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/Dr. KM Cherian Institute.jpg" width="288" />
                             </div>
