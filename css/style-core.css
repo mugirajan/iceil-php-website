@@ -8904,7 +8904,7 @@ Component
   }
   @media(min-width:800px){
 	.section-carousel {
-		margin-bottom: 12rem;
+		margin-bottom: 24rem;
 		padding: 0 0 5rem 0;
 	}
   }
@@ -8964,8 +8964,8 @@ Component
   }
   
   .carousel__item--active {
-	top: -0.5rem;
-	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Adjust the values for the hover effect */
+	top: -0.3rem;
+	/* box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); Adjust the values for the hover effect */
   }
   
   .carousel__item__name {
@@ -8980,27 +8980,10 @@ Component
 	align-items: center;
 	gap: 0.5rem 0;
   }
-  
-  /* Colors for different flavors */
-  .carousel__item--mango {
-	background-color: #b39b00;
+  .carousel__item {
+	padding:30px;
   }
   
-  .carousel__item--vanilla {
-	background-color: #8c693e;
-  }
-  
-  .carousel__item--strawberry {
-	background-color: #905454;
-  }
-  
-  .carousel__item--matcha {
-	background-color: #9abd8b;
-  }
-  
-  .carousel__item--chocolate {
-	background-color: #969692;
-  }
   
   /* Caousel Nav */
   .carousel__nav {

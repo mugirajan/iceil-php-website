@@ -953,7 +953,7 @@
                     <main class="row main-carousel">
                         <div class="col-lg-3">
                             <div class="left-carousel-sec">
-                                <h4>Our <span class="span-for-you">Projects</span></h4>
+                                <h4>Our <span class="span-for-you">Certifications</span></h4>
                                 <p style="font-size:20px;">Iceil's top five projects showcase our expertise in stretch ceilings.</p>
                             </div>
                         </div>
@@ -974,28 +974,37 @@
                             <div class="carousel" style="height:0px !important;">
                               <div class="carousel__item carousel__item carousel__item--matcha">
                                 <div>
-                                  <img src="images/top5-projects/1.jpeg" alt="our top 5 project">
+                                  <img src="images/top5-projects/Statement_A+_12_10_2021-1.png" alt="our top 5 project">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--strawberry">
                                 <div>
-                                    <img src="images/top5-projects/2.jpeg" alt="our top 5 project">
+                                    <img src="images/top5-projects/Statement_A+_12_10_2021-1.png" alt="our top 5 project">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--vanilla">
                                 <div>
-                                    <img src="images/top5-projects/3.jpg" alt="our top 5 project">
+                                    <img src="images/top5-projects/6c. NEW -UDYAM - 24-25-1.png" alt="our top 5 project">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--mango">
                                 <div>
-                                    <img src="images/top5-projects/4.png" alt="our top 5 project">
-                        
+                                    <img src="images/top5-projects/B1 Test Report-5.png" alt="our top 5 project">
+                                </div>
+                              </div>
+                              <div class="carousel__item carousel__item--mango">
+                                <div>
+                                    <img src="images/top5-projects/Trademark - Iceil - Class 11-1.png" alt="our top 5 project">
+                                </div>
+                              </div>
+                              <div class="carousel__item carousel__item--mango">
+                                <div>
+                                    <img src="images/top5-projects/Pledge-1.png" alt="our top 5 project">
                                 </div>
                               </div>
                               <div class="carousel__item carousel__item--chocolate">
                                 <div>
-                                    <img src="images/top5-projects/5.jpeg" alt="our top 5 project">
+                                    <img src="images/top5-projects/chemical resistancy of RENOLIT FILMS ENG-1.png" alt="our top 5 project">
 
                                   <!-- <div class="carousel__item__name">Chocolate</div> -->
                                 </div>

@@ -31,6 +31,9 @@ RewriteRule ^improve-your-IT-workplace?$ improve-your-IT-workplace.php
 RewriteRule ^stretch-ceiling-chennai?$ contact.php
 RewriteRule ^stretch-ceiling-india?$ downloads.php
 
+
+
+
 RewriteRule ^3DWallGraphics?$ wallpaper.php
 
 RewriteRule ^Translucent-Stretch-Ceilings?$ translucent.php
