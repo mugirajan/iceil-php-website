@@ -8895,7 +8895,7 @@ Component
  
   @media(min-width:600px) and (max-width:799px){
 	.section-carousel {
-		margin-bottom:15rem;
+		margin-bottom:25rem;
 		padding:0rem
 	}
 	.left-carousel-sec{
@@ -8910,7 +8910,7 @@ Component
   }
   @media(max-width:600px){
 	.section-carousel {
-		margin-bottom: 12rem;
+		margin-bottom: 17rem;
 		padding: 2rem 0;
 	}
 	.left-carousel-sec{
