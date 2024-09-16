@@ -5,14 +5,14 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-    <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
-    <script type='text/javascript' src='plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js' ></script>
+    <script type='text/javascript' src='js/jquery/jquery-migrate.min.js' ></script>
+    <script type='text/javascript' src='plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
     <script type='text/javascript'
         src='plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js' ></script>
     <script type="text/javascript"
-        src="plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js" ></script>
+        src="plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js" defer></script>
     <script type="text/javascript"
-        src="plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js" ></script>
+        src="plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js" defer></script>
     <script type="text/javascript"
         src="plugins/revslider/public/assets/js/extensions/revolution.extension.kenburn.min.js" ></script>
     <script type="text/javascript"
@@ -22,7 +22,7 @@
     <script type="text/javascript"
         src="plugins/revslider/public/assets/js/extensions/revolution.extension.actions.min.js" ></script>
     <script type="text/javascript"
-        src="plugins/revslider/public/assets/js/extensions/revolution.extension.video.min.js" ></script>
+        src="plugins/revslider/public/assets/js/extensions/revolution.extension.video.min.js" defer></script>
         <script type='text/javascript' src='plugins/goodlayers-core/plugins/combine/script.js' ></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
@@ -36,8 +36,8 @@
         };
         /* ]]> */
     </script>
-    <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js' ></script>
-    <script type='text/javascript' src='js/jquery/ui/effect.min.js' ></script>
+    <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
+    <script type='text/javascript' src='js/jquery/ui/effect.min.js' defer ></script>
     <!-- tween max js -->
     <!-- <script src="js/plugins/tween-max.min.js"></script> -->
     <!-- scroll magic js -->
@@ -62,8 +62,8 @@
     <script src="js/plugins/parsley.min.js" ></script>
     <!-- main js -->
     <script src="js/main.js"></script>
-    <script src="js/mailer.js" ></script>
-    <script src="js/mailHelper.js" ></script>
+    <script src="js/mailer.js" defer></script>
+    <script src="js/mailHelper.js" defer></script>
     <script src="js/plugins.js" ></script>
     <script src="js/api.js"></script>
     </body>
