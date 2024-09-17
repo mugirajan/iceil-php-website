@@ -162,22 +162,22 @@
             <!--gallery start-->
             <section class="gallery-section">
                 <div class="gallery-div row">
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
                         <img src="img/printed-latest/6th avenue/VI Avenue HQ (3).jpg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
                         <img src="img/printed-latest/hyderbad L & T/WhatsApp Image 2023-11-24 at 6.26.39 PM.jpeg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
                         <img src="img/printed-latest/world skill centre/world skill centre (1).jpeg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
                         <img src="img/printed-latest/Radission Blu/Radission Blu (17).jpeg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
                         <img src="img/printed-latest/university/Hindustan (2).jpeg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
                         <img src="img/printed-latest/MOPA/Moppa (2).jpeg" alt="our works">
                     </div>
                 </div>
