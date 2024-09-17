@@ -4,6 +4,7 @@
 <meta name="keywords" content="printed stretch ceilings, digital printing ceilings, custom art ceilings, designer art ceilings, modern ceiling designs, stretch fabric ceiling installation, art and interior design, versatile ceiling solutions, famous artist reproductions, personalized ceiling art, functional ceiling design">
 <title>Printed Stretch Ceiling | Stretch Ceiling | Printed Ceilings</title>
 <meta name="description" content="Iceil Systems for the best printed stretch ceiling as we top the list of the Stretch Ceiling Suppliers in India. Get in touch with us to get more unique ideas.">
+<link rel="stylesheet" href="css/stretch-ceiling.css">
 </head>
 <?php
   include "./shared/navbar.php"
@@ -26,384 +27,164 @@
                 </div>
                         
             </div>
-             <!--banner end-->
-            
-             <!--intro start-->
-            <div class=" gdlr-core-pbf-wrapper-trans"  id="gdlr-core-wrapper-1">
-                <div class="gdlr-core-pbf-background-wrap"></div>
-                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first trans-sec-width">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 14px ;">
-                                            <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 39px ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">Printed Ceilings.</h3></div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align" style="margin-bottom: 0px ;">
-                                            <div class="gdlr-core-divider-container" style="max-width: 220px ;">
-                                                <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d6c5c2 ;"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-40 trans-sec-width-big">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>
-                                                    Iceil Printed Stretch Ceilings turn any room of your home or business into a work of designer art. The possibilities are endless, giving you the option of enhancing your ceiling with reproductions of famous artists' masterwork, or your own art or photographs using modern digital printing techniques on a stretch fabric ceiling installation. Printed stretch ceilings combine art with interior design, light, form, and function. It's hard to imagine a more versatile tool in the designer's toolbox and it's exciting to bring spaces to life with this remarkable technology.
-                                                </p>
-                                            </div>
-                                            <!-- <div>
-                                                <h5>Application Areas:</h5>
-                                                <ul>
-                                                    <li>Cinema Halls</li>
-                                                    <li>Auditoriums</li>
-                                                    <li>Business Houses</li>
-                                                    <li>Hospitals</li>
-                                                    <li>Retail Showrooms</li>
-                                                    <li>Residences</li>
-                                                </ul>
-                                            </div> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+            <!--banner end-->
+
+            <!--technical spec start-->
+            <section class="technical-spec-section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 spec-image">
+                            <img src="img/printed-latest/Kauvery Hospital/Chennai (Scan Room) (7).jpg" alt="Technical Spec Image">
+                            <p>
+                                Iceil Printed Stretch Ceilings turn any room of your home or business into work of designer art. The possibilities are endless, giving you the option o enhancing your ceiling with reproductions of famous artists masterwork, o your own art or photographs using modern digital printing techniques on stretch fabric ceiling installation. Printed stretch ceilings combine art with interior design, light, form, and function. It's hard to imagine a more versatile tool in the designer's toolbox and it's exciting to bring spaces to life with thi remarkable technology.                             
+                            </p>
                         </div>
                         
-                    </div>
-                </div>
-            </div>
-            <!--intro end-->
-
-            <!--stretch start-->
-                <div class="">
-                    <div class="gdlr-core-pbf-background-wrap">
-                        <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                        <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                            <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-2">
-                                <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;padding: 80px 0px 0px 0px;">
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">Printed Stretch Ceiling</span>
-                                                <div class="gdlr-core-title-item-title-wrap ">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 34px ;letter-spacing: 0px ;text-transform: none ;">Hotel Room</h3></div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" style="margin-bottom: 45px ;margin-right: -148px;">
-                                                <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d6c5c2 ;"></div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                                <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>Beyond their customizable nature, printed stretch ceilings add a touch of sophistication and elegance to any room. The seamless finish and vibrant colors create a visually stunning focal point that enhances the overall ambiance.</p>
-                                                </div>
-                                            </div>
-                                        </div>
+                        <div class="col-md-6 spec-list">
+                            <ul>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/13857/13857362.png" alt="Icon 1">
+                                        <p>Seamless Ceiling</p>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                                <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 75px 0px 0px;padding: 20px 0px 0px 0px;">
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                                <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-Printed-Stretch-Ceiling/PRINTED-STRETCH-CEILING-water (1).png" alt="printed ceiling" width="600" height="600" title="Printed Stretch Ceiling" /></div>
-                                            </div>
-                                        </div>
+                                    <div class="rightside-div">   
+                                        <p>Upto 5 Metre</p>
                                     </div>
-                                </div>
-                            </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/13857/13857341.png" alt="Icon 1">
+                                        <p>Printing Technology</p>   
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>UV Printed</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/14835/14835342.png" alt="Icon 1">
+                                        <p>Functionality</p>   
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>Dimming<br>
+                                            Dali Dimming<br>
+                                            Tuneable - Colour Changing - 3000K - 10000K<br>
+                                            Dali Tunable - Colour Changing - 3000K - 10000K</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/606/606795.png" alt="Icon 1">
+                                        <p>Lighting</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>Single Colour - 3000K, 4000K, 6500K, 10000K<br>
+                                            Tunable 3000 - 10000K<br>
+                                            RGB<br>
+                                            RGB Dynamic SPI + Music<br>
+                                            RGBW + DMX<br>
+                                            RGBWW - RGB + Tunable - Colour Changing - 3000K - 10000K<br>
+                                            RGB Mesh + DMX for Movements
+                                        </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/7822/7822820.png" alt="Icon 1">
+                                        <p>Power Supply</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>24V<br>
+                                            Direct Current - 220V</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/652/652345.png" alt="Icon 1">
+                                        <p>Fire Retardant</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>BS1D0</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/6936/6936905.png" alt="Icon 1">
+                                        <p>Composition</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>ROHS Certified</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/9333/9333640.png" alt="Icon 1">
+                                        <p>Stretch Fabric Thickness</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>0.18 mm</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/8902/8902165.png" alt="Icon 1">
+                                        <p>Boxing Depth</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>150mm - 200mm</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/3037/3037071.png" alt="Icon 1">
+                                        <p>Boxing Type </p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>Wooden Box, Aluminum Profile (75mm, 100mm, 115mm, 150mm)</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/6304/6304700.png" alt="Icon 1">
+                                        <p>Translucent </p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>60%</p>
+                                    </div>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
-                <div class="">
-                    <div class="gdlr-core-pbf-background-wrap">
-                        <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                        <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column">
-                            <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-3">
-                                <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 60px 0px 0px;padding: 0px 0px 0px 0px;">
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                                <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:80vh" src="img/drive-Printed-Stretch-Ceiling/P0A0566.jpg" alt="printed ceiling" width="600" height="600" title="Printed Stretch Ceiling" /></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-4">
-                                <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 120px 0px 0px;padding: 105px 0px 0px 0px;">
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">Printed Stretch Ceiling</span>
-                                                <div class="gdlr-core-title-item-title-wrap ">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 34px ;letter-spacing: 0px ;text-transform: none ;">Swimming Pool</h3></div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align" style="margin-bottom: 45px ;margin-left: -98px">
-                                                <div class="gdlr-core-divider-container" style="max-width: 355px ;">
-                                                    <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d6c5c2 ;"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                                <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                    <p>Printed stretch ceilings elevate the ambiance of banquet halls by offering customized designs that match event. themes or corporate branding. They add visual interest, conceal imperfections, and seamlessly integrate lighting fixtures. Additionally, they provide durability, easy maintenance, and acoustic comfort, ensuring a sophisticated and memorable atmosphere for various events and gatherings held in banquet halls.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="">
-                    <div class="gdlr-core-pbf-background-wrap">
-                        <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                        <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                            <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-2">
-                                <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;padding: 80px 0px 0px 0px;">
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">Printed Stretch Ceiling</span>
-                                                <div class="gdlr-core-title-item-title-wrap ">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 34px ;letter-spacing: 0px ;text-transform: none ;">Office Lobby</h3></div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" style="margin-bottom: 45px ;margin-right: -148px;">
-                                                <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d6c5c2 ;"></div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                                <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                    <p>Printed stretch ceilings in office lobbies epitomize sophistication, amalgamating bespoke designs, logos, or motifs. They foster an inviting ambiance, obfuscating blemishes, and harmoniously integrating lighting. With inherent durability, facile upkeep, and acoustic enhancements, they confer a refined and branded aesthetic, leaving an enduring impact on visitors and occupants alike.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                                <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 75px 0px 0px;padding: 20px 0px 0px 0px;">
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                                <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-Printed-Stretch-Ceiling/sky-transformed.png" alt="printed ceiling" width="600" height="600" title="Printed Stretch Ceiling" /></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="">
-                    <div class="gdlr-core-pbf-background-wrap">
-                        <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                        <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column">
-                            <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-3">
-                                <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 60px 0px 0px;padding: 0px 0px 0px 0px;">
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                                <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:90vh" src="img/drive-Printed-Stretch-Ceiling/scan-room-printed-ceiling-500x500-transformed.png" alt="printed ceiling" width="600" height="600" title="Printed Stretch Ceiling" /></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-4">
-                                <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 120px 0px 0px;padding: 105px 0px 0px 0px;">
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">Printed Stretch Ceiling</span>
-                                                <div class="gdlr-core-title-item-title-wrap ">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 34px ;letter-spacing: 0px ;text-transform: none ;">Scanning Room </h3></div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align" style="margin-bottom: 45px ;margin-left: -98px">
-                                                <div class="gdlr-core-divider-container" style="max-width: 355px ;">
-                                                    <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d6c5c2 ;"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                                <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                    <p>Iceil Printed Stretch Ceilings offer numerous advantages in hospitals. Custom designs create a healing environment, reducing patient stress and promoting recovery. Easy-to-clean surfaces maintain hygiene standards, while durability ensures long-term performance. Seamless integration with lighting fixtures and medical equipment enhances functionality.
-                                                        Iceil Printed Stretch Ceilings have become an integral part of hospital scan room design, combining aesthetics with practical benefits These high-quality, customizable ceilings enhance the room's ambiance, providing a calming environment for patients while maintaining main- training functionality and hygiene.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="">
-                    <div class="gdlr-core-pbf-background-wrap">
-                        <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                        <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                            <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-2">
-                                <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;padding: 80px 0px 0px 0px;">
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">Printed Stretch Ceiling</span>
-                                                <div class="gdlr-core-title-item-title-wrap ">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 34px ;letter-spacing: 0px ;text-transform: none ;">Living Room</h3></div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" style="margin-bottom: 45px ;margin-right: -148px;">
-                                                <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d6c5c2 ;"></div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                                                <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                    <p>Printed stretch ceilings provide customizable designs that enhance aesthetics, reduce stress, and cultivate a positive atmosphere. They offer easy maintenance, durability, and seamless integration with lighting. Additionally, their acoustic properties contribute to overall comfort, making them suitable for a variety of environments.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                                <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 75px 0px 0px;padding: 20px 0px 0px 0px;">
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                                        <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                                <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-Printed-Stretch-Ceiling/03-6 (1).jpg" alt="printed ceiling" width="600" height="600" title="Printed Stretch Ceiling" /></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-             <!--stretch end-->
+            </section>
+            <!--technical spec end-->
 
             <!--gallery start-->
-            <div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
-                <div class="gdlr-core-pbf-background-wrap"></div>
-                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-portfolio-item gdlr-core-item-pdb clearfix  gdlr-core-portfolio-item-style-metro-no-space gdlr-core-item-pdlr">
-                                <div class="gdlr-core-block-item-title-wrap  gdlr-core-left-align" style="margin-left: 100px ;">
-                                    <div class="gdlr-core-block-item-title-inner">
-                                        <h3 class="gdlr-core-block-item-title" style="font-size: 33px ;text-transform: none ;letter-spacing: 0px ;">Our Works .</h3>
-                                        <span class="gdlr-core-separator" style="border-color: #2676bc ;"></span>
-                                    </div>
-                                </div>
-
-                                
-                                <main class="main-gallery">
-                                    <div class="container-gallery">
-                                    <div class="card-gallery" >
-                                        <div class="card-image">
-                                            <a href="img/printed-latest/6th avenue/VI Avenue HQ (3).jpg" data-fancybox="gallery"  data-caption="Caption Images 1">
-                                                <img src="img/printed-latest/6th avenue/VI Avenue HQ (3).jpg" alt="Image Gallery" >
-                                            </a>
-                                        </div>
-                                        <h5>6th Avenue Restro Bar</h5>
-                                        <p>Mesmerizing printed stretch ceiling project adorned VI Avenue Restro Bar's various spaces in Anna Nagar, Chennai, captured elegantly.</p>
-                                    </div>
-                                    <div class="card-gallery">
-                                        <div class="card-image">
-                                        <a href="img/printed-latest/hyderbad L & T/WhatsApp Image 2023-11-24 at 6.26.39 PM.jpeg"  data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/printed-latest/hyderbad L & T/WhatsApp Image 2023-11-24 at 6.26.39 PM.jpeg"   alt="Image Gallery">
-                                        </a>
-                                        </div>
-                                        <h5>L&T Hyderabad</h5>
-                                        <p>Enchanting printed curve shape night sky stretch ceiling at L&T Office Room in Hitec City, Hyderabad, captured in mesmerizing frames.</p>
-                                    </div>
-                                    <div class="card-gallery" >
-                                        <div class="card-image">
-                                        <a href="img/printed-latest/Kauvery Hospital/Chennai (Scan Room) (7).jpg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/printed-latest/Kauvery Hospital/Chennai (Scan Room) (7).jpg" alt="Image Gallery">
-                                        </a>
-                                        </div>
-                                        <h5>Kauvery Hospital Scan Room</h5>
-                                        <p>Elegant printed L-shape project enriches Kauvery Hospitals' scan room in Alwarpet, Chennai, immortalized in frames capturing its sophisticated design.</p>
-                                    </div>
-                                    <div class="card-gallery">
-                                        <div class="card-image">
-                                        <a href="img/printed-latest/world skill centre/world skill centre (1).jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/printed-latest/world skill centre/world skill centre (1).jpeg" alt="Image Gallery">
-                                        </a>
-                                        </div>
-                                        <h5>World skill center</h5>
-                                        <p>Innovative printed shape project enhances World Skill Center's conference hall and reading room in Bhubaneswar, showcased in compelling frames</p>
-                                    </div>
-                                    <div class="card-gallery">
-                                        <div class="card-image">
-                                        <a href="img/printed-latest/Radission Blu/Radission Blu (17).jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/printed-latest/Radission Blu/Radission Blu (17).jpeg" alt="Image Gallery">
-                                        </a>
-                                        </div>
-                                        <h5>Radission Blu</h5>
-                                        <p>Illuminating printed stretch ceiling project graces Radisson Blu Hotel's bar, restroom, and gym areas, enhancing ambiance, captured in splendid frames.</p>
-                                    </div>
-                                    <div class="card-gallery">
-                                        <div class="card-image">
-                                        <a href="img/printed-latest/university/Hindustan (2).jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/printed-latest/university/Hindustan (2).jpeg" alt="Image Gallery">
-                                        </a>
-                                        </div>
-                                        <h5>Hindustan University</h5>
-                                        <p>A celestial marvel unfolds: printed galaxy stretch ceiling at Hindustan University's ISRO Research Centre in Padur, Chennai, immortalized in captivating frames.</p>
-                                    </div>
-                                    <div class="card-gallery">
-                                        <div class="card-image">
-                                        <a href="img/printed-latest/MOPA/Moppa (2).jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/printed-latest/MOPA/Moppa (2).jpeg" alt="Image Gallery">
-                                        </a>
-                                        </div>
-                                        <h5>Mopa Airport</h5>
-                                        <p>Vibrant printed pattern stretch ceiling project adorns Mopa Airport's arrival area in Goa, immortalized in frames capturing its captivating essence.</p>
-                                    </div>
-                                </div>
-                                </main>
-                                <!--gallery-->
-                                
-                            </div>
-                        </div>
+            <section class="gallery-section">
+                <div class="gallery-div row">
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/printed-latest/6th avenue/VI Avenue HQ (3).jpg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/printed-latest/hyderbad L & T/WhatsApp Image 2023-11-24 at 6.26.39 PM.jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/printed-latest/world skill centre/world skill centre (1).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/printed-latest/Radission Blu/Radission Blu (17).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/printed-latest/university/Hindustan (2).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/printed-latest/MOPA/Moppa (2).jpeg" alt="our works">
                     </div>
                 </div>
-            </div>
-            <!--gallery end-->
-
+            </section>
+            <!--gallery end-->            
+         
+                            
             <?php
                    include "./shared/footer.php"
                 ?>
