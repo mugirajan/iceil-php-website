@@ -93,26 +93,110 @@
                             <img src="img/Translucent/Kauvery/Board Room (5).jpeg" alt="Technical Spec Image">
                             <p>
                                 Iceil Translucent Stretch Ceilings allow light to be evenly distributed with the stretch membrane offering 75% Translucency. We can provide a vast seamless lighting solution with a span of 50 SQM without joints creating a great ambiance. The ceilings can be customized to offer different colors and dimming controls suiting your mood.
-                            </p>
+                             </p>
                         </div>
                         
                         <div class="col-md-6 spec-list">
                             <ul>
                                 <li>
-                                    <img src="https://via.placeholder.com/50" alt="Icon 1">
-                                    <p>Specification 1: Detailed technical spec content goes here</p>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/13857/13857362.png" alt="Icon 1">
+                                        <p>Seamless Ceiling</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>Upto 5 Metre</p>
+                                    </div>
                                 </li>
                                 <li>
-                                    <img src="https://via.placeholder.com/50" alt="Icon 2">
-                                    <p>Specification 2: Detailed technical spec content goes here</p>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/14835/14835342.png" alt="Icon 1">
+                                        <p>Functionality</p>   
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>Dimming<br>
+                                            Dali Dimming<br>
+                                            Tuneable - Colour Changing - 3000K - 10000K<br>
+                                            Dali Tunable - Colour Changing - 3000K - 10000K</p>
+                                    </div>
                                 </li>
                                 <li>
-                                    <img src="https://via.placeholder.com/50" alt="Icon 3">
-                                    <p>Specification 3: Detailed technical spec content goes here</p>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/606/606795.png" alt="Icon 1">
+                                        <p>Lighting</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>Single Colour - 3000K, 4000K, 6500K, 10000K<br>
+                                            Tunable 3000 - 10000K<br>
+                                            RGB<br>
+                                            RGB Dynamic SPI + Music<br>
+                                            RGBW + DMX<br>
+                                            RGBWW - RGB + Tunable - Colour Changing - 3000K - 10000K<br>
+                                            RGB Mesh + DMX for Movements</p>
+                                    </div>
                                 </li>
                                 <li>
-                                    <img src="https://via.placeholder.com/50" alt="Icon 4">
-                                    <p>Specification 4: Detailed technical spec content goes here</p>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/7822/7822820.png" alt="Icon 1">
+                                        <p>Power Supply</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>24V<br>
+                                            Direct Current - 220V</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/652/652345.png" alt="Icon 1">
+                                        <p>Fire Retardant</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>BS1D0</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/6936/6936905.png" alt="Icon 1">
+                                        <p>Composition</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>ROHS Certified</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/9333/9333640.png" alt="Icon 1">
+                                        <p>Stretch Fabric Thickness</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>0.18 mm</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/8902/8902165.png" alt="Icon 1">
+                                        <p>Boxing Depth</p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>150mm - 200mm</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/3037/3037071.png" alt="Icon 1">
+                                        <p>Boxing Type </p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>Wooden Box, Aluminum Profile (75mm, 100mm, 115mm, 150mm)</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="leftside-div">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/6304/6304700.png" alt="Icon 1">
+                                        <p>Translucent </p>
+                                    </div>
+                                    <div class="rightside-div">   
+                                        <p>75%</p>
+                                    </div>
                                 </li>
                             </ul>
                         </div>
@@ -120,6 +204,7 @@
                 </div>
             </section>
             <!--technical spec end-->
+
 
             <!--gallery start-->
             <section class="gallery-section">
