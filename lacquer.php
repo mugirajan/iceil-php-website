@@ -4,6 +4,10 @@
 <meta name="keywords" content="Residence lacquer stretch ceiling, Wash Room lacquer stretch ceiling, lacquer stretch ceiling, glossy ceiling finish, reflective ceiling, modern ceiling design, upscale ceiling solutions, high-end residential ceilings, commercial ceilings, hospitality ceilings, durable ceiling materials, easy-to-maintain ceilings, luminous ceilings, sophisticated ceiling aesthetics">
 <title>Iceil Lacquer Stretch Ceiling | Lacquer Ceiling | Stretch Ceiling</title>
 <meta name="description" content="Are you in search of Stretch Ceiling India? Contact Iceil Systems for top-quality lacquer stretch ceilings. We are the the best Stretch Ceiling Supplier">
+
+<!-- css for gallery -->
+<link rel="stylesheet" href="css/stretch-ceiling.css">
+
 </head>
 
 <?php
@@ -59,7 +63,7 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>Iceil Lacquer Stretch Ceiling is a sophisticated ceiling finish characterized by its glossy and reflective surface. Its reflective properties enhance the brightness of the room by bouncing light, while its smooth texture adds a touch of modern elegance. Additionally, lacquer stretch ceilings are durable, easy to maintain, and resistant to moisture, making them a popular choice for high-end residential, commercial, and hospitality projects seeking a polished and upscale aesthetic.
+                                                <p>iceil Lacquer Stretch Ceiling is a sophisticated ceiling finish characterized by its glossy and reflective surface. Its reflective properties enhance the brightness of the room by bouncing light, while its smooth texture adds a touch of modern elegance. Additionally, lacquer stretch ceilings are durable, easy to maintain, and resistant to moisture, making them a popular choice for high-end residential, commercial, and hospitality projects seeking a polished and upscale aesthetic.
                                                 </p>
                                             </div>
                                         </div>
@@ -167,7 +171,7 @@
             <!--stretch image end-->
 
             <!--gallery start-->
-            <div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
+            <!-- <div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
                 <div class="gdlr-core-pbf-background-wrap"></div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -200,13 +204,34 @@
                                       
                                     </div>
                                 </main>
-                                <!--gallery-->
                                 
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
+            <!--gallery end-->
+
+            <!--gallery start-->
+            <section class="gallery-section">
+                <div class="gallery-div row">
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/ampa-mall/WhatsApp Image 2024-04-26 at 3.49.59 AM.jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/Kauvery/Board Room (5).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (1).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/mafia/Detailing Mafia (1).jpg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/vi-name/VI Avenue HQ (8).jpg" alt="our works">
+                    </div>
+                </div>
+            </section>
             <!--gallery end-->
 
            

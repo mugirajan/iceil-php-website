@@ -58,9 +58,7 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>
-                                                    Iceil RGB Dynamic Stretch Ceiling combines innovative lighting technology with flexible design, allowing colorful lighting to be implemented through addressable, programmable LEDs and DMX controls. This solution features individually controllable RGB LEDs, enabling dynamic and customizable lighting effects controlled through music and automation devices.
-                                                </p>
+                                                <p>Iceil RGB Dynamic Stretch Ceiling combines innovative lighting technology with flexible design, allowing colorful lighting to be implemented through addressable, programmable LEDs and DMX controls. This solution features individually controllable RGB LEDS, enabling dynamic and customizable lighting effects controlled through music and automation devices.                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -74,7 +72,7 @@
             <!--intro end-->
 
             <!--stretch start-->
-            <div class="mb-5">
+                <div class="mb-5">
                     <div class="gdlr-core-pbf-background-wrap">
                         <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
                     </div>
@@ -120,6 +118,16 @@
                         </div>
                     </div>
                 </div>
+                
+                <!-- <div class="rgb-dyNAMIC-MALL">
+                    <div>
+                        <img src="#" alt="bwjqbsb">
+                    </div>
+                    <div>
+                        <h2>Mall</h2>
+                        <h6>Features</h6>
+                    </div>
+                </div> -->
                 <!--stretch end-->
 
             <?php

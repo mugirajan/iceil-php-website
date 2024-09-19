@@ -4,6 +4,8 @@
 <meta name="keywords" content="mirror stretch ceiling, reflective ceiling surfaces, visually enlarging spaces, modern ceiling design, sleek aesthetic, amplifying natural light, depth-enhancing ceilings, sophisticated interior design, gold stretch ceiling, copper stretch ceiling, mirror finish ceilings">
 <title>Mirror Stretch Ceiling | Mirror effect ceiling | Stretch Mirror</title>
 <meta name="description" content="Looking for mirror stretch ceilings? Contact Iceil Systems for expert solutions and stunning designs. Elevate your space with our unique mirror stretch ceilings!">
+<!-- css for gallery -->
+<link rel="stylesheet" href="css/stretch-ceiling.css">
 </head>
 
 <?php
@@ -69,6 +71,28 @@
                     </div>
                 </div>
             </div>
+
+            <!--gallery start-->
+            <section class="gallery-section">
+                <div class="gallery-div row">
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/ampa-mall/WhatsApp Image 2024-04-26 at 3.49.59 AM.jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/Kauvery/Board Room (5).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (1).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/mafia/Detailing Mafia (1).jpg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/vi-name/VI Avenue HQ (8).jpg" alt="our works">
+                    </div>
+                </div>
+            </section>
+            <!--gallery end-->
 
                 <?php
                    include "./shared/footer.php"

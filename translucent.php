@@ -17,23 +17,23 @@
             <div class="slideshow-container">
             <!-- Full-width images with number and caption text -->
                 <div class="mySlides">
-                <img src="images/banner-translucent/DIMMER.jpg" style="width:100%" alt="Taxi 1">
+                <img src="images/Translucent-banner-images/DIMMER.jpg" style="width:100%" alt="Taxi 1">
                 </div>
 
                 <div class="mySlides">
-                <img src="images/banner-translucent/RGB W DMX.jpg" style="width:100%" alt="Taxi 2">
+                <img src="images/Translucent-banner-images/RGB W DMX.jpg" style="width:100%" alt="Taxi 2">
                 </div>
 
                 <div class="mySlides">
-                <img src="images/banner-translucent/RGB WW.jpg" style="width:100%" alt="Taxi 3">
+                <img src="images/Translucent-banner-images/RGB WW.jpg" style="width:100%" alt="Taxi 3">
                 </div>
 
                 <div class="mySlides">
-                <img src="images/banner-translucent/RGB.jpg" style="width:100%" alt="Taxi 3">
+                <img src="images/Translucent-banner-images/RGB.jpg" style="width:100%" alt="Taxi 3">
                 </div>
 
                 <div class="mySlides">
-                <img src="images/banner-translucent/TUNABLE.jpg" style="width:100%" alt="Taxi 3">
+                <img src="images/Translucent-banner-images/TUNABLE.jpg" style="width:100%" alt="Taxi 3">
                 </div>
                 <!-- Next and previous buttons -->
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

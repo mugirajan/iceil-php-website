@@ -4,6 +4,9 @@
 <meta name="keywords" content="acoustic stretch ceiling, sound-absorbing ceiling, noise reduction ceiling, perforated fabric ceiling, acoustic design, office acoustics, auditorium acoustics, soundproofing, speech intelligibility, acoustic panels, customizable acoustic ceilings">
 <title>Acoustic stretch ceilings | Acoustic Ceilings | Acoustic solutions</title>
 <meta name="description" content="Iceil Acoustic Stretch Ceilings blend sound-absorbing materials with stretchable perforated fabric for superior acoustic solutions.">
+
+<!-- css for gallery -->
+<link rel="stylesheet" href="css/stretch-ceiling.css">
 </head>
 
 <?php
@@ -153,7 +156,7 @@
            
 
             <!--gallery start-->
-            <div class="d-none gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
+            <!-- <div class="d-none gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
                 <div class="gdlr-core-pbf-background-wrap"></div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                     <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -238,7 +241,30 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
+            <!--gallery end-->
+
+
+            <!--gallery start-->
+            <section class="gallery-section">
+                <div class="gallery-div row">
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/ampa-mall/WhatsApp Image 2024-04-26 at 3.49.59 AM.jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/Kauvery/Board Room (5).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (1).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/mafia/Detailing Mafia (1).jpg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/vi-name/VI Avenue HQ (8).jpg" alt="our works">
+                    </div>
+                </div>
+            </section>
             <!--gallery end-->
 
              

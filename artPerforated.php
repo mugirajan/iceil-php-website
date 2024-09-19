@@ -4,6 +4,9 @@
 <meta name="keywords" content="Art Perforated Ceiling, dual-sheet ceiling design, ambient ceiling solution, stretch ceiling layers, artistic cut ceiling, customizable perforated ceiling, visual effect ceilings, lacquer stretch ceiling, translucent lighted ceiling, precise cutting ceiling, durable perforated sheets, ambient design ceilings">
 <title>Art Perforated Stretch Ceiling | Perforated Stretch Ceiling | Iceil</title>
 <meta name="description" content="Iceil Systems has the art perforated stretch ceilings you need! Contact us for top-quality and cost-effective solutions that bring style to any space">
+
+<!-- css for gallery -->
+<link rel="stylesheet" href="css/stretch-ceiling.css">
 </head>
 
 <?php
@@ -95,7 +98,7 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>A bottom (background) sheet and an artistically cut top sheet are installed. close to each other. The background solution can be a colourful lacquer or a translucent lighted stretch ceiling.                                                </p>
+                                                <p>A bottom (background) sheet and an artistically cut top sheet are installed close to each other. The background solution can be a colourful lacquer or a translucent lighted stretch ceiling</p>
                                             </div>
                                         </div>
                                     </div>
@@ -187,7 +190,9 @@
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
                                                 <p>Holes of any size and shape remain intact over time without sagging or
-                                                    distortion, even under varying temperatures. These ceilings offer a distinctive aesthetic and reliable performance, ideal for enhancing any space with artistic and ambient design.</p>
+distortion, even under varying temperatures. <br>
+These ceilings offer a distinctive aesthetic and reliable performance, ideal for enhancing any space with artistic and ambient design. <br><br>
+Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining two stretch ceiling layer to create an eye-catching visual effect.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -208,7 +213,27 @@
                     </div>
                 </div>
             </div>
-
+<!--gallery start-->
+<section class="gallery-section">
+                <div class="gallery-div row">
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/ampa-mall/WhatsApp Image 2024-04-26 at 3.49.59 AM.jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/Kauvery/Board Room (5).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (1).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/mafia/Detailing Mafia (1).jpg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/vi-name/VI Avenue HQ (8).jpg" alt="our works">
+                    </div>
+                </div>
+            </section>
+            <!--gallery end-->
 
 
                 <?php

@@ -4,6 +4,9 @@
 <meta name="keywords" content="printed lacquer ceiling, customizable ceiling designs, printed designs on lacquer, personalized ceiling patterns, versatile ceiling customization, interior theme matching, unique ceiling solutions, modern lacquer stretch ceilings, bespoke ceiling designs, artistic ceiling options">
 <title>Printed Lacquer Ceiling | Lacquer Stretch Ceiling  | Printed Stretch Ceiling</title>
 <meta name="description" content="As India’s top stretch ceiling supplier, Iceil offers affordable, elegant printed and lacquer stretch ceilings. Decorate your space with our fresh and stylish designs">
+
+<!-- css for gallery -->
+<link rel="stylesheet" href="css/stretch-ceiling.css">
 </head>
 
 <?php
@@ -70,6 +73,28 @@
                     </div>
                 </div>
             </div>
+
+            <!--gallery start-->
+            <section class="gallery-section">
+                <div class="gallery-div row">
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/ampa-mall/WhatsApp Image 2024-04-26 at 3.49.59 AM.jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/Kauvery/Board Room (5).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (1).jpeg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/mafia/Detailing Mafia (1).jpg" alt="our works">
+                    </div>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/Translucent/vi-name/VI Avenue HQ (8).jpg" alt="our works">
+                    </div>
+                </div>
+            </section>
+            <!--gallery end-->
 
                 <?php
                    include "./shared/footer.php"
