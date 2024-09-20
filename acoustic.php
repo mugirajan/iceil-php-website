@@ -15,7 +15,7 @@
 
             <!--banner start-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image" 
-            style="height: 65vh;background-image:url(img/drive-homepage/106.jpg)">
+                style="height: 65vh;background-image:url(img/drive-homepage/106.jpg)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
@@ -75,193 +75,90 @@
             </div>
             <!--intro end-->
 
-            <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 100px 0px;">
-                <div class="gdlr-core-pbf-background-wrap" style="background-color: #f7f7f7 ;"></div>
-                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " data-gdlr-animation="fadeInUp" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first gdlr-core-hide-in-mobile" id="gdlr-core-column-2">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: -130px 0px -150px 0px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="upload/hp6-flower-1.png" alt="Sound Absorption" width="344" height="500" title="acoustic" /></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 25px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/hp6-service-1.png" alt="Sound Absorption" width="44" height="44" title="acoustic" /></div>
-                                            <div class="gdlr-core-column-service-content-wrapper">
-                                                <div class="gdlr-core-column-service-title-wrap">
-                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Sound Absorption</h3></div>
-                                                <div class="gdlr-core-column-service-content" style="font-size: 17px ;text-transform: none ;">
-                                                <p>Acoustic stretch ceilings are engineered to absorb sound and reduce reverberation in a room. This is particularly beneficial in spaces where controlling noise levels is important, such as offices, conference rooms, auditoriums, and theaters.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 25px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/hp6-service-3.png" alt="Materials" width="47" height="40" title="acoustic" /></div>
-                                            <div class="gdlr-core-column-service-content-wrapper">
-                                                <div class="gdlr-core-column-service-title-wrap">
-                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Materials</h3></div>
-                                                <div class="gdlr-core-column-service-content" style="font-size: 17px ;text-transform: none ;">
-                                                <p>The materials used in acoustic stretch ceilings are selected for their acoustic properties. These materials often include sound absorbing fabrics or perforated membranes that contribute to sound absorption.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 25px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-top: 3px;"><img src="upload/hp6-service-2.png" alt="Design Options" width="40" height="40" title="acoustic" /></div>
-                                            <div class="gdlr-core-column-service-content-wrapper">
-                                                <div class="gdlr-core-column-service-title-wrap">
-                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Design Options</h3></div>
-                                                <div class="gdlr-core-column-service-content" style="font-size: 17px ;text-transform: none ;">
-                                                    <p>Similar to regular stretch ceilings, acoustic stretch ceilings offer a wide range of design options. They can be customized in terms of print, colors, patterns, and textures, ensuring that the aesthetic requirements of a space are met.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 22px;"><img src="upload/hp6-service-4.png" alt="Improved Speech Intelligibility" width="32" height="44" title="acoustic" /></div>
-                                            <div class="gdlr-core-column-service-content-wrapper">
-                                                <div class="gdlr-core-column-service-title-wrap">
-                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;text-transform: none ;">Improved Speech Intelligibility</h3></div>
-                                                <div class="gdlr-core-column-service-content" style="font-size: 17px ;text-transform: none ;">
-                                                <p>By reducing sound re- flections and reverberation, acoustic stretch ceilings contribute to better speech intelligibility in spaces where clear communication is essential.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+            <!--benefits start-->
+            <section class="benefits">
+                <div class="col_third">
+                    <div class="at-icon-box at-icon-right clearfix">
+                    <div style="width: 78px;" class="at-icon-box-icon"><i style="font-size: 15px;" class="fas fa-volume-up"></i></div>
+                    <div class="at-icon-text at-icon-r-text">
+                        <h5 class="no-stripe">Sound-
+                        Absorbing <br>
+                        Materials</h5>
+                    </div>
+                    </div>
+                    <div class="at-icon-box at-icon-right clearfix">
+                        <div style="width: 78px;" class="at-icon-box-icon"><i style="font-size: 15px;" class="fas fa-cogs"></i></div>
+                        <div class="at-icon-text at-icon-r-text">
+                            <h5 class="no-stripe">Easy
+                            Installation
+                            </h5>
                         </div>
                     </div>
-                </div>
-            </div>            
-           
-
-            <!--gallery start-->
-            <!-- <div class="d-none gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
-                <div class="gdlr-core-pbf-background-wrap"></div>
-                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-portfolio-item gdlr-core-item-pdb clearfix  gdlr-core-portfolio-item-style-metro-no-space gdlr-core-item-pdlr">
-                                <div class="gdlr-core-block-item-title-wrap  gdlr-core-left-align" style="margin-left: 100px ;">
-                                    <div class="gdlr-core-block-item-title-inner">
-                                        <h3 class="gdlr-core-block-item-title" style="font-size: 33px ;text-transform: none ;letter-spacing: 0px ;">Our Works .</h3>
-                                        <span class="gdlr-core-separator" style="border-color: #2676bc ;"></span>
-                                    </div>
-                                </div>
-
-                                
-                                <main class="main-gallery">
-                                    <div class="container-gallery">
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-30.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-30.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-29.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-29.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-28.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-28.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-46.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-46.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-45.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-45.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-44.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-44.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-43.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-43.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-42.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-42.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-41.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="https://iceilsystems.com/wp-content/uploads/2020/08/Wall-Image-41.png" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </main>
-                            </div>
+                    <div class="at-icon-box at-icon-right clearfix">
+                        <div style="width: 78px;" class="at-icon-box-icon"><i style="font-size: 15px;" class="fas fa-lightbulb"></i></div>
+                        <div class="at-icon-text at-icon-r-text">
+                            <h5 class="no-stripe">Integrated Lighting
+                            </h5>
                         </div>
                     </div>
+                    <div class="at-icon-box at-icon-right clearfix">
+                        <div style="width: 78px;" class="at-icon-box-icon"><i style="font-size: 15px;" class="far fa-edit"></i></div>
+                        <div class="at-icon-text at-icon-r-text">
+                            <h5 class="no-stripe">Customizable Design
+                            </h5>
+                        </div>
+                    </div>
+                    <div class="at-icon-box at-icon-right clearfix">
+                    <div style="width: 78px;" class="at-icon-box-icon"><i style="font-size: 15px;" class="fa fa-paper-plane"></i></div>
+                    <div class="at-icon-text at-icon-r-text">
+                        <h5 class="no-stripe">Flexible Material</h5>
+                    </div>
+                    </div>
                 </div>
-            </div> -->
-            <!--gallery end-->
-
+                <div class="col_third benefit-image">
+                    <h4 class="text-center">Benefits</h4>
+                <img src="img/drive-translucent/13.jpg" alt="">
+                </div>
+                <div class="col_third end">
+                    <div class="at-icon-box at-icon-left clearfix">
+                    <div style="width: 78px;" class="at-icon-box-icon"><i style="font-size: 15px;" class="fa fa-paper-plane"></i></div>
+                    <div class="at-icon-text">
+                        <h5 class="no-stripe">Durability</h5>
+                    </div>
+                    </div>
+                    <div class="at-icon-box at-icon-left clearfix">
+                    <div style="width: 78px;" class="at-icon-box-icon"><i style="font-size: 15px;" class="fas fa-burn"></i></div>
+                    <div class="at-icon-text">
+                        <h5 class="no-stripe">Energy Efficiency</h5>
+                    </div>
+                    </div>
+                    <div class="at-icon-box at-icon-left clearfix">
+                    <div style="width: 78px;" class="at-icon-box-icon"><i style="font-size: 15px;" class="fa fa-paper-plane"></i></div>
+                    <div class="at-icon-text">
+                        <h5 class="no-stripe">Thermal Insulation</h5>
+                    </div>
+                    </div>
+                    <div class="at-icon-box at-icon-left clearfix">
+                    <div style="width: 78px;" class="at-icon-box-icon"><i style="font-size: 15px;" class="fas fa-user-shield"></i></div>
+                    <div class="at-icon-text">
+                        <h5 class="no-stripe">Hygienic & Safe</h5>
+                    </div>
+                    </div>
+                    <div class="at-icon-box at-icon-left clearfix">
+                    <div style="width: 78px;" class="at-icon-box-icon"><i  style="font-size: 15px;" class="fas fa-fire"></i></div>
+                    <div class="at-icon-text">
+                        <h5 class="no-stripe">Fire Retardant</h5>
+                    </div>
+                    </div>
+                </div>
+            </section>
+            <!--benefits end-->
 
             <!--gallery start-->
             <section class="gallery-section">
                 <div class="gallery-div row">
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/ampa-mall/WhatsApp Image 2024-04-26 at 3.49.59 AM.jpeg" alt="our works">
-                    </div>
-                    <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/Kauvery/Board Room (5).jpeg" alt="our works">
-                    </div>
-                    <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (1).jpeg" alt="our works">
-                    </div>
-                    <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/mafia/Detailing Mafia (1).jpg" alt="our works">
-                    </div>
-                    <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/vi-name/VI Avenue HQ (8).jpg" alt="our works">
+                        <img src="img/drive-homepage/106.jpg" alt="our works">
                     </div>
                 </div>
             </section>

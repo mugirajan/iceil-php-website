@@ -4,6 +4,7 @@
 <meta name="keywords" content="RGB dynamic stretch ceiling, addressable LEDs, programmable LED lighting, DMX controlled lighting, customizable RGB lighting effects, music-reactive lighting, automation-controlled lighting, flexible lighting design, vibrant club lighting, pub RGB lighting, immersive lighting experiences, dynamic ceiling lighting, customizable color displays, lighting for parties and gatherings">
 <title>RGB Dynamic Stretch Ceiling | RGB Lights | RGB LED Lighting</title>
 <meta name="description" content="Looking for RGB dynamic stretch ceilings and LED lighting? Iceil offers customizable colors and effects to create a unique, vibrant ambiance.">
+<link rel="stylesheet" href="css/stretch-ceiling.css">
 </head>
 <?php
   include "./shared/navbar.php"
@@ -82,9 +83,9 @@
                                 <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;padding: 80px 0px 0px 0px;">
                                     <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                         <div class="gdlr-core-pbf-element">
-                                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">RGB Dynamic Stretch Ceiling</span>
+                                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">Translucent RGB W DMX</span>
                                                 <div class="gdlr-core-title-item-title-wrap ">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 34px ;letter-spacing: 0px ;text-transform: none ;">Clubs & Pubs Translucent RGB</h3></div>
+                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 34px ;letter-spacing: 0px ;text-transform: none ;">Clubs & Pubs</h3></div>
                                             </div>
                                         </div>
                                         <div class="gdlr-core-pbf-element">
@@ -95,8 +96,7 @@
                                         <div class="gdlr-core-pbf-element">
                                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                                 <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                    <p>At ICeil, our RGB solutions boast addressable and programmable LEDs, offering intricate patterns and customizable displays. They seamlessly sync with Music and Automation systems, providing versatile lighting experiences tailored to individual preferences. From subtle shifts to dynamic movements, our solutions cater to any desired level of lighting control, ensuring an immersive and personalized ambiance for every setting.
-                                                    Iceil RGB lighting in pubs adds vibrancy and excitement to the atmosphere, transforming the space into a dynamic experience. With customizable colors and effects, it sets the mood for different occasions, from lively parties to intimate gatherings.
+                                                    <p>Iceil RGB lighting in pubs adds vibrancy and excitement to the atmosphere, transforming the space into a dynamic experience. With customizable colors and effects, it sets the mood for different occasions, from lively parties to intimate gatherings.
                                                     </p>
                                                 </div>
                                             </div>
@@ -119,17 +119,18 @@
                     </div>
                 </div>
                 
-                <!-- <div class="rgb-dyNAMIC-MALL">
-                    <div>
-                        <img src="#" alt="bwjqbsb">
+            <!--gallery start-->
+            <section class="gallery-section">
+                <div class="gallery-div row">
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/drive-rgb/banner.jpg" alt="our works">
                     </div>
-                    <div>
-                        <h2>Mall</h2>
-                        <h6>Features</h6>
+                    <div class="gallery-sec col-lg-3">
+                        <img src="img/drive-rgb/night-bars-with-stretch-ceilings.jpg" alt="our works">
                     </div>
-                </div> -->
-                <!--stretch end-->
-
+                </div>
+            </section>
+            <!--gallery end-->
             <?php
                 include "./shared/footer.php"
             ?>

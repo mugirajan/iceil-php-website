@@ -10,7 +10,7 @@
 
             <!--banner-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image"
-                style="height: 65vh;background-image:url(images/top5-projects/moving-ceiling.webp)">
+                style="height: 65vh;background-image:url(img/drive-translucent/06.jpg)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
@@ -57,7 +57,7 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                                <p>The Moving Ceiling is an ideal lighting and decorative  Ceiling which includes installing a Programmable LED Panel customized as per the requirement and installed against ceiling or wall. A Translucent stretch is installed over this to provide a dynamic moving  Ceiling offering unlimited creativity. We at Iceil are the only stretch ceiling supplier in India who can provide this type of ceiling. </p>
+                                                <p>The Moving Ceiling is a sophisticated lighting and decorative solution featuring customizable RGB DMX lighting installed on the ceiling or wall. A translucent stretch material is then applied over the lighting system, creating a dynamic, moving ceiling that offers limitless creative possibilities. </p>
                                             </div>
                                         </div>
                                     </div>
@@ -103,7 +103,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/ST-FF-1024x1024 (1).jpg" alt="3D Forms" width="600" height="600" title="3D Forms" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-translucent/17.jpg" alt="moving ceiling" width="600" height="600" title="moving ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -123,7 +123,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/01.jpg" alt="3D Forms" width="600" height="600" title="3D Forms" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-translucent/26.jpg" alt="moving ceiling" width="600" height="600" title="moving ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>

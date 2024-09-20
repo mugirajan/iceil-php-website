@@ -62,3 +62,175 @@
     padding: 20px 0px;
 }
 /*technical-spec section end*/
+
+/*acoustic benefits section starts*/
+
+.col_half { width: 49%; }
+.col_third { width: 32%; }
+.col_fourth { width: 23.5%; }
+.col_fifth { width: 18.4%; }
+.col_sixth { width: 15%; }
+.col_three_fourth { width: 74.5%;}
+.col_twothird{ width: 66%;}
+.col_half,
+.col_third,
+.col_twothird,
+.col_fourth,
+.col_three_fourth,
+.col_fifth{
+	position: relative;
+	display:inline;
+	display: inline-block;
+	float: left;
+	margin-right: 2%;
+	margin-bottom: 20px;
+}
+.end { margin-right: 0 !important; }
+.text-center {text-align: center !important;}
+
+
+
+/*-=-=-=-=-=-=-=-=-=-*/
+/* Style             */
+/*-=-=-=-=-=-=-=-=-= */
+
+.at-icon-box {
+  position:relative;
+  padding: 10px 20px;  
+}
+
+
+.at-icon-box .at-icon-box-icon {
+    color: #002e5b;
+    margin: 0 0 8px;
+    vertical-align: bottom;
+}
+
+.at-icon-box.at-icon-left .at-icon-box-icon {
+    float: left;
+}
+.at-icon-box.at-icon-right .at-icon-box-icon {
+  float: right;
+}
+.at-icon-box.at-icon-right {text-align:right;}
+
+.at-icon-box.at-icon-left .at-icon-text, .at-icon-box.at-icon-right .at-icon-text{
+    overflow: hidden;
+}
+
+.at-icon-box.at-icon-left h5, .at-icon-box.at-icon-right h5 {
+    color: #2676bc;
+    font-size: 18px;
+    font-weight: 700;
+    padding-top: 13px;
+    margin-top: 0;
+  line-height: 22px;
+  letter-spacing:-1px
+}
+
+.at-icon-box.at-icon-left p, .at-icon-box.at-icon-right p {
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.at-icon-box .at-icon-box-icon i {
+    background: #002e5b none repeat scroll 0 0;
+    border-radius: 50%;
+    color: #fff;
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    width: 50px;
+}
+
+.at-icon-box .at-icon-box-icon::after {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.at-icon-box:hover {
+    background: #f6f6f6 none repeat scroll 0 0;
+}
+.at-icon-box:hover .at-icon-box-icon {
+    padding: 20px 0;
+}
+
+.at-icon-box:hover .at-icon-box-icon::before {
+    height: 15px;
+}
+.at-icon-box:hover .at-icon-box-icon::after {
+    height: 15px;
+}
+.at-icon-box h5 {
+    margin-bottom: 11px;
+}
+.at-icon-box .at-icon-text p:last-child {
+    margin: 0;
+}
+.at-icon-box .at-icon-box-icon {
+    transition: all 0.3s ease 0s;
+}
+.at-icon-box .at-icon-box-icon i {
+    position: relative;
+}
+
+.at-icon-box .at-icon-box-icon::before {
+    background: #fde428 none repeat scroll 0 0;
+    content: "";
+    display: block;
+    height: 0;
+    left: 29px;
+    position: absolute;
+    top: -3px;
+    transition: all 0.3s ease 0s;
+    width: 6px;
+}
+.at-icon-box .at-icon-box-icon::after {
+    background: #fde428 none repeat scroll 0 0;
+    bottom: -3px;
+    content: "";
+    display: block;
+    height: 0;
+    left: 29px;
+    position: absolute;
+    transition: all 0.3s ease 0s;
+    width: 6px;
+}
+
+.at-icon-box .at-icon-box-icon {
+    position: relative;
+}
+.at-icon-box .at-icon-box-icon i {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #2676bc;
+    height: 55px;
+    line-height: 55px;
+    width: 64px;
+}
+.at-icon-box .at-icon-box-icon i::after {
+    content: "";
+    font-family: "FontAwesome";
+    font-size: 55px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    left: 12px;
+    line-height: 1;
+    position: absolute;
+    text-transform: none;
+    top: 3px;
+}
+@media(min-width:700px){
+.benefits{
+    display: flex;
+    align-items: center;
+}
+}
+.benefit-image img{
+    width:100%;
+}
+/*acoustic benefits section end*/

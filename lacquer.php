@@ -171,64 +171,19 @@
             <!--stretch image end-->
 
             <!--gallery start-->
-            <!-- <div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile" style="padding: 90px 0px 30px 0px;" id="gdlr-core-wrapper-2">
-                <div class="gdlr-core-pbf-background-wrap"></div>
-                <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-portfolio-item gdlr-core-item-pdb clearfix  gdlr-core-portfolio-item-style-metro-no-space gdlr-core-item-pdlr">
-                                <div class="gdlr-core-block-item-title-wrap  gdlr-core-left-align" style="margin-left: 100px ;">
-                                    <div class="gdlr-core-block-item-title-inner">
-                                        <h3 class="gdlr-core-block-item-title" style="font-size: 33px ;text-transform: none ;letter-spacing: 0px ;">Our Works .</h3>
-                                        <span class="gdlr-core-separator" style="border-color: #2676bc ;"></span>
-                                    </div>
-                                </div>
-
-                                
-                                <main class="main-gallery">
-                                    <div class="container-gallery">
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="img/drive-laquer/446_natyazhnye_potolki_s_fotopechatyu_foto.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/drive-laquer/446_natyazhnye_potolki_s_fotopechatyu_foto.jpg" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      <div class="card-gallery">
-                                        <div class="card-image">
-                                          <a href="img/drive-laquer/ICEIL_6200000.jpg" data-fancybox="gallery" data-caption="Caption Images 1">
-                                            <img src="img/drive-laquer/ICEIL_6200000.jpg" alt="Image Gallery">
-                                          </a>
-                                        </div>
-                                      </div>
-                                      
-                                    </div>
-                                </main>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-            <!--gallery end-->
-
-            <!--gallery start-->
             <section class="gallery-section">
                 <div class="gallery-div row">
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/ampa-mall/WhatsApp Image 2024-04-26 at 3.49.59 AM.jpeg" alt="our works">
+                        <img src="img/drive-laquer/ICEIL_6100002.JPG" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/Kauvery/Board Room (5).jpeg" alt="our works">
+                        <img src="img/drive-laquer/images.jpeg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (1).jpeg" alt="our works">
+                        <img src="img/drive-laquer/RQLC4903.jpg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/mafia/Detailing Mafia (1).jpg" alt="our works">
-                    </div>
-                    <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/vi-name/VI Avenue HQ (8).jpg" alt="our works">
+                        <img src="img/drive-laquer/446_natyazhnye_potolki_s_fotopechatyu_foto.jpg" alt="our works">
                     </div>
                 </div>
             </section>

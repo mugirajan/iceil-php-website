@@ -110,7 +110,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="https://arktura.com/wp-content/uploads/2020/10/Arktura-Vapor-Shift-x-torsion-elevator-lobby-1-scaled.jpg" alt="ART Perforated Ceiling" width="600" height="600" title="ART Perforated Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="images/art-mirror-metal/Arktura-Vapor-Shift-x-torsion-elevator-lobby-1-scaled.jpg" alt="ART Perforated Ceiling" width="600" height="600" title="ART Perforated Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -213,23 +213,17 @@ Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining tw
                     </div>
                 </div>
             </div>
-<!--gallery start-->
-<section class="gallery-section">
+            <!--gallery start-->
+            <section class="gallery-section">
                 <div class="gallery-div row">
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/ampa-mall/WhatsApp Image 2024-04-26 at 3.49.59 AM.jpeg" alt="our works">
+                        <img src="images/artceiling.jpg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/Kauvery/Board Room (5).jpeg" alt="our works">
+                        <img src="images/art-mirror-metal/Arktura-Vapor-Shift-x-torsion-elevator-lobby-1-scaled.jpg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (1).jpeg" alt="our works">
-                    </div>
-                    <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/mafia/Detailing Mafia (1).jpg" alt="our works">
-                    </div>
-                    <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/vi-name/VI Avenue HQ (8).jpg" alt="our works">
+                        <img src="images/landing/iceil-landing/8.jpg" alt="our works">
                     </div>
                 </div>
             </section>
