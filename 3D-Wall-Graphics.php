@@ -118,6 +118,7 @@
                     </div>
                 </div>
             </section>
+            <!--benefits end-->
 
             <!--stretch start-->
             <div class="gdlr-core-pbf-wrapper ">
