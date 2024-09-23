@@ -71,6 +71,53 @@
                 </div>
             </div>
             <!--intro end-->
+            
+            <!--benefits start-->
+            <section class="card-benefit-section row">
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="card-benefit">
+                        <div class="card__content">
+                        <p>Translucent, printed, and lacquered stretch ceilings can accommodate the integration of 3D forms.</p>
+                        </div>
+                        <div class="card__reveal card__reveal--down">
+                        <p>Translucent, printed, and lacquered stretch ceilings can accommodate the integration of 3D forms.</p>
+                        </div>
+                    </div> 
+                </div>
+                
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="card-benefit">
+                        <div class="card__content">
+                        <p>Any shape, size and design including lighting.</p>
+                        </div>
+                        <div class="card__reveal card__reveal--down">
+                        <p>Any shape, size and design including lighting.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="card-benefit">
+                        <div class="card__content">
+                        <p>Tuneable LED solutions Colourtemperature from 3000K to 10000K.</p>
+                        </div>
+                        <div class="card__reveal card__reveal--down">
+                        <p>Tuneable LED solutions Colourtemperature from 3000K to 10000K.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="card-benefit">
+                        <div class="card__content">
+                        <p>RGB Addressable and Programmable solutions.</p>
+                        </div>
+                        <div class="card__reveal card__reveal--down">
+                        <p>RGB Addressable and Programmable solutions.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <!--stretch start-->
             <div class="gdlr-core-pbf-wrapper ">
