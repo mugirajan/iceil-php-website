@@ -6325,7 +6325,7 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
 		width:100%;
 	}
 	.card1, .card2 {
-		height:70vh;
+		height:fit-content;
 	}
 	.section-carousel{
 		margin-top: 0rem;
@@ -7672,7 +7672,7 @@ body {
 		display: flex; 
 		flex-direction: column; 
 		background: #fff; 
-		padding-left: 10px; 
+		padding-left: 0px; 
 		overflow:hidden;
 	} 
 	.blog-post-img{
@@ -11446,4 +11446,7 @@ box-shadow: 8px 8px 16px 2px #1b3e59
     .triangle-grid img {
         width: 80%; /* Make images slightly smaller on very small screens */
     }
+}
+.recentcomments a{
+	text-decoration: underline;
 }

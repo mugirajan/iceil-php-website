@@ -318,7 +318,7 @@ h6 {
 	justify-content: center;
 	align-items: center;
 	float: left;
-	z-index: 10;
+	z-index: 3;
 	cursor: pointer;
 	border-radius: 50%;
 }
@@ -1148,6 +1148,10 @@ html.is-animating .transition-fade .mry-loading-curtain {
 
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title h1 {
 		font-size: 25px;
+		text-align: center;
+	}
+	.mry-subtitle:before{
+		display: none;
 	}
 }
 
@@ -1198,8 +1202,8 @@ html.is-animating .transition-fade .mry-loading-curtain {
 		margin-left: -15px;
 		padding: 25px;
 		background-color: white;
-		width: 111%;
-		max-width: 430px;
+		width: 100%;
+		/* max-width: 430px; */
 	}
 
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title h1 {
@@ -1452,7 +1456,9 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	}
 	.mry-subtitle{
 		font-size: 7px;
+		text-align: center;
 		color: #0e0e0e;
+		padding-left: 0px !important;
 	}
 	.colbtn{
 		flex-direction: column !important;

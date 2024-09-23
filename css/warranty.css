@@ -1282,7 +1282,8 @@ transform: scale(1);
   margin: 0;
   /* background-color: #2676bc1c; */
 	/* height: 100vh; */
-	/* width: 100vw; */
+	width: 95%;
+	margin:0 auto;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;

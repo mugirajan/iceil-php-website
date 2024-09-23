@@ -106,7 +106,7 @@
                         </div>
                         <div class="div-list-light">
                             <div class="div-list">
-                                <i class="fa-solid fa-toolbox"></i>
+                                <i class="fas fa-toolbox"></i>
                                 <p>Portable, No Tool, Durable.</p>
                             </div>
                         </div>
