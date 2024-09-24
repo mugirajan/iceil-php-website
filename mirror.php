@@ -14,7 +14,7 @@
 
             <!--banner-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image"
-                style="height: 65vh;background-image:url(images/art-mirror-metal/mirror.jpeg)">
+                style="height: 65vh;background-image:url(images/art-mirror-metal/mirror-1.jpeg)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
@@ -76,7 +76,7 @@
             <section class="gallery-section">
                 <div class="gallery-div row">
                     <div class="gallery-sec col-lg-3">
-                        <img src="images/landing/iceil-landing/9.jpg" alt="our works">
+                        <img src="images/art-mirror-metal/mirror-2.jpg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
                         <img src="images/art-mirror-metal/mirror-1.jpeg" alt="our works">

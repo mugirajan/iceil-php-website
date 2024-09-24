@@ -685,7 +685,7 @@ h6 {
 }
 .mry-menu nav ul .menu-item .sub-menu li{
 	list-style-type: none;
-	margin-bottom: 7px;
+	margin-bottom: 13px;
 }
 .mry-menu nav ul .menu-item .sub-menu .menu-item a:hover{
 	color:#2676bc;
@@ -709,7 +709,6 @@ h6 {
 	display: inline-block;
 	height: 100%;
 	font-weight: 700;
-	padding-bottom: 6px !important;
 	transition: all 0.3s ease-in-out;
 	position: relative;
 }
@@ -733,9 +732,7 @@ h6 {
 .mry-anima-link:hover {
 	color:#2676bc;
 }
-.mry-menu nav ul .menu-item a:hover {
-	padding-bottom: 5px !important;
-}
+
 
 
 

@@ -314,13 +314,13 @@
                         <img src="img/threed/blu/Radission Blu (7).jpeg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/threed/mysore/Lotus Energy (2).jpeg" alt="our works">
+                        <img src="img/threed/mysore/Lotus Energy (3).jpeg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/threed/photo-studio/Bionic (2).jpeg" alt="our works">
+                        <img src="img/threed/photo-studio/Bionic (4).jpeg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/threed/theatre/Vijay Multiplex (2).jpg" alt="our works">
+                        <img src="img/threed/theatre/Vijay Multiplex (6).jpg" alt="our works">
                     </div>
                 </div>
             </section>

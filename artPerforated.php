@@ -15,7 +15,7 @@
 
             <!--banner-->
             <div class="inteco-blog-title-wrap  inteco-style-custom inteco-feature-image"
-                style="height: 65vh;background-image:url(images/landing/8.jpg)">
+                style="height: 65vh;background-image:url(images/landing/iceil-landing/8.jpg)">
                 <div class="inteco-header-transparent-substitute"></div>
                 <div class="inteco-blog-title-overlay" style="opacity: 0.27 ;"></div>
                 <div class="inteco-blog-title-bottom-overlay"></div>
@@ -130,7 +130,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="images/artceiling.jpg" alt="ART Perforated Ceiling" width="600" height="600" title="ART Perforated Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="images/art-mirror-metal/artceiling.jpg" alt="ART Perforated Ceiling" width="600" height="600" title="ART Perforated Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -204,7 +204,7 @@ Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining tw
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="images/landing/8.jpg" alt="ART Perforated Ceiling" width="600" height="600" title="ART Perforated Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="images/landing/iceil-landing/8.jpg" alt="ART Perforated Ceiling" width="600" height="600" title="ART Perforated Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -217,13 +217,13 @@ Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining tw
             <section class="gallery-section">
                 <div class="gallery-div row">
                     <div class="gallery-sec col-lg-3">
-                        <img src="images/artceiling.jpg" alt="our works">
+                        <img src="images/art-mirror-metal/artceiling1.jpg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
                         <img src="images/art-mirror-metal/Arktura-Vapor-Shift-x-torsion-elevator-lobby-1-scaled.jpg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="images/landing/iceil-landing/8.jpg" alt="our works">
+                        <img src="images//art-mirror-metal/artper.jpg" alt="our works">
                     </div>
                 </div>
             </section>

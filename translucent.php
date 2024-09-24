@@ -210,19 +210,19 @@
             <section class="gallery-section">
                 <div class="gallery-div row">
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/ampa-mall/WhatsApp Image 2024-04-26 at 3.49.59 AM.jpeg" alt="our works">
+                        <img src="img/drive-translucent/3d6.jpg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/Kauvery/Board Room (5).jpeg" alt="our works">
+                        <img src="img/drive-translucent/03 (1).jpg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/kochi-mall/One Plus Kozhicode 300sqft (1).jpeg" alt="our works">
+                        <img src="img/drive-translucent/02a.jpg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/mafia/Detailing Mafia (1).jpg" alt="our works">
+                        <img src="img/drive-translucent/02.jpg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3">
-                        <img src="img/Translucent/vi-name/VI Avenue HQ (8).jpg" alt="our works">
+                        <img src="img/drive-translucent/Stretch-Ceilings-Ltd_Lighting-Solutions_Octavia-House_1200x800.jpg" alt="our works">
                     </div>
                 </div>
             </section>

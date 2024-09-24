@@ -163,22 +163,22 @@
             <section class="gallery-section">
                 <div class="gallery-div row">
                     <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
-                        <img src="img/printed-latest/6th avenue/VI Avenue HQ (3).jpg" alt="our works">
+                        <img src="img/drive-Printed-Stretch-Ceiling/WhatsApp Image 2024-04-13 at 13.46.11.jpeg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
-                        <img src="img/printed-latest/hyderbad L & T/WhatsApp Image 2023-11-24 at 6.26.39 PM.jpeg" alt="our works">
+                        <img src="img/drive-Printed-Stretch-Ceiling/WhatsApp Image 2024-04-13 at 13.46.12 (1).jpeg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
-                        <img src="img/printed-latest/world skill centre/world skill centre (1).jpeg" alt="our works">
+                        <img src="img/drive-Printed-Stretch-Ceiling/WhatsApp Image 2024-04-13 at 13.46.10.jpeg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
-                        <img src="img/printed-latest/Radission Blu/Radission Blu (17).jpeg" alt="our works">
+                        <img src="img/drive-Printed-Stretch-Ceiling/WhatsApp Image 2024-04-13 at 13.46.12.jpeg" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
-                        <img src="img/printed-latest/university/Hindustan (2).jpeg" alt="our works">
+                        <img src="img/drive-Printed-Stretch-Ceiling/mgh-imaging-ceiling-1024x625-tbJylCkNU-transformed.png" alt="our works">
                     </div>
                     <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
-                        <img src="img/printed-latest/MOPA/Moppa (2).jpeg" alt="our works">
+                        <img src="img/drive-Printed-Stretch-Ceiling/03-6 (1).jpg" alt="our works">
                     </div>
                 </div>
             </section>
