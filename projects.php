@@ -99,7 +99,7 @@
                     <section class="blog-like-card">
                         <h4 class="text-center">Our Latest <span class="span-for-you">Projects</span></h4>
                         <div class="cards-of-blog-like">
-                        <a class="card-of-blog first-row-card">
+                        <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/GOA Airport.jpg" width="288" />
                             </div>
@@ -110,7 +110,7 @@
                                 <P>MOPA Goa Airport, 1800 SQFT space of vibrant Printed Stretch Ceiling.</P>
                             </div>
                         </a>
-                        <a class="card-of-blog first-row-card">
+                        <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/kalaignar library.jpg" width="288" />
                             </div>
@@ -121,7 +121,7 @@
                                     <P>Kalaignar Library in Madurai - 1500 SQFT of  Printed Stretch Ceiling in the Entrance and Walking Lobby</P>
                                 </div>
                         </a>
-                        <a class="card-of-blog first-row-card">
+                        <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/kauvery hospital.jpg" width="288" />
                             </div>
@@ -129,10 +129,10 @@
                                 <h3>Kauvery Hospital</h3>
                             </div>
                             <div class="card-body-blog">
-                                <P>Our dedicated team committed to helping you bring your vision to life through innovative thinking.</P>
+                                <P>Kaveri Hospital - 2800 sqft of Translucent and Printed Stretch Ceiling across multiple locations in Chennai, Bangalore and Tirunelveli.</P>
                             </div>
                         </a>
-                        <a class="card-of-blog first-row-card">
+                        <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/Sun Beam School.jpg" width="288" />
                             </div>

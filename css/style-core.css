@@ -9438,6 +9438,11 @@ Component
 .card-partner-height img{
 	height:30vh;
 }
+@media(min-width:1440px){
+	.second-row-card{
+		height:450px;
+	}
+}
 @media(max-width:920px){
 .first-row-card{
 	height:400px;
@@ -9460,7 +9465,7 @@ Component
 		height:450px;
 	}
 }
-@media(min-width:1151px){
+@media(min-width:1151px) and (max-width:1399px){
 	.first-row-card{
 		height: 382px;
 	}

@@ -977,11 +977,6 @@
                                   <img src="images/top5-projects/Statement_A+_12_10_2021-1.png" alt="our top 5 project">
                                 </div>
                               </div>
-                              <div class="carousel__item carousel__item--strawberry">
-                                <div>
-                                    <img src="images/top5-projects/Statement_A+_12_10_2021-1.png" alt="our top 5 project">
-                                </div>
-                              </div>
                               <div class="carousel__item carousel__item--vanilla">
                                 <div>
                                     <img src="images/top5-projects/6c. NEW -UDYAM - 24-25-1.png" alt="our top 5 project">

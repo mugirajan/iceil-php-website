@@ -226,7 +226,6 @@
                                 <img src="images/Clients-Logo/54.png">
                                 <img src="images/Clients-Logo/55.png">
                                 <img src="images/Clients-Logo/56.png">
-                                <img src="images/Clients-Logo/57.png">
                                 <img src="images/Clients-Logo/58.png">
                                 <img src="images/Clients-Logo/59.png">
                                 <img src="images/Clients-Logo/60.png">
