@@ -683,7 +683,14 @@ h6 {
 	list-style-type: none;
 	margin-bottom: 20px;
 }
-
+.mry-menu nav ul .menu-item .sub-menu li{
+	list-style-type: none;
+	margin-bottom: 7px;
+}
+.mry-menu nav ul .menu-item .sub-menu .menu-item a:hover{
+	color:#2676bc;
+	font-weight: bold;
+}
 .menu-list {
 	line-height: 0.80;
 }
@@ -707,7 +714,7 @@ h6 {
 	position: relative;
 }
 
-.mry-menu nav ul .menu-item a::before {
+/* .mry-menu nav ul .menu-item a::before {
 	content: '';
 	top: 21px;
 	position: absolute;
@@ -717,12 +724,15 @@ h6 {
 	left: 0;
 	background-color: #96c8f3;
 	transition: width 0.3s ease-in-out;
-}
+} */
 
-.mry-menu nav ul .menu-item a:hover::before {
+.mry-menu nav ul .menu-item a:hover {
 	width: 100%;
+	color:#2676bc;
 }
-
+.mry-anima-link:hover {
+	color:#2676bc;
+}
 .mry-menu nav ul .menu-item a:hover {
 	padding-bottom: 5px !important;
 }
@@ -750,8 +760,8 @@ h6 {
 }
 
 .mry-menu nav ul .menu-item .sub-menu.mry-active {
-	max-height: 430px;
-	overflow: scroll;
+	max-height: 330px;
+	overflow-y: auto;
 }
 
 .mry-menu nav ul .menu-item .sub-menu .menu-item a {
@@ -1123,6 +1133,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	position: relative;
 }
 
+@media(min-width:321px){
 .mry-project-slider-item .mry-main-title-frame {
 	position: absolute;
 	z-index: 3;
@@ -1131,7 +1142,18 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	height: 100vh;
 	width: 100%;
 }
+}
 
+@media(max-width:320px){
+	.mry-project-slider-item .mry-main-title-frame {
+		position: absolute;
+		z-index: 3;
+		display: flex;
+		align-items: center;
+		height: 177vw !important;
+		width: 100%;
+	}
+}
 @media(max-width:600px) {
 	.mry-project-slider-item .mry-main-title-frame {
 		/* height: 50vh; */

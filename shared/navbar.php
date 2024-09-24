@@ -323,8 +323,8 @@
                                             <div class="mry-text">India</div>
                                         </div>
                                         <div class="mry-mb-20">
-                                            <div class="mry-label mry-mb-5">City:</div>
-                                            <div class="mry-text">Chennai</div>
+                                            <div class="mry-label mry-mb-5">State:</div>
+                                            <div class="mry-text">Tamilnadu</div>
                                         </div>
                                         <div class="mry-mb-20">
                                             <div class="mry-label mry-mb-5">Adress:</div>

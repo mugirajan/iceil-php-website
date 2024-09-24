@@ -234,10 +234,10 @@
 	var progressbar = $(".mry-slider-progress-bar");
 
 	var swiper = new Swiper(".mry-main-slider", {
-		// autoplay: {
-		// 	delay: 10000,
-		// 	disableOnInteraction: false
-		// },
+		autoplay: {
+			delay: 5000,
+			disableOnInteraction: false
+		},
 		loop: true,
 		parallax: true,
 		mousewheel: true,
