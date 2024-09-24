@@ -1162,7 +1162,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	}
 
 	.mry-project-slider-item .mry-project-frame .mry-cover-frame .mry-project-cover {
-		height: auto !important;
+		height: 50% !important;
 	}
 
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title h1 {
@@ -1222,7 +1222,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 		padding: 25px;
 		background-color: white;
 		width: 100%;
-		/* max-width: 430px; */
+		max-width: 430px;
 	}
 
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title h1 {
@@ -1246,6 +1246,12 @@ html.is-animating .transition-fade .mry-loading-curtain {
 
 	.mry-project-slider-item .mry-project-frame.mry-project-half .mry-cover-frame {
 		width: 100%;
+	}
+	.mry-project-slider-item .mry-main-title-frame .mry-main-title {
+		width: 96%;
+		padding: 0 0 0 60px;
+		position: absolute;
+		bottom: 0px;
 	}
 }
 
