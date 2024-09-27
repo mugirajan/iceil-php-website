@@ -178,13 +178,13 @@
                         </a>
                         <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/Maharishi Vidya Mandir School.jpg" width="288" />
+                                <img alt="our project"  src="images/project-page/Rumours Bar (4).jpeg" width="288" />
                             </div>
                             <div class="card-header-blog">
-                                <h3>Maharishi Vidya Mandir School</h3>
+                                <h3>Rumours Bar</h3>
                             </div>
                             <div class="card-body-blog">
-                                <P>Maharishi Vidya Mandir School, Chennai , 1000 SQFT RGBWW Tunable lighting solutions in classrooms.                                </P>
+                                <P>Rumours Bar - 130 sq ft of RGB lighting installed in the bar and lounge area, Dehradun</P>
                             </div>
                         </a>
                         <a class="card-of-blog third-row-card">

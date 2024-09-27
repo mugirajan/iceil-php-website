@@ -110,7 +110,7 @@
                             <div class=" whatwedodiv">
                                 <a href="Lacquer-Ceilings" class="whatwedo-image">
                                     <div>
-                                        <img src="img/drive-laquer/images.jpeg" alt="Lacquer">
+                                        <img src="img/home-image/lacquer.jpg" alt="Lacquer">
                                     </div>
                                     <h3>Lacquer</h3>
                                     <p>Lacquer stretch ceilings offer a luxurious mirror effect on your ceiling, boasting exceptional light reflection properties. This creates an upscale ambiance enhanced by a customizable color palette, visually expanding the room space.</p>
