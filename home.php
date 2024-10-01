@@ -74,7 +74,7 @@
                             <div class=" whatwedodiv">
                                 <a href="Translucent-Stretch-Ceilings" class="whatwedo-image">
                                     <div>
-                                        <img src="img/drive-homepage/33.jpg" alt="Translucent">
+                                        <img src="img/home-ourProduct/1.png" alt="Translucent">
                                     </div>
                                     <h3>Translucent Stretch Ceiling</h3>
                                     <p>Translucent stretch ceiling allows light to be evenly distributed with the stretch membrane offering 75% Translucency.</p>
@@ -83,7 +83,7 @@
                             <div class=" whatwedodiv">
                                 <a href="Printed-Stretch-Ceilings" class="whatwedo-image">
                                     <div>
-                                        <img src="img/drive-Printed-Stretch-Ceiling/PRINTED-STRETCH-CEILING-water (1).png" alt="Printed">
+                                        <img src="img/home-ourProduct/8.png" alt="Printed">
                                     </div>
                                     <h3>Printed Stretch Ceiling</h3>
                                     <p>The printed stretch ceiling transforms your resi- dence or office space into a piece of designer art. With no limits on what can be printed, the possibilities are endless. Perfect for both resi- dential and commercial spaces, printed stretch ceilings offer a creative and stylish solution to elevate any interior.</p>
@@ -92,7 +92,7 @@
                             <div class=" whatwedodiv">
                                 <a href="3D-Forms-Stretch-Ceilings" class="whatwedo-image">
                                     <div>
-                                        <img src="img/drive-homepage/74.jpg" alt="3D Form">
+                                        <img src="img/home-ourProduct/2.png" alt="3D Form">
                                     </div>
                                     <h3>3D Form</h3>
                                     <p>3D form ceiling are created by engineering multilevel framing structures and can be made to the required size, shape, and then can be fitted with the desired stretch film or printed film.</p>
@@ -101,7 +101,7 @@
                             <div class=" whatwedodiv">
                                 <a href="Fabric-Light-Boxes" class="whatwedo-image">
                                     <div>
-                                        <img src="img/drive-lightbox/123.jpg" alt="Light Boxes">
+                                        <img src="img/home-ourProduct/3.png" alt="Light Boxes">
                                     </div>
                                     <h3>Signage Light Box</h3>
                                     <p>Stretch Ad-Sign Boxes are used for internal dis- plays that are suitable for Retail, Corporate, and Commercial Signage Solutions.</p>
@@ -110,7 +110,7 @@
                             <div class=" whatwedodiv">
                                 <a href="Lacquer-Ceilings" class="whatwedo-image">
                                     <div>
-                                        <img src="img/home-image/lacquer.jpg" alt="Lacquer">
+                                        <img src="img/home-ourProduct/6.png" alt="Lacquer">
                                     </div>
                                     <h3>Lacquer</h3>
                                     <p>Lacquer stretch ceilings offer a luxurious mirror effect on your ceiling, boasting exceptional light reflection properties. This creates an upscale ambiance enhanced by a customizable color palette, visually expanding the room space.</p>
@@ -119,7 +119,7 @@
                             <div class="whatwedodiv">
                                 <a href="Acoustic" class="whatwedo-image">
                                     <div>
-                                        <img src="img/drive-homepage/106.jpg" alt="Acoustic">
+                                        <img src="img/home-ourProduct/4.png" alt="Acoustic">
                                     </div>
                                     <h3>Acoustic</h3>
                                     <p>Iceil micro-perforated stretch ceiling absorbs the sounds and reduces noise pollution in public or private spaces. This limits the effect of reverberation for a better sound comfort.</p>
@@ -128,7 +128,7 @@
                             <div class=" whatwedodiv">
                                 <a href="coming-soon" class="whatwedo-image">
                                     <div>
-                                        <img src="img/home-image/150.jpg" alt="Architectural Lighting">
+                                        <img src="img/home-ourProduct/5.png" alt="Architectural Lighting">
                                     </div>
                                     <h3>Architectural Custom Lighting</h3>
                                     <p>ICeil Architectural lights are constructed with lighting in combination with a suitable alumini- um frame and a Polycarbonate diffusers / stretch fabric. We can customize this to any shape and size.</p>
@@ -137,7 +137,7 @@
                             <div class=" whatwedodiv">
                                 <a href="3DWallGraphics" class="whatwedo-image">
                                     <div>
-                                        <img alt="Wall Graphics" src="https://img.freepik.com/premium-photo/3d-abstract-colorful-tree-with-leaves-hanging-branches-illustration-background-generative-ai_884023-4218.jpg?w=740">
+                                        <img alt="Wall Graphics" src="img/home-ourProduct/10.jpg">
                                     </div>
                                     <h3>Wall Graphics</h3>
                                     <p>Custom wall graphics provide a uniquely per- sonalized touch to your space, showcasing an image of your choice printed on premium fabric seamlessly pasted onto your wall. At Iceil, we deliver a flawless, join-free solution using high-quality materials, elevating your environ- ment with elegance and transforming your space into a reflection of your style.</p>
@@ -146,7 +146,7 @@
                             <div class=" whatwedodiv">
                                 <a href="Mirror" class="whatwedo-image">
                                     <div>
-                                        <img src="img/home-image/Mirror Stretch Ceiling 1.jpeg" alt="Strech Ceiling">
+                                        <img src="img/home-ourProduct/7.png" alt="Strech Ceiling">
                                     </div>
                                     <h3>Mirror Ceiling</h3>
                                     <p>Mirror stretch ceilings not only enhance interior design by incorporating reflective surfaces but also visually expand spaces, creating a sleek and modern aesthetic. Achieving a mirror effect of 92-95% underscores its high reflectivity, re- sembling traditional mirrors closely.</p>
@@ -155,7 +155,7 @@
                             <div class="whatwedodiv">
                                 <a href="Metal" class="whatwedo-image">
                                     <div>
-                                        <img src="images/our-projects/75.jpeg" alt="LED" >
+                                        <img src="img/home-ourProduct/9.png" alt="LED" >
                                     </div>
                                     <h3>Metal Perforated </h3>
                                     <p>Metal perforated illuminated ceilings integrate lighting within panels, enhancing ambiance and providing efficient lighting distribution, acoustic benefits, and a contemporary look suitable for diverse applications. They combine functionality with aesthetics, offering a versatile solution for modern interior designs.</p>
