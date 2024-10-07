@@ -126,9 +126,9 @@
                     <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
                 </div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container stretch-div">
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-2">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;padding: 80px 0px 0px 0px;">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;">
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">3D Forms</span>
@@ -158,7 +158,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/02a.jpg" alt="" width="600" height="600" title="3D Forms" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img  src="img/drive-3d/02a.jpg" alt="" width="600"  title="3D Forms" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -172,20 +172,20 @@
                     <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
                 </div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column">
+                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column stretch-div">
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-3">
                             <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 60px 0px 0px;padding: 0px 0px 0px 0px;">
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/01.jpg" alt="3D Forms" width="600" height="600" title="3D Forms" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img  src="img/drive-3d/01.jpg" alt="3D Forms" width="600"  title="3D Forms" /></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-4">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 120px 0px 0px;padding: 105px 0px 0px 0px;">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 120px 0px 0px;">
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">3D Forms</span>
@@ -218,10 +218,10 @@
                     <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
                 </div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container stretch-div">
                        
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-2">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;padding: 80px 0px 0px 0px;">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;">
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">3D Forms</span>
@@ -249,7 +249,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/drive-3d/ST-FF-1024x1024 (1).jpg" alt="3D Forms" width="600" height="600" title="3D Forms" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img  src="img/drive-3d/ST-FF-1024x1024 (1).jpg" alt="3D Forms" width="600"  title="3D Forms" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -263,20 +263,20 @@
                     <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
                 </div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column">
+                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column stretch-div">
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-3">
                             <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 60px 0px 0px;padding: 0px 0px 0px 0px;">
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="img/threed/photo-studio/Bionic (3).jpeg" alt="3D Forms" width="600" height="600" title="3D Forms" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img  src="img/threed/photo-studio/Bionic (3).jpeg" alt="3D Forms" width="600"  title="3D Forms" /></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-4">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 120px 0px 0px;padding: 105px 0px 0px 0px;">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 120px 0px 0px;">
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px ;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">3D Forms</span>
@@ -310,16 +310,16 @@
             <!--gallery start-->
             <section class="gallery-section">
                 <div class="gallery-div row">
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/threed/blu/Radission Blu (7).jpeg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/threed/mysore/Lotus Energy (3).jpeg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/threed/photo-studio/Bionic (4).jpeg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/threed/theatre/Vijay Multiplex (6).jpg" alt="our works">
                     </div>
                 </div>

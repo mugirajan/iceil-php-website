@@ -162,22 +162,22 @@
             <!--gallery start-->
             <section class="gallery-section">
                 <div class="gallery-div row">
-                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-Printed-Stretch-Ceiling/WhatsApp Image 2024-04-13 at 13.46.11.jpeg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-Printed-Stretch-Ceiling/WhatsApp Image 2024-04-13 at 13.46.12 (1).jpeg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-Printed-Stretch-Ceiling/WhatsApp Image 2024-04-13 at 13.46.10.jpeg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-Printed-Stretch-Ceiling/WhatsApp Image 2024-04-13 at 13.46.12.jpeg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-Printed-Stretch-Ceiling/mgh-imaging-ceiling-1024x625-tbJylCkNU-transformed.png" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3 col-md-4 col-sm-12">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-Printed-Stretch-Ceiling/03-6 (1).jpg" alt="our works">
                     </div>
                 </div>

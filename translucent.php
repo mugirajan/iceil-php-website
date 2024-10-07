@@ -209,19 +209,19 @@
             <!--gallery start-->
             <section class="gallery-section">
                 <div class="gallery-div row">
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-translucent/3d6.jpg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-translucent/03 (1).jpg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-translucent/02a.jpg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-translucent/02.jpg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-translucent/Stretch-Ceilings-Ltd_Lighting-Solutions_Octavia-House_1200x800.jpg" alt="our works">
                     </div>
                 </div>

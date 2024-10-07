@@ -157,7 +157,7 @@
             <!--gallery start-->
             <section class="gallery-section">
                 <div class="gallery-div row">
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/drive-homepage/106.jpg" alt="our works">
                     </div>
                 </div>

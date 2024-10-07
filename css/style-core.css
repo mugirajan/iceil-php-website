@@ -11455,3 +11455,22 @@ box-shadow: 8px 8px 16px 2px #1b3e59
 .recentcomments a{
 	text-decoration: underline;
 }
+
+.stretch-image{
+	position: relative;
+	z-index: 44;
+}
+@media(min-width:700px){
+	.stretch-div{
+		display: flex;
+		flex-wrap: nowrap;
+		align-items: center;
+	}
+}
+@media(max-width:699px){
+	.stretch-div{
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+	}
+}

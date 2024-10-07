@@ -77,10 +77,10 @@
             <!--gallery start-->
             <section class="gallery-section">
                 <div class="gallery-div row">
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/Printed Stretch Ceiling/6th avenue/VI Avenue HQ (3).jpg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="img/Printed Stretch Ceiling/university/Hindustan (1).jpeg" alt="our works">
                     </div>
                 </div>

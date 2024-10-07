@@ -2713,6 +2713,9 @@ blockquote:after {
 	word-wrap: break-word;
 }
 
+.contact-ul li {
+	list-style-type: none;
+}
 .contact-sec .contact-ul i {
 	font-size: 18px;
 	padding: 10px;

@@ -75,14 +75,14 @@
             <!--intro  end-->
 
              <!--stretch image start-->
-             <div class="gdlr-core-pbf-wrapper ">
+            <div class="gdlr-core-pbf-wrapper ">
                 <div class="gdlr-core-pbf-background-wrap">
                     <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
                 </div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container stretch-div">
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-2">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;padding: 80px 0px 0px 0px;">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;">
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">Dual-Sheet Design</span>
@@ -110,7 +110,7 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="images/art-mirror-metal/Arktura-Vapor-Shift-x-torsion-elevator-lobby-1-scaled.jpg" alt="ART Perforated Ceiling" width="600" height="600" title="ART Perforated Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img src="images/art-mirror-metal/Arktura-Vapor-Shift-x-torsion-elevator-lobby-1-scaled.jpg" alt="ART Perforated Ceiling" width="600"  title="ART Perforated Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -124,20 +124,20 @@
                     <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
                 </div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column">
+                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container swap-mob-column stretch-div">
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-3">
                             <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 60px 0px 0px;padding: 0px 0px 0px 0px;">
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="images/art-mirror-metal/artceiling.jpg" alt="ART Perforated Ceiling" width="600" height="600" title="ART Perforated Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img  src="images/art-mirror-metal/artceiling.jpg" alt="ART Perforated Ceiling" width="600" title="ART Perforated Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-4">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 120px 0px 0px;padding: 105px 0px 0px 0px;">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 120px 0px 0px;">
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px "><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">Precision Cutting</span>
@@ -171,9 +171,9 @@
                     <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" ></div>
                 </div>
                 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                    <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container stretch-div">
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-2">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;padding: 80px 0px 0px 0px;">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 120px;">
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 17px;"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 21px ;font-style: normal ;margin-bottom: 2px ;">Durability</span>
@@ -190,9 +190,9 @@
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                             <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
                                                 <p>Holes of any size and shape remain intact over time without sagging or
-distortion, even under varying temperatures. <br>
-These ceilings offer a distinctive aesthetic and reliable performance, ideal for enhancing any space with artistic and ambient design. <br><br>
-Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining two stretch ceiling layer to create an eye-catching visual effect.</p>
+                            distortion, even under varying temperatures. <br>
+                            These ceilings offer a distinctive aesthetic and reliable performance, ideal for enhancing any space with artistic and ambient design. <br><br>
+                            Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining two stretch ceiling layer to create an eye-catching visual effect.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -204,7 +204,7 @@ Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining tw
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInRight" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-right-align" style="padding-bottom: 0px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img style="height:70vh" src="images/landing/iceil-landing/8.jpg" alt="ART Perforated Ceiling" width="600" height="600" title="ART Perforated Ceiling" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;max-width: 430px ;"><img src="images/art-mirror-metal/artperlg.jpg" alt="ART Perforated Ceiling" width="600"  title="ART Perforated Ceiling" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -216,13 +216,13 @@ Iceil Art Perforated Ceiling is an unique ambient ceiling solution, combining tw
             <!--gallery start-->
             <section class="gallery-section">
                 <div class="gallery-div row">
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="images/art-mirror-metal/artceiling1.jpg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="images/art-mirror-metal/Arktura-Vapor-Shift-x-torsion-elevator-lobby-1-scaled.jpg" alt="our works">
                     </div>
-                    <div class="gallery-sec col-lg-3">
+                    <div class="gallery-sec col-lg-3 col-md-6 col-sm-12">
                         <img src="images//art-mirror-metal/artper.jpg" alt="our works">
                     </div>
                 </div>
