@@ -123,17 +123,6 @@
                         </a>
                         <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/kauvery hospital.jpg" width="288" />
-                            </div>
-                            <div class="card-header-blog">
-                                <h3>Kauvery Hospital</h3>
-                            </div>
-                            <div class="card-body-blog">
-                                <P>Kaveri Hospital - 2800 sqft of Translucent and Printed Stretch Ceiling across multiple locations in Chennai, Bangalore and Tirunelveli.</P>
-                            </div>
-                        </a>
-                        <a class="card-of-blog second-row-card">
-                            <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/Sun Beam School.jpg" width="288" />
                             </div>
                             <div class="card-header-blog">
@@ -145,13 +134,13 @@
                         </a>
                         <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/DLF DownTown.jpg" width="288" />
+                                <img alt="our project"  src="images/project-page/DLF Lift lobby.jpg" width="288" />
                             </div>
                                 <div class="card-header-blog">
                                     <h3>DLF Downtown</h3>
                                 </div>
                                 <div class="card-body-blog">
-                                    <P>Total Area : 19,200 SQFT,  Translucent Stretch Ceiling on Lift Lobbies - 12,000 SQFT and Metal Perforated Ceiling in the Entrance Lobby - 7200 SQFT.                                    </P>
+                                    <P>DLF Downtown in Chennai of Translucent Stretch Ceiling on Lift Lobbies - 12,000 SQFT</P>
                                 </div>
                         </a>
                         <a class="card-of-blog second-row-card">
@@ -167,6 +156,17 @@
                         </a>
                         <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
+                                <img alt="our project"  src="images/project-page/kauvery hospital.jpg" width="288" />
+                            </div>
+                            <div class="card-header-blog">
+                                <h3>Kauvery Hospital</h3>
+                            </div>
+                            <div class="card-body-blog">
+                                <P>Kaveri Hospital - 2800 sqft of Translucent and Printed Stretch Ceiling across multiple locations in Chennai, Bangalore and Tirunelveli.</P>
+                            </div>
+                        </a>
+                        <a class="card-of-blog second-row-card">
+                            <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/GRT Radisson Blu.jpeg" width="288" />
                             </div>
                             <div class="card-header-blog">
@@ -177,6 +177,17 @@
                             </div>
                         </a>
                         <a class="card-of-blog second-row-card">
+                            <div class="card-hero card-partner-height">
+                                <img alt="our project"  src="images/project-page/world skill centre (1a).jpg" width="288" />
+                            </div>
+                            <div class="card-header-blog">
+                                <h3>World Skill Center</h3>
+                            </div>
+                            <div class="card-body-blog">
+                                <P>World Skill Center - Bhubaneswar - 2250 SQFT. Translucent Hexagon Panels - 1700 SQFT, Printed Stretch Ceiling in Board Room.</P>
+                            </div>
+                        </a>
+                        <a class="card-of-blog third-row-card">
                             <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/Rumours Bar (4).jpeg" width="288" />
                             </div>
@@ -189,14 +200,14 @@
                         </a>
                         <a class="card-of-blog third-row-card">
                             <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/world skill centre (1a).jpg" width="288" />
+                                <img alt="our project"  src="images/project-page/1.jpeg" width="288" />
                             </div>
-                            <div class="card-header-blog">
-                                <h3>World Skill Center</h3>
-                            </div>
-                            <div class="card-body-blog">
-                                <P>World Skill Center - Bhubaneswar - 2250 SQFT. Translucent Hexagon Panels - 1700 SQFT, Printed Stretch Ceiling in Board Room.</P>
-                            </div>
+                                <div class="card-header-blog">
+                                    <h3>DLF Downtown</h3>
+                                </div>
+                                <div class="card-body-blog">
+                                    <P>DLF Downtown in Chennai of metal perforated ceiling in the entrance lobby - 7200 SQFT</P>
+                                </div>
                         </a>
                         <a class="card-of-blog third-row-card">
                             <div class="card-hero card-partner-height">
