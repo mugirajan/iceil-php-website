@@ -1082,14 +1082,38 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	overflow: hidden;
 }
 
-.mry-project-slider-item .mry-project-frame .mry-cover-frame .mry-project-cover {
-	position: absolute;
-	z-index: 1;
-	top: 0;
-	right: 0;
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
+@media(min-width:799px){
+	.mry-project-slider-item .mry-project-frame .mry-cover-frame .mry-project-cover {
+		position: absolute;
+		z-index: 1;
+		top: 0;
+		right: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+}
+@media(max-width:599px){
+	.mry-project-slider-item .mry-project-frame .mry-cover-frame .mry-project-cover {
+		position: absolute;
+		z-index: 1;
+		top: 0;
+		right: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+}
+@media(min-width:600px) and (max-width:798px){
+	.mry-project-slider-item .mry-project-frame .mry-cover-frame .mry-project-cover {
+		position: absolute;
+		z-index: 1;
+		top: 0;
+		right: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: contain;
+	}
 }
 
 .mry-project-slider-item .mry-project-frame .mry-cover-frame .mry-project-cover.mry-position-center {
