@@ -1,8 +1,8 @@
 <?php
 include "./shared/header-top.php"
 ?>
-<title>ICeil</title>
-<meta name="description" content="Iceil Acoustic Stretch Ceiling combines sound-absorbing materials with a stretchable perforated fabric, effectively reducing noise levels while maintain- ing an ...">
+<title>stretch ceiling india| Stretch Ceiling Manufacturer| Iceil</title>
+<meta name="description" content="Iceil Systems is the best supplier of Stretch Ceiling in Chennai as we are known as the best Stretch Ceiling Manufacturer">
 <link rel="stylesheet" href="css/landing.css">
 <style>
 	@media(max-width:800px) {
