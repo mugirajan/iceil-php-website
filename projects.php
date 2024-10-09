@@ -134,7 +134,7 @@
                         </a>
                         <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/DLF Lift lobby.jpg" width="288" />
+                                <img alt="our project"  src="images/project-page/1.png" width="288" />
                             </div>
                                 <div class="card-header-blog">
                                     <h3>DLF Downtown</h3>
@@ -200,7 +200,7 @@
                         </a>
                         <a class="card-of-blog third-row-card">
                             <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/1.jpeg" width="288" />
+                                <img alt="our project"  src="images/project-page/1.png" width="288" />
                             </div>
                                 <div class="card-header-blog">
                                     <h3>DLF Downtown</h3>
