@@ -200,7 +200,7 @@
                         </a>
                         <a class="card-of-blog third-row-card">
                             <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/1.png" width="288" />
+                                <img alt="our project"  src="images/project-page/2.png" width="288" />
                             </div>
                                 <div class="card-header-blog">
                                     <h3>DLF Downtown</h3>
