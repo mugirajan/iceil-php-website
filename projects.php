@@ -123,17 +123,6 @@
                         </a>
                         <a class="card-of-blog second-row-card">
                             <div class="card-hero card-partner-height">
-                                <img alt="our project"  src="images/project-page/Sun Beam School.jpg" width="288" />
-                            </div>
-                            <div class="card-header-blog">
-                                <h3>Sunbeam School</h3>
-                            </div>
-                            <div class="card-body-blog">
-                                <P>Sunbeam School in Vellore, 800 SQFT Customized Architectural Lighting Solutions.</P>
-                            </div>
-                        </a>
-                        <a class="card-of-blog second-row-card">
-                            <div class="card-hero card-partner-height">
                                 <img alt="our project"  src="images/project-page/1.png" width="288" />
                             </div>
                                 <div class="card-header-blog">
@@ -232,425 +221,154 @@
                             <div class="row bulkimages">
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/1.jpg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/1.jpeg.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/2.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/02.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/3.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/3.jpeg.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/4.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/4.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/5.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/5.jpeg.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/6.jpg" width="100%"> 
+                                        <img alt="our project"  src="images/projects-latest/06.jpg" width="100%"> 
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/7.jpg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/07.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/8.jpg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/08.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/9.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/09.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/10.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/10.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/11.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/11.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/12.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/12.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/13.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/13.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/14.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/14.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/15.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/15.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/16.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/16.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/17.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/17.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/18.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/18.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/19.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/19.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/20.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/20.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/21.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/21.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/22.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/22.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/23.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/23.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/24.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/24.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/25.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/25.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/26.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/26.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/27.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/27.1.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/28.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/28.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/29.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/29.jpg" width="100%">
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 col-sm-12">
                                     <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/30.jpeg" width="100%">
+                                        <img alt="our project"  src="images/projects-latest/30.jpg" width="100%">
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/31.jpeg" width="100%"> 
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/32.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/33.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/34.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/35.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/36.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/37.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/1.png" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/39.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/40.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/41.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/42.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/43.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/44.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/45.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/2.png" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/47.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/48.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/49.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/50.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/51.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/52.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/53.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/54.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/55.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/56.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/57.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/58.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/59.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/60.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/61.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/62.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/63.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/64.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/65.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/66.jpg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/3.png" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/68.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/69.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/70.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/71.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/72.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/73.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/74.jpg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/75.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/76.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/77.jpeg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/78.jpeg"width="100%" >
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/79.jpg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/80.jpg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/81.jpg" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/4.png" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/ourprojectsmissingimages/5.png" width="100%">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-12">
-                                    <div class="w-100">
-                                        <img alt="our project"  src="images/our-projects/rechange.jpeg" width="100%">
-                                    </div>
-                                </div>
-
                             </div>
                         </div>
                     </div>
